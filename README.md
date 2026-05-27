@@ -48,7 +48,7 @@ PathOfBuildingCommunity-PoE2-Portable
 ```
 
 
-3. `PoB2-JP\PoB2-JP.exe` を起動します。
+4. `PoB2-JP\PoB2-JP.exe` を起動します。
 
 ---
 

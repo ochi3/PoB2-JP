@@ -1,0 +1,20 @@
+﻿Tip: Right click this socket to go to the items page and choose the jewel for this socket.,ヒント: このソケットを右クリックするとアイテムページへ移動し、このソケットに装着するジュエルを選択できます。
+Tip: Hold Shift or Ctrl to hide this tooltip.,ヒント: Shift または Ctrl を押している間、このツールチップを非表示にできます。
+Available Mastery node options are:,利用可能なマスタリーノードオプション:
+Tip: Right click to edit the tattoo for this node,ヒント: 右クリックでこのノードのタトゥーを編集できます。
+Reallocating this node will give you:,このノードを再割り当てすると得られるもの:
+Unallocating this node will give you:,このノードを割り当て解除すると得られるもの:
+This node is granted by an item. Removing it will give you:,このノードはアイテムにより付与されています。削除すると得られるもの:
+Allocating this node will give you:,このノードを割り当てると得られるもの:
+Unallocating this node and all nodes depending on it will give you:,このノードと、それに依存するすべてのノードを割り当て解除すると得られるもの:
+Allocating this node and all nodes leading to it will give you:,このノードと、そこへ到達するまでのすべてのノードを割り当てると得られるもの:
+This node is granted by an item. Removing it will cause no changes,このノードはアイテムにより付与されています。削除しても変化はありません。
+Tip: Press Ctrl+D to disable the display of stat differences.,ヒント: Ctrl+D でステータス差分表示を無効化できます。
+Tip: Press Ctrl+D to enable the display of stat differences.,ヒント: Ctrl+D でステータス差分表示を有効化できます。
+"Tip: To reach this node by a different path, hold Shift, then trace the path and click this node",ヒント: 別ルートでこのノードへ接続するには、Shift を押しながら経路をなぞってこのノードをクリックしてください。
+{0} points gained from unallocating these nodes,これらのノードを割り当て解除することで {0} ポイント獲得
+Tip: Hold Ctrl to hide this tooltip.,ヒント: Ctrl を押している間、このツールチップを非表示にできます。
+No changes from allocating this node.,このノードを割り当てても変化はありません。
+No changes from unallocating this node.,このノードを割り当て解除しても変化はありません。
+No changes from allocating this node or the nodes leading to it.,このノード、またはそこへ至るノードを割り当てても変化はありません。
+No changes from unallocating this node or the nodes leading to it.,このノード、またはそこへ至るノードを割り当て解除しても変化はありません。

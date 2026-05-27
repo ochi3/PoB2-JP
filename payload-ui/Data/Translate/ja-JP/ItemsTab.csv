@@ -1,0 +1,124 @@
+﻿Item set:,アイテムセット:
+Manage...,管理...
+Trade for these items,これらのアイテムを検索
+Contains searches from the official trading site to help find,公式トレードサイト検索を含み、見つけやすくします
+similar or better items for this build,このビルド向けの類似またはより良いアイテム
+Passive tree:,パッシブツリー:
+Equipped items:,装備中アイテム:
+Weapon Set:,武器セット:
+Import from:,インポート元:
+Uniques,ユニークs
+Rare Templates,レアテンプレート
+Craft item...,Craft アイテム...
+Create custom...,カスタム作成...
+"Double-click an item from one of the lists,",リストのアイテムをダブルクリックすると、
+or copy and paste an item from in game,またはゲーム内からアイテムをコピー＆ペースト
+(hover over the item and Ctrl+C) to view or edit,（アイテムにカーソルを合わせて Ctrl+C）で表示または編集
+the item and add it to your build. You can ,アイテムをビルドに追加します。また、
+also clone an item within Path of Building by ,また、Path of Building 内でアイテムを複製するには 
+copying and pasting it with Ctrl+C and Ctrl+V.,Ctrl+C と Ctrl+V でコピー＆ペーストできます。
+"You can Control + Click an item to equip it, or ",Ctrl + クリックでアイテムを装備できます。または 
+drag it onto the slot.  This will also add it to ,それをスロットへドラッグしてください。これにより、次にも追加されます 
+your build if it's from the unique/template list.,ユニーク／テンプレート一覧のものであれば、ビルドに追加されます。
+"If there's 2 slots an item can go in, ",アイテムを装備できるスロットが2つある場合、
+holding Shift will put it in the second.,Shift を押しながら行うと、2つ目に配置されます。
+Add to build,ビルドに追加
+Edit...,編集...
+Apply Enchantment...,エンチャント適用...
+Apply Enchantment 2...,エンチャント適用2...
+Anoint...,アノイント...
+Anoint 2...,アノイント2...
+Anoint 3...,アノイント3...
+Anoint 4...,アノイント4...
+Corrupt...,コラプト...
+Add Implicit...,暗黙Modを追加...
+Catalyst,カタリスト
+Abrasive (Attack),品質（アタック）
+Accelerating (Speed),品質（スピード）
+Fertile (Life & Mana),Fertile (ライフ & マナ)
+Imbued (Caster),注入済み（キャスター）
+Intrinsic (Attribute),品質 (能力値)
+Noxious (Physical & Chaos),品質 (物理 & 混沌)
+Prismatic (Resistance),品質 (耐性)
+Tempering (Defense),品質（防御）
+Turbulent (Elemental),Turbulent (属性)
+Unstable (Critical),Unstable (クリティカル)
+Quality,品質
+Added Passives:,追加パッシブ:
+Affix,接頭/接尾
+Level,レベル
+Tags,タグ
+Add modifier...,MOD追加...
+Adding this mod will give: ,このModを追加すると: 
+New Item,新規アイテム
+Manage Item Sets,アイテムセットを管理
+The item is invalid.,このアイテムは無効です。
+Check that the item's title and base name are in the correct format.,アイテム名とベース名の形式が正しいか確認してください。
+"For Rare and Unique items, the first 2 lines must be the title and base name. E.g.:",レアおよびユニークアイテムの場合、最初の2行は名称とベース名である必要があります。例:
+"For Normal and Magic items, the base name must be somewhere in the first line. E.g.:",ノーマルおよびマジックアイテムの場合、ベース名は1行目のどこかに含まれている必要があります。例:
+Craft Item,アイテムクラフト
+Edit Item Text,アイテムテキスト編集
+Create Custom Item from Text,テキストからカスタムアイテム作成
+Skill:,スキル:
+All Skills:,全スキル:
+"Show all skills, not just those used by this build.",このビルドで使用されているものだけでなく、すべてのスキルを表示する。
+Enchant Item,エンチャント
+Heist,ハイスト
+Harvest,ハーベスト
+No Anoint,アノイントなし
+Anoint Item,アノイント
+Scourge,スカージ
+Corrupted Item,コラプトアイテム
+Veiled,ヴェール
+Add Modifier to Item,MODをアイテムに追加
+Add Implicit to Item,アイテムに暗黙Modを追加
+Fractured Item,フラクチャーアイテム
+Synthesised Item,シンセシスアイテム
+Elemental DPS,エレメンタルDPS
+Attacks per Second,秒間攻撃回数
+Weapon Range,武器射程
+Chance to Block,ブロック率
+Evasion Rating,回避値
+Ward,ワード
+Recovers {0} Life instantly,{0}の体力を即座に回復する
+Recovers {0} Mana instantly,{0}のマナを即座に回復する
+Limited to,制限:
+Radius,範囲
+Large,ラージ
+Medium,ミディアム
+Small,スモール
+Attributes in Radius,範囲内能力値
+Split,スプリット
+Flask effect modifier: {0}%,フラスコ効果倍率: {0}%
+Charge gain modifier: {0}%,チャージ獲得倍率: {0}%
+Charges generated: {0} per second,1秒ごとのチャージ生成: {0}
+Chance to not consume charges: {0}%,チャージを消費しない確率: {0}%
+"Flask uptime: {0}% average, {1}% minimum",フラスコ稼働率: 平均 {0}% / 最低 {1}%
+Flask uptime: {0}%,フラスコ稼働率: {0}%
+Effective flask stats:,実効フラスコ性能:
+Deactivating this flask will give you:,このフラスコを無効化すると次の効果を得ます:
+Activating this flask will give you:,このフラスコを有効化すると:
+Equipping this item in Socket {0} will give you:,このアイテムをソケット {0} に装備すると、以下を得ます:
+Removing this item from Socket {0} will give you:,「ソケット {0}」からこのアイテムを取り外すと:
+Equipping this item in Weapon {0} will give you:,このアイテムを武器 {0} に装備すると、以下を得ます:
+Removing this item from Weapon {0} will give you:,「武器 {0}」からこのアイテムを取り外すと:
+Equipping this item in Ring {0} will give you:,このアイテムをリング {0} に装備すると、以下を得ます:
+Removing this item from Ring {0} will give you:,「リング {0}」からこのアイテムを取り外すと:
+Equipping this item in Belt will give you:,このアイテムをベルトに装備すると、以下を得ます:
+Removing this item from Belt will give you:,「ベルト」からこのアイテムを取り外すと:
+Equipping this item in Amulet will give you:,このアイテムをアミュレットに装備すると、以下を得ます:
+Removing this item from Amulet will give you:,「アミュレット」からこのアイテムを取り外すと:
+Equipping this item in Boots will give you:,このアイテムをブーツに装備すると、以下を得ます:
+Removing this item from Boots will give you:,「靴」からこのアイテムを取り外すと:
+Equipping this item in Helmet will give you:,このアイテムをヘルメットに装備すると、以下を得ます:
+Removing this item from Helmet will give you:,「頭」からこのアイテムを取り外すと:
+Equipping this item in Body Armour will give you:,このアイテムを胴体防具に装備すると、以下を得ます:
+Removing this item from Body Armour will give you:,「ボディアーマー」からこのアイテムを取り外すと:
+Equipping this item in Gloves will give you:,このアイテムをグローブに装備すると、以下を得ます:
+Removing this item from Gloves will give you:,「手袋」からこのアイテムを取り外すと:
+replacing,置き換え
+ Custom:, カスタム:
+Activating this charm will give you:,このチャームを有効化すると得られるもの:
+Deactivating this charm will give you:,このチャームを無効化すると得られるもの:
+Removing this item from ,このアイテムを外す: 
+Socket #,ソケット #

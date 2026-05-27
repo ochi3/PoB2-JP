@@ -1,0 +1,29 @@
+﻿Unbuffed,バフなし
+Buffed,バフあり
+In Combat,戦闘中
+Effective DPS,実効DPS
+View Skill Details:,スキル詳細表示
+Socket Group:,ソケットグループ:
+Active Skill:,アクティブスキル:
+Skill Part:,スキルパート:
+Skill Stages:,スキルステージ:
+Active Mines:,アクティブマイン:
+Show Minion Stats:,ミニオンステータス表示:
+Show stats for the minion instead of the player.,プレイヤーではなくミニオンのステータスを表示します。
+Minion:,ミニオン:
+Spectre Library:,スペクターライブラリ:
+Manage Spectres...,スペクターを管理...
+Minion Skill:,ミニオンスキル:
+Calculation Mode:,計算モード:
+This controls the calculation of the stats shown in this tab.,このタブで表示されるステータスの計算方法を制御します。
+"The stats in the sidebar are always shown in Effective DPS mode, regardless of this setting.",サイドバーのステータスは、この設定に関係なく常に実効DPSモードで表示されます。
+"Unbuffed: No auras, buffs, or other support skills or effects will apply. This is equivalent to standing in town.",非バフ状態: オーラ、バフ、その他のサポートスキルや効果は適用されません。これは街に立っている状態と同等です。
+Buffed: Aura and buff skills apply. This is equivalent to standing in your hideout with auras and buffs turned on.,バフあり: オーラやバフスキルを適用します。隠れ家でオーラやバフを有効にした状態と同等です。
+In Combat: Charges and combat buffs such as Onslaught will also apply. This will show your character sheet stats in combat.,戦闘中: チャージやオンスロートなどの戦闘バフも適用します。戦闘時のキャラクターステータスを表示します。
+Effective DPS: Curses and enemy properties (such as resistances and status conditions) will also apply. This estimates your true DPS.,実効DPS: 呪いや敵の特性（耐性や状態異常など）も適用されます。実際のDPSに近い値を推定します。
+Aura and Buff Skills:,オーラ・バフスキル:
+Combat Buffs:,戦闘バフ:
+Curses and Debuffs:,呪いとデバフ:
+Beast Library,ビーストライブラリ
+Stat Set,ステータスセット
+"Unbuffed: No auras, buffs, or other support skills or effects will apply. This is街にいる状態と同等です。",バフなし: オーラ・バフ・その他の補助スキルや効果を適用しません。街にいる状態と同等です。

@@ -1,0 +1,75 @@
+﻿Have you used a Fire Skill in the past 10s?,Have you used a Fire Skill in the past 10s?
+Have you used a Cold Skill in the past 10s?,Have you used a Cold Skill in the past 10s?
+Have you used a Light. Skill in the past 10s?,Have you used a Light. Skill in the past 10s?
+Blocked hit from a Unique Recently?,Blocked hit from a Unique Recently?
+ES % Cost:,ES % Cost:
+Avoid Projectiles Ch.:,Avoid Projectiles Ch.:
+Physical Hit/DoT:,Physical Hit/DoT:
+Fire Hit/DoT:,Fire Hit/DoT:
+Cold Hit/DoT:,Cold Hit/DoT:
+Lightning Hit/DoT:,Lightning Hit/DoT:
+Chaos Hit/DoT:,Chaos Hit/DoT:
+Mind over Matter:,Mind over Matter:
+Curse Effect:,Curse Effect:
+x {0} (chance to deal double damage),x {0} (chance to deal double damage)
+x {0} (mana cost multiplier),x {0} (mana cost multiplier)
+"this will lessen the enemy's chance to hit, and thereby increase your evade chance.","this will lessen the enemy's chance to hit, and thereby increase your evade chance."
+This also implies that the enemy is Chilled.,This also implies that the enemy is Chilled.
+this will apply Shock's Damage Taken modifier to the enemy.,this will apply Shock's Damage Taken modifier to the enemy.
+This adds the following modifiers:,This adds the following modifiers:
+10% increased Damage Taken by enemy,10% increased Damage Taken by enemy
+10% increased Attack Damage Taken by enemy,10% increased Attack Damage Taken by enemy
+10% increased Spell Damage Taken by enemy,10% increased Spell Damage Taken by enemy
+20% less enemy Movement Speed,20% less enemy Movement Speed
+20% increased Fire Damage Taken by enemy,20% increased Fire Damage Taken by enemy
+Your enemy will automatically be considered to be Unique if one of the Boss options is selected.,Your enemy will automatically be considered to be Unique if one of the Boss options is selected.
+Shaper/Guardian adds the following modifiers:,Shaper/Guardian adds the following modifiers:
+Shaper/Guardian,Shaper/Guardian
+50% less Duration of Bleed,50% less Duration of Bleed
+50% less Duration of Poison,50% less Duration of Poison
+50% less Duration of Ignite,50% less Duration of Ignite
+used in-game to calculate the stats on the character sheet.,used in-game to calculate the stats on the character sheet.
+Enemy Physical Hit Damage:,Enemy Physical Hit Damage:
+This overrides the default damage amount used to estimate your physical damage reduction from armour.,This overrides the default damage amount used to estimate your physical damage reduction from armour.
+or copy and paste an item from in game (hover over the item and Ctrl+C),or copy and paste an item from in game (hover over the item and Ctrl+C)
+to view or edit the item and add it to your build.,to view or edit the item and add it to your build.
+This will also add it to your build if it's from the unique/template list.,This will also add it to your build if it's from the unique/template list.
+"If there's 2 slots an item can go in, holding Shift will put it in the second.","If there's 2 slots an item can go in, holding Shift will put it in the second."
+"You can Control + Click an item to equip it, or drag it onto the slot.","You can Control + Click an item to equip it, or drag it onto the slot."
+^x7F7F7FSockets: ,^x7F7F7FSockets: 
+^x7F7F7FQuality: ,^x7F7F7FQuality: 
+^x7F7F7FArmour: ,^x7F7F7FArmour: 
+^x7F7F7FEvasion Rating: ,^x7F7F7FEvasion Rating: 
+^x7F7F7FCritical Strike Chance: ,^x7F7F7FCritical Strike Chance: 
+^x7F7F7FAttacks per Second: ,^x7F7F7FAttacks per Second: 
+^x7F7F7FWeapon Range: ,^x7F7F7FWeapon Range: 
+^x7F7F7FChance to Block: ,^x7F7F7FChance to Block: 
+^x7F7F7FPhysical Damage: ,^x7F7F7FPhysical Damage: 
+^x7F7F7FElemental Damage: ,^x7F7F7FElemental Damage: 
+^x7F7F7FElemental DPS: ,^x7F7F7FElemental DPS: 
+^x7F7F7FChaos Damage: ,^x7F7F7FChaos Damage: 
+^x7F7F7FTotal DPS: ,^x7F7F7FTotal DPS: 
+^x7F7F7FLevel:,^x7F7F7FLevel:
+^x7F7F7FMana Multiplier:,^x7F7F7FMana Multiplier:
+^x7F7F7FMana Cost:,^x7F7F7FMana Cost:
+^x7F7F7FCast Time:,^x7F7F7FCast Time:
+^x7F7F7FMana Reserved:,^x7F7F7FMana Reserved:
+^x7F7F7FCooldown Time:,^x7F7F7FCooldown Time:
+^x7F7F7FEffectiveness of Added Damage:,^x7F7F7FEffectiveness of Added Damage:
+^x7F7F7FLimited to: ,^x7F7F7FLimited to: 
+^x7F7F7FRadius: ^7Large,^x7F7F7FRadius: ^7Large
+^x7F7F7FRadius: ^7Medium,^x7F7F7FRadius: ^7Medium
+^x7F7F7FRadius: ^7Small,^x7F7F7FRadius: ^7Small
+^x7F7F7FEnergy Shield: ,^x7F7F7FEnergy Shield: 
+x {0} leech rate modifier,x {0} leech rate modifier
+x 0.20 (poison deals 20% per second),x 0.20 (poison deals 20% per second)
+/ %.2f (burn rate modifier),/ %.2f (burn rate modifier)
+x 0.5 (ignite deals 50% per second),x 0.5 (ignite deals 50% per second)
+Are you against Damage over Time?,Are you against Damage over Time?
+Warcry calculation mode:,Warcry calculation mode:
+Super Chance:,Super Chance:
+"Is Ngamahu, Flame's Advance active?","Is Ngamahu, Flame's Advance active?"
+Total DPS,合計DPS
+Average Dmg. inc. Poison:,Average Dmg. inc. Poison:
+Capped to 1 poison:,Capped to 1 poison:
+Did you Chill yourself?,Did you Chill yourself?

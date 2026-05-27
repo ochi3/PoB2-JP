@@ -1,0 +1,50 @@
+﻿Character Import,キャラクターインポート
+Character import status: Idle,キャラクターインポート状態: 待機中
+Character import status: Sign-in is required.,キャラクターインポート状態: サインインが必要です。
+Character import status: Account profile is private.,キャラクターインポート状態: アカウントプロフィールが非公開です。
+Character import status: Account name is incorrect.,キャラクターインポート状態: アカウント名が正しくありません。
+"Character import status: Error processing character list, try again later",キャラクターインポート状態: キャラクター一覧の処理中にエラーが発生しました。後でもう一度お試しください。
+Character import status: The account has no characters to import.,キャラクターインポート状態: このアカウントにはインポート可能なキャラクターがありません。
+Character import status: Failed to retrieve character list.,キャラクターインポート状態: キャラクター一覧の取得に失敗しました。
+Character import status: Retrieving character list...,キャラクターインポート状態: キャラクター一覧を取得中...
+Character import status: Character list successfully retrieved.,キャラクターインポート状態: キャラクター一覧の取得に成功しました。
+Character import status: Retrieving character items...,キャラクターインポート状態: キャラクターのアイテムを取得中...
+Character import status: Items and skills successfully imported.,キャラクターインポート状態: アイテムとスキルのインポートに成功しました。
+Character import status: Retrieving character passive tree...,キャラクターインポート状態: キャラクターのパッシブツリーを取得中...
+Character import status: Passive tree and jewels successfully imported.,キャラクターインポート状態: パッシブツリーとジュエルのインポートに成功しました。
+"To start importing a character, enter the character's account name:",キャラクターのインポートを開始するには、キャラクターのアカウント名を入力してください:
+Removes account from the dropdown list,ドロップダウンリストからアカウントを削除
+"Note: if the account name contains non-ASCII characters it must be pasted into the textbox,",注: アカウント名に非ASCII文字が含まれている場合は、テキストボックスへ貼り付ける必要があります。
+not typed manually.,手動入力されたものではありません。
+Privacy Settings,プライバシー設定
+Choose character to import data from:,データをインポートするキャラクターを選択:
+League:,リーグ:
+Import:,インポート:
+Passive Tree and Jewels,パッシブツリーとジュエル
+Importing the passive tree will overwrite your current tree.,パッシブツリーをインポートすると現在のツリーが上書きされます。
+Delete jewels:,ジュエルを削除:
+Delete all existing jewels when importing.,インポート時に既存のジュエルをすべて削除
+Items and Skills,アイテムとスキル
+Delete skills:,スキルを削除:
+Delete all existing skills when importing.,インポート時に既存のスキルをすべて削除
+Delete equipment:,装備を削除:
+Delete all equipped items when importing.,インポート時に装備中のアイテムをすべて削除
+Ignore weapon swap:,武器スワップを無視:
+Ignore items and skills in weapon swap.,武器スワップ中のアイテムとスキルを無視する。
+"Tip: After you finish importing a character, make sure you update the bandit choice,",ヒント: キャラクターのインポート完了後、盗賊の選択を更新してください。
+as it cannot be imported.,インポートできないためです。
+Build Sharing,ビルド共有
+Generate a code to share this build with other Path of Building users:,他のPath of Buildingユーザーと共有するコードを生成:
+Export Support,サポートをエクスポート
+"This is for party play, to export support character, it enables the exporting of auras, curses and modifiers to the enemy",これはパーティプレイ用です。サポートキャラクターをエクスポートする際、オーラ・呪い・敵への補正をエクスポートできるようにします。
+Code,コード
+Share,共有
+Creating link...,リンク作成中...
+Note: this code can be very long; you can use 'Share' to shrink it.,注: このコードは非常に長くなる場合があります。「共有」を使って短縮できます。
+"To import a build, enter URL or code here:",ビルドをインポートするには、ここにURLまたはコードを入力してください:
+Code is valid,コードは有効です
+Build Import,ビルドインポート
+Warning: Importing to the current build will erase ALL existing data for this build.,警告: 現在のビルドへインポートすると、このビルドの既存データはすべて削除されます。
+Import to this build,このビルドへインポート
+Import to a new build,新しいビルドへインポート
+Retrieving paste..,Pasteを取得中...

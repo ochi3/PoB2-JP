@@ -1,0 +1,76 @@
+﻿Update Ready,更新準備完了
+Update check failed!,更新確認に失敗しました!
+No update available,利用可能な更新はありません
+You are running the latest version.,最新バージョンを使用しています。
+Update Available,更新があります
+An update has been downloaded and is ready,更新がダウンロードされ、適用可能です
+to be applied.,適用されます。
+Build List,ビルド一覧
+.*No such file or directory,.*ファイルまたはディレクトリが存在しません
+Application options,アプリケーション設定
+Connection Protocol:,接続プロトコル:
+Changes which protocol is used when downloading updates and importing builds.,更新のダウンロードおよびビルドのインポートに使用するプロトコルを変更します。
+Auto,自動
+Proxy server:,プロキシサーバー:
+UI scaling override:,UIスケール上書き:
+Overrides Windows DPI scaling inside Path of Building.,Path of Building 内の Windows DPI スケーリングを上書きします。
+Choose a percentage between 100% and 250% or revert to the system default.,100%〜250% の範囲で指定するか、システム既定値に戻せます。
+Build save path:,ビルド保存パス:
+Overrides the default save location for builds.,ビルドの既定保存場所を上書きします。
+Node Power colours:,ノードパワー色:
+Changes the colour scheme used for the node power display on the passive tree.,パッシブツリー上のノードパワー表示に使用する配色を変更します。
+Red & Blue,赤 & 青
+Red & Green,赤 & 緑
+Green & Blue,緑 & 青
+Hex colour for positive values:,正の値のカラー:
+Overrides the default hex colour for positive values in breakdowns. ,内訳表示における正の値のデフォルトカラーを上書きします。
+Expected format is 0x000000. The default value is 0x33FF77.,形式は 0x000000 です。デフォルト値は 0x33FF77 です。
+"If updating while inside a build, please re-load the build after saving.",ビルドを開いた状態で更新した場合は、保存後にビルドを再読み込みしてください。
+Hex colour for negative values:,負の値のカラー:
+Overrides the default hex colour for negative values in breakdowns. ,内訳表示における負の値のデフォルトカラーを上書きします。
+Expected format is 0x000000. The default value is 0xDD0022.,形式は 0x000000 です。デフォルト値は 0xDD0022 です。
+Hex colour for highlight nodes:,ハイライトノード色:
+Overrides the default hex colour for highlighting nodes in passive tree search. ,パッシブツリー検索でノードを強調表示する際のデフォルトカラーを上書きします。
+Expected format is 0x000000. The default value is 0xFF0000.,形式は 0x000000 です。デフォルト値は 0xFF0000 です。
+Opt-in to weekly beta test builds:,毎週のベータテストビルドに参加:
+Show search circles at viewport edge,画面端に検索サークルを表示
+Show Latest/Trending builds:,最新/人気ビルドを表示:
+Styled Tooltips with Flavour Text:,フレーバーテキスト付きツールチップ:
+Show Animations:,アニメーション表示:
+Show all item affixes sliders:,すべてのアイテム接辞スライダーを表示:
+Display all item affix slots as a stacked list instead of hiding them in dropdowns,アイテム接辞スロットをドロップダウンに隠さず一覧表示する
+Build-related options,ビルド関連オプション
+Show thousands separators:,桁区切りを表示:
+Thousands separator:,桁区切り:
+Decimal separator:,小数点区切り:
+Show build name in window title:,ウィンドウタイトルにビルド名を表示:
+Set the default quality that can be overwritten by build-related quality settings in the skill panel.,スキルパネル内のビルド関連品質設定で上書き可能なデフォルト品質を設定します。
+"Set the default level of your builds. If this is higher than 1, manual level mode will be enabled by default in new builds.",ビルドのデフォルトレベルを設定します。1より大きい場合、新しいビルドでは手動レベルモードがデフォルトで有効になります。
+Default character level:,デフォルトキャラクターレベル:
+Default item affix quality:,デフォルトのアイテム接辞品質:
+Show build warnings:,ビルド警告を表示:
+Show tooltips only for affected slots:,影響を受けるスロットのみツールチップを表示:
+"Shows comparisons in tooltips only for the slot you are currently placing the item in, instead of all slots.",すべてのスロットではなく、現在アイテムを配置しているスロットに対してのみツールチップ比較を表示します。
+Copy Eldritch Implicits onto Display Item:,表示アイテムへエルドリッチ暗黙Modをコピー:
+"Apply Eldritch Implicits from current gear when comparing new gear, given the new item doesn't have any influence",新しい装備に影響力が無い場合、比較時に現在装備中のエルドリッチ暗黙Modを適用
+Show tooltip for unsupported mods :,未対応Modのツールチップを表示:
+Show (Not supported in PoB yet) next to unsupported mods,未対応Modの横に「(PoBでは未対応)」を表示
+Invert slider scroll direction:,スライダースクロール方向を反転:
+Default scroll direction is:,デフォルトのスクロール方向:
+Scroll Up = Move right,上スクロール = 右へ移動
+Scroll Down = Move left,下スクロール = 左へ移動
+About,概要
+ Error , エラー 
+Scroll Up = Move right,上スクロール = 右移動
+Scroll Down = Move left,下スクロール = 左移動
+Do not Autosave builds while on Dev branch,Dev ブランチではビルドを自動保存しない
+Choose a percentage between 100% and 250% or revert to the system default.,100%〜250% の範囲で指定するか、システム既定値へ戻せます。
+Overrides the default hex colour for highlighting nodes in passive tree search. ,パッシブツリー検索でノードを強調表示する際のデフォルト16進カラーコードを上書きします。
+Expected format is 0x000000. ,形式は 0x000000 です。
+Overrides the default hex colour for negative values in breakdowns. ,内訳表示における負の値のデフォルト16進カラーコードを上書きします。
+Overrides the default hex colour for positive values in breakdowns. ,内訳表示における正の値のデフォルト16進カラーコードを上書きします。
+The default location is: ',既定の場所: '
+Set the default quality that will be applied to newly created or pasted items.,新規作成または貼り付けされたアイテムへ適用するデフォルト品質を設定します。
+Show (Not supported in PoB yet) next to unsupported mods,未対応Modの横に「PoBではまだ未対応」と表示します
+Requires PoB to restart for it to take effect,適用には PoB の再起動が必要です
+Use system default,システム既定値を使用

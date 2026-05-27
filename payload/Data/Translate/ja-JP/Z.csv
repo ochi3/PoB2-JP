@@ -1,0 +1,123 @@
+﻿##statDescriptions修正##,##statDescriptions修正##
+Monsters have {0}% increased Area of Effect,モンスターの効果範囲が{0}%増加する
+Monsters have {0}% reduced Area of Effect,モンスターの効果範囲が{0}%減少する
+{0}% increased Reflected Physical Damage taken,反射により受ける物理ダメージが{0}%増加する
+{0}% reduced Reflected Physical Damage taken,反射により受ける物理ダメージが{0}%減少する
+Right ring slot: {0}% increased Reflected Physical Damage taken,Right ring slot: {0}% increased Reflected Physical Damage taken
+Right ring slot: {0}% reduced Reflected Physical Damage taken,Right ring slot: {0}% reduced Reflected Physical Damage taken
+{0}% to Critical Strike Multiplier per {1} Strength on Unallocated Passives in Radius,{0}% to Critical Strike Multiplier per {1} Strength on Unallocated Passives in Radius
+{0}% increased Attack Speed while Leeching,リーチ中はアタックスピードが{0}%増加する
+{0}% reduced Attack Speed while Leeching,リーチ中はアタックスピードが{0}%減少する
+Cannot be Stunned while Leeching,リーチ中はスタンを受けることがない
+Removes Elemental Ailments when you use a Flask,フラスコ使用した時に元素系状態異常を取り除く
+Adds {0} to {1} Physical Damage to Attacks and Spells per Siphoning Charge,サイフォニングチャージ1個ごとに{0}から{1}の物理ダメージをアタックおよびスペルに追加する
+Enemies Taunted by you cannot Evade Attacks,プレイヤーにより挑発された敵はアタックを回避することができない
+Gain a Void Charge every second,1秒ごとにヴォイドチャージを1個獲得する
+Gain a Void Charge every {0} seconds,{0}秒ごとにヴォイドチャージを1個獲得する
+{0}% increased Physical Damage over Time taken while moving,移動中は受ける物理継続ダメージが{0}%増加する
+Impales you inflict last {0} additional Hits while using Pride,プライドを使用中にプレイヤーが付与した串刺しは追加でヒット{0}回分持続する
+Remove a Curse when you use a Mana Flask,マナフラスコ使用した時に呪いを取り除く
+Remove a random Elemental Ailment when you use a Mana Flask,マナフラスコ使用した時に元素系状態異常をランダムに1個取り除く
+Arcane Surge grants {0}% increased Cast Speed,Arcane Surge grants {0}% increased Cast Speed
+Minions deal {0}% more Damage,モンスターのダメージが{0}%上昇する
+Minions deal {0}% less Damage,モンスターのダメージが{0}%低下する
+Strength's Damage bonus applies to Projectile Attack Damage as well for Supported Skills,Strength's Damage bonus applies to Projectile Attack Damage as well for Supported Skills
+Consecrated Ground you create causes Life Regeneration to,Consecrated Ground you create causes Life Regeneration to
+also Recover Energy Shield for you and Allies,also Recover Energy Shield for you and Allies
+Ring has {0}% chance to Shock,稲妻の輪は{0}%の確率で感電を付与する
+{0}% of Physical Damage Converted to Lightning Damage while sphere is Shocked or Sapped,{0}% of Physical Damage Converted to Lightning Damage while sphere is Shocked or Sapped
+"Every {1} seconds, gain {0}% of Physical Damage","Every {1} seconds, gain {0}% of Physical Damage"
+Skills Reserve Life instead of Mana,スキルはマナの代わりにライフをリザーブする
+Skills that have dealt a Critical Strike in the past {0} seconds deal {1}% more Elemental Damage with Hits and Ailments,Skills that have dealt a Critical Strike in the past {0} seconds deal {1}% more Elemental Damage with Hits and Ailments
+Take {0}% less Damage over Time if you've started taking Damage over Time in the past second,Take {0}% less Damage over Time if you've started taking Damage over Time in the past second
+Explosion deals {0}% more Damage with Hits per Explosive Arrow on Target,対象が受けているエクスプローシブアローごとに爆発のヒットによるダメージが{0}%上昇する
+Consumes {0} Charge from {1} Life Flask,Consumes {0} Charge from {1} Life Flask
+Consumes {0} Charges from {1} Life Flask,Consumes {0} Charges from {1} Life Flask
+You have {0} Fortification,プレイヤーは堅牢化{0}スタックを持つ
+{0} to maximum Fortification,最大堅牢化数 {0}
+{0}% chance to Suppress Spell Damage per Fortification,堅牢化1スタックごとにスペルダメージ抑制確率 {0}%
+Nearby Enemies have {0}% increased Life Regeneration Rate,近くの敵のライフ自動回復レートが{0}%増加する
+Nearby Enemies have {0}% reduced Life Regeneration Rate,Nearby Enemies have {0}% reduced Life Regeneration Rate
+Mana Recovery from Regeneration is not applied,自動回復によるマナ回復は適用されない
+{0}% chance to Avoid being Ignited while on Low Life,低ライフ時に{0}%の確率で発火を無効化する
+Minions have {0}% increased Attack Speed when on Low Life,Minions have {0}% increased Attack Speed when on Low Life
+Minions have {0}% reduced Attack Speed when on Low Life,Minions have {0}% reduced Attack Speed when on Low Life
+Minions have {0}% increased Cast Speed when on Low Life,Minions have {0}% increased Cast Speed when on Low Life
+Minions have {0}% reduced Cast Speed when on Low Life,Minions have {0}% reduced Cast Speed when on Low Life
+This Attack and Minions have {0}% increased Attack Speed when on Low Life,This Attack and Minions have {0}% increased Attack Speed when on Low Life
+This Attack and Minions have {0}% reduced Attack Speed when on Low Life,This Attack and Minions have {0}% reduced Attack Speed when on Low Life
+This Spell and Minions have {0}% increased Cast Speed when on Low Life,This Spell and Minions have {0}% increased Cast Speed when on Low Life
+This Spell and Minions have {0}% reduced Cast Speed when on Low Life,This Spell and Minions have {0}% reduced Cast Speed when on Low Life
+Buff grants {0}% more Cleave Damage with Hits and Ailments to Enemies that are on Low Life,Buff grants {0}% more Cleave Damage with Hits and Ailments to Enemies that are on Low Life
+Chaos Damage taken does not bypass Energy Shield while not on Low Life,低ライフ状態でない時に受けた混沌ダメージはエナジーシールドをバイパスしない
+Dread Banner grants an additional {0} to maximum Fortification when placing the Banner,Dread Banner grants an additional {0} to maximum Fortification when placing the Banner
+Life Recovery from Regeneration is not applied,自動回復によるライフ回復は適用されない
+Regenerate {0} Life per Second while on Low Life,低ライフ時に毎秒{0}のライフを自動回復する
+{0}% increased Cast Speed while affected by Zealotry,ゼロトリーの影響を受けている時にキャストスピードが{0}%増加する
+{0}% increased Evasion Rating per Green Socket on Main Hand Weapon,メインハンドの武器の緑ソケット1個ごとに回避力が{0}%増加する
+{0}% reduced Evasion Rating per Green Socket on Main Hand Weapon,メインハンドの武器の緑ソケット1個ごとに回避力が{0}%減少する
+{0} to Accuracy Rating per Green Socket on Equipped Bow,装備中の弓にある緑ソケット1個ごとに命中力 {0}
+Marked Enemy cannot Regenerate Life,呪印を付与された敵はライフを自動回復することができない
+Prevent {0}% of Suppressed Spell Damage per Hit Suppressed Recently,直近抑制したヒットごとにスペルダメージ抑制量 {0}%
+{0}% chance to Suppress Spell Damage per Hit Suppressed Recently,直近抑制したヒットごとにスペルダメージ抑制確率 {0}%
+Regenerate {0} Life per second for each {1}% Uncapped Fire Resistance,Regenerate {0} Life per second for each {1}% Uncapped Fire Resistance
+Stance Skills have {0} seconds to Cooldown,スタンススキルのクールダウン時間が{0}秒される
+Skills Cost Life instead of {0}% of Mana Cost,スキルはマナコストの{0}％の代わりにライフをコストとする
+Ailments never count as being from Critical Strikes,状態異常はクリティカルストライクにより起きたとみなされない
+You take {0}% reduced Extra Damage from Critical Strikes by Cursed Enemies,呪い状態の敵のクリティカルストライクから受ける追加ダメージが{0}%減少する
+##自己加的statDescriptions专精文本##,##自己加的statDescriptions专精文本##
+Deal 10% more Chaos Damage to enemies which have Energy Shield,エナジーシールドが残っている敵に対する混沌ダメージが10%上昇する
+Recover 1% of Life per Withered Debuff on each Enemy you Kill,倒した敵に付与していた衰弱1スタックごとにライフの1%を回復する
+5% chance when you inflict Withered to inflict up to 15 Withered Debuffs instead,5% chance when you inflict Withered to inflict up to 15 Withered Debuffs instead
+50% increased Projectile Speed while wielding a Dagger,短剣を装備中に投射物スピードが50%増加する
+10% of Leech is Instant,リーチの10%が即時になる
+40% increased Armour and Evasion Rating while Leeching,リーチ中はアーマーおよび回避力が40%増加する
+25% more Damage with Hits against Enemies that cannot have Life Leeched from them,ライフをリーチできない敵に対するヒットダメージが25%上昇する
+25% of Damage taken Recouped as Life if Leech was removed by Filling Unreserved Life Recently,直近リザーブされていないライフがすべて回復することでリーチが取り除かれていれば受けたダメージの25%をライフとして回収する
+"25% increased Maximum total Life, Mana and Energy Shield Recovery per second from Leech",リーチによるライフ、マナおよびエナジーシールドの秒間最大合計回復量が25%増加する
++1% to all maximum Elemental Resistances if you have Reserved Life and Mana,ライフおよびマナをリザーブしていれば全ての元素耐性の最大値 +1%
+3% chance to Recover all Life when you Kill an Enemy,敵を倒した時に3％の確率でライフをすべて回復する
+Life Recoup Effects instead occur over 3 seconds,ライフ回収効果は代わりに3秒間かけて起きる
+"Every 3 seconds, Consume a nearby Corpse to Recover 10% of Life","Every 3 seconds, Consume a nearby Corpse to Recover 10% of Life"
+"Every 4 seconds, Recover 1 Life for every 0.1 Life Recovery per second from Regeneration","Every 4 seconds, Recover 1 Life for every 0.1 Life Recovery per second from Regeneration"
+Remove a random Non-Elemental Ailment when you use a Life Flask,ライフフラスコ使用した時に元素系以外の状態異常をランダムに1個取り除く
+20% increased Maximum Energy Shield if both Equipped Rings have Evasion Modifiers,20% increased Maximum Energy Shield if both Equipped Rings have Evasion Modifiers
+40% increased Energy Shield Recharge Rate if Equipped Amulet has an Evasion Modifier,40% increased Energy Shield Recharge Rate if Equipped Amulet has an Evasion Modifier
+100% increased Evasion Rating if Energy Shield Recharge has started in the past 2 seconds,100% increased Evasion Rating if Energy Shield Recharge has started in the past 2 seconds
+"Every 4 seconds, Regenerate Energy Shield equal to 1% of Evasion Rating over 1 second","Every 4 seconds, Regenerate Energy Shield equal to 1% of Evasion Rating over 1 second"
+Gain 25 Life per Enemy Hit with Main Hand Claw Attacks,メインハンドの鉤爪アタックにより敵を1体ヒットするごとに25のライフを獲得する
+Gain 25 Mana per Enemy Hit with Off Hand Claw Attacks,Gain 25 Mana per Enemy Hit with Off Hand Claw Attacks
+Inherent Attack Speed bonus from Dual Wielding is doubled while wielding two Claws,鉤爪を両手に装備している時二刀流のアタックスピードの固有ボーナスは二倍になる
+60% increased Damage with Claws against Enemies that are on Low Life,低ライフ状態の敵に対する鉤爪のダメージが60%増加する
+10% of Leech is Instant per Equipped Claw,10% of Leech is Instant per Equipped Claw
+50% increased Stealth if you've Hit With a Claw Recently,直近鉤爪でヒットを与えていればステルスが50%増加する
+Cannot be Stunned by Hits that deal only Physical Damage,物理ダメージだけを与えるヒットによってスタンを受けることがない
+Hits have 40% chance to ignore Enemy Monster Physical Damage Reduction,ヒットは40%の確率で敵モンスターの物理ダメージ軽減を無視する
++6% to Damage over Time Multiplier for Bleeding per Impale on Enemy,敵に付与した串刺し1スタックごとに出血の継続ダメージ倍率 +6%
+"+15% chance to Suppress Spell Damage if Equipped Helmet, Body Armour, Gloves, and Boots all have Evasion Rating",装備中の兜、鎧、手袋および靴に回避力があればスペルダメージ抑制確率 +15%
+100% increased Evasion Rating from Equipped Body Armour,鎧から得られる回避力が100%増加する
++50% to Critical Strike Multiplier against Stunned Enemies,スタン状態の敵に対するクリティカルダメージ倍率 +50%
+Hits against you Cannot be Critical Strikes if you've been Stunned Recently,直近プレイヤーがスタンをしていればプレイヤーに対するヒットがクリティカルになることがない
+25% chance to deal a Stunning Hit to Nearby Enemy Monsters when you're Stunned,プレイヤーがスタンを受けた時に25%の確率で近くの敵モンスターにスタンさせるヒットを与える
+"Gain Adrenaline when Stunned, for 2 seconds per 100ms of Stun Duration","Gain Adrenaline when Stunned, for 2 seconds per 100ms of Stun Duration"
+##tree_dn修正##,##tree_dn修正##
+Damage Over Time,継続ダメージ
+Impale Chance,串刺し確率
+Spell Suppression Mastery,スペル抑制マスタリー
+##tree_sd修正##,##tree_sd修正##
+20% increased Attack Speed while Leeching,リーチ中はアタックスピードが20%増加する
+You have 20 Fortification,プレイヤーは堅牢化20スタックを持つ
+Take 50% less Damage over Time if you've started taking Damage over Time in the past second,Take 50% less Damage over Time if you've started taking Damage over Time in the past second
+100% more Duration of Ailments on you,100% more Duration of Ailments on you
+30% increased Effect of non-Damaging Ailments on Enemies,30% increased Effect of non-Damaging Ailments on Enemies
+10% increased Effect of non-Damaging Ailments on Enemies,10% increased Effect of non-Damaging Ailments on Enemies
+8% increased Effect of non-Damaging Ailments on Enemies,8% increased Effect of non-Damaging Ailments on Enemies
+##passiveTree修正##,##passiveTree修正##
+"(Shock increases Damage taken by up to 50%, depending on the amount of Lightning Damage in the hit, for 2 seconds)","(Shock increases Damage taken by up to 50%, depending on the amount of Lightning Damage in the hit, for 2 seconds)"
+(Maximum Rage is 50),(Maximum Rage is 50)
+(You lose 1 Rage every 0.5 seconds if you have not been Hit or gained Rage Recently),(You lose 1 Rage every 0.5 seconds if you have not been Hit or gained Rage Recently)
+(Intimidated enemies take 10% increased Attack Damage),(Intimidated enemies take 10% increased Attack Damage)
+(Freeze lowers Enemy Action Speed to zero,(Freeze lowers Enemy Action Speed to zero
+(Chill reduces Enemy Action Speed by up to 30%,(Chill reduces Enemy Action Speed by up to 30%
+"(Allies on your Consecrated Ground Regenerate a percentage of their Maximum Life per second, and Curses have 50% reduced effect on them)","(Allies on your Consecrated Ground Regenerate a percentage of their Maximum Life per second, and Curses have 50% reduced effect on them)"
+(Take 1% less Damage from Hits per Fortification. Maximum 20 Fortification. Fortification lasts 6 seconds),(Take 1% less Damage from Hits per Fortification. Maximum 20 Fortification. Fortification lasts 6 seconds)

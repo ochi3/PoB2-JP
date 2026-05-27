@@ -1,0 +1,20 @@
+﻿(maximum life),(最大ライフ)
+x {0}% (percentage of life to maximum leech rate),x {0}% (最大リーチ速度に対するライフ割合)
+(maximum energy shield),(最大エナジーシールド)
+(percentage of energy shield to maximum leech rate),(最大リーチ速度に対するエナジーシールド割合)
+(maximum mana),(最大マナ)
+(percentage of mana to maximum leech rate),(最大リーチ速度に対するマナ割合)
+Conversion,変換
+Crit,クリティカル
+Degen,継続減少
+Final,最終
+Final Type,最終タイプ
+Incoming,受ける
+Mult,倍率
+Multi,複数
+Multiplier,倍率
+Pool,プール
+Taken As Percent,変換割合
+Total Energy Shield Degen,合計エナジーシールド継続減少
+Total Life Degen,合計ライフ継続減少
+Total Mana Degen,合計マナ継続減少

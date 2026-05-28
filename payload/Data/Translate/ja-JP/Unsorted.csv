@@ -1,0 +1,208 @@
+﻿Value,価値
+Stat,Stat
+Skill,スキル
+Source,Source
+Source Name,Source Name
+Item,アイテム
+Global,グローバル
+Total,合計
+Buff,Buff
+Inc/red,Inc/red
+More/less,More/less
+Converted Damage,Converted Damage
+{0}% to Fire,{0}% to Fire
+{0}% to Cold,{0}% to Cold
+{0}% to Lightning,{0}% to Lightning
+{0}% to Chaos,{0}% to Chaos
+Physical Damage Gain As Fire,Physical Damage Gain As Fire
+Physical Damage Gain As Cold,Physical Damage Gain As Cold
+Physical Damage Gain As Lightning,Physical Damage Gain As Lightning
+Physical Damage Gain As Chaos,Physical Damage Gain As Chaos
+Base,Base
+Type,Type
+Mitigation,Mitigation
+Final,決勝
+Resist,Resist
+Elemental,元素属性
+Total from Tree:,Total from Tree:
+Total from Item:,Total from Item:
+Total from Base:,Total from Base:
+Total from Skill:,Total from Skill:
+Total from Dexterity:,Total from Dexterity:
+Total from Intelligence:,Total from Intelligence:
+Total from Strength:,Total from Strength:
+{0} base,{0} base
+From,差出人
+Player,プレイヤー
+Total damage:,Total damage:
+Damage from Crits:,Damage from Crits:
+Damage from Non-crits:,Damage from Non-crits:
+Reduction from Armour: {0}%,Reduction from Armour: {0}%
+Physical:,物理:
+Lightning:,雷:
+Cold:,冷気:
+Fire:,火:
+Chaos:,混沌:
+Base damage:,Base damage:
+Portion of total damage: {0}%,Portion of total damage: {0}%
+Hit damage:,Hit damage:
+Skill types,Skill types
+= {0} per second,= {0} per second
+{0}% increased,{0}% increased
+{0}% reduced,{0}% reduced
+{0}% more,{0}% more
+{0}% less,{0}% less
+Recharge rate:,Recharge rate:
+Max: {0}%,Max: {0}%
+Total: {0}%,Total: {0}%
+Average enemy accuracy: {0},Average enemy accuracy: {0}
+Approximate evade chance: {0}%,Approximate evade chance: {0}%
+Elemental Resist,Elemental Resist
+Fire Resist Max,Fire Resist Max
+Fire Resist,Fire Resist
+Cold Resist Max,Cold Resist Max
+Cold Resist,Cold Resist
+Lightning Resist Max,Lightning Resist Max
+Lightning Resist,Lightning Resist
+Chaos Resist Max,Chaos Resist Max
+Chaos Resist,Chaos Resist
+Physical Damage Reduction,Physical Damage Reduction
+{0}% as Physical,{0}% as Physical
+{0}% as Fire,{0}% as Fire
+{0}% as Cold,{0}% as Cold
+{0}% as Lightning,{0}% as Lightning
+{0}% as Chaos,{0}% as Chaos
+Resistance,耐性
+Average Damage,平均ダメージ
+Attack Rate,攻撃速度
+Cast Rate,詠唱速度
+Hit Rate,Hit Rate
+Trap Throwing Time,Trap Throwing Time
+Trap Cooldown,Trap Cooldown
+Totem Placement Time,Totem Placement Time
+Hit Chance,Hit Chance
+DoT DPS,DoT DPS
+Bleed DPS,Bleed DPS
+Ignite DPS,Ignite DPS
+Total Damage per Ignite,Total Damage per Ignite
+Total DPS inc. Ignite,Total DPS inc. Ignite
+Average Dmg. inc. Ignite,Average Dmg. inc. Ignite
+Poison DPS,Poison DPS
+Total Damage per Poison,Total Damage per Poison
+Total DPS inc. Poison,Total DPS inc. Poison
+Average Dmg. inc. Poison,Average Dmg. inc. Poison
+Decay DPS,Decay DPS
+AoE Radius,AoE Radius
+Strength Required,Strength Required
+Dexterity Required,Dexterity Required
+Intelligence Required,Intelligence Required
+Total Life,Total Life
+%Inc Life from Tree,%Inc Life from Tree
+Unreserved Life,Unreserved Life
+Life Leech/On Hit Rate,Life Leech/On Hit Rate
+Life Leech/Gain per Hit,Life Leech/Gain per Hit
+Total Mana,Total Mana
+%Inc Mana from Tree,%Inc Mana from Tree
+Unreserved Mana,Unreserved Mana
+Mana Regen,Mana Regen
+Mana Leech/On Hit Rate,Mana Leech/On Hit Rate
+Mana Leech/Gain per Hit,Mana Leech/Gain per Hit
+%Inc ES from Tree,%Inc ES from Tree
+Energy Shield Regen,Energy Shield Regen
+Energy Shield Regen:,Energy Shield Regen:
+Energy Shield Recharge,エナジーシールドリチャージ
+ES Leech/On Hit Rate,ES Leech/On Hit Rate
+ES Leech/Gain per Hit,ES Leech/Gain per Hit
+Evasion rating,Evasion rating
+%Inc Evasion from Tree,%Inc Evasion from Tree
+%Inc Armour from Tree,%Inc Armour from Tree
+Phys. Damage Reduction,Phys. Damage Reduction
+Movement Speed Modifier,Movement Speed Modifier
+Block Chance,ブロック確率
+Spell Block Chance,Spell Block Chance
+Attack Dodge Chance,Attack Dodge Chance
+Spell Dodge Chance,Spell Dodge Chance
+Fire Res. Over Max,Fire Res. Over Max
+Cold Res. Over Max,Cold Res. Over Max
+Lightning Res. Over Max,Lightning Res. Over Max
+Chaos Res. Over Max,Chaos Res. Over Max
+Speed,Speed
+{0} (base throwing speed),{0} (base throwing speed)
+{0} (increased/reduced throwing speed),{0} (increased/reduced throwing speed)
+{0} (more/less throwing speed),{0} (more/less throwing speed)
+{0} (action speed modifier),{0} (action speed modifier)
+{0} (base),{0} (base)
+/ {0} (increased/reduced cooldown recovery),/ {0} (increased/reduced cooldown recovery)
+{0} (base placement speed),{0} (base placement speed)
+{0} (increased/reduced placement speed),{0} (increased/reduced placement speed)
+{0} (more/less placement speed),{0} (more/less placement speed)
+ (base life for a level {0} monster), (base life for a level {0} monster)
+x {0} (life multiplier for this totem type),x {0} (life multiplier for this totem type)
+x {0} (totem life modifier),x {0} (totem life modifier)
+- %d (- mana cost),- %d (- mana cost)
+x {0} (portion of instances created by main hand),x {0} (portion of instances created by main hand)
+x {0} (portion of instances created by off hand),x {0} (portion of instances created by off hand)
+{0} + {0} (base),{0} + {0} (base)
+= {0}% (crit chance),= {0}% (crit chance)
+{0}% (additional extra damage),{0}% (additional extra damage)
+x {0} (increased/reduced extra crit damage taken by enemy),x {0} (increased/reduced extra crit damage taken by enemy)
+= {0}% (extra crit damage),= {0}% (extra crit damage)
+{0} to {1} x {2} (base damage from {3} multiplied by base damage multiplier),{0} to {1} x {2} (base damage from {3} multiplied by base damage multiplier)
+{0} to {1} x {2} (added damage multiplied by damage effectiveness),{0} to {1} x {2} (added damage multiplied by damage effectiveness)
+{0} x {1} - {2} (damage from non-crits),{0} x {1} - {2} (damage from non-crits)
++ {0} x {1} (damage from crits),+ {0} x {1} (damage from crits)
+{0} x {1} - {2} (chance from non-crits),{0} x {1} - {2} (chance from non-crits)
++ {0} x {1} (chance from crits),+ {0} x {1} (chance from crits)
+{0} (source damage),{0} (source damage)
+{0} (source damage from non-crits),{0} (source damage from non-crits)
+{0} (source damage from crits),{0} (source damage from crits)
+x {0} (bleed deals {1}% per second),x {0} (bleed deals {1}% per second)
+{0} (total damage per second),{0} (total damage per second)
+{0} (damage rate modifier),{0} (damage rate modifier)
+/ {0} (damage rate modifier),/ {0} (damage rate modifier)
+Ignite mode: {0} (can be changed in the Configuration tab),Ignite mode: {0} (can be changed in the Configuration tab)
+Enemy Physical Hit Damage: {0} (can be overridden in the Configuration tab),Enemy Physical Hit Damage: {0} (can be overridden in the Configuration tab)
+{0} (ignite chance),{0} (ignite chance)
++ {0} x {1} (portion of damage from crits),+ {0} x {1} (portion of damage from crits)
+{0} base Fire Resist Max,{0} base Fire Resist Max
+{0} base Cold Resist Max,{0} base Cold Resist Max
+{0} base Lightning Resist Max,{0} base Lightning Resist Max
+{0} base Chaos Resist Max,{0} base Chaos Resist Max
+{0} base Elemental Resist,{0} base Elemental Resist
+{0} base Fire Resist,{0} base Fire Resist
+{0} base Cold Resist,{0} base Cold Resist
+{0} base Lightning Resist,{0} base Lightning Resist
+{0} base Chaos Resist,{0} base Chaos Resist
+{0} per {1} Str,{0} per {1} Str
+{0}% per {1} Str,{0}% per {1} Str
+{0} per {1} Dex,{0} per {1} Dex
+{0} per {1} Int,{0} per {1} Int
+{0} per {1} Mana,{0} per {1} Mana
+{0} + {1} per Level,{0} + {1} per Level
+Name,名称
+Reservation,リザーブ
+Mana Regeneration:,Mana Regeneration:
+Life Regen Percent,Life Regen Percent
+Mana Regen Percent,Mana Regen Percent
+Armour And Evasion,Armour And Evasion
+{0}% increased Armour And Evasion,{0}% increased Armour And Evasion
+{0}% increased Evasion,回避力が{0}%増加する
+Conversion,Conversion
+Life to Energy Shield,Life to Energy Shield
+{0}{1}% per second),{0}{1}% per second)
+Chance on Non-crit: {0}%,Chance on Non-crit: {0}%
+Chance on Crit: {0}%,Chance on Crit: {0}%
+Combined chance:,Combined chance:
+"For freeze to apply, target must have no more than {0} life.","For freeze to apply, target must have no more than {0} life."
+"For shock to apply, target must have no more than {0} life.","For shock to apply, target must have no more than {0} life."
+{0} Power Charges,{0} Power Charges
+{0} Endurance Charges,{0} Endurance Charges
+{0} Frenzy Charges,{0} Frenzy Charges
+{0} Inspiration Charges,{0} Inspiration Charges
+Tailwind,Tailwind
+Exclusive to,Exclusive to
+Enemy resistance: {0}%,Enemy resistance: {0}%
+Cannot pierce,Cannot pierce
+Cannot fork,Cannot fork
+Cannot chain,Cannot chain
+Eff. Maximum Hit Taken:,Eff. Maximum Hit Taken:

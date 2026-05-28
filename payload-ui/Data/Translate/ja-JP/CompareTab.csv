@@ -1,0 +1,49 @@
+﻿Summary,概要
+Config,設定
+Compare with:,比較対象:
+Import...,インポート...
+Re-import Current,現在のキャラクターを再インポート
+Re-import character from the game server:,ゲームサーバーからキャラクターを再インポート:
+Re-import the currently selected character.,現在選択中のキャラクターを再インポートします。
+"Refreshes passive tree, jewels, items, and skills.",パッシブツリー、ジュエル、アイテム、スキルを更新します。
+No character selected.,キャラクターが選択されていません。
+Go to Import/Export Build tab and select a character first.,先に「ビルドのインポート/エクスポート」タブでキャラクターを選択してください。
+Tree set:,ツリーセット:
+Show only differences,差分のみ表示
+Show only rows that differ between both builds. Disable to include unchanged rows.,両方のビルドで異なる行のみ表示します。無効にすると変更のない行も表示します。
+Overlay comparison,重ね合わせ比較
+Expanded mode,展開モード
+Copy tree,ツリーをコピー
+Copy and use,コピーして使用
+Copy Config from Compare Build,比較ビルドから設定をコピー
+-- Select Metric --,-- 指標を選択 --
+Select a metric to calculate power report,パワーレポートを計算する指標を選択
+Tree:,ツリー:
+Include passive tree nodes from compared build,比較ビルドのパッシブツリーノードを含める
+Items:,アイテム:
+Include items from compared build,比較ビルドのアイテムを含める
+Skill gems:,スキルジェム:
+Include skill gem groups unique to compared build,比較ビルド固有のスキルジェムグループを含める
+Support gems:,サポートジェム:
+Include support gems from compared build's active skill,比較ビルドのアクティブスキルにあるサポートジェムを含める
+Config:,設定:
+Include config option differences from compared build,比較ビルドとの設定差分を含める
+Your Build,現在のビルド
+Paste a build code or URL to import as comparison:,比較用にインポートするビルドコードまたはURLを貼り付け:
+Name (optional):,名前 (任意):
+Failed to decode build data,ビルドデータのデコードに失敗しました
+Invalid build code,無効なビルドコード
+Import from Folder,フォルダからインポート
+Import Comparison Build,比較ビルドをインポート
+Import Error,インポートエラー
+Build file is empty or unreadable.,ビルドファイルが空か、読み取れません。
+Failed to import build for comparison.,比較用ビルドのインポートに失敗しました。
+No comparison build loaded.,比較ビルドが読み込まれていません。
+Click Import... above to import a build to compare against.,上の「インポート...」から比較対象のビルドをインポートしてください。
+Aura/Buff Skills: ,オーラ/バフスキル: 
+Combat Buffs: ,戦闘バフ: 
+Curses/Debuffs: ,呪い/デバフ: 
+Compare Power Report,パワーレポート比較
+Metric:,指標:
+Calc Mode:,計算モード:
+No configuration options to display.,表示できる設定オプションはありません。

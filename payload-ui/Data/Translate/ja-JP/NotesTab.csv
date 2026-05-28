@@ -1,0 +1,17 @@
+﻿You can use Ctrl +/- (or Ctrl+Scroll) to zoom in and out and Ctrl+0 to reset.,Ctrl +/- (または Ctrl+スクロール) で拡大/縮小、Ctrl+0 でリセットできます。
+This field also supports different colors.  Using the caret symbol (^) followed by a Hex code or a number (0-9) will set the color.,この欄は色指定にも対応しています。キャレット記号 (^) の後に16進カラーコードまたは数字 (0-9) を入力すると色を設定できます。
+Below are some common color codes PoB uses:	,PoBでよく使われるカラーコード:	
+Show Color Codes,カラーコードを表示
+Hide Color Codes,カラーコードを非表示
+CHAOS,混沌
+COLD,冷気
+DEFAULT,デフォルト
+DEXTERITY,器用さ
+FIRE,火
+INTELLIGENCE,知性
+LIGHTNING,雷
+MAGIC,マジック
+NORMAL,通常
+RARE,レア
+STRENGTH,筋力
+UNIQUE,ユニーク

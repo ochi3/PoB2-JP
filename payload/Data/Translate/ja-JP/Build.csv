@@ -1,0 +1,48 @@
+﻿<< Back,<< 戻る
+Current build,現在のビルド
+Save As,名前を付けて保存
+Manual,マニュアル
+Enter name for this loadout:,このロードアウト名を入力:
+Import/Export Build,イン/エクスポート
+Notes,メモ
+Configuration,設定
+Tree,ツリー
+Skills,スキル
+Items,アイテム
+Calcs,計算
+Party,パーティ
+Compare,比較
+Main Skill:,メインスキル:
+Tip: You can drag items from the Items tab onto this dropdown to equip them onto the minion.,ヒント: アイテムタブからこのドロップダウンへアイテムをドラッグすると、ミニオンに装備させることができます。
+{0} Warnings,{0} 件の警告
+No Loadouts,ロードアウトなし
+Loadouts:,ロードアウト:
+New Loadout,新規ロードアウト
+Sync,同期
+Help >>,ヘルプ >>
+Labyrinth: Normal Lab,ラビリンス: Normal Lab
+Labyrinth: Cruel Lab,ラビリンス: Cruel Lab
+Labyrinth: Merciless Lab,ラビリンス: Merciless Lab
+Labyrinth: Uber Lab,ラビリンス: Uber Lab
+You have too many passive points allocated,パッシブポイントを振りすぎています
+You have too many ascendancy points allocated,アセンダンシーポイントを振り過ぎています
+You have too many secondary ascendancy points allocated,セカンダリーアセンダンシーポイントを割り当てすぎています
+Required Level: {0},必要レベル: {0}
+Estimated Progress:,推定進行度:
+Act: {0},第 {0} 幕
+Questpoints: {0},クエストポイント: {0}
+Extra Skillpoints: {0},追加スキルポイント: {0}
+This build has unsaved changes.,このビルドには未保存変更があります。
+Do you want to save them now?,今保存しますか？
+Do you want to save them before exiting?,終了前に保存しますか？
+Do you want to save them before updating?,更新前に保存しますか？
+Don't Save,保存しない
+Save Changes,変更を保存
+Enter new build name:,新しいビルド名を入力:
+Folder:,フォルダ:
+New Folder...,新規フォルダ...
+Spectres in your Library must be assigned to an active,ライブラリ内のスペクターは、有効なものに割り当てる必要があります
+Raise Spectre gem for their buffs and curses to activate,スペクターのバフ/呪いを有効化するにはレイズスペクターが必要
+Primalist,プライマリスト
+Warden,ウォーデン
+Warlock,ウォーロック

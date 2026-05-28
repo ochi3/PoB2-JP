@@ -1,0 +1,77 @@
+﻿#% increased Spell Damage,#% increased Spell Damage
++# to maximum Mana,+# to maximum Mana
+#% increased Physical Damage,#% increased Physical Damage
++# to Accuracy Rating,+# to Accuracy Rating
++# to Evasion Rating,+# to Evasion Rating
++# to Armour,+# to Armour
+#% increased Evasion and Energy Shield,#% increased Evasion and Energy Shield
+#% increased Stun and Block Recovery,#% increased Stun and Block Recovery
+Adds # to # Physical Damage,Adds # to # Physical Damage
+Adds # to # Fire Damage,Adds # to # Fire Damage
+Adds # to # Cold Damage,Adds # to # Cold Damage
+Adds # to # Lightning Damage,Adds # to # Lightning Damage
+Adds # to # Fire Damage to Spells,Adds # to # Fire Damage to Spells
+Adds # to # Cold Damage to Spells,Adds # to # Cold Damage to Spells
+Adds # to # Lightning Damage to Spells,Adds # to # Lightning Damage to Spells
+#% increased Fire Damage,#% increased Fire Damage
+#% increased Cold Damage,#% increased Cold Damage
+#% increased Lightning Damage,#% increased Lightning Damage
+#% increased Elemental Damage with Attack Skills,#% increased Elemental Damage with Attack Skills
+#% reduced Attribute Requirements,#% reduced Attribute Requirements
++#% chance to Suppress Spell Damage,+#% chance to Suppress Spell Damage
+#% increased Energy Shield,#% increased Energy Shield
+#% increased Energy Shield Recharge Rate,#% increased Energy Shield Recharge Rate
++# to Strength,+# to Strength
++# to Dexterity,+# to Dexterity
++# to Intelligence,+# to Intelligence
+#% increased Movement Speed,#% increased Movement Speed
++#% to Damage over Time Multiplier,+#% to Damage over Time Multiplier
++#% to Physical Damage over Time Multiplier,+#% to Physical Damage over Time Multiplier
++#% to Fire Damage over Time Multiplier,+#% to Fire Damage over Time Multiplier
++#% to Cold Damage over Time Multiplier,+#% to Cold Damage over Time Multiplier
++#% to Chaos Damage over Time Multiplier,+#% to Chaos Damage over Time Multiplier
+#% increased Attack Speed,#% increased Attack Speed
+#% increased Cast Speed,#% increased Cast Speed
+#% increased Global Accuracy Rating,#% increased Global Accuracy Rating
+#% increased Light Radius,#% increased Light Radius
+#% increased Critical Strike Chance for Spells,#% increased Critical Strike Chance for Spells
+#% increased Critical Strike Chance,#% increased Critical Strike Chance
++#% to Global Critical Strike Multiplier,+#% to Global Critical Strike Multiplier
+#% increased Mana Regeneration Rate,#% increased Mana Regeneration Rate
++#% to Fire Resistance,+#% to Fire Resistance
++#% to Cold Resistance,+#% to Cold Resistance
++#% to Lightning Resistance,+#% to Lightning Resistance
++#% to Chaos Resistance,+#% to Chaos Resistance
+Grants # Life per Enemy Hit,Grants # Life per Enemy Hit
+Gain # Life per Enemy Hit with Attacks,Gain # Life per Enemy Hit with Attacks
+Gain 2 Life per Enemy Hit with Attacks,アタックでヒットを与えた敵1体ごとに2のライフを獲得する
+Gain # Life per Enemy Killed,Gain # Life per Enemy Killed
+Gain # Mana per Enemy Killed,Gain # Mana per Enemy Killed
+#% increased Projectile Speed,#% increased Projectile Speed
+#% increased Stun Duration on Enemies,#% increased Stun Duration on Enemies
+#% increased Burning Damage,#% increased Burning Damage
+#% chance to Ignite,#% chance to Ignite
+#% chance to Freeze,#% chance to Freeze
+#% chance to Shock,#% chance to Shock
+Adds # to # Physical Damage to Attacks,Adds # to # Physical Damage to Attacks
+Adds # to # Fire Damage to Attacks,Adds # to # Fire Damage to Attacks
+Adds # to # Cold Damage to Attacks,Adds # to # Cold Damage to Attacks
+Adds # to # Lightning Damage to Attacks,Adds # to # Lightning Damage to Attacks
+Reflects # Physical Damage to Melee Attackers,Reflects # Physical Damage to Melee Attackers
+#% faster start of Energy Shield Recharge,#% faster start of Energy Shield Recharge
+#% increased Armour and Energy Shield,#% increased Armour and Energy Shield
+#% additional Physical Damage Reduction,#% additional Physical Damage Reduction
+#% increased Armour,#% increased Armour
+#% increased Evasion Rating,#% increased Evasion Rating
++# to maximum Energy Shield,+# to maximum Energy Shield
+#% increased maximum Energy Shield,#% increased maximum Energy Shield
++# to maximum Life,+# to maximum Life
+#% increased Rarity of Items found,#% increased Rarity of Items found
+#% of Physical Attack Damage Leeched as Life,#% of Physical Attack Damage Leeched as Life
+#% of Physical Attack Damage Leeched as Mana,#% of Physical Attack Damage Leeched as Mana
++1 to Level of all Skill Gems,全てのスキルジェムのレベル +1
++# to all Attributes,+# to all Attributes
+#% increased Global Critical Strike Chance,#% increased Global Critical Strike Chance
+Regenerate # Life per second,Regenerate # Life per second
++#% to all Elemental Resistances,+#% to all Elemental Resistances
+#% increased Life Regeneration rate,#% increased Life Regeneration rate

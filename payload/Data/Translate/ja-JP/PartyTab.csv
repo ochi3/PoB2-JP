@@ -1,0 +1,28 @@
+﻿"To import a build it must be exported with ""Export support"" enabled in the import/export tab",ビルドをインポートするには、インポート/エクスポートタブで「サポートをエクスポート」を有効にしてエクスポートする必要があります
+"	Auras with the highest effect will take priority, your curses will take priority over a support's",	最も効果の高いオーラが優先され、あなたの呪いはサポート側の呪いより優先されます
+	All of these effects can be found in the Calcs tab,	これらの効果はすべて計算タブで確認できます
+Enter a build code/URL below:,下にビルドコード/URLを入力:
+Party Member Stats,パーティメンバーのステータス
+Warcry Skills,ウォークライスキル
+Link Skills,リンクスキル
+EnemyConditions,敵の状態
+EnemyMods,敵の補正
+Invalid input,無効な入力
+Destination for Import/clear,インポート/クリア先
+Currently Links Skills do not export,現在、リンクスキルはエクスポートされません
+Append,追加
+This sets the import button to append to the current party lists instead of replacing them (curses will still replace),インポート時に現在のパーティリストを置き換えず追加します (呪いは引き続き置き換えられます)
+Clear,クリア
+Clears all the party tab imported data,パーティタブにインポートされたデータをすべて削除します
+Show Advanced Info,詳細情報を表示
+"This shows the advanced info like what stats each aura/curse etc are adding, as well as enables the ability to edit them without a re-export",各オーラ/呪いなどが追加しているステータスの詳細を表示し、再エクスポートなしで編集できるようにします
+"Do not edit any boxes unless you know what you are doing, use copy/paste or import instead",内容を理解している場合を除き、各ボックスを直接編集せず、コピー/貼り付けまたはインポートを使用してください
+Disable Party Effects,パーティ効果を無効化
+"Removes the effects of the supports, without removing the data",データを残したまま、サポート効果のみ削除します
+"Use ""rebuild all"" to apply the effects again",効果を再適用するには「すべて再構築」を使用してください
+Rebuild All,すべて再構築
+Reparse all the inputs incase they have been disabled or they have changed since loading the build or importing,ビルド読み込みまたはインポート後に無効化や変更があった可能性があるため、すべての入力を再解析します
+Auras,オーラ
+Enemy Conditions,敵の状態
+Enemy Modifiers,敵の補正
+Curses,呪い

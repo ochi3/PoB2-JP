@@ -1,0 +1,4042 @@
+﻿Strength,筋力
+Dexterity,器用さ
+Intelligence,知性
+Energy Shield,エナジーシールド
+Armour,アーマー
+Fire Resistance,火耐性
+Cold Resistance,冷気耐性
+Lightning Resistance,雷耐性
+Chaos Resistance,混沌耐性
+Slayer,Slayer
+Gladiator,グラディエーター
+Champion,チャンピオン
+Assassin,アサシン
+Saboteur,サボター
+Trickster,トリックスター
+Juggernaut,ジャガーノート
+Berserker,バーサーカー
+Chieftain,チーフテン
+Occultist,オカルティスト
+Elementalist,エレメンタリスト
+Deadeye,デッドアイ
+Raider,Raider
+Pathfinder,パスファインダー
+Inquisitor,インクイジター
+Hierophant,ハイロファント
+Guardian,ガーディアン
+Ascendant,超越した
+Evasion,回避
+Lightning Walker,雷を行く者
+Fire Walker,火を行く者
+Frost Walker,霜を行く者
+Elemental Damage,元素ダメージ
+Two Handed Melee Damage and Attack Speed,両手武器近接ダメージおよびアタックスピード
+Wrecking Ball,鋼球
+Executioner,処刑人
+Two Handed Melee Damage,両手武器近接ダメージ
+Two Handed Melee Damage and Area of Effect,両手武器近接ダメージおよび効果範囲
+Two Hand Mastery,両手武器マスタリー
+Lava Lash,ラヴァラッシュ
+Weapon Fire Damage,武器火ダメージ
+Path of the Hunter,狩人の道
+Life and Armour,ライフおよびアーマー
+Life Regeneration,ライフ自動回復
+Butchery,屠殺
+One Handed Melee Damage,片手武器近接ダメージ
+Strong Arm,剛腕
+Melee Damage,近接ダメージ
+Attack Speed,アタックスピード
+Energy Shield and Recovery,エナジーシールド・回復
+Minion Attack and Cast Speed,ミニオンアタック・キャストスピード
+Shield Block and Block Recovery,盾ブロックおよびブロック回復
+Testudo,テストゥード
+Shield Defences,盾防御力
+Shield Mastery,盾マスタリー
+Block Chance and Attack Damage with Shield,ブロック率および盾装備時アタックダメージ
+Attack Damage and Attack Speed with Shield,盾装備時アタックダメージおよびアタックスピード
+Retaliation,報復
+Staff Attack Speed and Accuracy,スタッフアタックスピードおよび命中
+Ophidian Aim,Ophidian Aim
+Staff Mastery,スタッフマスタリー
+DUELIST,デュエリスト
+Attack Speed and Accuracy,アタックスピードおよび命中
+Physical Attack Damage and Life,物理アタックダメージおよびライフ
+Two Handed Melee Damage and Leech,両手武器近接ダメージおよびリーチ
+Two Handed Melee Damage and Life Leech Speed,両手武器近接ダメージおよびライフリーチスピード
+Martial Experience,戦闘経験
+Mana Mastery,マナマスタリー
+Life and Mana Leech,ライフ・マナリーチ
+Spirit Void,空虚な精神
+Vitality Void,空虚な活力
+Totem and Brand Damage,トーテム・ブランドダメージ
+Totem Placement Speed and Brand Range,トーテム設置スピードおよびブランド範囲
+"Totem Life and Elemental Resistances, Brand Range","Totem Life and Elemental Resistances, Brand Range"
+"Totem Attack and Cast Speed, Brand Frequency","Totem Attack and Cast Speed, Brand Frequency"
+Totem Mastery,トーテムマスタリー
+Lord of the Dead,死の支配者
+Arcing Blows,放電攻撃
+Weapon Lightning Damage,武器雷ダメージ
+Crackling Speed,クラックリングスピード
+Lightning Mastery,雷マスタリー
+Totem Life and Placement Speed,トーテムライフ・設置スピード
+Ironwood,鉄木
+"Totem Damage, Attack and Cast Speed","Totem Damage, Attack and Cast Speed"
+Totem Life and Elemental Resistances,トーテムライフ・元素耐性
+Mana and Reduced Mana Cost,マナおよびマナコスト低下
+Righteous Decree,正しき法
+"Staff Block, Attack and Cast Speed","Staff Block, Attack and Cast Speed"
+Whirling Barrier,ワーリングバリア
+Smashing Strikes,スマッシュストライク
+Staff Damage and Stun Duration,スタッフダメージおよびスタン持続時間
+Staff Critical Strike Chance,スタッフクリティカル率
+Counterweight,カウンターウエイト
+Shield Spell Block and Elemental Resistances with a Shield,盾スペルブロックおよび盾装備時元素耐性
+Sanctuary,Sanctuary
+Shield Block and Defences,Shield Block and Defences
+Curse Duration,呪い持続時間
+Curse Effect,呪い効果
+Hex Master,ヘックスマスター
+Curse Mastery,呪いマスタリー
+Diamond Skin,ダイヤモンドスキン
+Armour and Elemental Resistances,アーマーおよび元素耐性
+Elemental Resistance,元素耐性
+Solidity,Solidity
+Mana,マナ
+Mana and Arcane Surge Effect,マナおよびアーケインサージ効果
+Mana and Mana Regeneration,マナおよびマナ自動回復
+Arcane Capacitor,アーケインコンデンサー
+Sword Damage and Bleed Chance,Sword Damage and Bleed Chance
+Sword Damage and Attack Speed,剣ダメージおよびアタックスピード
+Blade Master,ブレイドマスター
+Sword Damage and Ailment Damage,Sword Damage and Ailment Damage
+Razor's Edge,レイザーエッジ
+Sword Damage,剣ダメージ
+Sword Mastery,剣マスタリー
+Minion and Damage Mastery,Minion and Damage Mastery
+Minion Damage and Duration,ミニオンダメージおよび持続時間
+"Minion Duration, Attack and Cast Speed","Minion Duration, Attack and Cast Speed"
+Enduring Bond,永続する絆
+Minion Life and Elemental Resistances,ミニオンライフおよびミニオン元素耐性
+Minion Life and Physical Damage Reduction,ミニオンライフおよび物理ダメージ軽減
+Indomitable Army,不屈の軍勢
+Minion Mastery,ミニオンマスタリー
+Axe Damage,斧ダメージ
+Splitting Strikes,Splitting Strikes
+Axe Mastery,斧マスタリー
+Axe Damage and Area of Effect,Axe Damage and Area of Effect
+Mace Damage and Reduced Enemy Stun Threshold,メイスダメージおよび敵スタン閾値低下
+Mace Damage and Area of Effect,メイスダメージおよび効果範囲
+Skull Cracking,頭蓋砕き
+Mace Damage and Stun Duration,メイスダメージおよびスタン持続時間
+Bone Breaker,ボーンブレイカー
+Mace Damage,メイスダメージ
+Mace Mastery,メイスマスタリー
+Mace Damage and Attack Speed,メイスダメージおよびアタックスピード
+Ribcage Crusher,リブケイジクラッシャー
+Armour and Evasion,アーマーおよび回避力
+"Armour, Evasion and Onslaught Effect",アーマー・回避力および猛攻効果
+Graceful Assault,優雅な攻撃
+Evasion Mastery,回避力マスタリー
+"Attack Damage, Armour and Evasion","Attack Damage, Armour and Evasion"
+Evasion and Accuracy,Evasion and Accuracy
+Soul of Steel,鋼の心
+"Shock Chance, Duration and Effect","Shock Chance, Duration and Effect"
+Static Blows,静電攻撃
+Shock Chance and Effect,Shock Chance and Effect
+Damage and Critical Strike Chance against Shocked,ダメージおよび感電した敵へのクリティカル率
+Elemental Damage Mastery,元素ダメージマスタリー
+Physical and Lightning Damage,物理ダメージおよび雷ダメージ
+Physical and Fire Damage,物理・火ダメージ
+Physical and Elemental Damage,物理・元素ダメージ
+Elemental Damage and Penetration,Elemental Damage and Penetration
+"Elemental Damage, Ailment Effect and Burning Damage Multiplier","Elemental Damage, Ailment Effect and Burning Damage Multiplier"
+Divine Judgement,神聖な判決
+Divine Fury,神聖な怒り
+Divine Wrath,神聖な激怒
+Trap Damage,トラップダメージ
+Trap Damage and Trigger Area,トラップダメージおよび発動範囲
+Unstable Munitions,不安定な弾薬
+Stamina,スタミナ
+Life Regeneration per Endurance Charge,エンデュランスチャージごとにライフ自動回復
+Jewel Socket,Jewel Socket
+Endurance Charge Duration,エンデュランスチャージ持続時間
+Armour and Mana,Armour and Mana
+Sanctum of Thought,思考の聖所
+Dagger Damage and Critical Strike Chance,Dagger Damage and Critical Strike Chance
+Dagger Damage and Accuracy,短剣ダメージおよび命中
+Nightstalker,ナイトストーカー
+Dagger Mastery,短剣マスタリー
+Dagger Accuracy and Critical Strike Chance,Dagger Accuracy and Critical Strike Chance
+"Lightning Damage, Shock Duration and Effect","Lightning Damage, Shock Duration and Effect"
+Heart of Thunder,雷の心
+Lightning Damage and Shock Chance,雷ダメージおよび感電確率
+Lightning Damage and Shock Effect,Lightning Damage and Shock Effect
+Breath of Lightning,雷の息
+Axe Damage and Attack Speed,斧ダメージおよびアタックスピード
+Slaughter,虐殺
+Axe Damage and Bleed Chance,Axe Damage and Bleed Chance
+Axe Damage and Bleed Duration,Axe Damage and Bleed Duration
+Cleaving,薙ぎ払う
+"Life Regeneration, Endurance Charge Duration","Life Regeneration, Endurance Charge Duration"
+"Life Regeneration, Fire Damage",ライフ自動回復および火ダメージ
+"Life Regeneration, Totem Placement Speed","Life Regeneration, Totem Placement Speed"
+"Arohongui, Moon's Presence","Arohongui, Moon's Presence"
+"Tasalio, Cleansing Water",浄化の水、タサリオ
+"Tukohama, War's Herald",戦の使者、トゥコハマ
+"Tawhoa, Forest's Strength",森の強者、タウホア
+"Life Regeneration, Fire Resistance",ライフ自動回復および火耐性
+"Valako, Storm's Embrace",嵐の抱擁　ヴァラコ
+Hatchet Master,手斧使い
+Axe Attack Speed and Evasion,Axe Attack Speed and Evasion
+Wand Elemental Damage,ワンド元素ダメージ
+Wand Mastery,ワンドマスタリー
+Prism Weave,プリズムウィーブ
+Wand Attack Speed and Accuracy,ワンドアタックスピードおよび命中
+Cast Speed,キャストスピード
+Accuracy and Critical Strike Chance,命中およびクリティカル率
+Eagle Eye,イーグルアイ
+Chaos and Power Charge Mastery,Chaos and Power Charge Mastery
+Mana Regeneration per Power Charge,パワーチャージごとにマナ自動回復
+Critical Strike Chance per Power Charge,パワーチャージごとにクリティカル率
+Critical Strike Multiplier per Power Charge,パワーチャージごとにクリティカルダメージ倍率
+Disciple of the Forbidden,禁じられし者の弟子
+Born to Fight,生粋の戦士
+Flask Effect and Duration,フラスコ効果・持続時間
+Nature's Adrenaline,自然のアドレナリン
+Master Surgeon,外科の達人
+Flask Effect and Charges Gained,フラスコ効果およびチャージ獲得
+Nature's Boon,自然の恩恵
+Master Alchemist,マスターアルケミスト
+"Flask Effect, Attack Damage","Flask Effect, Attack Damage"
+Veteran Bowyer,Veteran Bowyer
+"Flask Effect, Chaos Damage",フラスコ効果および混沌ダメージ
+Nature's Reprisal,自然の報復
+Physical Attack Damage,物理ダメージ
+Life,ライフ
+Mana Flows,マナの流れ
+Bravery,勇敢
+Trickery,詐欺
+Endurance,耐久力
+Devotion,一意専心
+Vigour,活力
+Revelry,祝祭
+Dynamo,ダイナモ
+Claws of the Magpie,カササギの爪
+Claw Damage,鉤爪ダメージ
+Soul Raker,Soul Raker
+Claw Damage and Attack Speed,鉤爪ダメージおよびアタックスピード
+Claw Mastery,鉤爪マスタリー
+Claw Critical Strike Chance and Multiplier,鉤爪クリティカル率・ダメージ倍率
+Claw Damage and Leech,鉤爪ダメージおよびリーチ
+Claws of the Hawk,タカの鉤爪
+Life Leech and Attack Speed,ライフリーチおよびアタックスピード
+Lust for Carnage,殺戮欲
+Life Leech Speed and Attack Speed,ライフリーチスピードおよびアタックスピード
+Flash Freeze,急速冷凍
+Cold Mastery,冷気マスタリー
+Weapon Cold Damage,武器冷気ダメージ
+Winter Spirit,冬の精霊
+MARAUDER,マローダー
+Melee Damage and Life,近接ダメージおよびライフ
+Blunt Trauma,鈍的外傷
+Staff Elemental Damage,スタッフ元素ダメージ
+One with the River,川とともにある者
+Staff Critical Strike Chance and Multiplier,スタッフクリティカル率およびクリティカルダメージ倍率
+Staff Critical Strike Chance and Accuracy,Staff Critical Strike Chance and Accuracy
+Totem and Brand Damage and Critical Strike Chance,Totem and Brand Damage and Critical Strike Chance
+Totem and Brand Critical Strike Chance,Totem and Brand Critical Strike Chance
+Totem and Brand Critical Strike Multiplier,Totem and Brand Critical Strike Multiplier
+Shaman's Dominion,シャーマンの支配
+"Elemental Damage, Attack and Cast Speed",元素ダメージおよびアタック・キャストスピード
+"Elemental Damage, Life Regeneration",元素ダメージおよびライフ自動回復
+Elemental Damage and Resistances,元素ダメージ・耐性
+"Elemental Damage, Critical Strike Multiplier",元素ダメージおよびクリティカルダメージ倍率
+Inevitable Judgement,避けられない判決
+Augury of Penitence,後悔の前兆
+Instruments of Virtue,美徳の道具
+Pious Path,敬虔の道
+Knockback Chance,ノックバック確率
+Knockback Distance,ノックバック距離
+Fending,フェンディング
+Bloodless,無血
+Life Mastery,ライフマスタリー
+Fusillade,一斉射撃
+Elder Power,エルダーパワー
+Wand Damage,ワンドダメージ
+Wand Critical Strike Chance and Multiplier,ワンドクリティカル率・ダメージ倍率
+Disintegration,分解
+Stun Threshold Reduction,スタン閾値減少
+Stun Duration,スタン持続時間
+Stun Mastery,スタンマスタリー
+Energy Shield Mastery,エナジーシールドマスタリー
+Evasion and Energy Shield,回避およびエナジーシールド
+Void Barrier,ヴォイドバリア
+Unnatural Calm,不自然な平穏
+Expertise,熟練
+Armour and Life Regeneration,アーマーおよびライフ自動回復
+Armour Mastery,アーマーマスタリー
+Combat Stamina,継戦能力
+Minion Damage and Mana,Minion Damage and Mana
+Aligned Spirits,Aligned Spirits
+Path of the Warrior,ウォーリアーの道
+Constitution,頑健
+Life and Chaos Resistance,Life and Chaos Resistance
+Purity of Flesh,純粋な肉体
+Warrior's Blood,戦士の血
+Damage,ダメ―ジ
+Fangs of Frost,ファングオブフロスト
+Spell Damage per Power Charge,パワーチャージごとにスペルダメージ
+Instability,不安定性
+Power Charge Duration,パワーチャージ持続時間
+Divine Fervour,神聖な熱血
+Holy Dominion,神聖な支配権
+Light of Divinity,神性の光
+Wandslinger,ワンドスリンガー
+Wand Damage and Accuracy,Wand Damage and Accuracy
+Wand Physical Damage and Attack Speed,ワンド物理ダメージおよびアタックスピード
+Wand Physical Damage,ワンド物理ダメージ
+Wand Fire Damage,Wand Fire Damage
+Wand Cold Damage,Wand Cold Damage
+Tempest Blast,テンペストブラスト
+Dagger Critical Strike Chance and Multiplier,短剣クリティカル率・ダメージ倍率
+Dagger Damage,短剣ダメージ
+Flaying,剥ぎ取り
+Dagger Damage and Attack Speed,短剣ダメージおよびアタックスピード
+Backstabbing,バックスタブ
+Minion Damage and Accuracy,Minion Damage and Accuracy
+Gravepact,死の協定
+Claws of the Falcon,ハヤブサの爪
+Claw Damage and Critical Strike Chance,Claw Damage and Critical Strike Chance
+Claw Accuracy and Critical Strike Chance,Claw Accuracy and Critical Strike Chance
+Grave Intentions,強い遺志
+Minion Life and Resistances,Minion Life and Resistances
+Death Attunement,死の調和
+Minion Life and Life Regeneration,Minion Life and Life Regeneration
+Minion Life and Damage,ミニオンライフおよびダメージ
+Minion Damage and Life Leech,Minion Damage and Life Leech
+Minion Life Regeneration,ミニオンライフ自動回復
+Sacrifice,サクリファイス
+Minion Life Leech,Minion Life Leech
+Blood Siphon,血のサイフォン
+Soul Siphon,ソウルサイフォン
+Foresight,先見の明
+Overcharge,過剰感電
+Faith and Steel,信仰と鋼
+Armour and Energy Shield,アーマーおよびエナジーシールド
+Mind Drinker,マインドドリンカー
+"Cold Damage, Freeze and Chill Duration, Chill Effect","Cold Damage, Freeze and Chill Duration, Chill Effect"
+Fingers of Frost,霜の指
+"Cold Damage, Freeze Chance and Chill Effect","Cold Damage, Freeze Chance and Chill Effect"
+Cold Damage Over Time Multiplier,冷気継続ダメージ倍率
+Channelling Damage,チャネリングダメージ
+Channelling Damage and Speed,チャネリングダメージおよびスピード
+Singular Focus,唯一の焦点
+Channelling Mastery,チャネリングマスタリー
+Fire Damage and Burning Damage Multiplier,Fire Damage and Burning Damage Multiplier
+Heart of Flame,炎の心
+Fire Damage and Ignite Chance,Fire Damage and Ignite Chance
+Fire Mastery,火マスタリー
+Breath of Flames,炎の息
+Fire Damage and Life Regeneration,火ダメージおよびライフ自動回復
+Arsonist,放火魔
+Magmatic Strikes,マグマストライク
+Energy Shield and Energy Shield Recharge Rate,エナジーシールドおよびエナジーシールドリチャージレート
+Essence Surge,エッセンスサージ
+Heart of Ice,ハートオブアイス
+"Cold Damage, Freeze and Chill Duration","Cold Damage, Freeze and Chill Duration"
+"Cold Damage, Cold Damage Over Time Multiplier and Chill Effect","Cold Damage, Cold Damage Over Time Multiplier and Chill Effect"
+"Cold Damage, Cold Damage Over Time Multiplier and Freeze Chance","Cold Damage, Cold Damage Over Time Multiplier and Freeze Chance"
+Breath of Rime,氷の息
+Infused,教諭されし
+Soul Thief,魂を盗む者
+Holy Fire,聖なる炎
+Projectile Damage and Speed,投射物ダメージ・スピード
+Projectile Damage,投射物ダメージ
+Fury Bolts,怒りの矢
+Spell Critical Strike Chance,スペルクリティカル率
+Spell Critical Strike Multiplier,スペルクリティカルダメージ倍率
+Arcane Potency,アーケインポーテンシー
+Amplify,増幅
+Area of Effect,効果範囲
+Area of Effect Damage,範囲攻撃ダメージ
+Deep Thoughts,熟慮
+Cruel Preparation,冷酷な準備
+Mana Regeneration and Life,マナ自動回復およびライフ
+Quick Recovery,急速回復
+Bow Accuracy and Attack Speed,Bow Accuracy and Attack Speed
+Bow Damage and Accuracy,弓ダメージおよび命中
+Dreamer,ドリーマー
+Arcane Focus,アーケインフォーカス
+"Energy Shield and Recovery, Mana Regeneration","Energy Shield and Recovery, Mana Regeneration"
+Arcane Will,アーケインウィル
+Critical Strike Multiplier,クリティカルダメージ倍率
+Throatseeker,スロートシーカー
+Nimbleness,敏捷さ
+Cast Speed and Spell Critical Strike Chance,キャストスピードおよびスペルクリティカル率
+Life and Flasks,ライフおよびフラスコ
+Profane Chemistry,冒涜的な化学
+Mental Rapidity,心の速度
+Spell Damage,スペルダメージ
+Dual Wield Attack Speed,二刀流アタックスピード
+Gemini,Gemini
+Dual Wield Damage and Block,二刀流ダメージおよびブロック
+Deep Wisdom,深い知恵
+Skill Duration,スキル持続時間
+Potency of Will,意志の力
+Ancestral Knowledge,先祖の知識
+Exceptional Performance,並外れた能力
+Precise Interception,Precise Interception
+Attack Damage and Speed with Shield,Attack Damage and Speed with Shield
+Attack Damage and Accuracy with Shield,Attack Damage and Accuracy with Shield
+Dual Wield Damage and Accuracy,Dual Wield Damage and Accuracy
+Aspect of the Panther,Aspect of the Panther
+Dual Wield Damage and Attack Speed,二刀流ダメージおよびアタックスピード
+Adder's Touch,クサリヘビの牙
+Dagger Damage and Poison Chance,Dagger Damage and Poison Chance
+Dagger Critical Strike Multiplier and Poison Duration,短剣クリティカルダメージ倍率および毒持続時間
+Brutal Blade,冷酷な刀身
+Sword Critical Strike Chance and Multiplier,剣クリティカル率・ダメージ倍率
+Sword Damage and Critical Strike Chance,Sword Damage and Critical Strike Chance
+Fatal Blade,致命の刃
+Written in Blood,血書
+Life and Energy Shield,ライフおよびエナジーシールド
+Life and Energy Shield Mastery,Life and Energy Shield Mastery
+Poisonous Fangs,毒牙
+Claw Damage and Poison Chance,Claw Damage and Poison Chance
+Claw Damage and Ailment Damage,Claw Damage and Ailment Damage
+Claw Attack Speed and Poison Chance,鉤爪アタックスピードおよび毒付与確率
+From the Shadows,影の中から
+Dagger Damage and Movement Speed,短剣ダメージおよび移動スピード
+Claw Attack Speed and Movement Speed,鉤爪アタックスピードおよび移動スピード
+Claws of the Pride,Claws of the Pride
+Claw Attack Speed and Movement Skill Cooldown,Claw Attack Speed and Movement Skill Cooldown
+Mine Mastery,マインマスタリー
+Mine Critical Strike Chance,マインクリティカル率
+Mine Critical Strike Multiplier,マインクリティカルダメージ倍率
+Mine Critical Strike Chance and Multiplier,マインクリティカル率・ダメージ倍率
+Successive Detonations,逐次起爆
+Heavy Draw,強弓
+Physical Bow Damage and Area of Effect,Physical Bow Damage and Area of Effect
+Physical Bow Damage and Chance to Bleed,Physical Bow Damage and Chance to Bleed
+Bow Mastery,弓マスタリー
+Physical Bow Damage,弓物理ダメージ
+Deadly Draw,致命の弓
+Bow Damage and Critical Strike Chance,弓ダメージおよびクリティカル率
+Bow Damage and Attack Speed,弓ダメージおよびアタックスピード
+Bow Damage and Critical Strike Multiplier,Bow Damage and Critical Strike Multiplier
+King of the Hill,キングオブザヒル
+Master Fletcher,マスターフレッチャー
+Aspect of the Eagle,ワシの化身
+Bow Attack Speed and Critical Strike Chance,Bow Attack Speed and Critical Strike Chance
+Bow Damage and Chance to Poison,Bow Damage and Chance to Poison
+Hunter's Gambit,ハンターの策略
+Bow Damage,弓ダメージ
+Fervour,熱意
+Evasion Per Frenzy Charge,フレンジーチャージごとに回避力
+Frenzy Charge Duration,フレンジーチャージ持続時間
+Frenetic,狂乱
+Blood Drinker,ブラッドドリンカー
+Sword Damage and Critical Strike Multiplier,Sword Damage and Critical Strike Multiplier
+Blade of Cunning,狡猾な刃
+Sword Attack Speed and Critical Strike Chance,Sword Attack Speed and Critical Strike Chance
+Prowess,豪勇
+Savagery,残虐さ
+Cloth and Chain,布と鎖
+Herbalism,薬草学
+Reflexes,反射神経
+Beef,剛力
+Shield Spell Block and Block Recovery,盾スペルブロックおよびブロック回復
+Deflection,受け流し
+Shield Block and Shield Defences,Shield Block and Shield Defences
+Stun Avoidance and Movement Speed,Stun Avoidance and Movement Speed
+Heart of Oak,樫の心
+Primal Spirit,原始の精霊
+Mana and Flask Effect,マナおよびフラスコ効果
+Aura Area of Effect,オーラ効果範囲
+Aura Effect,オーラ効果
+Champion of the Cause,大義
+Attack and Movement Speed,Attack and Movement Speed
+Druidic Rite,ドルイドの儀式
+Quickstep,クイックステップ
+Lightning Damage and Shock Avoidance,Lightning Damage and Shock Avoidance
+Fire Damage and Ignite Avoidance,Fire Damage and Ignite Avoidance
+"Cold Damage, Freeze and Chill Avoidance","Cold Damage, Freeze and Chill Avoidance"
+Crystal Skin,クリスタルスキン
+Avoid Status Ailments and Elemental Resistances,Avoid Status Ailments and Elemental Resistances
+Dual Wield Damage,二刀流ダメージ
+Dervish,ダルウィーシュ
+Dual Wield Accuracy,二刀流命中
+RANGER,レンジャー
+Evasion and Life,回避力およびライフ
+Projectile Damage and Attack Speed,投射物ダメージおよびアタックスピード
+Accuracy,命中力
+Accuracy and Attack Speed,命中およびアタックスピード
+Acuity,鋭さ
+Accuracy and Elemental Resistances,命中および元素耐性
+Weathered Hunter,歴戦の狩人
+Depth Perception,空間認識能力
+Ballistic Mastery,Ballistic Mastery
+WITCH,ウィッチ
+Energy Shield and Mana Regeneration,エナジーシールドおよびマナ自動回復
+TEMPLAR,テンプラー
+Damage and Mana,ダメージおよびマナ
+Reduced Mana Reservation,Reduced Mana Reservation
+Sovereignty,支配権
+Aura Mastery,オーラマスタリー
+Heart of the Warrior,戦士の心
+Versatility,多才
+Melee Area of Effect and Damage,近接効果範囲およびダメージ
+Brinkmanship,瀬戸際戦術
+Shield Defences and Attack Damage with Shields,Shield Defences and Attack Damage with Shields
+Shield Block and Attack Speed,Shield Block and Attack Speed
+Command of Steel,コマンドオブスチール
+Serpent Stance,蛇の構え
+Attack Damage,アタックダメージ
+Influence,インフルエンス
+Weapon Artistry,武芸
+Aspect of the Lynx,ヤマネコの化身
+Attack Damage and Accuracy,アタックダメージおよび命中力
+Ambidexterity,両利き
+Blade Barrier,ブレードバリア
+Duel Wield Mastery,Duel Wield Mastery
+Essence Glutton,本質を貪る者
+Critical Strike Chance,クリティカル率
+Heartseeker,Heartseeker
+Destroyer,破壊者
+Two Handed Attack Speed,両手武器アタックスピード
+Bow Critical Strike Chance,Bow Critical Strike Chance
+Lethality,致死性
+Bow Critical Strike Chance and Multiplier,弓クリティカル率およびダメージ倍率
+Fire Damage and Cast Speed with Fire Skills,Fire Damage and Cast Speed with Fire Skills
+Fire Damage and Fire Conversion,Fire Damage and Fire Conversion
+Explosive Impact,爆発の衝撃
+Swagger,闊歩
+Dual Wield Attack Speed and Block,二刀流アタックスピードおよびブロック
+Mana and Life,マナおよびライフ
+Heart and Soul,全身全霊
+Practical Application,応用
+Avoid Interruption while Casting,キャスト中の妨害無効化確率
+SIX,六
+Physical and Chaos Damage and Life,物理・混沌ダメージおよびライフ
+Fire and Cold Damage,火・冷気ダメージ
+Fire Damage and Fire Skill Critical Multiplier,Fire Damage and Fire Skill Critical Multiplier
+Cold Damage and Cold Skill Critical Strike Chance,Cold Damage and Cold Skill Critical Strike Chance
+Snowforged,スノーフォージ
+Cold and Fire Mastery,Cold and Fire Mastery
+Master Toxicist,マスタートキシシスト
+Melee Critical Strike Multiplier,近接クリティカルダメージ倍率
+Disemboweling,腹裂き
+Melee Critical Strike Chance,近接クリティカル率
+Melee Critical Mastery,Melee Critical Mastery
+Damage Over Time and Life Regeneration,Damage Over Time and Life Regeneration
+Damage Over Time,継続ダメージ
+Growth and Decay,成長と衰退
+Chaos Mastery,混沌マスタリー
+Lethal Assault,Lethal Assault
+"Evasion, Energy Shield, Life and Resistances","Evasion, Energy Shield, Life and Resistances"
+Resourcefulness,才覚
+"Damage, Area and Projectile Speed","Damage, Area and Projectile Speed"
+Battle Rouse,戦闘鼓舞
+Hematophagy,吸血
+Coordination,コーディネーション
+Minion Attack Speed and Accuracy,Minion Attack Speed and Accuracy
+Spiritual Command,霊的支配
+Brand Damage,ブランドダメージ
+Explosive Runes,爆破のルーン
+Sleight of Hand,手練
+Physical Damage,物理ダメージ
+Will of Blades,刃の意思
+Mine Throwing and Detonation Speed,Mine Throwing and Detonation Speed
+Mine Damage and Reduced Mana Reservation,Mine Damage and Reduced Mana Reservation
+Volatile Mines,ボラタイルマイン
+Mine Damage and Duration,マインダメージおよび持続時間
+Revenge of the Hunted,窮鼠噛狸
+Utmost Intellect,最高の知恵
+Physique,体格
+Sword Attack Speed and Accuracy,Sword Attack Speed and Accuracy
+Sword Damage and Accuracy,剣ダメージおよび命中
+Honed Edge,Honed Edge
+Master of the Arena,闘技場の主
+Arcane Vision,Arcane Vision
+Art of the Gladiator,剣闘士の術
+Essence Sap,エッセンスサップ
+Agility,軽快さ
+Alacrity,敏活さ
+Berserking,狂化する
+"Attack and Cast Speed, Accuracy",アタック・キャストスピードおよび命中
+Discipline and Training,修業と訓練
+"Elemental Damage, Status Ailment Chance",元素ダメージおよび状態異常付与確率
+Beacon of Ruin,破滅の目印
+Shaper of Desolation,荒廃させし者
+Liege of the Primordial,原初の領主
+Mastermind of Discord,不調和の黒幕
+Pendulum of Destruction,Pendulum of Destruction
+Paragon of Calamity,Paragon of Calamity
+Elemancer,Elemancer
+Sentinel,歩哨
+"Projectile Damage, Attack Speed",投射物ダメージおよびアタックスピード
+Fast and Deadly,Fast and Deadly
+Ricochet,跳弾
+"Projectile Damage, Accuracy",投射物ダメージおよび命中
+Endless Munitions,尽きない弾薬
+"Projectile Damage, Critical Strike Chance",投射物ダメージおよびクリティカル率
+Rupture,裂傷
+Powerful Precision,強力な正確さ
+Gathering Winds,風集め
+Proficiency,技能
+Block,ブロック
+Block and Block Recovery,ブロックおよびブロック回復
+Poison and Bleed Damage,毒・出血ダメージ
+Poison and Bleed Chance,Poison and Bleed Chance
+Dirty Techniques,汚いテクニック
+Two Handed Melee Critical Strike Chance and Accuracy,両手武器クリティカル率および命中
+Titanic Impacts,巨大な衝撃
+"Evasion, Frenzy Charge Duration","Evasion, Frenzy Charge Duration"
+Way of the Poacher,Way of the Poacher
+Avatar of the Slaughter,Avatar of the Slaughter
+"Evasion, Onslaught Duration","Evasion, Onslaught Duration"
+Rapid Assault,ラピッドアサルト
+Avatar of the Chase,Avatar of the Chase
+"Evasion, Movement Speed","Evasion, Movement Speed"
+Quartz Infusion,Quartz Infusion
+Avatar of the Veil,Avatar of the Veil
+Minion Damage and Area of Effect,Minion Damage and Area of Effect
+Fearsome Force,恐ろしい軍隊
+Minion Life and Block,Minion Life and Block
+Decay Ward,腐敗の守り
+Minion Life and Spell Block,Minion Life and Spell Block
+Arcanist's Dominion,秘術師の支配権
+Thief's Craft,泥棒の悪知恵
+Life and Reduced Mana Cost,Life and Reduced Mana Cost
+Tireless,持続のウォークライ
+Minion Damage and Movement Speed,ミニオンダメージおよび移動スピード
+Ravenous Horde,貪欲な軍勢
+Mana Flasks,マナフラスコ
+Essence Extraction,エキスの抽出
+Chaos Damage with Attacks and Poison Damage Multiplier,Chaos Damage with Attacks and Poison Damage Multiplier
+Toxic Strikes,トキシックストライク
+Righteous Army,正義の軍団
+Redemption,贖罪
+Spiritual Aid,霊的援助
+Whispers of Doom,ウィスパーオブドゥーム
+Curse Cast Speed,呪いキャストスピード
+Retribution,天罰
+"Armour and Energy Shield, Block Chance","Armour and Energy Shield, Block Chance"
+Time of Need,タイムオブニード
+Radiant Faith,輝く信仰
+Bastion of Hope,希望の要塞
+"Armour and Energy Shield, Life Regeneration",アーマー・エナジーシールドおよびライフ自動回復
+"Armour and Energy Shield, Aura Effect",アーマー・エナジーシールドおよびオーラ効果
+"Armour and Energy Shield, Charge Duration","Armour and Energy Shield, Charge Duration"
+Harmony of Purpose,目的の調和
+Unwavering Faith,揺ぎ無い信仰
+"Armour and Energy Shield, Minion Damage",アーマー・エナジーシールドおよびミニオンダメージ
+Radiant Crusade,光り輝く聖戦
+Unwavering Crusade,揺ぎ無い聖戦
+"Weapon Elemental Damage, Status Ailment Chance",武器元素ダメージおよび状態異常発生率
+Weapon Elemental Damage,武器元素ダメージ
+Primeval Force,原始の力
+Weapon Elemental Mastery,Weapon Elemental Mastery
+Wisdom of the Glade,木漏れ日の知恵
+Galvanic Hammer,ガルバニックハンマー
+Mace Critical Strike Chance and Multiplier,メイスクリティカル率・ダメージ倍率
+Sceptre Mastery,Sceptre Mastery
+Mace Elemental Damage and Accuracy,メイス元素ダメージおよび命中
+Pain Forger,苦痛の鍛造者
+Hard Knocks,人生経験
+Skittering Runes,スキッタリングルーン
+Damage Over Time and Chaos Damage Over Time Multiplier,Damage Over Time and Chaos Damage Over Time Multiplier
+Atrophy,萎縮
+Physical Damage and Attack and Cast Speed,物理ダメージおよびアタック・キャストスピード
+Force Shaper,フォースシェーパー
+Physical and Chaos Damage,物理・混沌ダメージ
+Physical and Chaos Mastery,Physical and Chaos Mastery
+"Armour and Evasion, Taunt Duration",アーマー・回避力および挑発持続時間
+"Armour and Evasion, Attack Damage",アーマー・回避力およびアタックダメージ
+"Armour and Evasion, Aura Effect",アーマー・回避力およびオーラ効果
+Fortitude,不屈の精神
+Unstoppable Hero,止まらぬ英雄
+Conqueror,Conqueror
+Worthy Foe,ふさわしい相手
+Inspirational,鼓舞
+"First to Strike, Last to Fall",先手必勝
+"Armour and Evasion, Impale Effect","Armour and Evasion, Impale Effect"
+Master of Metal,金属の支配者
+Attack and Cast Speed,アタック・キャストスピード
+Warcry Cooldown Speed,ウォークライクールダウンスピード
+Warcry Duration,ウォークライ持続時間
+Battle Cry,Battle Cry
+Finesse,技巧
+Attack Speed and Poison Chance,Attack Speed and Poison Chance
+"Attack Speed, Poison Damage and Poison Damage Multiplier","Attack Speed, Poison Damage and Poison Damage Multiplier"
+Attack Speed and Poison Duration,アタックスピードおよび毒持続時間
+Swift Venoms,即効性の毒
+Poison Mastery,毒マスタリー
+Might,Might
+Energy Shield Leech,エナジーシールドリーチ
+Increased Energy Shield Leeched,エナジーシールドリーチ上昇
+Ethereal Feast,霊的な馳走
+Movement Speed,移動速度
+Assassination,暗殺
+Trap and Mine Throwing Speed,トラップ・マイン投擲スピード
+Twin Terrors,対なる恐怖
+Dual Wield Critical Strike Chance and Accuracy,Dual Wield Critical Strike Chance and Accuracy
+Dual Wield Critical Strike Multiplier and Accuracy,二刀流クリティカルダメージ倍率および命中
+Dual Wield Critical Strike Chance,二刀流クリティカル率
+Doom Cast,破滅の魔法
+Spell Critical Mastery,Spell Critical Mastery
+Golem's Blood,ゴーレムの血
+Evasion and Elemental Resistances,回避力および元素耐性
+Survivalist,サバイバリスト
+Thick Skin,分厚い皮膚
+Blast Radius,爆発半径
+Necromantic Aegis,ネクロマンティックイージス
+Channelling Attack Damage and Speed,Channelling Attack Damage and Speed
+Channelling Attack Damage,Channelling Attack Damage
+Charging Offensive,Charging Offensive
+One Handed Melee Damage and Life Leech,One Handed Melee Damage and Life Leech
+One Handed Melee Damage and Attack Speed,One Handed Melee Damage and Attack Speed
+Gladiator's Perseverance,剣闘士の忍耐力
+One Hand Mastery,One Hand Mastery
+Acrobatics Improvement,Acrobatics Improvement
+Charisma,カリスマ
+Leadership,リーダーシップ
+Coldhearted Calculation,冷酷な計算
+Piercing Shots,貫通弾
+Fangs of the Viper,毒蛇の牙
+Forces of Nature,自然の力
+Trap and Mine Damage and Throwing Speed,トラップ・マインダメージおよび投擲スピード
+Trap and Mine Critical Strike Chance,Trap and Mine Critical Strike Chance
+High Explosives,高性能爆弾
+Trap and Mine Critical Strike Multiplier,Trap and Mine Critical Strike Multiplier
+Clever Construction,緻密な設計
+Trap and Mine Mastery,Trap and Mine Mastery
+Devastating Devices,破壊装置
+Mana Regeneration and Intelligence,マナ自動回復および知性
+Spell Damage and Intelligence,スペルダメージおよび知性
+Projectile Damage and Dexterity,投射物ダメージおよび器用さ
+Attack Speed and Dexterity,アタックスピードおよび器用さ
+Life and Strength,ライフおよび筋力
+Melee Damage and Strength,Melee Damage and Strength
+Seven,七
+True Strike,正確な一撃
+Life and Elemental Resistances,ライフおよび元素耐性
+Barbarism,蛮行
+Elemental Resistances and Attack Speed with Shields,Elemental Resistances and Attack Speed with Shields
+Weapon Elemental Damage and Attack Speed with Shield,Weapon Elemental Damage and Attack Speed with Shield
+Command of the Elements,Command of the Elements
+"Weapon Elemental Damage, Elemental Resistance with Shields and Shield Defences","Weapon Elemental Damage, Elemental Resistance with Shields and Shield Defences"
+Mine Damage,マインダメージ
+Mine Damage and Throwing Speed,Mine Damage and Throwing Speed
+Destructive Apparatus,破壊の装置
+Mine Throwing Speed,マイン投擲スピード
+Melding,融合
+Mana and Life Regeneration,マナおよびライフ自動回復
+Totem Damage,トーテムダメージ
+Shamanistic Fury,シャーマンの怒り
+"Totem and Brand Damage, Totem Placement Speed","Totem and Brand Damage, Totem Placement Speed"
+"Totem Life and Physical Damage Reduction, Brand Duration","Totem Life and Physical Damage Reduction, Brand Duration"
+"Totem Life and Elemental Resistances, Brand Duration",トーテムライフ・元素耐性およびブランド持続時間
+Primal Manifestation,原始の顕現
+"Totem Duration, Attack and Cast Speed","Totem Duration, Attack and Cast Speed"
+Totem Placement Speed and Duration,トーテム設置スピードおよび持続時間
+Totemic Zeal,トーテミックジール
+Trap Throw Speed and Damage,Trap Throw Speed and Damage
+Master Sapper,マスターサッパー
+Bow Damage and Movement Speed,Bow Damage and Movement Speed
+Bow Damage and Evasion,弓ダメージおよび回避力
+Avatar of the Hunt,狩りの化身
+Path of the Savant,学者の道
+Shaper,シェーパー
+Path of the Marauder,マローダーの道
+Passive Point,パッシブポイント
+Marauder Ascendancy,マローダーアセンダンシー
+Harrier,ハリアー
+Energy Shield and Minion Life,Energy Shield and Minion Life
+Chaos Damage and Chaos Damage Over Time Multiplier,Chaos Damage and Chaos Damage Over Time Multiplier
+Chaos Resistance and Chaos Damage,Chaos Resistance and Chaos Damage
+Method to the Madness,Method to the Madness
+Melee Attack Speed,近接アタックスピード
+Annihilation,壊滅
+"Ash, Frost and Storm",灰・霜・嵐
+Mana and Flasks,マナおよびフラスコ
+Arcane Chemistry,アーケインケミストリー
+Energy Shield and Mana,エナジーシールドおよびマナ
+Insightfulness,洞察力
+Energy Shield and Mana Mastery,Energy Shield and Mana Mastery
+Master of Force,Master of Force
+Life and Life on Kill,ライフおよび撃破時ライフ
+Hired Killer,殺し屋
+Mana and Mana Gain on Killing Blow,Mana and Mana Gain on Killing Blow
+Thrill Seeker,Thrill Seeker
+"Trap and Mine Damage, Movement Speed","Trap and Mine Damage, Movement Speed"
+Pyromaniac,パイロマニア
+Born in the Shadows,影より出でし者
+"Trap and Mine Damage, Elemental Resistances","Trap and Mine Damage, Elemental Resistances"
+Explosives Expert,Explosives Expert
+"Trap and Mine Damage, Mine Throwing Speed","Trap and Mine Damage, Mine Throwing Speed"
+Bomb Specialist,爆弾専門家
+"Trap and Mine Damage, Trap Throwing Speed","Trap and Mine Damage, Trap Throwing Speed"
+Perfect Crime,完全犯罪
+Demolitions Specialist,爆破専門家
+Chain Reaction,連鎖反応
+"Armour, Evasion and Life",アーマー・回避力およびライフ
+Attack Damage with Shield,盾装備時アタックダメージ
+Defences with Shield,盾装備時防御力
+Defiance,反抗
+Sanctity,神聖
+Cold and Lightning Damage,冷気および雷ダメージ
+Cold Damage and Cold Conversion,Cold Damage and Cold Conversion
+Lightning Damage and Lightning Conversion,Lightning Damage and Lightning Conversion
+Storm Weaver,ストームウィーヴァー
+Bleed Damage,出血ダメージ
+Bleed Damage Multiplier,出血ダメージ倍率
+Bleed Chance,出血付与確率
+Bloodletting,流血
+Bleeding Mastery,出血マスタリー
+Evasion and Blind Duration,Evasion and Blind Duration
+Evasion and Blind Avoidance,Evasion and Blind Avoidance
+Evasion and Blind Chance,Evasion and Blind Chance
+Silent Steps,サイレントステップ
+Attack Damage and Speed while Fortified,Attack Damage and Speed while Fortified
+Fortify Effect and Duration,Fortify Effect and Duration
+Rampart,城壁
+Fortify Mastery,堅牢化マスタリー
+Blast Cascade,Blast Cascade
+Mine and Trap Mastery,Mine and Trap Mastery
+"Armour, Endurance Charge Duration",アーマーおよびエンデュランスチャージ持続時間
+"Armour, Attack Speed",アーマーおよびアタックスピード
+"Armour, Stun Duration",アーマーおよびスタン持続時間
+Unyielding,不屈のライフ回収
+Undeniable,拒ませぬ者
+Unflinching,怯まない
+Unrelenting,不休の
+"Armour, Movement Speed",アーマーおよび移動スピード
+Unstoppable,止まらぬ
+Unbreakable,アンブレイカブル
+Dagger Damage and Leech,短剣ダメージおよびリーチ
+Stabbing Thirst,Stabbing Thirst
+"Physical Attack Damage, Life Leeched per Second","Physical Attack Damage, Life Leeched per Second"
+"Physical Attack Damage, Critical Strike Chance","Physical Attack Damage, Critical Strike Chance"
+"Physical Attack Damage, Attack Speed","Physical Attack Damage, Attack Speed"
+"Physical Attack Damage, Warcry Duration","Physical Attack Damage, Warcry Duration"
+War Bringer,戦を呼ぶ者
+Rite of Ruin,破滅の儀式
+Pain Reaver,Pain Reaver
+Flawless Savagery,Flawless Savagery
+Crave the Slaughter,虐殺の渇望
+Aspect of Carnage,殺戮の様相
+Blitz,Blitz
+Warcry Buff Effect,ウォークライバフ効果
+Words of Glory,Words of Glory
+"Ngamahu, Flame's Advance",進みし炎、ナマフ
+"Hinekora, Death's Fury",怒れる死、ヒネコラ
+"Ramako, Sun's Light",太陽の光　ラマコ
+"Energy Shield, Curse Effect",エナジーシールドおよび呪い効果
+"Energy Shield, Cold and Chaos Damage",エナジーシールドおよび冷気・混沌ダメージ
+"Energy Shield, Power Charge Duration",エナジーシールドおよびパワーチャージ持続時間
+"Energy Shield, Energy Shield Recharge Rate",エナジーシールドおよびエナジーシールドリチャージレート
+Profane Bloom,不浄な開花
+Malediction,Malediction
+Vile Bastion,卑劣な要塞
+Void Beacon,空虚な目印
+Forbidden Power,禁じられた力
+"Energy Shield, Chaos Damage over Time Multiplier","Energy Shield, Chaos Damage over Time Multiplier"
+"Energy Shield, Cold Damage over Time Multiplier","Energy Shield, Cold Damage over Time Multiplier"
+Withering Presence,ウィザリングプレゼンス
+Frigid Wake,極寒の目覚め
+Minion Damage and Life,ミニオンダメージおよびライフ
+"Minion Damage, Skill Duration",ミニオンダメージおよびスキル持続時間
+"Minion Damage, Mana",ミニオンダメージおよびマナ
+Mindless Aggression,心無き侵略
+Unnatural Strength,異常な強さ
+Bone Barrier,ボーンバリア
+Mistress of Sacrifice,生贄の女王
+Commander of Darkness,闇の指揮者
+"Minion Damage, Cast Speed",ミニオンダメージおよびキャストスピード
+Plaguebringer,疫病をもたらす者
+Corpse Pact,コープスパクト
+Trap Damage and Cooldown Recovery,Trap Damage and Cooldown Recovery
+Hasty Reconstruction,Hasty Reconstruction
+"Minion Damage, Aura Effect",ミニオンダメージおよびオーラ効果
+"Attack Damage, Critical Strike Chance",アタックダメージおよびクリティカル率
+"Attack Damage, Attack Speed",アタックダメージおよびアタックスピード
+"Attack Damage, Life Leech",アタックダメージおよびライフリーチ
+"Attack Damage, Area of Effect",アタックダメージおよび効果範囲
+Bane of Legends,伝説を滅ぼす者
+Overwhelm,圧倒
+Headsman,死刑執行人
+Endless Hunger,絶え間ない飢え
+Brutal Fervour,残忍な熱情
+Impact,衝撃
+"Attack Damage, Frenzy and Endurance Charge Duration",アタックダメージおよびフレンジー・エンデュランスチャージ持続時間
+Masterful Form,優れた型
+"Attack Speed, Physical Damage","Attack Speed, Physical Damage"
+"Attack Speed, Block Chance",アタックスピードおよびブロック率
+Attack Speed and One Handed Damage,アタックスピードおよび片手武器ダメージ
+Gratuitous Violence,理由なき暴力
+Blood in the Eyes,Blood in the Eyes
+Outmatch and Outlast,Outmatch and Outlast
+Painforged,Painforged
+Violent Retaliation,Violent Retaliation
+"Attack Speed, Movement Speed","Attack Speed, Movement Speed"
+Arena Challenger,Arena Challenger
+Righteous Providence,正義の摂理
+"Mana Regeneration, Spell Damage","Mana Regeneration, Spell Damage"
+"Mana Regeneration, Totem Placement Speed",マナ自動回復およびトーテム設置速度
+"Mana Regeneration, Mana",マナ自動回復およびマナ
+"Mana Regeneration, Power and Endurance Charge Duration","Mana Regeneration, Power and Endurance Charge Duration"
+Divine Guidance,神の導き
+Sanctuary of Thought,思考の聖域
+Pursuit of Faith,信仰の追求
+Ritual of Awakening,悟りの儀式
+Conviction of Power,力の確信
+Illuminated Devotion,悟りの信仰
+Arcane Blessing,アーケインブレッシング
+"Mana Regeneration, Brand Damage",マナ自動回復およびブランドダメージ
+Sign of Purpose,目的の印
+"Critical Strike Chance, Power Charge Duration",クリティカル率およびパワーチャージ持続時間
+Unstable Infusion,アンステイブルインフュージョン
+Deadly Infusion,Deadly Infusion
+Critical Strike Chance and Multiplier,クリティカル率・ダメージ倍率
+Ambush and Assassinate,Ambush and Assassinate
+Opportunistic,オポチューニスティック
+"Critical Strike Chance, Damage Over Time","Critical Strike Chance, Damage Over Time"
+Toxic Delivery,トキシックデリバリー
+Noxious Strike,Noxious Strike
+"Critical Strike Chance, Movement Speed","Critical Strike Chance, Movement Speed"
+Mistwalker,ミストウォーカー
+"Attack and Cast Speed, Frenzy Charge Duration","Attack and Cast Speed, Frenzy Charge Duration"
+Swift Killer,素早い殺し屋
+"Attack and Cast Speed, Damage Over Time",アタック・キャストスピードおよび継続ダメージ
+Patient Reaper,Patient Reaper
+"Attack and Cast Speed, Evasion and Energy Shield","Attack and Cast Speed, Evasion and Energy Shield"
+Escape Artist,脱出の名人
+"Attack and Cast Speed, Maximum Mana","Attack and Cast Speed, Maximum Mana"
+Prolonged Pain,Prolonged Pain
+Weave the Arcane,Weave the Arcane
+Harness the Void,無の制御
+Path of the Ranger,レンジャーの道
+Ranger Ascendancy,レンジャーアセンダンシー
+Path of the Witch,ウィッチの道
+Witch Ascendancy,ウィッチアセンダンシー
+Path of the Duelist,デュエリストの道
+Strength and Dexterity,筋力および器用さ
+Duelist Ascendancy,デュエリストアセンダンシー
+Path of the Shadow,シャドウの道
+Dexterity and Intelligence,器用さおよび知性
+Shadow Ascendancy,シャドウアセンダンシー
+Path of the Templar,テンプラーの道
+Strength and Intelligence,筋力および知性
+Templar Ascendancy,テンプラーアセンダンシー
+Poison Damage and Poison Damage Multiplier,Poison Damage and Poison Damage Multiplier
+Fatal Toxins,致死毒
+Poison Damage and Duration,Poison Damage and Duration
+Trap Throwing Speed and Trigger Area,トラップ投擲スピード・発動範囲
+Expeditious Munitions,迅速な弾薬
+Overcharged,オーバーチャージ
+Charge on Kill,撃破時チャージ獲得
+Bleed Damage and Bleed Damage Multiplier,Bleed Damage and Bleed Damage Multiplier
+Bleed Damage Multiplier and Bleed Chance,Bleed Damage Multiplier and Bleed Chance
+Red Storm,Red Storm
+Damage and Energy Shield,ダメージおよびエナジーシールド
+Attack and Minion Damage,アタックおよびミニオンダメージ
+Impale Effect and Attack Speed,Impale Effect and Attack Speed
+Impale Chance and Physical Attack Damage,串刺し確率および物理アタックダメージ
+Forceful Skewering,強力な刺突
+Brand Damage and Range,Brand Damage and Range
+Brand Frequency and Duration,Brand Frequency and Duration
+Runesmith,ルーンスミス
+Brand Mastery,ブランドマスタリー
+Light Eater,光を喰らう者
+Channelling Speed,チャネリングスピード
+Lucidity,明晰さ
+Dual Wield Cast Speed,二刀流キャストスピード
+Dual Wield Cast Speed and Movement Skill Cooldown Recovery,二刀流キャストスピードおよび移動スキルクールダウン短縮
+Dual Wield Spell Damage and Movement Speed,二刀流スペルダメージおよび移動スピード
+Dark Arts,闇の術
+Arcane Dual Wield Mastery,Arcane Dual Wield Mastery
+Dual Wield Attack and Cast Speed and Block,二刀流アタック・キャストスピードおよびブロック
+Dual Wield Spell Damage and Attack and Cast Speed,Dual Wield Spell Damage and Attack and Cast Speed
+Dual Wield Spell Damage and Spell Block,二刀流スペルダメージおよびスペルブロック
+Mysticism,神秘主義
+Staff Spell Damage and Chaos Resistance,Staff Spell Damage and Chaos Resistance
+Staff Spell Damage,スタッフスペルダメージ
+Staff Spell Damage and Spell Block,スタッフスペルダメージおよびスペルブロック
+Staff Spell Damage and Block,スタッフスペルダメージおよびブロック
+Enigmatic Defence,謎めいた防御
+Arcane Staff Mastery,Arcane Staff Mastery
+Staff Area of Effect,スタッフ効果範囲
+Staff Area of Effect and Attack and Cast Speed,Staff Area of Effect and Attack and Cast Speed
+Enigmatic Reach,謎めいた領域
+Shield Spell Damage,シールド装備時のスペルダメージ
+Shield Spell Damage and Spell Block,シールド装備時スペルダメージおよびスペルブロック
+"Shield Spell Damage, Block Recovery and Energy Shield","Shield Spell Damage, Block Recovery and Energy Shield"
+Arcane Guarding,アーケインガード
+Arcane Shield Mastery,Arcane Shield Mastery
+Shield Spell Damage and Block,Shield Spell Damage and Block
+Shield Spell Damage and Cast Speed,Shield Spell Damage and Cast Speed
+Arcane Swiftness,Arcane Swiftness
+Spell Area of Effect and Damage,Spell Area of Effect and Damage
+Arcane Expanse,アーケインエクスパンス
+Evasion and Movement Speed,回避力および移動スピード
+Evasion and Movement Skill Cooldown Recovery,回避力および移動スキルクールダウン短縮
+Fleetfoot,俊足
+Evasion and Phasing,回避力および透明化
+Freedom of Movement,移動の自由
+Armour and Endurance Charges,Armour and Endurance Charges
+Inexorable,動かざる者
+Armour and Guard Skill Cooldown Recovery,アーマーおよびガードスキルクールダウン短縮
+Guard Skill Cooldown Recovery and Physical Damage Reduction,Guard Skill Cooldown Recovery and Physical Damage Reduction
+Adamant,断固たる
+Dismembering,八つ裂き
+Fortify Effect and Melee Damage,Fortify Effect and Melee Damage
+Fortify Effect and Armour,Fortify Effect and Armour
+Steadfast,不動の
+Channelling Attack Speed and Stun Avoidance,Channelling Attack Speed and Stun Avoidance
+Unpredictable Offensive,Unpredictable Offensive
+Impale Effect,串刺し効果
+Impale Chance,串刺し確率
+Swift Skewering,Swift Skewering
+Impale Mastery,串刺しマスタリー
+Damage and Critical Strikes against Blinded Enemies,Damage and Critical Strikes against Blinded Enemies
+Blind Chance,盲目付与確率
+Dazzling Strikes,燦爛たる一撃
+Attack Blind Mastery,Attack Blind Mastery
+Movement Speed per Frenzy Charge,フレンジーチャージごとに移動スピード
+Evasion per Frenzy Charge,フレンジーチャージごとに回避力
+Attack Speed per Frenzy Charge,フレンジーチャージごとにアタックスピード
+Disciple of the Slaughter,虐殺の使徒
+Stun Duration per Endurance Charge,エンデュランスチャージごとにスタン持続時間
+Area of Effect per Endurance Charge,エンデュランスチャージごとに効果範囲
+Disciple of the Unyielding,不屈の使徒
+Frenzy and Endurance Charge Mastery,Frenzy and Endurance Charge Mastery
+Projectile Attack Damage,Projectile Attack Damage
+Projectile Attack Damage and Speed,投射物アタックダメージ・スピード
+Projectile Speed and Attack Damage,Projectile Speed and Attack Damage
+Longshot,ロングショット
+Projectile Attack Mastery,Projectile Attack Mastery
+Utmost Swiftness,最高の素早さ
+Utmost Might,最高の力
+Axe Damage and Accuracy,斧ダメージおよび命中
+Harvester of Foes,敵を刈る者
+Axe Damage and Critical Strike Chance,斧ダメージおよびクリティカル率
+Feller of Foes,敵を伐る者
+Mace Damage and Accuracy,メイスダメージおよび命中
+Mace Accuracy and Attack Speed,メイス命中およびアタックスピード
+Bludgeon Blitz,Bludgeon Blitz
+Mace Damage and Critical Strike Multiplier,Mace Damage and Critical Strike Multiplier
+Mace Damage and Critical Strike Chance,メイスダメージおよびクリティカル率
+Blacksmith's Clout,鍛冶屋の鍛錬
+Spinecruncher,スパインクランチャー
+Sword Damage and Area of Effect,Sword Damage and Area of Effect
+Bladedancer,ブレイドダンサー
+Two Handed Melee Damage and Stun Duration,両手武器近接ダメージおよびスタン持続時間
+Two Handed Melee Damage and Reduced Enemy Stun Threshold,両手武器近接ダメージおよび敵スタン閾値低下
+Kinetic Impacts,動体の衝突
+Shield Damage and Defences,盾装備時ダメージおよび防御力
+Shield Damage and Block,盾装備時ダメージおよびブロック率
+Aggressive Bastion,攻撃的城壁
+Staff Damage and Block,スタッフダメージ・ブロック
+Staff Damage and Armour,スタッフダメージ・アーマー
+Steelwood Stance,鋼木の構え
+Cursed Concoction,Cursed Concoction
+Mana and Spell Damage,マナおよびスペルダメージ
+Prodigal Perfection,浪費によりなされた完成
+Mana and Spell Block,マナおよびスペルブロック率
+Mystic Bulwark,神秘の砦
+Golem Life and Buff Effect,ゴーレムライフおよびバフ効果
+Golem Commander,ゴーレムコマンダー
+Mana Flasks and Flask Duration,Mana Flasks and Flask Duration
+Aqueous Accelerant,Aqueous Accelerant
+Mine Damage and Area of Effect,Mine Damage and Area of Effect
+Blast Waves,爆風
+Efficient Explosives,高性能爆弾
+Dire Torment,悲惨な苦痛
+Critical Ailment Damage Over Time Multiplier,クリティカル時状態異常継続ダメージ倍率
+Spell Critical Strike Chance and Critical Ignite Damage Multiplier,Spell Critical Strike Chance and Critical Ignite Damage Multiplier
+Searing Heat,灼熱の熱
+Way of the Warrior,戦士の道
+Hardened Scars,固まった傷跡
+Cleansed Thoughts,浄化された思考
+Aspect of Stone,石の化身
+Deadly Inclinations,殺しの傾向
+Mystic Talents,神秘的な才能
+Thunderous Salvos,Thunderous Salvos
+Vengeant Cascade,復讐の連鎖
+Tribal Fury,部族の怒り
+Tenacity,不撓不屈
+Tranquility,静寂
+Crusader,クルセイダー
+"Physical Attack Damage, Warcry Speed","Physical Attack Damage, Warcry Speed"
+"Life Regeneration, Endurance Charge on Kill","Life Regeneration, Endurance Charge on Kill"
+"Life Regeneration, Area of Effect","Life Regeneration, Area of Effect"
+Position Proxy,ポジションプロキシ
+Small Jewel Socket,ジュエルソケット (小)
+Medium Jewel Socket,ジュエルソケット (中)
+Elemental Damage and Ailment Effect,Elemental Damage and Ailment Effect
+Large Jewel Socket,ジュエルソケット (大)
+Persistence,不屈
+"Totem Attack and Cast Speed, Brand Cast Speed",トーテムアタック・キャストスピードおよびブランドキャストスピード
+Basic Jewel Socket,基本ジュエルソケット
+Exerted Attack Damage,奮起アタックダメージ
+Warcry Cooldown Recovery,ウォークライクールダウン短縮
+Warcry Speed and Exerted Attack Damage,ウォークライスピードおよび奮起アタックダメージ
+Escalation,エスカレーション
+Warcry Mastery,ウォークライマスタリー
+Staff Elemental Damage and Penetration,スタッフ元素ダメージ・耐性貫通
+Impale Effect with Two Handed Weapons,両手武器串刺し効果
+Impale Duration and Chance with Two Handed Weapons,Impale Duration and Chance with Two Handed Weapons
+Harpooner,銛を打つ者
+Warcry Speed and Duration,Warcry Speed and Duration
+Warcry Cooldown Recovery and Duration,Warcry Cooldown Recovery and Duration
+Warcry Speed and Area of Effect,Warcry Speed and Area of Effect
+Warcry Cooldown Recovery and Area of Effect,ウォークライクールダウン解消および効果範囲
+Natural Authority,天性の威厳
+Channelling Damage and Infusion Effect,Channelling Damage and Infusion Effect
+Strikes Mastery,Strikes Mastery
+Melee Damage and Strike Range,近接ダメージおよびストライク範囲
+Melee Damage and Splash Area of Effect,近接ダメージ・スプラッシュ効果範囲
+"Staff Damage, Stun Duration and Block","Staff Damage, Stun Duration and Block"
+"Staff Damage, Armour and Stun Threshold","Staff Damage, Armour and Stun Threshold"
+Mace Critical Strike Multiplier,メイスクリティカルダメージ倍率
+Fire Damage and Area of Effect,火ダメージおよび効果範囲
+Fire Damage and Cast Speed,火ダメージおよびキャストスピード
+Chance to Ignite and Ignite Speed,Chance to Ignite and Ignite Speed
+Armour and Life,アーマーおよびライフ
+Deep Breaths,深呼吸
+Totem Attack and Cast Speed,トーテムアタック・キャストスピード
+Totem Damage and Placement Speed,トーテムダメージ・設置スピード
+"Totem Life, Duration and Elemental Resistances","Totem Life, Duration and Elemental Resistances"
+"Totem Life, Duration and Physical Damage Reduction","Totem Life, Duration and Physical Damage Reduction"
+Cold Damage and Cold Ailment Effect,冷気ダメージおよび冷気系状態異常効果
+Lightning Damage and Lightning Ailment Effect,Lightning Damage and Lightning Ailment Effect
+Bannerman,旗手
+Aura Duration,Aura Duration
+Chill and Freeze Resistance,冷却および凍結耐性
+Ignite Resistance,発火耐性
+Shock Resistance,感電耐性
+Anointed Flesh,聖別されし肉体
+Chaos Damage and Withered Expiry Rate,混沌ダメージおよび衰弱効果消失速度
+Chaos Damage Penetration,Chaos Damage Penetration
+Wand Elemental Damage and Penetration,ワンド元素ダメージ・耐性貫通
+Combat Control,Combat Control
+Mana and Guard Skill Duration,Mana and Guard Skill Duration
+Mana and Guard Skill Cooldown Recovery,マナおよびガードスキルクールダウン短縮
+Seal Generation Speed,シール生成速度
+Bleed Damage and Chance,出血ダメージおよび出血確率
+Curse and Power Charge Mastery,Curse and Power Charge Mastery
+Faster Doom Gain,Faster Doom Gain
+Admonisher,忠告者
+Warcry Speed,ウォークライスピード
+Warcry Speed and Cooldown Recovery,Warcry Speed and Cooldown Recovery
+"Axe Damage and Accuracy, Impale Chance","Axe Damage and Accuracy, Impale Chance"
+Mana Regeneration and Increased Mana Cost,Mana Regeneration and Increased Mana Cost
+Forethought,用心
+Mana Regeneration and Reduced Mana Cost,マナ自動回復およびマナコスト低下
+Mana Cost Mastery,Mana Cost Mastery
+Attack Speed and Rage ,Attack Speed and Rage 
+Damage against Cursed Enemies,呪われた敵に対してのダメージ
+Reduced Mana Reservation of Curse Skills,Reduced Mana Reservation of Curse Skills
+Warcry Cooldown Recovery and Exerted Attack Damage,ウォークライクールダウン短縮および奮起アタックダメージ
+Measured Fury,慎重な怒り
+Physical Damage and Reflect Damage Taken,Physical Damage and Reflect Damage Taken
+Risk Awareness,Risk Awareness
+Totem Damage and Attack Speed,Totem Damage and Attack Speed
+Surveillance,監視
+Panopticon,Panopticon
+Totem Life and Physical Damage Reduction,Totem Life and Physical Damage Reduction
+"Fire Damage, Ignite Chance and Ignite Duration","Fire Damage, Ignite Chance and Ignite Duration"
+Two Handed Melee Accuracy,両手武器近接命中
+Mana and Aura Area of Effect,マナおよびオーラ効果範囲
+Brand Duration,ブランド持続時間
+Brand Equity,ブランドイクイティ
+Brand Recall Cooldown Recovery,ブランドリコールクールダウン短縮
+Guard Skill Cooldown Recovery and Duration,Guard Skill Cooldown Recovery and Duration
+"Avoid Interruption while Casting, Strength and Dexterity","Avoid Interruption while Casting, Strength and Dexterity"
+Lightning Damage and Lightning Ailment Duration,Lightning Damage and Lightning Ailment Duration
+Damage while you have a Herald,ヘラルド使用時ダメージ
+Herald Buff Effect,ヘラルドバフ効果
+Herald Mastery,ヘラルドマスタリー
+Discord Artisan,不調和の職人
+Reduced Mana Reservation of Heralds,Reduced Mana Reservation of Heralds
+Duration Mastery,持続時間マスタリー
+Reduced Skill Duration,スキル持続時間減少
+Window of Opportunity,絶好の機会
+"Cold Damage, Cold Ailment Duration","Cold Damage, Cold Ailment Duration"
+"Cold Damage, Cold Damage Over Time Multiplier, Cold Ailment Effect","Cold Damage, Cold Damage Over Time Multiplier, Cold Ailment Effect"
+Gladiatoral Combat,Gladiatoral Combat
+Wand Damage and Attack Speed,ワンドダメージおよびアタックスピード
+Stance Skill Cooldown Recovery,スタンススキルクールダウン解消
+Area of Effect in Sand Stance and Damage in Blood Stance,Area of Effect in Sand Stance and Damage in Blood Stance
+Versatile Stance,Versatile Stance
+Two Handed Melee Critical Strike Multiplier and Accuracy,Two Handed Melee Critical Strike Multiplier and Accuracy
+Elemental Damage and Reflect Damage Taken,Elemental Damage and Reflect Damage Taken
+Exposure Tolerance,Exposure Tolerance
+Shield Block,盾ブロック
+Shock Chance and Lightning Ailment Effect,Shock Chance and Lightning Ailment Effect
+"Shock Chance, Lightning Ailment Effect and Duration","Shock Chance, Lightning Ailment Effect and Duration"
+Axe Attack Speed and Rage,Axe Attack Speed and Rage
+"Physical Bow Damage, Chance to Bleed and Faster Bleed","Physical Bow Damage, Chance to Bleed and Faster Bleed"
+Sword Damage and Melee Range,剣ダメージおよび近接攻撃距離
+Damage if Consumed a Corpse,死体消費時のダメージ
+Corpse Life,死体のライフ
+Corpses Mastery,Corpses Mastery
+Undertaker,埋葬人
+Weapon Fire Damage and Ignite Chance,Weapon Fire Damage and Ignite Chance
+"Weapon Fire Damage, Ignite Duration and Ignite Chance","Weapon Fire Damage, Ignite Duration and Ignite Chance"
+Weapon Fire Damage and Burning Damage Multiplier,Weapon Fire Damage and Burning Damage Multiplier
+Ignite Attacks Mastery,Ignite Attacks Mastery
+Burning Brutality,燃える蛮行
+Area Spells Mastery,Area Spells Mastery
+Intensity,猛烈
+Damage against Marked Enemy,呪印を付与した敵に対するダメージ
+Marked for Death,死の呪印
+Lightning Damage and Cast Speed,雷ダメージおよびキャストスピード
+Chaos Damage Over Time Multiplier,混沌継続ダメージ倍率
+Brand Damage and Cast Speed,Brand Damage and Cast Speed
+Brand Damage and Duration,ブランドダメージおよび持続時間
+Brand Range and Brand Recall Cooldown Recovery,ブランド範囲およびブランドリコールクールダウン短縮
+Life and Elemental Ailment Avoidance,ライフおよび元素系状態異常無効化確率
+Chance to Poison and Poison Damage Multiplier,Chance to Poison and Poison Damage Multiplier
+Chance to Poison with Spells,スペル毒付与確率
+Poison Damage and Cast Speed,毒ダメージおよびキャストスピード
+Poison Damage Multiplier with Spells,Poison Damage Multiplier with Spells
+Serpentine Spellslinger,猛毒の魔法使い
+Bow Attack Speed and Accuracy,弓アタックスピードおよび命中
+One Handed Damage,片手武器ダメージ
+Elemental Resistance with Shields and Shield Defences,Elemental Resistance with Shields and Shield Defences
+Critical Strike Chance against Marked Enemy,Critical Strike Chance against Marked Enemy
+Marked Enemy Reduced Accuracy,Marked Enemy Reduced Accuracy
+Mark the Prey,獲物の呪印
+Mark Mastery,呪印マスタリー
+Adjacent Animosity,隣接の敵意
+Weapon Lightning Damage and Lightning Ailment Effect,Weapon Lightning Damage and Lightning Ailment Effect
+Weapon Lightning Damage and Shock Chance,Weapon Lightning Damage and Shock Chance
+Shocking Strikes,Shocking Strikes
+"Bow Damage, Chance to Poison and Faster Poison","Bow Damage, Chance to Poison and Faster Poison"
+Evasion and Elusive Effect,Evasion and Elusive Effect
+No Witnesses,目撃者なし
+Shield Cast Speed,シールド装備時のキャストスピード
+Poison Chance,毒確率
+Poison Damage and Chance,毒ダメージおよび付与確率
+Poison Damage,毒ダメージ
+Claw Accuracy and Critical Strike Multiplier,Claw Accuracy and Critical Strike Multiplier
+"Cold Damage, Freeze Chance, Cold Ailment Effect","Cold Damage, Freeze Chance, Cold Ailment Effect"
+"Cold Damage, Cold Ailment Effect and Duration","Cold Damage, Cold Ailment Effect and Duration"
+Totem Critical Strike Chance and Multiplier,トーテムクリティカル率およびダメージ倍率
+Totem Attack and Placement Speed,Totem Attack and Placement Speed
+Watchtowers,監視塔
+Sword Damage and Block,剣ダメージおよびブロック
+Trick Shot,トリックショット
+Split Shot,スプリットショット
+Projectile Damage and Forking Angle,Projectile Damage and Forking Angle
+Projectile Damage and Pierce,Projectile Damage and Pierce
+Damage for Chaining Hits and Chain Distance,連鎖後ダメージおよび連鎖距離
+Projectile Damage and Chance for Extra Fork Projectile,Projectile Damage and Chance for Extra Fork Projectile
+Projectile Damage per Enemy Pierced,貫通ごとの投射物ダメージ
+Prodigious Defence,驚異的な防御
+Advance Guard,前衛
+Gladiatorial Combat,剣闘士の戦い
+Strike Leader,ストライクリーダー
+Powerful Ward,強き守り
+Enduring Ward,不屈の守り
+Gladiator's Fortitude,剣闘士の剛勇
+Precise Retaliation,正確な報復
+Veteran Defender,ベテラン・ディフェンダー
+Iron Breaker,アイアンブレイカー
+Deep Cuts,深い傷
+Master the Fundamentals,基礎の習得
+Force Multiplier,フォースマルチプライヤー
+Furious Assault,怒り狂った暴行
+Vicious Skewering,残忍な刺突
+Grim Oath,冷酷な誓い
+Battle-Hardened,百戦錬磨
+Replenishing Presence,満たす存在
+Master of Command,指揮の熟練者
+First Among Equals,First Among Equals
+Purposeful Harbinger,目的をもつ先駆者
+Precise Commander,Precise Commander
+Pure Commander,Pure Commander
+Stalwart Commander,Stalwart Commander
+Vengeful Commander,Vengeful Commander
+Skullbreaker,スカルブレイカー
+Pressure Points,プレッシャー・ポイント
+Overwhelming Malice,圧倒的な悪意
+Magnifier,拡大する者
+Savage Response,野蛮な反応
+Eye of the Storm,台風の目
+Basics of Pain,痛みの基礎
+Quick Getaway,素早い逃走
+Assert Dominance,優位の主張
+Vast Power,広大な力
+Powerful Assault,強力な暴行
+Titanic Swings,巨人の一振り
+Towering Threat,高くそびえる脅威
+Ancestral Echo,先祖の反響
+Ancestral Reach,先祖の届く範囲
+Ancestral Might,先祖の勢力
+Ancestral Preservation,先祖の維持
+Snaring Spirits,捕える精霊
+Sleepless Sentries,不眠の哨兵
+Ancestral Guidance,先祖の指導
+Ancestral Inspiration,先祖の霊感
+Vital Focus,命の焦点
+Rapid Infusion,Rapid Infusion
+Unwavering Focus,揺ぎ無い集中
+Enduring Focus,永続する集中
+Precise Focus,正確な集中
+Stoic Focus,冷静な集中
+Hex Breaker,ヘックスブレイカー
+Arcane Adept,アーケーンアデプト
+Distilled Perfection,ディスティルドパーフェクション
+Spiked Concoction,酒入り調合薬
+Fasting,断食
+Mender's Wellspring,修理屋の水源
+Special Reserve,とっておき
+Numbing Elixir,しびれ薬
+Mob Mentality,暴徒の意識
+Cry Wolf,オオカミ少年
+Haunting Shout,耳に残る叫び
+Lead By Example,手本
+Provocateur,陽動者
+Warning Call,警告
+Rattling Bellow,威嚇
+Bloodscent,血の臭い
+Run Through,突破
+Wound Aggravation,重傷
+Overlord,オーバーロード
+Expansive Might,膨張する力
+Weight Advantage,ウェイトアドバンテージ
+Wind-up,ねじ巻き
+Fan of Blades,刃の扇
+Disease Vector,病原媒介者
+Arcing Shot,曲射
+Tempered Arrowheads,鍛えられた鏃
+Broadside,斉射
+Explosive Force,爆発する力
+Opportunistic Fusilade,機を見た斉射
+Storm's Hand,嵐の手
+Battlefield Dominator,戦場の支配者
+Martial Mastery,マーシャルマスタリー
+Surefooted Striker,足取り確かな攻撃者
+Graceful Execution,優美な処刑
+Brutal Infamy,野蛮な行い
+Fearsome Warrior,恐怖の戦士
+Combat Rhythm,コンバットリズム
+Hit and Run,ヒットエンドラン
+Insatiable Killer,貪欲な殺し屋
+Mage Bane,魔術師泣かせ
+Martial Momentum,戦争の機運
+Deadly Repartee,死の応酬
+Quick and Deadly,クイックアンドデッドリー
+Smite the Weak,弱きを打つ
+Heavy Hitter,ヘビーヒッター
+Martial Prowess,武勇
+Calamitous,カラミティウス
+Devastator,壊す者
+Fuel the Fight,闘争心
+Drive the Destruction,破滅への道
+Feed the Fury,高まる怒り
+Seal Mender,シールメンダー
+Conjured Wall,魔法の壁
+Arcane Heroism,アーケーンヒロイズム
+Practiced Caster,熟練魔導士
+Burden Projection,負荷の投影
+Thaumophage,魔力喰らい
+Essence Rush,エッセンスラッシュ
+Sap Psyche,蝕む精神
+Sadist,サディスト
+Corrosive Elements,蝕む元素
+Doryani's Lesson,ドリヤニの教え
+Disorienting Display,狂った視界
+Prismatic Heart,プリズマティックハート
+Widespread Destruction,広範囲にわたる破壊
+Master of Fire,マスターオブファイヤ
+Smoking Remains,燻ぶる燃えさし
+Cremator,火葬人
+Snowstorm,吹雪
+Storm Drinker,ストームドリンカー
+Paralysis,麻痺
+Supercharge,スーパーチャージ
+Blanketed Snow,覆いかぶさる雪
+Cold to the Core,芯まで冷たい
+Cold-Blooded Killer,冷酷な殺人者
+Touch of Cruelty,残虐な気配
+Unwaveringly Evil,揺るぎない悪
+Unspeakable Gifts,言語に絶する贈り物
+Dark Ideation,闇の思考
+Unholy Grace,不浄な恩寵
+Wicked Pall,邪悪な棺
+Renewal,再生
+Raze and Pillage,破壊と略奪
+Rotten Claws,腐敗した鉤爪
+Call to the Slaughter,殺戮への呼び声
+Skeletal Atrophy,骨萎縮症
+Hulking Corpses,どでかい死体
+Vicious Bite,酷い噛み傷
+Primordial Bond,原初の絆
+Blowback,ブローバック
+Fan the Flames,火に油を注げ
+Cooked Alive,火あぶり
+Burning Bright,紅蓮
+Wrapped in Flame,火の海
+Vivid Hues,鮮やかな色彩
+Rend,レンド
+Disorienting Wounds,目くらましの傷
+Compound Injury,深手
+Septic Spells,腐敗性の呪文
+Low Tolerance,低い耐性
+Steady Torment,絶え間なき苦痛
+Eternal Suffering,永遠の苦しみ
+Eldritch Inspiration,この世の物ならざる発想
+Wasting Affliction,蝕む病
+Haemorrhage,出血
+Flow of Life,命の流れ
+Exposure Therapy,曝露療法
+Brush with Death,臨死
+Vile Reinvigoration,卑劣な再活性
+Circling Oblivion,繰り返す忘却
+Brewed for Potency,効能のための醸造
+Astonishing Affliction,驚愕の苦痛
+Cold Conduction,低温伝導性
+Inspired Oppression,触発された弾圧
+Chilling Presence,冷たき存在
+Deep Chill,染み込む冷気
+Blast-Freeze,急冷
+Thunderstruck,雷に打たれて
+Stormrider,ストームライダー
+Overshock,オーバーショック
+Evil Eye,邪眼
+Whispers of Death,Whispers of Death
+Forbidden Words,禁じられた言葉
+Dark Discourse,Dark Discourse
+Victim Maker,ヴィクティムメイカー
+Master of Fear,恐怖の支配者
+Wish for Death,死への願望
+Heraldry,ヘラルド使い
+Endbringer,終焉をもたらす者
+Cult-Leader,カルトリーダー
+Empowered Envoy,権限を持つ使者
+Dark Messenger,闇の使者
+Agent of Destruction,破壊の使者
+Lasting Impression,余情
+Self-Fulfilling Prophecy,自己実現的予言
+Invigorating Portents,激励の先触れ
+Pure Agony,真の苦痛
+Disciples,使徒
+Dread March,恐怖の行軍
+Blessed Rebirth,祝福された復活
+Life from Death,死から流れ出る命
+Feasting Fiends,悪魔の宴
+Bodyguards,ボディガード
+Follow-Through,完遂
+Streamlined,流線型
+Shrieking Bolts,鏑矢
+Eye to Eye,目と目
+Repeater,リピーター
+Aerodynamics,空力
+Chip Away,彫刻
+Seeker Runes,シーカールーン
+Remarkable,印象的
+Brand Loyalty,ブランドロイヤリティ
+Holy Conquest,ホーリーコンクエスト
+Grand Design,大いなる構想
+Set and Forget,放置
+Expert Sabotage,妨害の名人
+Guerilla Tactics,ゲリラ戦術
+Expendability,使い捨て
+Arcane Pyrotechnics,アーケーンパイロテクニック
+Surprise Sabotage,突然の妨害
+Careful Handling,取扱注意
+Peak Vigour,最盛期
+Fettle,健康
+Sublime Sensation,至高の感覚
+Surging Vitality,湧き上がる生命力
+Peace Amidst Chaos,渦中の安らぎ
+Adrenaline,アドレナリン
+Wall of Muscle,筋肉の壁
+Mindfulness,マインドフルネス
+Liquid Inspiration,透明なひらめき
+Openness,寛容
+Daring Ideas,大胆な発想
+Clarity of Purpose,明確な目的
+Scintillating Idea,きらめく発想
+Holistic Health,全体医療
+Genius,天才
+Improvisor,即興者
+Stubborn Student,強情な生徒
+Savour the Moment,瞬間を味わう
+Energy From Naught,無から湧くエネルギー
+Will Shaper,ウィルシェーパー
+Spring Back,跳ね返し
+Conservation of Energy,エネルギー保存
+Heart of Iron,鉄の心
+Prismatic Carapace,プリズムの装甲
+Militarism,軍国主義
+Second Skin,セカンドスキン
+Dragon Hunter,ドラゴンハンター
+Enduring Composure,不朽の落ち着き
+Prismatic Dance,プリズマティックダンス
+Natural Vigour,自然の活力
+Untouchable,アンタッチャブル
+Shifting Shadow,変化する影
+Readiness,迅速
+Confident Combatant,大胆な戦闘員
+Flexible Sentry,柔軟な見張り
+Vicious Guard,凶暴な防御
+Mystical Ward,神秘の守り
+Rote Reinforcement,機械的補強
+Mage Hunter,メイジハンター
+Riot Queller,暴動鎮圧者
+One with the Shield,盾を持つ者
+Aerialist,空中曲芸師
+Elegant Form,優雅な動き
+Darting Movements,機敏な動き
+Molten One's Mark,溶融せし者の印
+Fire Attunement,ファイヤーアチューンメント
+Pure Might,純粋な力
+Blacksmith,鍛冶屋
+Non-Flammable,不燃性
+Winter Prowler,冬を彷徨う人
+Hibernator,冬眠する者
+Pure Guile,純然たる狡猾さ
+Alchemist,錬金術師
+Antifreeze,不凍
+Wizardry,魔術
+Capacitor,キャパシタ
+Pure Aptitude,純粋な才能
+Sage,賢者
+Insulated,絶縁
+Born of Chaos,混沌より生まれし者
+Antivenom,血清
+Rot-Resistant,防腐剤
+Blessed,祝福された
+Student of Decay,衰微の弟子
+Lord of Drought,渇水の王
+Blizzard Caller,吹雪を呼ぶ者
+Tempt the Storm,嵐を誘う者
+Misery Everlasting,終わりなき悲愴
+Exploit Weakness,弱点活用
+Self-Control,セルフコントロール
+Uncompromising,強硬
+Sublime Form,荘厳な構え
+Summer Commander,Summer Commander
+Winter Commander,Winter Commander
+Grounded Commander,Grounded Commander
+Attack Damage Mastery,アタックダメージマスタリー
+Spell Damage Mastery,スペルダメージマスタリー
+Physical Damage Mastery,物理ダメージマスタリー
+Chaos Damage Mastery,混沌ダメージマスタリー
+Physical Damage over Time Multiplier,Physical Damage over Time Multiplier
+Damage over Time Multiplier,Damage over Time Multiplier
+Damage over Time Multiplier Mastery,継続ダメージ倍率マスタリー
+Projectile Damage Mastery,投射物ダメージマスタリー
+Trap and Mine Damage Mastery,トラップ・マインダメージマスタリー
+Instruments of Zeal,熱意の道具
+"Armour, Life Regeneration",アーマーおよびライフ自動回復
+"Mana Regeneration, Arcane Surge Effect",マナ自動回復およびアーケインサージ効果
+"Energy Shield, Chaos Damage",エナジーシールドおよび混沌ダメージ
+"Energy Shield, Cold Damage",エナジーシールド冷気ダメージ
+Blade Sovereign,Blade Sovereign
+Call of Steel Speed and Area,Call of Steel Speed and Area
+Hex Area of Effect and Faster Doom Gain,呪術効果範囲および破滅獲得速度
+Heart of Destruction,破壊の中心
+Bastion of Elements,元素の要塞
+"Elemental Damage, Fire Damage over Time Multiplier",元素ダメージおよび火継続ダメージ倍率
+"Elemental Damage, Lightning Ailment Effect",元素ダメージおよび雷系状態異常効果
+"Elemental Damage, Cold Ailment Effect",元素ダメージおよび冷気系状態異常効果
+Shaper of Flames,炎を生む者
+Shaper of Storms,嵐を形作る者
+Shaper of Winter,冬を形作る者
+"Armour and Evasion, Impale Chance",アーマー・回避力および串刺し確率
+"Armour and Evasion, Fortify Effect","Armour and Evasion, Fortify Effect"
+"Critical Strike Chance, Elusive Effect",クリティカル率および身躱し効果
+"Flask Effect, Poison Duration",フラスコ効果および毒持続時間
+"Attack and Cast Speed, Damage","Attack and Cast Speed, Damage"
+"Evasion, Onslaught Effect","Evasion, Onslaught Effect"
+"Projectile Damage, Mark Cast Speed",投射物ダメージおよび呪印キャストスピード
+Rupturing,破裂させる
+"Projectile Damage, Mirage Archer Duration",投射物ダメージおよびミラージュアーチャー持続時間
+Occupying Force,占領軍
+"Projectile Damage, Projectile Speed",投射物ダメージ・スピード
+Focal Point,焦点
+Wind Ward,風の守り
+Flask Charges Gained,フラスコ獲得チャージ
+Reduced Reservation,Reduced Reservation
+Physical Damage and Strength,物理ダメージおよび筋力
+Mine Damage and Reduced Reservation,Mine Damage and Reduced Reservation
+Axe and Sword Mastery,Axe and Sword Mastery
+Dual Wield Mastery,Dual Wield Mastery
+Flask Mastery,フラスコマスタリー
+Life and Reduced Cost,ライフおよびコスト低下
+Attack Damage while Fortified and Fortify Duration,Attack Damage while Fortified and Fortify Duration
+"Physical Damage, Life Leeched per Second",物理ダメージ、秒間ライフリーチ
+"Physical Damage, Critical Strike Chance","Physical Damage, Critical Strike Chance"
+"Physical Damage, Attack Speed",物理ダメージ、アタックスピード
+"Physical Damage, Warcry Speed",物理ダメージおよびウォークライスピード
+Defy Pain,苦痛への反抗
+"Evasion, Elemental Damage","Evasion, Elemental Damage"
+"Armour and Evasion, Attack Damage while Fortified",アーマー・回避力および堅牢化時アタックダメージ
+Damage with Life Cost Skills,ライフコストスキルのダメージ
+Damage with Life Cost Skills and Reduced Life Cost,Damage with Life Cost Skills and Reduced Life Cost
+Cannibalistic Rite,共食いの儀式
+Physical and Minion Damage,物理・ミニオンダメージ
+Melee Damage while Fortified,Melee Damage while Fortified
+Armour while Fortified,Armour while Fortified
+Rage Mastery,憤怒マスタリー
+Reduced Reservation of Heralds,Reduced Reservation of Heralds
+Stance Skill Reservation,Stance Skill Reservation
+Reduced Reservation of Curse Skills,Reduced Reservation of Curse Skills
+Physical Damage and Overwhelm,物理ダメージおよび圧倒効果
+Vanquisher,制覇する者
+Relentless,無慈悲
+Physical Damage and Physical Damage Over Time Multiplier,Physical Damage and Physical Damage Over Time Multiplier
+Veteran Soldier,ベテラン軍人
+Curse Effect on You and Consecrated Ground Effect,Curse Effect on You and Consecrated Ground Effect
+Asylum,避難
+Careful Conservationist,慎重な節約者
+Flask Effect Duration,フラスコ効果持続時間
+Flask Charges Used,フラスコチャージ消費
+Natural Remedies,自然の妙薬
+Blood Artist,血のアーティスト
+Phlebotomist,瀉血医
+Tireless Soldier,疲れ知らずの軍人
+Blood Oath,血の誓い
+Thirst for Battle,戦いの渇望
+Veinslicer,ヴェインスライサー
+Murderous Intent,殺意
+Arcane Recovery,アーケインリカバリー
+Moment's Respite,一瞬の休憩
+Shavronne's Secret,シャヴロンの秘密
+Implacable,容赦のない者
+Agile Combatant,機敏な戦士
+Getaway Gambit,逃走の策略
+Perpetual Motion,絶え間ない動き
+Thought Barrier,思考のバリア
+Sharp Intellect,鋭い知力
+Waking Dream,目覚めた夢
+Gargantuan Impacts,巨大な衝撃
+Vicious Bloodletter,残忍なブラッドレッター
+Lifelong Warrior,一生の戦士
+Triad Torments,トライアドの苦痛
+Way of the Blade,刃の流儀
+Reckless Assault,無謀な攻撃
+Brutal Skewering,残虐な刺突
+Martyr's Legacy,殉教者の遺産
+Dynamism,ダイナミズム
+Energy Well,エネルギーの井戸
+Apprentice Battlemage,見習いバトルメイジ
+Elemental Adept,元素の達人
+Black Thumb,萎れの才
+Debilitating Energy,衰弱させるエネルギー
+Blurred Form,ぼやけた姿
+Reigning Champion,君臨するチャンピオン
+Personal Combat,個人の戦い
+Pride of the Arena,闘技場の誇り
+Expert Fencer,剣術の名人
+Arrow to the Face,顔面に矢
+Arrowstorm,アローストーム
+Venomous Ire,有毒な怒り
+Accelerated Volley,加速した一斉射撃
+Born for the Hunt,狩りのために生まれた者
+Distant Snipe,遠距離狙撃
+Colossal Arrows,巨大な矢
+Spined Arrows,棘の矢
+Feathered Arrows,羽の矢
+Orchestral Chant,オーケストラの詠唱
+Prestidigitation,奇術
+Spellmaster,スペルマスター
+One Man Leaves,帰る者はたった一人
+Eyestabber,アイスタバー
+Bloody Vengeance,血に汚れた復讐
+Heart Eater,心臓を喰らう者
+Mystical Expansion,神秘の拡大
+Defensive Arts,防御の術
+Classic Wizardry,高尚な魔術
+Vitality Draughts,生の活力
+Spirit Draughts,生の精神
+Punishing Gale,天罰の強風
+Forceful Circuit,強力な回路
+Fanned Flames,煽られた炎
+Machinist's Guarantee,機械工の保証
+Unstable Mechanisms,不安定なメカニズム
+Swiftfooted,俊足
+Element of Surprise,意外性
+Pernicious Infusion,有害な注入
+Excessive Cruelty,過度の残虐さ
+Path to Power,力への道
+Shieldbashing,シールドバッシング
+Shieldbearer,シールドベアラー
+Volcanic Blood,火山の血
+Heavy Combat,激しい戦い
+Deadly Dance,デッドリーダンス
+Twin Savagery,対なる凶暴性
+Draining Glare,衰弱させる睨み
+Thrill of the Kill,スリルオブキル
+Acquired Tolerance,習得した耐性
+Lingering Toxins,消え残る毒
+Well-travelled Warrior,広く旅をした戦士
+Hardheaded,石頭
+Sly Shot,スライショット
+Icebind,アイスバインド
+Unbearable Agony,堪え難い苦痛
+Wildfire Emissary,野火の使者
+Coalwalker,コールウォーカー
+Storm Ritual,嵐の儀式
+Winter Hunt,冬の狩り
+Dogged Refusal,頑固な拒絶
+Constant Overcharge,コンスタントオーバーチャージ
+Head Smasher,ヘッドスマッシャー
+Helmet Crusher,ヘルメットクラッシャー
+Skilled Poacher,熟練した密猟者
+Frenetic Fighter,熱狂的な戦士
+Indomitable Warrior,不屈の戦士
+Intellectual Defence,知的な防御
+Endless Endurance,無尽の忍耐力
+Master of the Storm,嵐の支配者
+Cruel Voltage,冷酷な電圧
+Master of Immolation,火焙りの支配者
+Master of Winter,冬の支配者
+The Untouchable,ザ・アンタッチャブル
+Staff Block,スタッフブロック
+Elemental Resistances with a Shield,盾装備時元素耐性
+Spiked Bulwark,刺の砦
+Elemental Resistances,元素耐性
+Shock Chance,感電付与確率
+Dagger Critical Strike Multiplier,短剣クリティカルダメージ倍率
+Dagger Critical Strike Chance and Leech,短剣クリティカル率およびリーチ
+Minion Resistances,ミニオン耐性
+Wand Lightning Damage,ワンド雷ダメージ
+Freeze Chance,凍結付与確率
+Burning Damage Multiplier,燃焼ダメージ倍率
+Cold Damage and Freeze Chance,冷気ダメージおよび凍結確率
+Cold Ailment Duration,冷気系状態異常持続時間
+Vampirism,ヴァンピリズム
+One With Nature,自然との一体感
+Life Raker,ライフレイカー
+Intuition,直観
+Physical Bow Damage and Stun Threshold,物理弓ダメージおよびスタン閾値
+Bow Damage Over Time,弓継続ダメージ
+Poison Chance and Damage,毒付与確率およびダメージ
+Evasion and Spell Suppression,回避力およびスペル抑制
+Life and Stun Avoidance,ライフおよびスタン無効化確率
+Mana and Flask Charges Gained,マナおよびフラスコ獲得チャージ
+Shock Avoidance,感電無効化確率
+Ignite Avoidance,発火無効化確率
+Freeze and Chill Avoidance,凍結・冷却無効化確率
+Projectile Damage and Accuracy,投射物ダメージおよび命中
+Ballistics,バリスティックス
+Accuracy and Attack Damage,命中およびアタックダメージ
+Projectile Attack Critical Strike Chance,投射物アタッククリティカル率
+Projectile Attack Critical Strike Chance and Multiplier,投射物アタッククリティカル率およびダメージ倍率
+Spell Damage and Mana,スペルダメージおよびマナ
+Movement Speed and Spell Suppression,移動スピードおよびスペル抑制
+Mana Regeneration,マナ自動回復
+Presage,前兆
+Shield Block and Elemental Resistances with a Shield,盾ブロックおよび盾装備時元素耐性
+Sword Critical Strike Chance,剣クリティカル率
+Savage Wounds,過酷な傷
+Dual Wield Block and Attack Speed,二刀流ブロックおよびアタックスピード
+Ignite Chance and Duration,発火確率および発火持続時間
+Reservation Efficiency,リザーブ効率
+Attack Ignite Chance and Attack Speed,アタック発火確率およびアタックスピード
+Trap Critical Strike Chance and Multiplier,トラップクリティカル率・ダメージ倍率
+Energy Shield Recharge Rate,エナジーシールドリチャージレート
+Mine Detonation Speed,マイン起爆スピード
+Trap Throwing Speed,トラップ投擲スピード
+Essence Infusion,エッセンス注入
+One with Evil,One with Evil
+Minion Block,ミニオンブロック
+Minion Spell Block,ミニオンスペルブロック
+Goliath,ゴライアス
+Axe Damage and Impale Chance,斧ダメージおよび串刺し確率
+Clever Thief,賢い泥棒
+Cold Ailment Effect,Cold Ailment Effect
+Chance to Ignite,発火確率
+Lightning Ailment Effect,雷系状態異常効果
+Avoid Interruption while Casting and Elemental Resistances,キャスト阻害回避および元素耐性
+Chance for Extra Fork Projectile,投射物追加分岐発生確率
+Avoid Status Ailments,状態異常回避
+Master of Blades,刃の支配者
+Mana and Mana on Kill,マナおよび撃破時マナ獲得
+Thrill Killer,スリルキラー
+Claw Critical Strike Chance and Accuracy,鉤爪クリティカル率および命中
+Claw Critical Strike Chance,鉤爪クリティカル率
+Claw Attack Speed,鉤爪アタックスピード
+Claw Ailment Damage and Poison Duration,鉤爪装備時状態異常ダメージおよび毒持続時間
+Claw Ailment Damage and Poison Chance,鉤爪装備時状態異常ダメージおよび毒付与確率
+Life Recoup,ライフ回収
+Robust,頑健な
+Shield Block and Elemental Resistances,盾ブロックおよび元素耐性
+Faster Bleeding,出血速度
+Maximum Lightning Resistance,最大雷耐性
+Sword Critical Strike Multiplier,剣クリティカルダメージ倍率
+Sword Accuracy and Critical Strike Chance,剣命中およびクリティカル率
+Mana on Hit,ヒット時マナ獲得
+Attack Damage while Fortified,堅牢化時アタックダメージ
+Fortification Gain,堅牢化獲得
+Explosive Elements,爆発する元素
+Totem Critical Strike Chance,トーテムクリティカル率
+Totem Critical Strike Multiplier,トーテムクリティカルダメージ倍率
+Ignite Chance,発火確率
+Reigning Veteran,Reigning Veteran
+Heartstopper,ハートストッパー
+Damage Over Time Multiplier and Life Regeneration,継続ダメージ倍率およびライフ自動回復
+Poison Damage Multiplier,毒継続ダメージ倍率
+Poison Chance and Duration,毒付与確率および持続時間
+Trap Trigger Area,トラップ発動範囲
+Trap Cooldown Recovery,トラップクールダウン短縮
+Mine Duration,マイン持続時間
+Physical Damage as Extra Cold Damage,物理ダメージに基づく追加冷気ダメージ
+Weapon Elemental Damage and Ailment Effect,武器元素ダメージおよび状態異常効果
+Ailment Damage,状態異常ダメージ
+Damaging Ailment Duration,Damaging Ailment Duration
+Chain Distance,連鎖距離
+Minion Accuracy,Minion Accuracy
+Minion Damage and Attack and Cast Speed,ミニオンダメージおよびミニオンアタック・キャストスピード
+Life Regeneration and Stun Threshold,Life Regeneration and Stun Threshold
+Brand Critical Strike Chance,ブランドクリティカル率
+Avoidance,Avoidance
+Stun Avoidance,スタン無効化確率
+Bleed Avoidance,出血無効化確率
+Poison Avoidance,毒無効化確率
+Taste for Blood,血の味
+Tolerance,耐久力
+"Chance to Ignite, Freeze and Shock",発火・凍結・感電確率
+Ailment Effect,状態異常効果
+Life and Energy Shield on Kill,撃破時ライフ・エナジーシールド
+Life and Mana on Hit,ヒット時ライフ・マナ獲得
+Dual Wield Attack and Cast Speed,二刀流アタック・キャストスピード
+Shield Spell Block,盾スペルブロック
+Block Recovery and Energy Shield,ブロック回復およびエナジーシールド
+Arcane Sanctuary,アーケインサンクチュアリ
+Attack Damage and Leech,アタックダメージおよびリーチ
+Attack Damage and Speed,アタックダメージおよびスピード
+Evasion and Blind Effect,回避力および盲目効果
+Blind Duration,盲目持続時間
+Maximum Fortification,最大堅牢化
+Season of Ice,氷の季節
+Spell Suppression,スペル抑制
+Inveterate,執念深さ
+Merciless Skewering,残酷な刺突
+Physical Damage as Extra Fire Damage,物理ダメージに基づく追加火ダメージ
+Critical Strikes against Blinded Enemies,盲目状態の敵に対してのクリティカル率
+Armour per Endurance Charge,エンデュランスチャージごとにアーマー
+Maximum Cold Resistance,最大冷気耐性
+Maximum Fire Resistance,最大火耐性
+Prismatic Skin,プリズマティックスキン
+Courage,勇気
+Mace Critical Strike Chance,メイスクリティカル率
+Spell Suppression and Life Flask Recovery,スペル抑制およびライフフラスコ回復
+Entrench,塹壕
+Bow Area of Effect,弓効果範囲
+Claw Critical Strike Multiplier,鉤爪クリティカルダメージ倍率
+Dagger Ailment Damage,短剣状態異常ダメージ
+Dagger Ailment Damage and Poison Chance,短剣状態異常ダメージおよび毒付与確率
+Dagger Critical Strike Chance,短剣クリティカル率
+Wasting,虚弱
+Shield Damage,盾装備時ダメージ
+Spell Block,スペルブロック
+Spell Block and Elemental Resistances,スペルブロックおよび元素耐性
+Safeguard,防衛
+Life on Hit,Life on Hit
+Life on Kill and Recoup,撃破時ライフおよびライフ回収
+Warrior Training,戦士の訓練
+Staff Accuracy,スタッフ命中
+Life on Kill against Cursed Enemies,呪われた敵に対しての撃破時ライフ
+Minion Area of Effect,Minion Area of Effect
+Link Mana Cost,リンクマナコスト
+Link Mana Cost and Cast Speed,Link Mana Cost and Cast Speed
+Inspiring Bond,勇ましい絆
+Life Flasks and Flask Duration,ライフフラスコおよびフラスコ持続時間
+Field Medicine,戦場での治療
+Mine Area of Effect,マイン効果範囲
+Mine Damage and Reservation Efficiency,マインダメージおよびリザーブ効率
+Faster Ignite,発火速度
+Powerful Bond,強力な絆
+Link Duration and Cast Speed,Link Duration and Cast Speed
+Link Duration,リンク持続時間
+Attack Ignite Chance,アタック発火確率
+Burning Damage Multiplier with Attacks,アタック燃焼ダメージ倍率
+Warcry Area of Effect,ウォークライ効果範囲
+Unfaltering,断固たる
+Reservation Efficiency of Heralds,ヘラルドリザーブ効率
+Spell Suppression and Energy Shield Recharge Rate,スペル抑制およびエナジーシールドリチャージレート
+Instinct,本能
+Assured Strike,確実な一撃
+Impale Chance with Two Handed Weapons,両手武器串刺し確率
+Infused Flesh,注入された肉
+Forking Angle,分岐角度
+Life Flask Charge Gain,ライフフラスコチャージ獲得
+Mana Flask Charge Gain,マナフラスコチャージ獲得
+Replenishing Remedies,満たす妙薬
+Acrimony,蝕み
+Reservation Efficiency of Curse Skills,Reservation Efficiency of Curse Skills
+Mark Effect,呪印効果
+Hearty,しっかりした
+Curse Effect on You and Chaos Resistance,Curse Effect on You and Chaos Resistance
+Bastion Breaker,バスティオンブレイカー
+Accuracy Mastery,命中マスタリー
+Armour and Energy Shield Mastery,アーマー・エナジーシールドマスタリー
+Attack Mastery,アタックマスタリー
+Spell Suppression Mastery,スペル抑制マスタリー
+Blind Mastery,盲目マスタリー
+Leech Mastery,リーチマスタリー
+Projectile Mastery,投射物マスタリー
+Caster Mastery,キャスターマスタリー
+Charge Mastery,チャージマスタリー
+Critical Mastery,クリティカルマスタリー
+Link Mastery,リンクマスタリー
+Damage Over Time Mastery,継続ダメージマスタリー
+Dual Wielding Mastery,二刀流マスタリー
+Block Mastery,ブロックマスタリー
+Elemental Mastery,元素マスタリー
+Evasion and Energy Shield Mastery,回避力・エナジーシールドマスタリー
+Armour and Evasion Mastery,アーマー・回避力マスタリー
+Physical Mastery,物理マスタリー
+Minion Offence Mastery,ミニオン攻撃力マスタリー
+Minion Defence Mastery,ミニオン防御力マスタリー
+Reservation Mastery,リザーブマスタリー
+Trap Mastery,トラップマスタリー
+Attributes Mastery,能力値マスタリー
+Resistance and Ailment Protection Mastery,耐性および状態異常保護マスタリー
+Heart of Darkness,闇の中心
+Spiteful Presence,悪意に満ちた存在
+Destructive Aspect,破壊的な面
+Electric Presence,電気の存在
+Volatile Presence,爆発的な存在
+Righteous Path,正義の道
+Mortifying Aspect,屈辱的な面
+Frantic Aspect,半狂乱の面
+Introspection,内省
+Inevitable Doom,Inevitable Doom
+Doedre's Spite,ドードリの悪意
+Hound's Mark,猟犬の呪印
+Doedre's Gluttony,ドードリの暴食
+Doedre's Apathy,ドードリの白け
+Master of the Maelstrom,大渦の支配者
+Aggressive Defence,攻撃的な防御
+Minion Life,ミニオンライフ
+Minion Life and Chaos Resistance,ミニオンライフおよび混沌耐性
+Minion Damage,ミニオンダメージ
+Lightning Critical Strike Multiplier,雷クリティカルダメージ倍率
+Lightning Damage,雷ダメージ
+Fire Damage,火ダメージ
+Cold Damage,冷気ダメージ
+Bow Accuracy,弓命中
+Precision,プレシジョン
+Minion Instability,ミニオンインスタビリティ
+Conduit,コンジット
+Acrobatics,アクロバット
+Iron Reflexes,アイアンリフレックス
+Resolute Technique,レゾリュートテクニック
+Unwavering Stance,アンウェイバリングスタンス
+Chaos Inoculation,カオスイノキュレイション
+Eldritch Battery,エルドリッチバッテリー
+Blood Magic,ブラッドマジック
+Pain Attunement,ペインアチューンメント
+Elemental Equilibrium,エレメンタルイクイリブリアム
+Iron Grip,アイアングリップ
+Point Blank,ポイントブランク
+Arrow Dancing,アローダンシング
+Ancestral Bond,アンセストラルボンド
+Ghost Reaver,ゴーストリーバー
+Vaal Pact,ヴァール・パクト
+Zealot's Oath,ゼロッツオース
+Trap and Mine Damage,トラップ・マインダメージ
+Avatar of Fire,アバターオブファイヤー
+Mind Over Matter,マインドオーバーマター
+Entropy,エントロピー
+Chaos Damage,混沌ダメージ
+Corruption,Corruption
+Defiled Forces,穢された力
+Pierce,貫通
+Life Leech,ライフリーチ
+Mana Leech,マナリーチ
+Fortification Duration,堅牢化持続時間
+High Voltage,高電圧
+"Armour, Stun Threshold","Armour, Stun Threshold"
+Untiring,粘り強き者
+Far Shot,ファーショット
+Unholy Authority,不浄な権威
+"Evasion and Energy Shield, Frenzy Charge Duration",回避力・エナジーシールドおよびフレンジーチャージ持続時間
+Polymath,博学者
+"Evasion and Energy Shield, Movement Speed",回避力・エナジーシールドおよび移動スピード
+"Evasion and Energy Shield, Attack and Cast Speed",回避力・エナジーシールドおよびアタック・キャストスピード
+Spellbreaker,スペルブレイカー
+"Evasion and Energy Shield, Energy Shield Leech",回避力・エナジーシールドおよびエナジーシールドリーチ
+One Step Ahead,一歩先へ
+"Evasion and Energy Shield, Damage",回避力・エナジーシールドおよびダメージ
+"Evasion and Energy Shield, Energy Shield Recharge",回避力・エナジーシールドおよびエナジーシールドリチャージ
+Necromancer,ネクロマンサー
+Soul Drinker,ソウル・ドリンカー
+Damage Over Time Multiplier,継続ダメージ倍率
+Elemental Focus,元素ダメージ集中
+Overprepared,過剰な準備
+Elemental Overload,エレメンタルオーバーロード
+Perfect Agony,パーフェクトアゴニー
+Crimson Dance,クリムゾンダンス
+Runebinder,ルーンバインダー
+Wicked Ward,邪悪な守り
+Farsight,Farsight
+Life and Mana on Kill against Cursed Enemies,呪われた敵撃破時にライフおよびマナ回復
+Last Rites,最後の儀式
+Minion Critical Strike Chance,ミニオンクリティカル率
+Call to Arms,コールトゥアームズ
+Eternal Youth,エターナルユース
+Glancing Blows,グランシングブロウズ
+Wind Dancer,ウィンドダンサー
+The Agnostic,アグノスティック
+Supreme Ego,スプリームエゴ
+Imbalanced Guard,インバランスドガード
+The Impaler,インペイラー
+Curse Mana Reservation Efficiency,呪いマナリザーブ効率
+Malicious Intent,Malicious Intent
+Physical Damage Over Time Multiplier,物理継続ダメージ倍率
+Magebane,メイジベイン
+Iron Will,アイアンウィル
+Solipsism,ソリプシズム
+Ghost Dance,ゴーストダンス
+Divine Shield,ディバインシールド
+Versatile Combatant,バーサタイルコンバタント
+Lethe Shade,レーテシェード
+Precise Technique,プレサイステクニック
+Bow Attack Speed and Phasing,弓アタックスピードおよび透明化
+Curse Mana Cost,呪いマナコスト
+Hex Area of Effect,呪術効果範囲
+Mana on Kill against Cursed Enemies,呪われた敵撃破時にマナ回復
+Steeped in the Profane,冒涜に没頭して
+Minion Critical Strike Multiplier,ミニオンクリティカルダメージ倍率
+Feast of Flesh,フィーストオブフレッシュ
+Trial of the Faith,信仰の試練
+Bow Attack Speed,弓アタックスピード
+Circle of Life,生命の輪
+Dance of Blades,刃の舞
+Link Effect,リンク効果
+Stun Recovery,スタン復帰
+Life Gain on Hit,ヒット時ライフ獲得
+Excess Sustenance,過剰な栄養
+Stance Reservation Efficiency,スタンスリザーブ効率
+Glacial Cage,氷の檻
+Perfectionist,完璧主義者
+Attack Damage in Blood Stance,ブラッドスタンス時アタックダメージ
+Attack Speed in Sand Stance,サンドスタンス時アタックスピード
+Chill Effect,冷却効果
+Seasoned Swordplay,熟練の剣術
+Fortify on Melee Stun,近接スタン時堅牢化
+Link Cast Speed,リンクキャストスピード
+"Life Regeneration, Melee Damage",ライフ自動回復および近接ダメージ
+Master Distiller,蒸留の達人
+"Armour and Energy Shield, Block Recovery",アーマー・エナジーシールドおよびブロック回復
+"Armour and Energy Shield, Link Effect","Armour and Energy Shield, Link Effect"
+"Area of Effect, Blind Effect",効果範囲および盲目効果
+"Area of Effect, Movement Speed",効果範囲および移動スピード
+"Area of Effect, Elemental Resistances","Area of Effect, Elemental Resistances"
+"Area of Effect, Mine Throwing Speed",効果範囲およびマイン投擲スピード
+Like Clockwork,時計仕掛けの如く
+"Area of Effect, Trap Throwing Speed",効果範囲およびトラップ投擲スピード
+"Area of Effect, Area Damage",効果範囲および範囲ダメージ
+Righteous Fury,義憤
+Faster Ailments,状態異常が早くなる
+Multishot,マルチショット
+Stun Threshold,スタン閾値
+Chaos Resistance and Avoidance,混沌耐性および無効化確率
+Empowered Bond,強化された絆
+Expert Hunter,狩りの達人
+Conjured Barrier,魔法障壁
+Surge of Vigour,活力のうねり
+Brink of Death,死の瀬戸際
+Winter's Embrace,冬の抱擁
+Potent Connections,強固な繋がり
+Warcry Duration and Buff Effect,ウォークライバフ持続時間およびバフ効果
+Flask Charges against Marked Enemy,呪印された敵に対するフラスコチャージ
+Mark Cast Speed and Mana Cost,呪印キャストスピードおよびマナコスト
+Mark Cast Speed,呪印キャストスピード
+Mark Mana Cost,呪印マナコスト
+Relentless Pursuit,容赦ない追跡
+Curse and Chaos Resistance,呪いおよび混沌耐性
+Ignite and Bleed Duration,発火および出血持続時間
+Settling Ash,降り積もる灰
+Concussive Force,コンカッシブフォース
+Invigorating Blaze,爽快な火炎
+Cauterisation,焼灼
+Recovery Mastery,回復マスタリー
+Protection Mastery,保護マスタリー
+Warden of the Maji,マジの番人
+Coated Blade,光沢のある刃
+Nature's Concoction,自然の調合薬
+Intensifying Suffusion,高まる浸出
+Wildwood Blessing,原生林の祝福
+Lesson of the Seasons,四季の教訓
+Oath of the Maji,メジャイの誓い
+Detect Evil,邪悪の感知
+Vivid Wisps found,ビビッドウィスプ獲得量
+Warlock of the Mists,霧の魔法使い
+Sanguimancy,血魔術
+Crimson Power,深紅の力
+Cannibalised Faith,喰われた信仰
+Soul Splitting,魂の分裂
+Creeping Lobotomy,忍び寄るロボトミー
+Choir of the Damned,亡者の聖歌隊
+Black Mass,黒ミサ
+Warlock Power,魔術師の力
+Foul Pact,不純な契約
+Blood Hunt,ブラッドハント
+Wild Wisps found,ワイルドウィスプ獲得量
+Wildwood Primalist,原生林の原始術師
+Might of the Bear,熊の力
+Charm Socket,チャームソケット
+Howl of the Wolf,狼の遠吠え
+Primal Wisps found,プライマルウィスプ獲得量
+Warlord's Call,Warlord's Call
+Mana and Increased Mana Cost,マナおよびマナコスト増加
+Flask Duration,フラスコ持続時間
+Attribute,能力値
+Crystalline Resistance,結晶化した耐性
+Gem Enthusiast,ジェム収集家
+All Attributes,全ての能力値
+Crystallised Immunities,結晶化した免疫
+Brute Strength,怪力
+Ingenuity,創造力
+Polymathy,博識
+Reduced Attribute Requirements,要求能力値減少
+Jack of all Trades,何でも屋
+Quarterstaff Stun and Knockback,クォータースタッフスタンおよびノックバック
+Quarterstaff Freeze and Daze Buildup,クォータースタッフ凍結および眩暈蓄積
+Quarterstaff Speed,クォータースタッフスピード
+Whirling Assault,ワーリングアサルト
+Quarterstaff Critical Chance,クォータースタッフクリティカル率
+One with the Storm,嵐とともにある者
+Quarterstaff Critical Damage,クォータースタッフクリティカルダメージ
+Martial Artistry,武芸の技術
+Dagger Speed,ダガースピード
+Dagger Critical Chance,ダガークリティカル率
+Silent Shiv,隠密の刃
+Dagger Critical Damage,ダガークリティカルダメージ
+Coated Knife,塗布されたナイフ
+Trap Throw Speed,トラップ投擲スピード
+Trap Critical Chance,トラップクリティカル率
+Devestating Devices,壊滅的な装置
+Bow Critical Damage,弓クリティカルダメージ
+Bow Accuracy Rating,弓命中力
+Feathered Fletching,羽付き矢羽
+Sniper,スナイパー
+Bow Speed,弓スピード
+Pierce the Heart,心臓を射抜け
+Spear Critical Chance,スピアクリティカル率
+Spear Damage,スピアダメージ
+Javelin,ジャベリン
+Spear Attack Speed,スピアアタックスピード
+Spear Accuracy,スピア命中力
+Focused Thrust,精密な突き
+Precise Point,精確な突き
+Roll and Strike,回避からの一撃
+Block and Damage Taken from Blocked Hits,Block and Damage Taken from Blocked Hits
+Glancing Hits,Glancing Hits
+Parried Duration,パリィ持続時間
+Stun Threshold during Parry,パリィ中のスタン閾値
+Shield Evasion,盾回避力
+Reprisal,報復
+Resolute Reprisal,断固たる反撃
+Projectile Parry Range,投射物パリィ範囲
+Evasion during Parry,パリィ中の回避力
+Heavy Blade,ヘビーブレード
+Sword Speed,剣スピード
+Ripping Blade,切り裂きの刃
+Stance Breaker,スタンスブレーカー
+Lay Siege,包囲攻撃
+Greatest Defence,最大の防御
+Wide Barrier,広範囲の障壁
+Core of the Guardian,ガーディアンのコア
+Shield Damage from Shield Defences,Shield Damage from Shield Defences
+Defensive Stance,防御的構え
+Vigilance,警戒
+Shield Attack Speed,盾アタックスピード
+Defensive Reflexes,防御的反射
+Block and Movement Penalty with Raised Shield,ブロックおよび盾を構えている時の移動スピードペナルティ
+Movement Penalty with Raised Shield,盾を構えている時の移動スピードペナルティ
+Block and Stun Threshold,ブロックおよびスタン閾値
+Dazing Blocks,眩暈のブロック
+Steadfast Resolve,断固たる決意
+Maximum Block,ブロックの最大値
+Frightening Shield,威圧の盾
+Crossbow Damage,クロスボウダメージノータブル
+Crossbow Critical Chance,クロスボウクリティカル率
+Power Shots,パワーショット
+Grenade Damage,グレネードダメージ
+Repeating Explosives,繰り返す爆発
+Crossbow Reload Speed,クロスボウリロードスピード
+Rapid Reload,高速リロード
+Reusable Ammunition,再利用可能な弾薬
+Full Salvo,全弾発射
+Efficient Loading,効率リロード
+Axe Rage on Hit,斧ヒット時憤怒
+Axe Attack Speed,斧アタックスピード
+Whirling Onslaught,旋風の猛攻
+Enraged Reaver,激怒した襲撃者
+Mace Stun Buildup,メイススタン蓄積
+Skullcrusher,スカルクラッシャー
+Mace Damage and Stun Buildup,メイスダメージおよびスタン蓄積
+Mace Aftershock Chance,メイス余震確率
+Split the Earth,大地を裂け
+Flail Damage,フレイルダメージ
+Ball and Chain,玉と鎖
+Flail Critical Chance,フレイルクリティカル率
+Morning Star,モーニングスター
+Rattling Ball,振動する球体
+Spiked Whip,棘のついた鞭
+Focus Energy Shield,フォーカスエナジーシールド
+Curse Effect on Self,自信に対する呪い効果
+Warding Fetish,護りの呪具
+Spell Damage on full Energy Shield,フルエナジーシールド時スペルダメージ
+Dreamcatcher,ドリームキャッチャー
+One Handed Attack Speed,片手武器アタックスピード
+Versatile Arms,多機能武器
+One Handed Accuracy,片手武器命中力
+One Handed Critical Chance,片手武器クリティカル率
+Push the Advantage,有利な状況を活かす
+Impair,損害
+One Handed Ailment Chance,片手状態異常確率
+Coated Arms,塗布された武器
+Two Handed Damage,両手武器ダメージ
+Singular Purpose,唯一の目的
+Two Handed Damage and Stun,両手武器ダメージおよびスタン
+Heavy Contact,激しい接触
+Colossal Weapon,巨大な武器
+Curved Weapon,曲がった武器
+Shockwaves,衝撃波
+Dual Wielding Damage,二刀流ダメージ
+Dual Wielding Accuracy,二刀流命中力
+Cross Strike,十字斬り
+Dual Wielding Speed,二刀流スピード
+Blade Flurry,剣の乱舞
+Polished Iron,光沢のある鉄
+Armour and Applies to Fire Damage,アーマーおよび火ダメージに適用
+Heatproof,耐熱処理
+Projectile Bulwark,投射物防護壁
+Blade Catcher,刃を受けるもの
+Heavy Armour,重装防具
+Made to Last,耐久性
+Sturdy Metal,頑丈な金属
+Impenetrable Shell,不可侵の殻
+General's Bindings,将軍の拘束具
+Armour and Applies to Cold Damage,アーマーおよび冷気ダメージに適用
+Chillproof,耐冷却処理
+Armour and  Applies to Lightning Damage,アーマーおよび雷ダメージに適用
+Shockproof,耐感電処理
+Tempered Defences,鍛えられた防御
+High Alert,高い警戒状態
+Escape Strategy,逃走戦略
+Careful Consideration,慎重な検討
+Slow Effect on You,プレイヤーに対する減速効果
+Deflection and Evasion,受け流し力および回避
+Escape Velocity,脱出速度
+Enhanced Reflexes,強化された反射神経
+Beastial Skin,獣の皮膚
+Afterimage,残像
+Leather Bound Gauntlets,革製のガントレット
+Catlike Agility,猫の素早さ
+Stun and Ailment Threshold from Energy Shield,エナジーシールドによるスタン閾値および状態異常閾値
+Energy Shield Recharge,エナジーシールドリチャージ
+Calibration,キャリブレーション
+Patient Barrier,耐久性の高いバリア
+Enhanced Barrier,強化バリア
+Dampening Shield,抑制シールド
+Heavy Buffer,強力な緩衝材
+Illuminated Crown,光り輝く王冠
+Strong Chin,頑丈な顎
+Backup Plan,代替案
+Insulated Treads,絶縁された踏板
+Feel no Pain,痛みを感じない
+Tolerant Equipment,頑丈な装備
+Evasion and Energy Shield Recharge,回避力およびエナジーシールドリチャージ
+Spectral Ward,霊体の守り
+Inner Faith,内なる信仰
+Shadow Dancing,シャドウダンス
+Immaterial,非物質化
+Shimmering,煌めき
+Subterfuge Mask,偽装の仮面
+Mindful Awareness,注意深い気づき
+Ancient Aegis,古代のイージス
+Adamant Recovery,不屈の回復
+Reinforced Barrier,強化された障壁
+Spiral into Depression,鬱への悪循環
+Armour Applies to Fire Damage Hits,火ダメージのヒットにアーマー適用
+Armour Applies to Cold Damage Hits,冷気ダメージのヒットにアーマー適用
+Armour Applies to Lightning Damage Hits,雷ダメージのヒットにアーマー適用
+Unnatural Resilience,不自然な耐性
+Prism Guard,プリズムガード
+Reduced Movement Penalty,移動ペナルティ減少
+Ailment Threshold,状態異常閾値
+Unhindered,自由自在に
+Natural Immunity,自然免疫
+Warm the Heart,心臓を温めよ
+Feel the Earth,大地を感じよ
+Shedding Skin,皮膚の脱皮
+Energy Shield Delay,エナジーシールド遅延
+Mystic Stance,神秘的な構え
+Quick Response,素早い反応
+Rapid Recharge,高速リチャージ
+Covering Ward,防護の守り
+Refocus,最集中
+Dependable Ward,信頼できる守り
+Convalescence,コンヴァレッセンス
+Energy Shield Recharge and Mana Flask Recovery,エナジーシールドリチャージおよびマナフラスコ回復
+Arcane Mixtures,秘宝の混合物
+Energy Shield Recoup,エナジーシールド回収
+Storm Driven,嵐駆動
+Block and Shield Defences,ブロックおよび盾防御力
+Unstoppable Barrier,止められぬ障壁
+Hunker Down,耐え忍ぶ
+Towering Shield,聳え立つ盾
+Defender's Resolve,防御者の覚悟
+Swift Blocking,素早いブロック
+Spiked Shield,棘のある盾
+Shield Expertise,盾の専門知識
+Block Recovery,ブロック復帰
+Parry Damage,パリィダメージ
+Parry Stun Buildup,パリィスタン蓄積
+Swift Interruption,素早い妨害
+Flashy Parrying,華麗な受け流し
+Consistent Intake,定量摂取
+Counterstancing,反撃の構え
+Glancing Deflection,かすめる受け流し
+Brush Off,攻撃逸らし
+Deflection Rating,受け流し力
+Enduring Deflection,持続力のある受け流し
+Avoiding Deflection,無力化の受け流し
+Energising Deflection,エネルギーを与える受け流し
+Evasion Rating,回避値
+Staunch Deflection,頑強な受け流し
+Trained Deflection,熟練の受け流し
+Mending Deflection,癒しの受け流し
+Resolution,覚悟
+Titan's Determination,タイタンの決意
+Unbreaking,破壊不能
+Stun Threshold and Strength,スタン閾値および筋力
+Wary Dodging,用心深いドッジ
+Stun Threshold if no recent stun,Stun Threshold if no recent stun
+Hefty Unit,重いユニット
+Stun Threshold and Evasion Rating,スタン閾値および回避力
+Unbending,不動の詠唱
+Stun Threshold from Energy Shield,エナジーシールドによるスタン閾値
+Austerity Measures,緊縮政策
+Asceticism,禁欲主義
+Self Mortification,自虐行為
+Hallowed,神聖
+Abasement,屈辱
+Ailment Threshold from Energy Shield,エナジーシールドによる状態異常閾値
+Shimmering Mirage,煌めく幻影
+Eldritch Will,この世のものではない意志
+Stun Threshold if not Stunned recently,直近スタンしていない場合のスタン閾値
+Briny Carapace,海の甲羅
+Deft Recovery,迅速な回復
+Back in Action,活動再開
+Fire Damage and Armour ,火ダメージおよびアーマー
+Fire Penetration,火耐性貫通
+Molten Carapace,マグマの装甲
+Ignite Magnitude on You,プレイヤーに対する発火強度
+One With Flame,炎と共にある者
+Molten Being,マグマの者
+Ignite Duration,発火持続時間
+Melting Flames,溶かす炎
+Self Immolation,焼身
+Freeze and Chill Resistance,凍結および冷却耐性
+Embracing Frost,霜を抱擁する
+Slippery Ice,滑りやすい氷
+Icebreaker,アイスブレイカー
+Electrocute Buildup,麻痺蓄積
+Electrocution,麻痺
+Coursing Energy,流動するエネルギー
+Electrocuting Exposure,麻痺させる曝露
+Mass Rejuvenation,大規模な再生
+Life Regeneration on Low Life,低ライフ時のライフ自動回復
+Desperate Times,困難な時期
+Life Regeneration while Stationary,静止中のライフ自動回復
+Resilient Soul,強靭な魂
+Thickened Arteries,厚くなった動脈
+Hard to Kill,殺しにくい
+Hale Heart,健全な心
+Stand Ground,踏ん張り
+Life Leech. Armour and Evasion while Leeching,ライフリーチ、リーチ中のアーマーおよび回避力
+Life Leech and Slower Leech,ライフリーチおよび遅いリーチ
+Fortifying Blood,強化する血液
+Voracious,欲深い
+Bloodthirsty,血に飢えた
+Goring,突進
+Savoured Blood,堪能された血
+Fast Metabolism,素早い代謝
+Life Leech Speed,ライフリーチスピード
+Life Leech and Physical Damage,ライフリーチおよび物理ダメージ
+Life Regeneration Rate,ライフ自動回復レート
+Loose Flesh,たるんだ肉
+Taut Flesh,引き締まった肉
+Heart Tissue,心臓の組織
+Pliable Flesh,しなやかな肉
+Glazed Flesh,艶のある肉
+Arcane Surge Effect and Life Regeneration,アーケインサージ効果およびライフ自動回復
+Life Regeneration Rate and Presence,ライフ自動回復レートおよび存在下
+Sanguimantic Rituals,紅の儀式
+Heartstopping Presence,心臓を止めるような存在感
+Life on Kill,キル時ライフ獲得
+Immortal Infamy,不死の悪行
+Life Flasks,ライフフラスコ
+Refills,補充
+Hale Traveller,健康な旅行者
+Reinvigoration,再生
+Life Flask Charges,ライフフラスコチャージ
+Life Flask Charge Generation,ライフフラスコチャージ生成
+Staunching,止血
+Life Flask Recovery,ライフフラスコ回復
+Succour,救援
+Heavy Drinker,大酒飲み
+Rage on Hit,ヒット時憤怒
+Blood of Rage,血の憤怒
+Lavianga's Brew,ラビアンガの醸造
+Tukohama's Brew,トゥコハマの醸造
+Efficient Alchemy,効率的な錬金術
+Flask and Charm Charges Gained,フラスコおよびチャーム獲得チャージ
+Flask Recovery,フラスコ回復量
+Savouring,堪能
+Life and Mana Flask Recovery,ライフおよびマナフラスコ回復量
+Combat Alchemy,戦闘用錬金術
+Cautious Concoctions,慎重な調合薬
+Critical Chance,クリティカル率
+Crashing Wave,砕ける波
+Critical Damage,クリティカルダメージ
+Damage on Critical,クリティカル時ダメージ
+Cruel Fate,残酷な運命
+Leaping Ambush,跳躍の待ち伏せ
+Direct Approach,クリティカル率ノータブル
+For the Jugular,頸動脈を狙え
+Critical Exploit,致命的な抜け道
+Spell Critical Damage,スペルクリティカルダメージ
+Moment of Truth,真実の瞬間
+Preemptive Strike,先制攻撃
+Desensitisation,感受性の低下
+Cooked,まずいことになる
+Deadly Force,致命的な力
+Sundering,破断
+Heartstopping,心臓が凍る
+Heartbreaking,胸が張り裂ける
+Struck Through,突き刺し
+Attack Critical Damage,アタッククリティカルダメージ
+Attack Critical Chance,アタッククリティカル率
+Critical Chance and Damage,クリティカル率およびダメージ
+Overwhelming Strike,圧倒する一撃
+Vulgar Methods,粗野な手法
+Barbaric Strength,野蛮人の筋力
+Tainted Strike,汚れた一撃
+Dispatch Foes,敵を一掃
+Careful Assassin,注意深い暗殺者
+Decisive Retreat,巧妙な退避
+Presence Area,存在下効果範囲
+Attack Speed and Flask Duration,アタックスピードおよびフラスコ持続時間
+Blurred Motion,ぼやけた動き
+Skill Speed,スキルスピード
+Tenfold Attacks,十倍の攻撃
+Stimulants,刺激剤
+Reaving,襲撃
+Mass Hysteria,集団ヒステリー
+Falcon Technique,鷹の技術
+Sand in the Eyes,目潰し
+Deep Trance,深い催眠状態
+Flow State,フロー状態
+Blinding Flash,眩しい閃光
+Blood Rush,血の昂ぶり
+Evasion Rating on Hit Recently,直近ヒットした場合の回避力
+Agile Succession,素早い連撃
+Final Barrage,最終バラージ
+Casting Cascade,詠唱のカスケード
+Effervescent,活気に満ちた
+Overzealous,過剰な熱意
+Spiral into Mania,躁病に陥る
+Spell Haste,スペル詠唱迅速化
+Practiced Signs,習熟したサイン
+Erraticism,不規則性
+Mental Alacrity,頭の回転の速さ
+Hastening Barrier,加速のバリア
+Stun Buildup,スタン蓄積
+Hulking Smash,巨大な一撃
+Titanic,タイタニック
+Cranial Impact,頭部への衝撃
+Perfect Opportunity,絶好の機会
+Shattering Blow,粉砕の一撃
+Flip the Script,シナリオを逆転させる
+Easy Target,簡単な獲物
+Maximum Rage,憤怒最大値
+Rage when Hit,被ヒット時憤怒獲得
+Ignore Pain,痛みを無視する
+Battle Trance,戦闘トランス状態
+Prolonged Fury,長引く怒り
+Later Rage Loss Start,憤怒喪失開始を遅く
+Unforgiving,容赦なし
+Vengeful Fury,復讐の怒り
+Sudden Infuriation,怒りの爆発
+Bleeding Duration,出血持続時間
+Critical Bleeding Effect,クリティカル出血効果
+Bleeding Chance,出血確率
+Deep Wounds,深い傷
+Bleeding Chance on Critical,クリティカル時出血確率
+Attack Damage vs Bleeding Enemies,出血状態の敵へのダメージ
+Perfectly Placed Knife,完璧な位置に刺されたナイフ
+Aggravation,出血悪化
+Bleeding Damage,出血ダメージ
+Bleeding Out,出血死
+Incision,切開
+Inevitable Rupture,不可避の裂傷
+Rusted Pins,錆びた足止め
+Thousand Cuts,何千もの切り傷
+Staggering Wounds,ふらつきの傷
+Incision Chance,切開確率
+Knockback,ノックバック
+Pin Buildup,足止め蓄積
+Flammability Magnitude,可燃性強度
+Flammability and Ignite Magnitude,可燃性および発火強度
+Immolation,焼身
+Slow Burn,燃焼遅く
+Ignite Magnitude,発火強度
+Firestarter,火つけ
+Burnout,燃え尽き
+Freeze Buildup,凍結蓄積
+Inescapable Cold,逃れられぬ冷気
+Shattering,粉砕
+Chill Effect and Duration,Chill Effect and Duration
+Chill and Freeze Duration,Chill and Freeze Duration
+Chilled to the Bone,骨の髄まで冷える冷気
+Perpetual Freeze,永久凍結
+Lightning Skill Chain Chance,雷スキル連鎖確率
+Shock Effect,感電効果
+Branching Bolts,枝分かれする雷
+Frazzled,疲労困憊
+General Electric,ゼネラル・エレクトリック
+Drenched,ずぶ濡れ
+Shock Duration,感電持続時間
+Rattled,動揺
+Harmonic Generator,ハーモニックジェネレーター
+Lightning Damage and Resistance,雷ダメージおよび耐性
+Conductive Embrace,感電の抱擁
+Poison Duration,毒持続時間
+Escalating Toxins,増大する毒
+Building Toxins,蓄積する毒
+Crippling Toxins,致命的な毒物
+Leeching Toxins,リーチする毒
+Lasting Toxins,持続する毒
+Stacking Toxins,積み重なる毒
+Toxic Tolerance,毒耐性
+Evasion if Consumed Frenzy Charge,フレンジチャージを消費した場合の回避力
+Recover Life on consuming Endurance Charge,エンデュランスチャージ消費時のライフ回復
+Guts,胆力
+Grit,根性
+Armour if Consumed Endurance Charge,エンデュランスチャージ消費時アーマー
+Critical Damage when consuming a Power Charge,パワーチャージ消費時のクリティカルダメージ
+Lust for Power,力への渇望
+Overflowing Power,溢れる力
+The Power Within,内なる力
+Energy Shield if Consumed Power Charge,パワーチャージ消費時のエナジーシールド
+Empowered Attack Damage and Bleeding Chance,強化されたアタックダメージおよび出血確率
+Warcry Cooldown,ウォークライクールダウン
+Empowered Attack Damage,強化されたアタックダメージ
+Warcry Damage,ウォークライダメージ
+Cacophony,不協和音
+Vocal Empowerment,声による強化
+Internal Bleeding,内出血
+Bravado,見せかけの勇気
+Deafening Cries,耳をつんざく叫び
+Guttural Roar,唸る咆哮
+Warcry Power Counted,ウォークライ計算されるパワー
+Bolstering Yell,強化の叫び
+Thirst of Kitava,キタヴァの渇き
+Warcry Cooldown and Speed,ウォークライクールダウンおよびスピード
+Urgent Call,緊急の呼びかけ
+Empowered Attack Damage and Power Counted,強化アタックダメージおよび計算されるパワー
+Roaring Cries,咆哮のウォークライ
+Explosive Empowerment,爆発性の強化
+Cremating Cries,火葬のウォークライ
+Extinguishing Exhalation,消火の吐息
+Inherited Strength ,受け継いだ力
+Curse Activation Speed and Effect,呪いアクティブ化スピードおよび効果
+Impending Doom,インペンディングドゥーム
+Zone of Control,制御区域
+Curse Area,呪いオーラ
+Master of Hexes,呪術の達人
+Fated End,運命の終焉
+Lingering Whispers,長引く囁き
+Decrepifying Curse,老衰の呪い
+Supportive Ancestors,支援する先祖
+Carved Earth,彫りこまれた大地
+Totem Placement Speed,トーテム設置スピード
+Totem Life,トーテムライフ
+Ancestral Artifice,先祖の技巧
+Ancestral Unity,先祖の団結
+Hardened Wood,堅木
+Spirit Bond,魂の絆
+Ancestral Alacrity,先祖の敏捷さ
+Totem Cast and Attack Speed,トーテムキャストスピードおよびアタックスピード
+Totem Cast Speed,トーテムキャストスピード
+Ancestral Conduits,先祖の流れ
+Ancestral Mending,先祖の癒し
+Totem Attack Speed,トーテムアタックスピード
+Totem Elemental Resistance,トーテム元素耐性
+Totem Physical Damage Reduction,トーテム物理ダメージ軽減
+Minion Area,ミニオン効果範囲
+Deadly Swarm,致命的な群れ
+Lord of Horrors,恐怖の君主
+Splintering Force,破砕の力
+Dead can Dance,死者も踊る
+Relentless Fallen,容赦ない堕落者
+Minion Stun Buildup,ミニオンスタン蓄積
+Right Hand of Darkness,闇の右腕
+Minion Critical Chance,ミニオンクリティカル率
+Grip of Evil,悪の掌握
+Necrotic Touch,屍霊術の手触り
+Minion Critical Damage,ミニオンクリティカルダメージ
+Restless Dead,安息の訪れない死者
+Growing Swarm,成長する群れ
+Command Skill Damage,コマンドスキルダメージ
+Command Skill Cooldown,コマンドスキルクールダウン
+At your Command,あなたの命ずるがままに
+Gravedigger,墓堀人
+Minion Revive Speed,ミニオン復活スピード
+Minion Fire Resistance,ミニオン火耐性
+Necrotised Flesh,壊死した肉
+Left Hand of Darkness,闇の左腕
+Crystalline Flesh,結晶化した肉
+Fleshcrafting,肉体形成術
+Minion Lightning Resistance,ミニオン雷耐性
+Minion Physical Damage Reduction,ミニオン物理ダメージ軽減
+Minion Cold Resistance,ミニオン冷気耐性
+Vile Mending,邪悪な修復
+Regenerative Flesh,再生する肉
+Living Death,生ける死
+Minion Revive Speed and Energy Shield Recharge,ミニオン復活スピードおよびエナジーシールドリチャージ
+Reformed Barrier,再構築されたバリア
+Expendable Army,使い捨ての軍隊
+Minion Duration,ミニオン持続時間
+Entropic Incarnation,エントロピーの具現化
+Gigantic Following,巨大な一団
+Unleash Seal Generation,Unleash Seal Generation
+Additional Spell Projectiles,追加のスペル投射物
+Anticipation,予見
+Lasting Incantations,持続する呪文
+Potent Incantation,威力のある呪文
+Spellblade,スペルブレード
+Spell and Minion Damage,スペルダメージおよびミニオンダメージ
+Emboldening Lead,鼓舞の導き
+Empowering Remains,強化する死体
+Melee Critical Chance,近接クリティカル率
+Rapid Strike,迅速な一撃
+Serrated Edges,ギザギザの刃先
+Personal Touch,個人的な工夫
+In Your Face,真正面から
+Viciousness,凶悪さ
+Unerring Impact,外さない衝撃
+Heavy Weaponry,重武装
+Reaching Strike,届く一撃
+Deadly Flourish,致命的な一振り
+Initiative,イニシアチブ
+Breaking Blows,打ち砕く一撃
+Honourless,不名誉
+Melee Damage against Immobilised,固定された敵に対する近接ダメージ
+Smash,打ち砕き
+Melee and Stun,近接およびスタン
+Ancestral Boosted Attack Damage and Stun,先祖の加護を受けたアタックダメージおよびスタン
+Ancestral Boosted Area and Damage,先祖の加護範囲およびダメージ
+Channelled Heritage,遺産のチャネリング
+Guided Hand,導きの手
+Attack Damage and Movement Speed,アタックダメージおよび移動スピード
+Attack Damage and Slow Effect,アタックダメージおよび減速効果
+Maiming Strike,重傷を与える一撃
+Attack Damage and Skill Duration,アタックダメージおよびスキル持続時間
+Prolonged Assault,長期間の攻撃
+Blinding Strike,盲目にする一撃
+Last Stand,最後の抵抗
+Attack Damage with nearby Ally,近くに味方がいる時のアタックダメージ
+Killer Instinct,殺人者の本能
+Presence Present,現在の存在感
+Unexpected Finesse,予期せぬ巧妙さ
+Attack Damage on Low Life,低ライフ時のアタックダメージ
+Attack Damage while Surrounded,包囲時のアタックダメージ
+Attack Damage if Stunned Recently,直近スタンを受けていた場合のアタックダメージ
+Attack Damage while no remaining Life Flasks,ライフフラスコが残っていない時のアタックダメージ
+Daze Chance,眩暈確率
+Concussive Attack,眩暈の一撃
+Imbibed Power,力の吸収
+Forking Projectiles,分岐する投射物
+Chaining Projectiles,連鎖する投射物
+Pierce Chance,貫通確率
+Projectile Speed,投射物スピード
+Attack Area,アタック効果範囲
+Projectile Damage if Melee Hit,近接ヒットしてれば投射物ダメージ
+Melee Damage if Projectile Hit,投射物ヒットしていれば近接ダメージ
+Adaptable Assault,適応攻撃
+Melee Stun Buildup,近接スタン蓄積
+Projectile Stun Buildup,投射物スタン蓄積
+Unleash Fire,火力発射
+Projectile Pierce,投射物貫通
+Kite Runner,カイトランナー
+Careful Aim,注意深い照準
+Heavy Ammunition,重装弾薬
+Piercing Shot,ピアシングショット
+Catapult,カタパルト
+Short Shot,ショートショット
+Close Confines,狭い空間
+Shrapnel,弾片
+Advanced Munitions,先進的弾薬
+Elemental Ailment Chance,元素系状態異常付与確率
+Fire Damage and Area,火ダメージおよび効果範囲
+Damage against Burning Enemies,燃焼状態の敵に対するダメージ
+Flammability Magnitude and Critical Chance,Flammability Magnitude and Critical Chance
+Critical Ignite Magnitude,Critical Ignite Magnitude
+Total Incineration,完全な焼却
+Burning Nature,燃焼する自然
+Sigil of Fire,火の魔法陣
+Affliction Enforcer,灼熱の執行者
+Burn Away,焼却
+Echoing Flames,反響する炎
+Intense Flames,強烈な炎
+Volcanic Skin,火山性の皮膚
+Burning Strikes,燃える一撃
+Incendiary,焼夷性
+Fulmination,フルミネーション
+Fire Damage and Flammability Magnitude,火ダメージおよび可燃性強度
+Archon of the Flame,炎のアルコン
+Embodiment of Flame,炎の具現化
+Archon Effect,アルコン効果
+Cast Speed with Cold Skills,冷気スキルのキャストスピード
+Cold and Fire Damage,冷気ダメージおよび火ダメージ
+Cold Damage and Energy Shield Recharge Rate,冷気ダメージおよびエナジーシールドリチャージレート
+Archon of the Blizzard,吹雪のアルコン
+Embodiment of Frost,霜の具現化
+Energy Shield as Freeze Threshold,冷気ダメージおよび凍結閾値
+Unbothering Cold,動じぬ冷気
+Cold Nature,冷気の自然
+Sigil of Ice,氷の魔法陣
+Thin Ice,厚い氷
+Heavy Frost,激しい霜
+Elemental Force,元素の力
+Harsh Winter,厳しい冬
+Climate Change,気候変動
+Echoing Frost,反響する霜
+Endless Blizzard,終わりのない吹雪
+Essence of the Mountain,山の精髄
+Infused Spell Damage,インフュージョンを受けたスペルダメージ
+Lightning Skill Speed,雷スキルスピード
+Lightning Penetration,雷耐性貫通
+Shock Effect and Mana Regeneration,感電効果およびマナ自動回復
+Pure Power,純粋な力
+Electrifying Nature,感電する自然
+Sigil of Lightning,雷の魔法陣
+Power Conduction,電気伝導
+Wild Storm,荒れ狂う嵐
+Principal Infusion,根源のインフュージョン
+Flash Storm,突発的な嵐
+Spreading Shocks,広がる感電
+Endless Circuit,無限の回路
+Lightning Quick,稲妻のような素早さ
+Echoing Thunder,反響する雷
+Essence of the Storm,嵐の精髄
+Alternating Current,交流電流
+Lightning Damage and Mana Regeneration,雷ダメージおよびマナ自動回復
+Lightning Damage and Electrocute Buildup,雷ダメージおよび麻痺蓄積
+Archon of the Storm,嵐のアルコン
+Embodiment of Lightning,稲妻の具現化
+Electric Blood,帯電した血
+Chaos Damage and Duration,混沌ダメージおよび持続時間
+Daze on Hit,ヒット時眩暈
+Withered Effect,衰弱効果
+Pure Chaos,純粋な混沌
+Dark Entries,暗黒の記録
+Spaghettification,スパゲッティ化
+Event Horizon,事象の地平線
+Spiral into Insanity,狂気に陥る
+Stylebender,スタイルベンダー
+Void,虚無
+Lingering Horror,残存する恐怖
+Wither Away,衰弱し果てる
+Physical Damage and Critical Chance,物理ダメージおよびクリティカル率
+Physical,物理属性
+Physical as Extra Chaos Damage,物理ダメージを追加の混沌ダメージとして獲得
+Spell Critical Chance,スペルクリティカル率
+Spell Critical Chance and Critical Ailment Effect,スペルクリティカル率およびクリティカル状態異常効果
+Armour Break,アーマー破壊
+Shatter Palm,粉砕の掌
+Cut to the Bone,骨まで断つ
+Staggering Palm,スタッガリングパーム
+Madness in the Bones,骨に宿る狂気
+Shredding Force,引き裂く力
+Blood Tearing,血を引き裂く一撃
+Tempered Mind,鍛えられた心
+Battle Fever,戦闘の興奮
+Splinters,物理属性ノータブル
+Material Solidification,素材の硬化
+Physical Life Recoup,物理ダメージ回収
+Physical Damage and Life Recoup,物理ダメージおよびライフ回収
+Armour Break and Physical Damage,アーマー破壊および物理ダメージ
+Endured Suffering,持続する苦痛
+Haemorrhaging Cuts,出血の切り傷
+Rupturing Pins,裂傷の針
+Bone Chains,骨の鎖
+Sanguine Tolerance,紅の耐久
+Elemental Penetration,元素貫通
+Speed with Elemental Skills,元素スキルのスピード
+Elemental,元素属性
+Elemental Damage and Freeze Buildup,元素ダメージおよび凍結蓄積
+Elemental Damage and Shock Chance,元素ダメージおよび感電付与確率
+Elemental Damage and Flammability Magnitude,元素ダメージおよび可燃性強度
+Unbound Forces,束縛されていない力
+Harness the Elements,元素制御
+Stormcharged,雷の力を帯びた
+Exposure Effect,曝露効果
+Overexposure,過剰曝露
+Breaking Point,限界点
+All Natural,全ての自然
+Stormbreaker,ストームブレーカー
+Elemental Ailment Duration,元素系状態異常持続時間
+Elemental Attack Damage,元素アタックダメージ
+Primal Sundering,原子の破断
+Stripped Defences,防御はく奪
+DAMAGE FROM MANA,ダメージフロムマナ
+Mind Eraser,心を消すもの
+Sturdy Mind,強靭な精神
+Mana Blessing,マナの祝福
+Mental Toughness,精神のタフさ
+Mana Regeneration while not on Low Mana,低マナ状態でない時のマナ自動回復
+Arcane Intensity,魔術の強度
+Raw Mana,生のマナ
+Adverse Growth,有害な成長
+Soul Bloom,魂の開花
+Mana Cost Efficiency,マナコスト効率
+Investing Energies,エネルギー活用
+Conservative Casting,控えめな詠唱
+Full Recovery,完全回復
+Arcane Blossom,魔術の華
+Aspiring Genius,志す天才
+Open Mind,柔軟な思考
+Arcane Surge Effect,アーケインサージ効果
+Touch the Arcane,魔術に触れる
+Arcane Surge on Critical Hit,クリティカルヒット時アーケインサージ
+Ether Flow,エーテルの流れ
+Mana on Kill,キル時マナ獲得
+Efficient Killing,効率的な殺し
+Efficient Casting,効率的な詠唱
+Price of Freedom,自由の対価
+Mana Leech and Cold Resistance,マナリーチおよび冷気耐性
+Suffusion,浸透
+Siphon,サイフォン
+Manifold Method,多様な方法
+Immortal Thirst,不死の渇き
+Mana Flask Recovery,マナフラスコ回復量
+Mana Flask Charges,マナフラスコチャージ
+Mana Flask Charges Used,マナフラスコ消費チャージ
+Altered Brain Chemistry,脳内化学物質の変化
+Wellspring,源泉
+Arcane Alchemy,秘術の錬金術
+Warding Potions,防御のポーション
+Waters of Life,生命の水
+Accuracy and Critical Chance,命中およびクリティカル率
+Determined Precision,決意の精度
+Locked On,ロックオン
+Falcon Dive,ファルコンダイブ
+Near Sighted,近視
+Far Sighted,遠視
+Sharp Sight,鋭い視力
+Accuracy and Attack Critical Chance,命中およびアタッククリティカル率
+Pinpoint Shot,ピンポイントショット
+Precision Salvo,精密掃射
+Nimble Strength,アタックダメージおよび命中力
+Strike True,精確な一撃
+Herald Reservation,ヘラルドリザーブ
+Herald Damage,ヘラルドダメージ
+Coming Calamity,迫る災厄
+Fate Finding,運命を探る
+Apocalypse,アポカリプス
+Doomsayer,終末予言者
+Agonising Calamity,激痛の災厄
+Enveloping Presence,包み込む存在感
+Bolstering Presence,強化された存在感
+Profane Commander,冒涜的な司令官
+Attack Damage with Ally,味方のアタックダメージ
+Ally Attack Damage,味方アタックダメージ
+Warlord Leader,ウォーロードのリーダー
+Warlord Berserker,ウォーロードのバーサーカー
+Lone Warrior,一人だけの戦士
+Area and Presence,範囲および存在下
+All For One,全員は一人のために
+One For All,一人は全員のために
+Triggered Spell Damage,トリガーされたスペルダメージ
+Energy,エネルギー
+Invocation Spell Damage,インボケーションスペルダメージ
+Energise,エネルギー付与
+Invocated Efficiency,発動の効率
+Invocated Limit,インボケーションの上限
+Invocated Echoes,インボケーションの反響
+Efficient Inscriptions,効率的な刻印
+Invocation Critical Damage,インボケーションクリティカルダメージ
+Precise Invocations,精確なインボケーション
+Invocation Critical Hits,インボケーションクリティカルヒット
+Deadly Invocations,致死のインボケーション
+Increased Duration,持続時間増加
+Protraction,延長
+Preservation,保存
+Reduced Duration,持続時間減少
+Tides of Change,変化の波
+Forthcoming,フォースカミング
+Link Buff Effect,リンクバフ効果
+Twinned Tethers,双子の絆
+Strong Links,強力なリンク
+Spirit Bonds,魂の絆
+Shapeshifting,シェープシフト
+Swift Claw,迅速な爪
+Tough Claw,Tough Claw
+Sharpened Claw,鋭い爪
+Bestial Rage,獣の怒り
+Feral Force,Feral Force
+Life Costs,ライフコスト
+Life Spell Damage and Costs,ライフスペルダメージおよびコスト
+Life Spell Costs,ライフスペルコスト
+Life Spell Damage,ライフスペルダメージ
+Blood Transfusion,輸血
+Sacrificial Blood,生贄の血
+Critical Damage vs Full Life,フルライフ状態の敵に対するクリティカルダメージ
+Damage vs Full Life,フルライフ状態の敵に対するダメージ
+First Approach,最初の接触
+Damage against Enemies on Low Life,低ライフ状態の敵に対するダメージ
+Finishing Blows,とどめの一撃
+Stars Aligned,整列した星
+Finality,終焉
+Mental Perseverance,精神的な忍耐力
+Damage and Companion Damage,ダメージおよびコンパニオンダメージ
+Life Leech and Companion Damage,ライフリーチおよびコンパニオンダメージ
+Defences and Companion Life,防御力およびコンパニオンライフ
+Nourishing Ally,癒しの味方
+Thirsting Ally,渇望の味方
+Sturdy Ally,屈強な仲間
+Unimpeded,遮られない
+Near at Hand,手近に
+Slow Effect on You and Attack Speed,プレイヤーに対する減速効果およびアタックスピード
+Debuff Expiry,デバフ消失
+Slow Effect,減速効果
+Duration,持続時間増加
+Time Manipulation,時間操作
+Chronomancy,時の魔法
+Slow Effect and Hinder Duration,減速効果と阻害持続時間
+Hindered Capabilities,阻害された能力
+Lasting Boons,持続する恩恵
+Waning Hindrances,弱まる阻害
+Debuff Expiry Rate,デバフ消失レート
+Cooldown Recovery Rate,クールダウン解消レート
+Temporal Mastery,時魔法のマスタリー
+Slow Effect on You and Debuff Expiry Rate,プレイヤーに対する減速効果およびデバフ消失レート
+Steady Footing,確かな足取り
+Catalysis,触媒作用
+Crystal Elixir,クリスタルエリクサー
+Emboldened Avatar,勇気づけられた化身
+Damage vs Blinded,盲目に対するダメージ
+Blind Effect,盲目効果
+Pocket Sand,ポケットに入れた砂
+Disorientation,空間認識失調
+Frantic Swings,狂乱の振り下ろし
+Distracted Target,注意散漫な標的
+Blinded Enemies Critical,盲目状態の敵に対するクリティカル
+Critical vs Blinded,盲目に対するクリティカル
+Acceleration,加速
+Adrenaline Rush,アドレナリンラッシュ
+Area Damage,範囲ダメージ
+Area Damage and Armour Break,範囲ダメージおよびアーマー破壊
+Attack Area Damage and Area,アタック範囲ダメージおよび範囲
+Primal Growth,原始の成長
+Impact Area,衝突エリア
+Devastation,壊滅
+Impact Force,衝撃力
+Authority,権威
+Crushing Judgement,打撃の審判
+Reverberating Impact,反響する衝撃
+Splitting Ground,割れる地面
+Primed to Explode,爆発寸前
+Detonator Area,起爆範囲
+Spell Area of Effect,スペル効果範囲
+Spell Area Damage,スペル範囲ダメージ
+Roil,攪乱
+Repulsion,反発
+Echoing Pulse,反響するパルス
+Reverberation,残響
+Ruin,破滅
+Spell Damage and Projectile Speed,スペルダメージおよび投射物スピード
+Turn the Clock Back,時計を巻き戻す
+Turn the Clock Forward,時計を先に進める
+Psychic Fragmentation,精神の断片化
+Radial Force,効果範囲ノータブル
+Cull the Hordes,群れを間引く
+Giantslayer,巨人殺し
+Culling Strike Threshold,カリングストライク閾値
+Life and Mana on Kill,キル時ライフおよびマナ
+Immobilisation Buildup,移動不可蓄積
+Bounty Hunter,バウンティハンター
+Finish Them,とどめを刺せ
+Crushing Verdict,破砕する判決
+Lasting Trauma,持続するトラウマ
+Seeing Stars,見つめる星
+Stupefy,茫然
+Damage and Criticals vs Dazed Enemies,眩暈状態の敵へのダメージおよびクリティカル
+Damage vs Dazed Enemies,眩暈状態の敵に対するダメージ
+Criticals vs Dazed Enemies,眩暈状態の敵に対するダメージ
+Daze Magnitude,眩暈強度
+Lightning and Cold Damage,雷および冷気ダメージ
+Shock Chance and Lightning Damage,感電確率および雷ダメージ
+Freeze Buildup and Cold Damage,凍結蓄積および冷気ダメージ
+Shattering Daze,粉砕する眩暈
+Electrifying Daze,感電する眩暈
+Dizzying Hits,眩暈の一撃
+Armour if Hit,被ヒット時のアーマー
+Thorns,棘
+Thorns and Block,棘およびブロック
+Thorns and Leech,棘およびリーチ
+Revenge,反撃
+Spiked Armour,棘付きの鎧
+Vengeance,復讐
+Thornhide,棘の皮
+Thorns Ignore Armour,棘アーマー無視
+Thorn Critical Damage,棘クリティカルダメージ
+Armour while Surrounded,敵による包囲時のアーマー
+Evasion while Surrounded,敵による包囲時のアーマー
+In the Thick of It,混乱の真っただ中
+Thrill of Battle,戦闘のスリル
+Armour and Evasion while Surrounded,包囲時のアーマーおよび回避力
+Tactical Retreat,戦略的撤退
+Paranoia,パラノイア
+Favourable Odds,好ましいオッズ
+Frantic Fighter,狂乱の戦士
+Banner Aura Effect,バナーオーラ効果
+Banner Glory Gained,バナー勇猛獲得
+Banner Duration,バナー勇猛持続時間
+Inspiring Leader,鼓舞するリーダー
+Symbol of Defiance,反抗のシンボル
+Reinforced Rallying,補強された鼓舞
+Rallying Icon,結集の象徴
+Banner Area,バナー効果範囲
+Sentinels,センチネル
+Silent Guardian,静かなガーディアン
+Bringer of Order,秩序をもたらすもの
+Holy Protector,聖なる守護者
+Aftershocks,余震
+Behemoth,ベヒモス
+Mark Use Speed,呪印使用スピード
+Marked for Sickness,病の呪印
+Mark Duration,呪印持続時間
+Marked Agility,呪印の敏捷さ
+Unsight,視界外
+Mark Effect and Blind Effect,呪印効果および盲目効果
+Mark Effect and Blind Chance,呪印効果および盲目付与確率
+Offering Life,オファリングライフ
+Offering Duration,オファリング持続時間
+Corpses,死体
+Stigmata,スティグマ
+Meat Recycling,肉のリサイクル
+Offering Area,オファリング範囲
+Lust for Sacrifice,生贄への欲望
+Offering Effect,オファリング効果
+Utmost Offering,最大限の供物
+Damage against Ailments,状態異常に対するダメージ
+Ailment Chance,状態異常付与確率
+Vile Wounds,忌まわしい傷
+Exploit,悪用
+Exploit the Elements,元素悪用
+Clean Shot,クリーンショット
+Stand and Deliver,金を出すか命を寄越すか
+Death from Afar,遠距離からの死
+Projectile Critical Chance,投射物クリティカル率
+Headshot,ヘッドショット
+Brutal,残虐
+Blur,不鮮明
+Honed Instincts,研ぎ澄まされた直感
+Raw Power,生のままの力
+Pure Energy,純粋なエネルギー
+Remorseless,一片の悔いなし
+Relentless Vindicator,容赦なき擁護者
+Devoted Protector,敬虔な守護者
+Flow Like Water,水のような流れ
+Step Like Mist,霧のような足取り
+Sudden Escalation,突然のエスカレート
+Critical Overload,クリティカル過負荷
+Controlling Magic,支配の魔法
+Attack and Spell Damage,アタックダメージおよびスペルダメージ
+Equilibrium,イクイリブリアム
+Knockback and Stun Buildup,ノックバックおよびスタン蓄積
+Forcewave,力の波動
+Clear Space,空間確保
+Fire Penetration and Stun Buildup,火耐性貫通およびスタン蓄積
+Exposed to the Inferno,業火に晒される
+Breath of Fire,火の息
+Cremation,焼却
+Smoke Inhalation,煙の吸引
+Overheating Blow,オーバーヒートした一撃
+Cold Penetration,冷気耐性貫通
+Shattered Crystal,粉砕された結晶
+Ice Walls,氷の壁
+Storm Swell,嵐のうねり
+Exposed to the Cosmos,宇宙に晒される
+Snowpiercer,スノーピアサー
+Breath of Ice,氷の息
+Glaciation,氷結
+Overload,過負荷
+Exposed to the Storm,嵐に晒される
+Storm Surge,ストームサージ
+Surging Currents,サージ電流
+Electric Amplification,電気的増幅
+Lightning Rod,ライトニングロッド
+Electrotherapy,電気療法
+Attack Damage and Combo,アタックダメージおよびコンボ
+Combo Gain,コンボ獲得
+Chakra of Impact,衝撃のチャクラ
+Energy Shield Recharge and Delay,エナジーシールドリチャージおよび遅延
+Chakra of Rhythm,リズムのチャクラ
+Chakra of Breathing,呼吸のチャクラ
+Chaos Damage and Resistance,混沌ダメージおよび耐性
+Distant Dreamer,彼方の夢想家
+Energy and Critical Chance,エネルギーおよびクリティカル率
+Evocational Practitioner,召喚術修行者
+Mana Regeneration and Attack Speed,マナ自動回復およびアタックスピード
+Chakra of Thought,思考のチャクラ
+Chakra of Sight,視界のチャクラ
+Chakra of Life,生命力のチャクラ
+Non-Damaging Ailment Magnitude,非ダメージ性状態異常強度
+Chakra of Elements,元素のチャクラ
+Chakra of Stability,安定性のチャクラ
+Stun and Freeze Buildup,スタンおよび凍結蓄積
+Armour Break Duration,アーマー破壊持続時間
+Armour Break and Armour,アーマー破壊およびアーマー
+Damage vs Armour Broken Enemies,アーマー破壊された敵に対するダメージ
+Armour Break Effect,アーマー破壊効果
+The Molten One's Gift,モルテンワンの贈り物
+Passthrough Rounds,貫通弾
+Breakage,破損
+Pile On,一斉攻撃
+Irreparable,修復不可能
+Cruel Methods,残酷な手法
+Eroding Chains,腐食の鎖
+Punctured Lung,貫かれた肺
+Jagged Ground Effect,ギザギザ領域効果
+Perforation,穿孔
+Spike Pit,針の落とし穴
+Distracting Presence,注意を引く存在
+Multitasking,マルチタスク
+Volatile Catalyst,不安定な触媒
+Ailment Chance and Effect,状態異常付与確率および効果
+Deterioration,劣化
+Exposed Wounds,晒された傷
+Ailment Effect and Duration,状態異常効果および持続時間
+Fast Acting Toxins,即効性の毒
+Projectile Ailment Chance,投射物状態異常確率
+Quiver Effect,矢筒効果
+Master Fletching,矢作りの達人
+Wrapped Quiver,包まれた矢筒
+Reduced Projectile Speed,投射物スピード減少
+Grenade Cooldown Recovery Rate,グレネードクールダウン解消レート
+Grenade Area,グレネード範囲
+Grenadier,グレネーダー
+Cluster Bombs,クラスター爆弾
+Volatile Grenades,不安定なグレネード
+Grenade Fuse Duration,グレネードフューズ持続時間
+Utility Ordnance,支援兵装
+Demolitionist,爆破専門家
+Pin Duration,足止め持続時間
+Pin their Motivation,戦意足止め
+Sitting Duck,格好の的
+Pin and Run,足止めと逃走
+Lockdown,足止めブースト
+Primal Protection,原始の保護
+Vale Shelter,谷の避難所
+Thicket Warding,茂みの守り
+Lucky Rabbit Foot,幸運の兎の足のお守り
+Woodland Aspect,森のアスペクト
+Hunter's Talisman,狩人のタリスマン
+Charm Duration,チャーム持続時間
+Charm Charges Used,チャーム使用チャージ
+Charm Effect,チャーム効果
+Charm Activation Chance,チャームアクティベーション確率
+Charm Charges,チャームチャージ
+Easy Going,気楽な連携
+Inspiring Ally,激励する味方
+Nurturing Guardian,護りの守護者
+Man's Beast Friend,Man's Beast Friend
+Long Distance Relationship,遠距離の絆
+Unspoken Bond,語らぬ絆
+Lifelong Friend,人生を通じた友
+Tandem Assault,Tandem Assault
+Presence Area and Companion Area,存在下範囲およびコンパニオン効果範囲
+Companion Reservation,コンパニオンリザーブ
+Sic 'Em,けしかけろ！
+Companion Revive Speed,コンパニオン復活スピード
+Ailment Threshold and Companion Resistance,状態異常閾値およびコンパニオン耐性
+Attack Speed and Companion Attack Speed,Attack Speed and Companion Attack Speed
+Shredding Contraptions,引き裂く罠
+Escalating Mayhem,エスカレートするメイヘム
+Efficient Contraptions,巧妙な罠
+Hazard Rearm Chance,ハザード再設置確率
+Hazard Damage,ハザードダメージ
+Hazard Duration,ハザード持続時間
+Delayed Gratification,条件の報酬
+Hazard Area,ハザード範囲
+Widespread Coverage,広範囲展開
+Hindering Obstacles,阻害の障害物
+Hazard Immobilisation Buildup,ハザード移動不可蓄積
+Infused Limits,インフューズの限界
+Infusing Power,注入された力
+Everlasting Infusions,持続するインフュージョン
+Empowering Infusions,強化されたインフュージョン
+Infusion Chance,インフュージョン確率
+Infusion Duration,インフュージョン持続時間
+Infusion Consumption Chance,インフュージョン消費確率
+Frozen Limit,凍結の上限
+Infernal Limit,獄炎の上限
+Shocking Limit,感電の上限
+Unstable Bond,不安定な絆
+Controlled Chaos,制御されたカオス
+Volatility on Kill,キル時ボラティリティ
+Volatility when Stunned,スタンを受けた時にボラティリティ
+Volatility Detonation Time,ボラティリティ起爆時間
+Precise Volatility,精確なボラティリティ
+Glory Generation and Attack Damage,グローリー生成およびアタックダメージ
+Glory Generation,グローリー生成量
+Invigorating Grandeur,力みなぎる威容
+Everlasting Glory,永遠の栄光
+Chance to not Consume Glory,Chance to not Consume Glory
+Attack Damage and Presence Area,アタックダメージおよび存在下範囲
+Glorious Anticipation,栄光の予感
+Thrill of the Fight,戦闘のスリル
+Ailment Duration,状態異常持続時間
+Hunter,狩人
+Curse Effect on you,プレイヤーに対する呪い効果
+Necromantic Ward,死霊術の守り
+Curse Effect on you and Life Regeneration Rate,呪いおよびライフ自動回復
+Movement Speed and Slow Effect on You,移動スピードおよびプレイヤーに対する減速効果
+Momentum,モーメンタム
+Light on your Feet,身軽
+Reduced Movement Penalty and Attack Damage,Reduced Movement Penalty and Attack Damage
+Spray and Pray,乱射して祈れ
+Run and Gun,ランアンドガン
+Damage vs Immobilised and Buildup,移動不可の敵に対するダメージおよび蓄積
+Damage vs Immobilised,移動不可の敵に対するダメージ
+Fearful Paralysis,恐怖による麻痺
+Ballista Immobilisation Buildup,バリスタ移動不可蓄積
+Ballista Damage,バリスタダメージ
+Ballista Attack Speed,バリスタアタックスピード
+Ballista Critical Strike and Damage,バリスタクリティカル率およびダメージ
+Ballista Critical Strike,バリスタクリティカル率
+Ballista Critical Damage,バリスタクリティカルダメージ
+Trained Turrets,熟練砲塔
+Artillery Strike,砲撃の一撃
+Fortified Location,要塞化された拠点
+Kept at Bay,距離を取れ
+Archon Duration,アルコン持続時間
+Enduring Archon,持続するアルコン
+Archon Delay,アルコン遅延
+Resurging Archon,再び起きるアルコン
+Archon Effect and Duration,アルコン効果および持続時間
+Invigorating Archon,活力を与えるアルコン
+Energising Archon,エネルギーを与えるアルコン
+Remnant Pickup Range,レムナント収拾距離
+Remnant Effect,レムナント効果
+Empowering Remnants,強化のレムナント
+Vigorous Remnants,活力のレムナント
+Arcane Remnants,アーケインレムナント
+Spell Damage and Cast Speed,スペルダメージおよびキャストスピード
+Secrets of the Orb,オーブの秘密
+Ignite Effect on You,プレイヤーに対する発火効果
+Flamewalker,フレイムウォーカー
+Chill Effect on You,プレイヤーに対する冷却効果
+Frostwalker,フロストウォーカー
+Shock Effect on You,プレイヤーに対する感電効果
+Stormwalker,ストームウォーカー
+The Great Boar,大いなるイノシシ
+The Spring Hare,春のウサギ
+Charge Duration,チャージ持続時間
+Charge Duration and Dexterity,チャージ持続時間および器用さ
+The Fabled Stag,伝説のシカ
+Reduced Attribute Requirements and All Attributes,要求能力値減少および全ての能力値
+The Cunning Fox,ずる賢いキツネ
+The Frenzied Bear,狂乱のクマ
+Strength and Critical Damage Bonus on You,筋力およびプレイヤーに対するクリティカルダメージボーナス
+The Raging Ox,怒れるウシ
+The Wild Cat,野生のネコ
+Ailment Magnitude,状態異常強度
+The Noble Wolf,高潔なオオカミ
+Accuracy Rating,命中力
+The Winter Owl,冬のフクロウ
+Aura Magnitude,オーラ強度
+The Howling Primate,吠えるサル
+Poison Duration on You,プレイヤーに対する毒持続時間
+The Ancient Serpent,古代のヘビ
+Sprint Movement Speed,スプリント移動スピード
+Evasion while Sprinting,スプリント中の回避力
+Evasion and Movement Speed while Sprinting,スプリント中の回避力および移動スピード
+Marathon Runner,マラソンランナー
+Agile Sprinter,素早い走者
+Spell and Attack Damage,スペルおよびアタックダメージ
+Giant's Blood,ジャイアントブラッド
+Necromantic Talisman,ネクロマンティックタリスマン
+Resonance,レゾナンス
+Walker of the Wilds,Walker of the Wilds
+Dance with Death,ダンスウィズデス
+Oasis,オアシス
+Bulwark,バルワーク
+Crimson Assault,クリムゾンアサルト
+Trusted Kinship,トラステッドキンシップ
+Hollow Palm Technique,ホローパームテクニック
+Blackflame Covenant,ブラックフレームコヴェナント
+Ritual Cadence,リチュアルケイデンス
+Warlord,ウォーロード
+Titan,タイタン
+Brute,ブルート
+Smith of Kitava,キタヴァの鍛冶屋
+Arcane Archer,アーケインアーチャー
+Amazon,アマゾン
+Beastmaster,ビーストマスター
+Ritualist,プライマリスト
+Infernalist,インファーナリスト
+Blood Mage,ブラッドメイジ
+Stormweaver,ストームウィーバー
+Chronomancer,クロノマンサー
+Disciple of the Djinn,Disciple of the Djinn
+Deathmarked,デスマークド
+Tactician,タクティシャン
+Witchhunter,ウィッチハンター
+Gambler,ギャンブラー
+Heretic,ヘレティック
+Phantom,ファントム
+Martial Artist,マーシャルアーティスト
+Master of the Elements,マスターオブエレメンツ
+Acolyte of Chayula,チャユラの信奉者
+Slam Area of Effect,スラム効果範囲
+Earthbreaker,大地を破壊するもの
+Ancestral Empowerment,先祖による強化
+Surprising Strength,Surprising Strength
+Crushing Impacts,壊滅する衝撃
+Hulking Form,巨大な姿
+Colossal Capacity,膨大な能力
+Mysterious Lineage,神秘的な血統
+Stone Skin,石の皮膚
+Block Chance,ブロック確率
+Anvil's Weight,金床の重さ
+Imploding Impacts,内部破裂の衝撃
+Jade Heritage,ヒスイの遺産
+Warcaller's Bellow,ウォーコーラーの叫び
+Answered Call,応えられた呼び声
+Wooden Wall,木製の壁
+Renly's Training,レンリーのトレーニング
+Turtle Charm,亀のお守り
+Heat of the Forge,鍛冶場の熱
+Living Weapon,生ける武器
+Against the Anvil,金床を前にして
+Coal Stoker,石炭係
+Forged in Flame,炎で鍛えられて
+Smith's Masterwork,鍛冶屋の傑作
+Tantalum Alloy,耐熱の合金
+Padded Plates,Padded Plates
+Lead Lining,Lead Lining
+Support Straps,補強のストラップ
+Kitavan Engraving,キタバの刻印
+Heavy Bracing,Heavy Bracing
+Leather Bindings,革の拘束具
+Flowing Metal,溶けた金属
+Molten Symbol,マグマのシンボル
+Internal Layer,内部強化層
+Dedication to Kitava,キタバへの捧げもの
+Heatproofing,耐熱処理
+Beidat's Gaze,ベイダットの凝視
+Beidat's Hand,ベイダットの手
+Beidat's Will,ベイダットの意思
+Altered Flesh,変質した肉体
+Demonic Possession,悪魔の憑依
+Mastered Darkness,闇の支配者
+Pyromantic Pact,火術の契約
+Bringer of Flame,炎をもたらすもの
+Grinning Immolation,笑みを浮かべた焼身
+Loyal Hellhound,忠実なヘルハウンド
+Seething Body,燃え上がる身体
+Bleed on Critical Chance,クリティカル時出血
+Gore Spike,血塗れの棘
+Sunder the Flesh,肉を切り裂け
+Blood Barbs,血の茨
+Whispers of the Flesh,肉の囁き
+Vitality Siphon,生命力吸収
+Grasping Wounds,絡みつく傷
+Sanguine Tides,血の色の潮
+Crystalline Phylactery,結晶の魂の器
+Rupture the Soul,魂を引き裂け
+Necromantic Conduit,死霊術の回路
+Blackened Heart,黒ずんだ心臓
+Soulless Form,魂なき体
+Eternal Life,永遠の命
+Price of Power,力の代価
+Eldritch Empowerment,エルドリッチの強化
+Incessant Cacophony,絶え間ない不協和音
+Chill Duration,冷却持続時間
+Remnant Range,レムナント範囲
+Constant Gale,絶え間ない強風
+Force of Will,意思の力
+Tempest Caller,テンペストコーラー
+Multiplying Squalls,次々と襲うスコール
+Strike Twice,二度落ちる雷
+Heavy Snows,重い雪
+Storm's Recollection,嵐の思い出
+Refracted Infusion,屈折したインフュージョン
+Buff Expiry Rate,バフ消失レート
+Curse Delay,呪い遅延
+Cast Speed and Area of Effect,キャストスピードおよび効果範囲
+Footprints in the Sand,砂漠の足跡
+Ultimate Command,究極の命令
+Inevitability,避けられぬ運命
+The Rapid River,流れの速い川
+Now and Again,時折起きる
+Unbound Encore,解放された再演
+Apex of the Moment,最高潮
+Quicksand Hourglass,流砂の砂時計
+Spirit,スピリット
+A Solid Plan,確かな計画
+Watch How I Do It,私のやり方を見ていろ
+Whoever Pays Best,支払いが最も高いもの
+Suppressing Fire,制圧射撃
+Right Where We Want Them,狙い通りの位置
+Polish That Gear,装備を磨き上げろ
+"Stay Light, Use Cover",素早く動け、身を隠せ
+"Cannons, Ready!",大砲発射準備！
+Unleash Hell!,地獄を解き放て！
+Strategic Embankments,戦略的防壁
+Damage vs Low Life Enemies,低ライフ状態の敵へのダメージ
+Pitiless Killer,無慈悲な殺し屋
+"Judge, Jury, and Executioner",裁判官であり、陪審であり、処刑人でもある
+Witchbane,ウイッチベイン
+No Mercy,慈悲はない
+Obsessive Rituals,執念の儀式
+Ceremonial Ablution,儀式の清め
+Zealous Inquisition,熱狂的な異端審問
+Weapon Master,ウェポンマスター
+Skill Gem Quality,スキルジェム品質
+Attributes,能力値
+Crystalline Potential,結晶のポテンシャル
+Implanted Gems,埋め込まれたジェム
+Bolstering Implants,強化用インプラント
+Motoric Implants,運動強化インプラント
+Neurological Implants,神経インプラント
+Gem Studded,ジェムの嵌め込み
+Advanced Thaumaturgy,上級ソーマタージー
+Enhanced Effectiveness,向上した効能
+Adaptive Capability,適応能力
+Integrated Efficiency,統合された効率
+Thaumaturgical Infusion,ソーマタージの注入
+Lead me through Grace...,恵みを通して導いて
+...and Protect me from Harm,...そして危害から我を守り給え
+I am the Thunder...,私は雷であり...
+I am the Blizzard...,私は吹雪であり...
+...and I Shall Rage,...そして我は怒る
+Sunder my Enemies...,...我が敵を切り裂け
+...and Scatter Them to the Winds,...敵を粉砕し、風に乗って飛ばせ
+Faith is a Choice,信仰は選択である
+The Soul Springs Eternal,魂は永遠に湧き出る
+Volatility,ボラティリティ
+Leech,リーチ
+Darkness,ダークネス
+Damage as Chaos,ダメージを混沌ダメージとして
+Inner Turmoil,内なる混乱
+Unravelling,崩壊
+Sap of Nightmares,悪夢の受益
+Chayula's Gift,チャユラの贈り物
+Choice of Power,選択の力
+Embrace the Darkness,闇を抱擁せよ
+Grasp of the Void,虚無を掴め
+Deepening Shadows,深まる影
+Choice of Mana,マナの選択
+Choice of Life,ライフの選択
+Lucid Dreaming,明晰夢
+Projectile Proximity Specialisation,接近射撃専門化
+Avidity,熱望
+Thrilling Chase,スリリングな追跡
+Called Shots,コールショット
+Bullseye,ブルズアイ
+Poison Effect,毒効果
+Elemental Ailment Threshold,Elemental Ailment Threshold
+Passive Points,パッシブポイント
+Running Assault,疾走する攻撃
+Contagious Contamination,感染性汚染
+Overwhelming Toxicity,圧倒する毒物
+Sustainable Practices,持続可能な戦術
+Enduring Elixirs,持続するエリクサー
+Brew Concoction,醸造された混合物
+Explosive Concoction,エクスプローシブコンコクション
+Shattering Concoction,シャッタリングコンコクション
+Fulminating Concoction,フォーミネイティングコンコクション
+Acidic Concoction,アシッドコンコクション
+Bleeding Concoction,ブリーディングコンコクション
+Practical Remedies,Practical Remedies
+Dousing Vial,Dousing Vial
+Thawing Campfire,解凍の焚火
+Grounding Stick,Grounding Stick
+Traveller's Wisdom,旅行者の知恵
+Critical Strike,クリティカルストライク
+Penetrate,貫通
+Predatory Instinct,捕食者の本能
+In for the Kill,止めを刺せ
+Surging Avatar,サージの化身
+Elemental Surge,エレメンタルサージ
+Azmeri Brew,アズメリの醸造酒
+Stalking Panther,忍び寄るクロヒョウ
+Mystic Harvest,神秘の収穫
+Reduced Mana,マナ減少
+Reduced Spirit,スピリット減少
+Reduced Resistances,耐性減少
+Life Recovery Rate,ライフ回復レート
+Mystic Attunement,神秘との調和
+Unfurled Finger,吊るされた指
+Intricate Sigils,精巧な紋章
+Mind Phylacteries,思考の護符
+Wildwood Persistence,原生林のしぶとさ
+Corrupted Lifeforce,穢れたライフフォース
+As the Whispers Demand,囁きが欲するがままに
+[Jewel] Socket,[Jewel|ジュエル]ソケット
+Buckler Mastery,バックラーマスタリー
+Companion Mastery,コンパニオンマスタリー
+Infusion Mastery,インフュージョンマスタリー
+Banner Mastery,バナーマスタリー
+Thorns Mastery,棘マスタリー
+Charms Mastery,チャームマスタリー
+Crossbow Mastery,クロスボウマスタリー
+Fire Resistance Mastery,火耐性マスタリー
+Flail Mastery,フレイルマスタリー
+Power Charge Mastery,パワーチャージマスタリー
+Quarterstaff Mastery,クォータースタッフマスタリー
+Shapeshifting Mastery,シェープシフトマスタリー
+Spear Mastery,スピアマスタリー
+Totem Life and Damage,トーテムライフおよびダメージ
+Physical Damage and Ignore Physical Damage Reduction,物理ダメージおよび物理ダメージ軽減無視
+Mana Leech Speed,マナリーチスピード
+Slower Rage Decay,憤怒消失速度減少
+Maximum Rage and Armour,最大憤怒およびアーマー
+Slower Rage Decay and Armour,憤怒消失速度減少およびアーマー
+Savage Intensity,野蛮な激しさ
+Veteran's Wrath,古参兵の怒り
+"Armour, Chaos Resistance",アーマーおよび混沌耐性
+"Physical Damage, Armour",物理ダメージ、アーマー
+"Physical Damage, Melee Strike Range",物理ダメージ、近接ストライク距離
+"Physical Damage, Rage on Hit",物理ダメージおよびヒット時憤怒
+Ancestral Fury,先祖の怒り
+Gore Dancer,血塗れの踊り手
+"Life Regeneration, Warcry Duration",ライフ自動回復およびウォークライ持続時間
+"Sione, Sun's Roar",太陽の咆哮、シオーネ
+"Evasion, Chance to Freeze",回避力および凍結確率
+Oath of Spring,春の誓い
+"Evasion, Chance to Shock",回避力および感電確率
+Oath of Winter,冬の誓い
+"Evasion, Spell Suppression",回避力およびスペル抑制
+Mother's Teachings,母の教え
+"Evasion, Chance to Ignite",回避力および発火確率
+Oath of Summer,夏の誓い
+"Evasion, Elemental Ailment Duration",回避力および元素系状態異常持続時間
+Avatar of the Wilds,野生の化身
+"Evasion, Tincture Effect",回避力およびチンキ効果
+Experienced Herbalist,経験豊富な薬草師
+Enduring Suffusion,弛まぬ漲り
+Bringer of Ruin,破滅をもたらすもの
+"Attack Speed, Bleed Chance",アタックスピードおよび出血確率
+Jagged Technique,鋸歯の技術
+Determined Survivor,決意の生存者
+Measured Retaliation,計算された報復
+More Than Skill,技より優れし
+"Attack Speed, Attack Damage",アタックスピード・ダメージ
+War of Attrition,消耗戦
+Worthy Causes,価値ある大義
+"Armour and Energy Shield, Shrine Buff Effect",アーマー・エナジーシールドおよびシュラインバフ効果
+Calculated Risk,計算されたリスク
+Shrapnel Specialist,破片の専門家
+"Projectile Speed, Projectile Damage",投射物スピードおよび投射物ダメージ
+"Area of Effect, Trap and Mine Throwing Speed",効果範囲、トラップおよびマイン投擲スピード
+Warden,Warden
+Attack Mana Cost,アタックマナコスト
+Staff Spell Block,スタッフスペルブロック
+Melee Area of Effect,近接効果範囲
+Wild Hunger,野蛮な餓え
+Awe and Terror,畏怖と恐怖
+Defiant Stand,反抗的な姿勢
+Renowned Deeds,名高い功績
+Banner Area of Effect,バナー効果範囲
+Banner Valour Gained,バナー勇猛獲得
+Banner Maximum Valour and Duration,バナー最大勇猛および持続時間
+Banner Maximum Valour,バナー最大勇猛
+Wicked Blade,邪悪な刃
+Bleed Duration,出血持続時間
+Master of Wounds,傷の支配者
+Impale Chance and Attack Speed,串刺し確率およびアタックスピード
+Leader of the Pack,群れのリーダー
+Spirit of War,戦の精神
+Slower Mana Burn,マナ燃焼減速
+Tincture Effect,チンキ効果
+Practised Reapplication,器用な再適用
+Colloidal Mixture,コロイド混合物
+Perfected Formula,完成された製法
+Feline Swiftness,猫の素早さ
+As The Mountain,山の如し
+Block and Armour,ブロックおよびアーマー
+Wall of Steel,鋼鉄の壁
+As The Thunder,雷霆の如し
+Savage Skewering,残忍な串刺し
+Nomadic Teachings,遊牧民の教え
+Bleed and Critical Strike Chance,出血およびクリティカル率
+Aggravate Bleeding On Critical Strike Chance,クリティカル率時出血悪化
+Cornered Prey,追い詰められた獲物
+Tincture Mana on Kill,チンキ撃破時マナ
+Burst of Energy,エネルギー爆発
+Flask and Tincture Effect,フラスコおよびチンキ効果
+Roaring Challenge,咆哮の挑戦
+Two Handed Melee Damage and Ignore Physical Damage Reduction,両手近接武器ダメージおよび物理ダメージ軽減無視
+Spell Damage and Stun Recovery,スペルダメージおよびスタン復帰
+Arcane Retaliation,アーケインの報復
+Spell Damage Over Time,スペル継続ダメージ
+Spell Damage Over Time Multiplier,スペル継続ダメージ倍率
+Spell Damage Over Time Multiplier and Duration,スペル継続ダメージ倍率および持続時間
+Hasty Demise,素早い死
+Harsh Lessons,厳しい教訓
+Tincture Mastery,チンキマスタリー
+Vinespike Cordial,蔓棘の強壮薬
+Selective Precision,選択的精度
+Legacy of the Wilds,野生の遺産
+Hollow Effigy,空の人形
+Force of Darkness,闇の力
+Lasting Tempest,持続する大嵐
+Adaptive Steel,適応する鋼
+Always Angry,継続する怒り
+Sione's Ambition,シオーネの野望
+Bastion of Faith,信仰の砦
+Beacon of Hope,希望の烽火
+"Wood, Stone, and Spell",木、石、そして呪文
+Jagged Wounds,ギザギザの傷
+No Forgiveness,許しはない
+Deliberate Brutality,計画的蛮行
+Knowledge Barrier,知識の壁
+Incorporeal,霊的な
+Mixed Munitions,混合弾薬
+Worship the Blightheart,ワーシップ・ザ・ブライトハート
+Unrestrained Focus,束縛なき集中
+Careful Counterattack,注意深い反撃
+Prepared Response,用意された反応
+Flow of Battle,戦いの流れ
+Cruel Retort,残酷な切り返し
+Indiscriminate Revenge,無差別の復讐
+Crushing Reply,壊滅的な応酬
+Retaliation Skill Damage and Shield Block,報復スキルダメージおよび盾ブロック
+Retaliation Skill Damage,報復スキルダメージ
+Retaliation Skill Speed and Shield Spell Block,報復スキルスピードおよび盾スペルブロック
+Retaliation Mastery,報復マスタリー
+Retaliation Skill Usable Duration,報復受け付け持続時間
+Retaliation Skill Cooldown Recovery,報復クールダウン回復
+Retaliation Skill Speed,報復スキルスピード
+Retaliation Skill Area Of Effect,報復スキル効果範囲
+Retaliation Skill Stun Duration,報復スキルスタン持続時間
+Retaliation Skill Damage and Stun Threshold,報復スキルダメージおよびスタン閾値
+Arsenal of Vengeance,アーセナルオブベンジェンス
+Seasoned Hunter,熟練の狩人
+Bloodsoaked Blade,ブラッドソークドブレード
+Chaos Resistance and Minion Damage,混沌耐性およびミニオンダメージ
+"Critical Strike Chance, Mark Effect",クリティカル率、呪印効果
+Knife in the Back,背中のナイフ
+"Critical Strike Chance, Poison Chance",クリティカル率、毒確率
+"Critical Strike Chance, Spell Damage",クリティカル率、スペルダメージ
+Mystical Infusion,神秘のインフュージョン
+"Critical Strike Chance, Life",クリティカル率、ライフ
+Shadowed Blood,影の血
+Assassination Style,暗殺スタイル
+Infused Toxins,強化毒
+Chaos Bloodline,カオスのブラッドライン
+Corruption's Embrace,穢れの抱擁
+Deceitful Servant,偽りの従者
+Priest of Yaomac,ヤオマックの司祭
+Priest of Kopec,コペックの司祭
+Priest of Kamasa,カマサの司祭
+Vaal Souls,ヴァールソウル
+Oshabi Bloodline,オシャビのブラッドライン
+The Primal Owl,プライマルのフクロウ
+Seal gain frequency,シール獲得頻度
+The Wild Bear,ワイルドのクマ
+Rage,Rage
+The Vivid Cat,ビビッドのネコ
+Elusive effect,身躱し効果
+Nameless Bloodline,名もなき者のブラッドライン
+The Unseen Hand,目に見えぬ手
+Toad's Price,蛙の対価
+Serpent's Price,蛇の対価
+Beetle's Price,虫の対価
+Unlight Silhouette,闇に浮かぶ人影
+Catarina Bloodline,カタリナブラッドライン
+ Death Offering,死の捧げもの
+Umbral Army,影の軍団
+Prolonged Servitude,果てなき隷属
+Aul Bloodline,アウルブラッドライン
+ Precursor's Release,先人の解放
+Defences,防御力
+Legacy of the King,王の遺物
+The King's Contempt,王の軽蔑
+The King's Heritage,王の血統
+The King's Might,王の力
+Lycia Bloodline,リシアブラッドライン
+Bitter Heresy,痛烈な異端
+Sinner Saint,罪深き聖人
+Farewell to Flesh,肉体との別れ
+Herald and Minion Damage,ヘラルドおよびミニオンダメージ
+Olroth Bloodline,オルロスブラッドライン
+Enhanced Starlight,増幅された星明り
+Ward,ウォード
+Volatile Runes,爆発性のルーン
+Runic Boon,ルーンの贈り物
+Boon of the River,川の贈り物
+Boon of the Mountain,山の贈り物
+Boon of the Sun,太陽の贈り物
+Farrul Bloodline,ファルウルブラッドライン
+Huntleader,狩りのリーダー
+Primal Roar,原始の咆哮
+Farrul's Will,ファルウルの意思
+Farric Will,眷属の意思
+Fertile Will,生命力の意思
+Wild Will,荒野の意思
+Maximum Spectres and Minion Life,スペクター最大数およびミニオンライフ
+Delirious,せん妄
+You're the crazy one!,お前は気が狂ってるよ！
+It wasn't me!,それは俺じゃない！
+That didn't happen!,こんなこと起きるはずがない！
+Life Recovery rate,ライフ回復レート
+Breachlord,ブリーチロード
+Esh of the Storm,嵐のエシュ
+ Lightning Damage,雷ダメージ
+Tul of the Blizzard,吹雪のトゥル
+Otherworldly Appendages,Otherworldly Appendages
+Maximum Life,最大ライフ
+Scent of Blood,血の匂い
+Endurance Charge Mastery,エンデュランスチャージマスタリー
+Surpassing Arrow Chance,矢の超過可能確率
+Quick Fingers,速射
+Parry Area,パリィ範囲
+Off-Balancing Retort,体勢崩しの反撃
+Parried Debuff Magnitude,パリィのデバフ強度
+Parried Debuff Magnitude and Duration,パリィのデバフ強度および持続時間
+Bolt Speed,ボルトスピード
+Specialised Shots,特化ショット
+Evasion and Reduced Movement Penalty,回避力および移動スピードペナルティ減少
+Iron Slippers,鉄のスリッパ
+Energy Shield and Armour applies to Elemental Damage Hits,エナジーシールドおよび元素ダメージヒットにアーマー適用
+Armour and Energy Shield Delay,アーマーおよびエナジーシールド遅延
+Ruinic Helm,ルーンの兜
+Parry Area and Debuff Magnitude,パリィ範囲およびデバフ強度
+Parry Debuff Magnitude,パリィのデバフ強度
+Reverberating Parry,反響の受け流し
+Life Regeneration and Damage,ライフ自動回復およびダメージ
+Bonded Precision,絆の精密性
+Mauling Stuns,殴打のスタン
+Maximum Rage while Shapeshifted,シェープシフト中の憤怒最大値
+Primal Rage,原始の憤怒
+Invigorating Hate,活力の憎しみ
+Rage Decay,憤怒喪失
+Mystical Rage,神秘の憤怒
+Rage on Ignite,発火時憤怒
+Chill Magnitude and Duration,冷却強度および持続時間
+Chill Magnitude,冷却強度
+Freeze Threshold,凍結閾値
+Cold Coat,冷気の覆い
+Freeze Buildup and Skill Effect Duration,凍結蓄積およびスキル効果持続時間
+Skill Effect Duration,スキル効果持続時間
+Blessing of the Moon,月の祝福
+Toxic Sludge,毒性ヘドロ
+Fire Damage when consuming an Endurance Charge,エンデュランスチャージ消費時火ダメージ
+Flare,フレア
+Recover Mana on consuming Power Charge,パワーチャージ消費時マナ回復
+Well of Power,力の井戸
+Infusion and Power Charge Duration,インフュージョンおよびパワーチャージ持続時間
+Infusion of Power,力のインフュージョン
+Power Charge Duration and Energy Shield,パワーチャージ持続時間およびエナジーシールド
+Thirst for Power,力への渇望
+Endurance Charge Duration and Armour,エンデュランスチャージ持続時間およびアーマー
+Thirst for Endurance,耐久への渇望
+Attack Speed and Minion Attack Speed,アタックスピードおよびミニオンアタックスピード
+Among the Hordes,群れの中で
+Spell Hinder,スペル阻害
+Seal Generation Frequency,シール生成頻度
+Wasting Casts,無駄なキャスト
+Flammability Magnitude and Fire Damage,可燃性強度および火ダメージ
+Ignite Magnitude and Poison Magnitude,発火強度および毒強度
+Dread Engineer's Concoction,恐怖の技師の混合物
+Fire Damage and Attack Damage,火ダメージおよびアタックダメージ
+Blazing Arms,灼熱の腕
+Ichlotl's Inferno,イクロトルの業火
+Faster Ignites and Flammability Magnitude,素早い発火および可燃性強度
+Engineered Blaze,設計された業火
+Attack Cold Damage and Freeze Buildup,アタック冷気ダメージおよび凍結蓄積
+Biting Frost,バイティングフロスト
+Attack Cold Damage,アタック冷気ダメージ
+Deep Freeze,凍結持続
+Empowered Attack Freeze Buildup,強化されたアタック凍結蓄積
+Hail,雹
+Constricting,締め付け
+Physical Damage and Increased Duration,物理ダメージおよび持続時間増加
+Physical Damage and Reduced Duration,物理ダメージおよび持続時間減少
+Plant Skill Damage,プラントスキルダメージ
+Boundless Growth,果てしなき成長
+Return to Nature,自然に還れ
+Dangerous Blossom,危険な開花
+Proliferating Weeds,繁殖する草
+Mana Regeneration and Skill Speed,マナ自動回復およびスキルスピード
+Mana Regeneration and Critical Chance,マナ自動回復およびクリティカル率
+Mana Recoup,マナ回収
+Arcane Surge Spell Damage,アーケインスペルダメージ
+Arcane Nature,アーケインの本質
+Attack Elemental Damage,アタック元素ダメージ
+Saqawal's Guidance,サカワルの導き
+Increased Duration and Stun Threshold,持続時間増加およびスタン閾値
+Grounded in the Earth,大地に根差す
+Shapeshifted Damage,シェープシフトダメージ
+Shapeshifted Skill Speed,シェープシフトスキルスピード
+Shapeshifted Physical Damage,シェープシフト物理ダメージ
+Shapeshifted Elemental Penetration,シェープシフト元素耐性貫通
+Shapeshifting Critical Hit Chance,シェープシフトクリティカルヒット率
+Piercing Claw,貫通する爪
+Shapeshifting Spell Damage,シェープシフトスペルダメージ
+Boon of the Beast,獣の恩寵
+Shapeshifting Attack Damage,シェープシフトアタックダメージ
+Shifted Strikes,変身攻撃
+Bear's Roar,クマの咆哮
+Wyvern's Breath,ワイバーンの吐息
+Wolf's Howl,オオカミの遠吠え
+Shapeshifting Elemental Ailment Chance,シェープシフト元素系状態異常確率
+Shapeshifting Stun Buildup,シェープシフトスタン蓄積
+Shapeshifting Armour applies to Elemental Damage Hits,シェープシフト中アーマーが元素ダメージヒットに適用
+Energy Shield Delay while Shapeshifted,シェープシフト中エナジーシールド遅延
+Insulating Hide,保護の皮
+Shapeshifted Armour,シェープシフト中アーマー
+Shapeshifted Damage against Immobilised,シェープシフト中移動不可に対するダメージ
+Molten Claw,マグマの爪
+Spirit of the Bear,クマの魂
+Hide of the Bear,クマの皮
+Bashing Beast,叩き潰す獣
+Shapeshifted Life Regeneration,シェープシフト中ライフ自動回復
+Shapeshifted Life Leech,シェープシフトライフリーチ
+Shapeshifted Critical Chance,シェープシフトクリティカル率
+Blood of the Wolf,オオカミの血
+Spirit of the Wolf,オオカミの魂
+Howling Beast,遠吠えの獣
+Frozen Claw,凍結の爪
+Scales of the Wyvern,ワイバーンの鱗
+Spirit of the Wyvern,ワイバーンの魂
+Shapeshifted Elemental Damage,シェープシフト元素ダメージ
+Shapeshifted Accuracy Rating,シェープシフト命中
+Shapeshifted Energy Shield Recharge,シェープシフトエナジーシールドリチャージ
+Shapeshifted Energy Shield Delay,シェープシフトエナジーシールド遅延
+Electrified Claw,電撃の爪
+Surging Beast,突進の獣
+Shaman,シャーマン
+Adaptive Skin,適応の皮膚
+Dimensional Weakspot,次元の弱点
+Companion Damage and Companion Life,コンパニオンダメージおよびコンパニオンダメージ
+Exposure Effect and Slow Effect,曝露効果および減速効果
+Alchemical Oil,錬金術のオイル
+Attack Area and Combo,アタック範囲ダメージおよびコンボ
+Attack Area Damage,アタック範囲ダメージ
+Frantic Reach,狂乱の射程
+Resolute Reach,覚悟の射程
+Dizzying Sweep,眩暈の薙ぎ払い
+Disciplined Training,規律の訓練
+Attack Area and Flammability Magnitude,アタック範囲および可燃性強度
+Area of Effect and Damage,効果範囲およびダメージ
+Encompassing Domain,包囲の領域
+Sling Shots,シリングショット
+Surpassing Projectile Chance,投射物超過可能確率
+Multi Shot,マルチショット
+Projectile Speed and Physical Damage,投射物スピードおよび物理ダメージ
+Swift Flight,高速飛行
+Physical Damage and Ailment Chance,物理ダメージおよび状態異常確率
+Hidden Barb,見えない切っ先
+Emboldening Casts,鼓舞のキャスト
+Enhancing Attacks,強化のアタック
+Commanding Rage,司令官の憤怒
+Intense Dose,高濃度投与
+Ailment Chance and Duration,状態異常確率および持続時間
+Ailment Chance and Elemental Damage,状態異常確率および元素ダメージ
+Nature's Bite,自然の噛みつき
+Captivating Companionship,魅惑の相棒
+Hunting Companion,狩りの相棒
+Companion Damage,コンパニオンダメージ
+Rallying Form,鼓舞の姿
+Damage with Companion in Presence,存在下にコンパニオンがいる時のダメージ
+Attack Speed with Companion in Presence,存在下にコンパニオンがいる時のアタックスピード
+Pack Encouragement,群れの鼓舞
+Companion Resistance and Life,コンパニオン耐性およびライフ
+Life and Mana Regeneration Rate,ライフおよびマナ自動回復レート
+Licking Wounds,傷舐め
+Delayed Danger,遅延した危険
+Rage on Melee Hit,近接ヒット時憤怒
+Craving Slaughter,殺戮への渇望
+Attack Damage while Moving,移動中のアタックダメージ
+Reduced Movement Penalty and Attack Damage while Moving,移動スピードペナルティ減少および移動中のアタックダメージ
+Ailment Threshold and Slow Effect on You,状態異常閾値およびプレイヤーに対する減速効果
+Against the Elements,元素に対抗して
+Additional Remnant Chance,追加のレムナント確率
+Remnant Attraction,レムナント吸引
+Focused Channel,チャネリング集中
+Channelling Damage and Defences,チャネリングダメージおよび防御力
+Channelling Defences,チャネリング防御力
+Draiocht Cleansing,ドリオクトの浄化
+Totem Area of Effect,トーテム効果範囲
+Rustle of the Leaves,木の葉のざわめき
+Mighty Trunk,力強い幹
+Totem Cast and Attack Speed and Elemental Resistance,トーテムキャストスピードおよびアタックスピードおよび元素耐性
+Attack Added Lighting Damage,アタック追加雷ダメージ
+Innate Rune,内在するルーン
+Cower Before the First Ones,最初の者にひれ伏せ
+Damage Mastery,ダメ―ジマスタリー
+Her Final Bite,最期の一咬み
+Calculated Hunter,計算ずくの狩人
+Rough Carapace,棘だらけの甲羅
+Limitless Pursuit,際限なき追跡
+Movement Mastery,移動スピードマスタリー
+Deadly Thorns,致命的な棘
+Everlasting Bloom,永続する開花
+Power of the Storm,嵐の力
+Invocation Mastery,インヴォケーションマスタリー
+Call Upon the Deep,深淵に呼びかけよ
+First Sting,最初の一刺し
+Bleed Mastery,出血マスタリー
+Forbidden Path,禁断の道のり
+Life Costs and Regeneration,ライフコストおよび自動回復
+Give Up Your Essence,精髄を捧げよ
+Nurturing Nature,自然の育み
+Armour and Block Chance,アーマーおよびブロック率
+Unmoving Craiceann,不動のクレイシアン
+Shelter from the Rain,雨からの避難所
+Armour while Bleeding,出血中のアーマー
+Vale Dweller,谷間の住人
+Unquenchable Iron,熾え続ける鉄
+Stun and Elemental Threshold,スタンおよび元素系閾値
+Elemental Threshold,元素系閾値
+Flesh Withstands,肉体は耐え抜く
+Life Costs and Chaos Damage,ライフコストおよび混沌ダメージ
+Relinquish Your Life,命を手放せ
+Corruption Endures,穢れは消えぬ
+Mentorship,メンターシップ
+Ally Damage,味方ダメージ
+Ally Attack and Cast Speed,味方アタックおよびキャストスピード
+Self Sacrificing,自己犠牲
+Trusted Partner,信頼のパートナー
+Friend to Many,多くのものの友人
+Known by All,万人が知るもの
+Gain Maximum Power Charges on Gaining Power Charge,パワーチャージ獲得時パワーチャージ最大数獲得
+Gift of the Plains,平原の贈り物
+Gain Maximum Frenzy Charges on Gaining Frenzy Charge,フレンジーチャージ獲得時フレンジーチャージ最大数獲得
+Prize of the Hunt,狩りの獲物
+Gain Maximum Endurance Charges on Gaining Endurance Charge,エンデュランスチャージ獲得時エンデュランスチャージ最大数獲得
+Strength of the Deep,深海の力
+Strength and Spell Damage,筋力およびスペルダメージ
+Powerful Casting,力強い詠唱
+Chance to Poison and Spell Damage,毒付与確率およびスペルダメージ
+Night's Bite,夜の噛みつき
+Archon Duration and Critical Damage,アルコン持続時間およびクリティカルダメージ
+Exhaust All Power,全ての力を使い果たせ
+Channelling Stun Threshold,チャネリングスタン閾値
+Channelling Life Recoup,チャネリングライフ回収
+Meditative Focus,瞑想の集中
+Shapeshifted Aftershock Chance,シェープシフト余震確率
+Echoes of Ferocity,獰猛さの反響
+Shapeshifted Skill Effect Duration,シェープシフトスキル効果持続時間
+Endlessly Soaring,果てなき飛翔
+Shapeshifted Mana Regeneration,シェープシフトマナ自動回復
+Lunar Boon,月の恩寵
+Hidden Forms,隠された形態
+Damage and Minion Damage,ダメ―ジおよびミニオンダメージ
+Comradery,仲間意識
+Anger Management,アンガーマネジメント
+Primal Hunger,プライマルハンガー
+Scarred Faith,スカードフェイス
+Lord of the Wilds,ロードオブザワイルド
+Wildsurge Incantation,ワイルドサージインカンテーション
+Disciple of Varashta,ディサイプルオブヴァラシュタ
+Oracle,オラクル
+Mountain Splitter,山を割るもの
+Kitavan Imprint,キタヴァの刻印
+Spiked Plates,棘付きのプレート
+Tribute to Utula,ウトゥーラへの捧げもの
+Sacred Rituals,神聖な儀式
+The Fourth Teaching,第4の教え
+Varashta's Intuition,ヴァラシュタの直感
+Instruments of Power,力の装具
+Baryanic Leylines,バリャのレイライン
+Barya of Navira,ナヴィラのバリャ
+Barya of Kelari,ケラリのバリャ
+Barya of Ruzhan,ルザンのバリャ
+Navira's Fracturing,ナヴィラの破砕
+Navira's Well,ナヴィラの井戸
+Navira's Oasis,ナヴィラのオアシス
+Kelari's Deception,ケラリの欺き
+Kelari's Judgment,ケラリの裁き
+Kelari's Malediction,ケラリの呪詛
+Ruzhan's Trap,ルザンの罠
+Ruzhan's Reckoning,ルザンの清算
+Ruzhan's Fury,ルザンの怒り
+Critical Damage Bonus on You,プレイヤーに対するクリティカルダメージボーナス
+Critical Hit Chance,クリティカルダメージ
+Entwined Realities,交錯する現実
+The Unseen Path,目に見えぬ道
+Harmony Within,内なるハーモニー
+Converging Paths,収束する道
+Fateful Vision,宿命の幻視
+Unnamed Heartwood,名もなき芯材
+The Lesser Harm,小さき害
+Forced Outcome,強制された結果
+Turning of the Seasons,季節の変わり目
+Bringer of the Apocalypse,アポカリプスをもたらすもの
+Druidic Champion,ドルイドのチャンピオン
+Reactive Growth,反応的成長
+Avatar of Evolution,進化の化身
+Furious Wellspring,激昂の源泉
+Sacred Flow,聖なる流れ
+Wisdom of the Maji,マジの知恵
+Mirage Deadeye,ミラージュデッドアイ
+Path Seeker,道を求めるもの
+Path of the Sorceress,ソーサレスの道
+Attack Area of Effect and Accuracy,アタック効果範囲および命中
+Glory of Command,指揮官の栄光
+Shining Justice,輝く正義
+Consecrated Ground Effect,神聖領域効果
+Consecrated Ground Effect and Accuracy,神聖領域効果および命中
+Hallowing Flame Effect,聖別の炎効果
+Marshal of Divinity,神聖の指揮官
+Caster Weapon Display,キャスター武器展示品
+Martial Weapon Display,マーシャル武器展示品
+Armour Display,防具展示品
+Jewellery Display,宝飾品展示品
+Tear of Purity,Tear of Purity
+Astramentis,アストラメンティス
+Warped Timepiece,Warped Timepiece
+Terminus Est,Terminus Est
+Replica Heartbreaker,Replica Heartbreaker
+Maw of Conquest,Maw of Conquest
+The Burden of Shadows,影の重荷
+Cadigan's Authority,カディガンの権威
+Maata's Teaching,マアタの教え
+Widowhail,ウィドウヘイル
+Beltimber Blade,Beltimber Blade
+"Jack, the Axe",斧のジャック
+Victario's Influence,Victario's Influence
+Kiloava's Bluster,Kiloava's Bluster
+Veruso's Ambition,ヴェルーソの野望
+The Burden of Truth,The Burden of Truth
+Prospero's Protection,プロスペロの守護
+Astral Projector,Astral Projector
+Mystic Refractor,神秘の屈折器
+Cybil's Paw,Cybil's Paw
+Kitava's Feast,Kitava's Feast
+Grace of the Goddess,女神の恩寵
+The Brass Dome,真鍮のドーム
+Scavenger,スカベンジャー
+Holy Word,聖なる言葉
+Fiery Aegis,炎のイージス
+Cryogenesis,クライオジェネシス
+Necromantic,降霊術の
+Bound Flesh,縛られた肉
+Afarud Ritual,アファルドの儀式
+Bitter Lash,苦痛のむち打ち

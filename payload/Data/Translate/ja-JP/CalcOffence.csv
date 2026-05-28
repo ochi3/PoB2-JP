@@ -1,0 +1,161 @@
+﻿You can't deal Physical damage,物理ダメージを与えられません
+You can't deal Lightning damage,雷ダメージを与えられません
+You can't deal Cold damage,冷気ダメージを与えられません
+You can't deal Fire damage,火ダメージを与えられません
+You can't deal Chaos damage,混沌ダメージを与えられません
+{0} to {1} (total damage),{0} ～ {1} (合計ダメージ)
+(40% converted to other damage types),(40%が他のダメージタイプに変換)
+(90% converted to other damage types),(90%が他のダメージタイプに変換)
+(100% converted to other damage types),(100%が他のダメージタイプに変換)
+All targets,すべての対象
+(base),(基礎)
+(action speed modifier),(アクション速度補正)
+= {0} casts per second,= 毎秒 {0} キャスト
+(total modifier),(合計補正)
+= {0} seconds per attack,= 1攻撃あたり {0} 秒
+Both weapons:,両方の武器:
+{0} + {1} (skill hits with both weapons at once),{0} + {1} (スキルが両武器で同時ヒット)
+{0} + {1} / {2} (skill alternates weapons),{0} + {1} / {2} (スキルが武器を交互に使用)
+{0} to {1} (base damage from weapon),{0} ～ {1} (武器の基礎ダメージ)
+x {0} (base damage multiplier),x {0} (基礎ダメージ倍率)
++ {0} to {1} (added damage),+ {0} ～ {1} (追加ダメージ)
+x {0} (damage effectiveness),x {0} (ダメージ効率)
+x {0} (duration modifier),x {0} (持続時間補正)
+/ {0} (debuff expires slower/faster),/ {0} (デバフの失効が遅い/速い)
+(cost multiplier),(コスト倍率)
+(base mana cost),(基礎マナコスト)
+(base life cost),(基礎ライフコスト)
+(additional mana cost),(追加マナコスト)
+(additional life cost),(追加ライフコスト)
+(increased/reduced mana cost),(マナコスト増加/減少)
+(increased/reduced life cost),(ライフコスト増加/減少)
+(more/less mana cost),(マナコスト上昇/低下)
+(more/less life cost),(ライフコスト上昇/低下)
+(total mana cost),(合計マナコスト)
+(total life cost),(合計ライフコスト)
+(attack speed),(攻撃速度)
+(cast speed),(キャスト速度)
+Enemy level: {0} (can be overridden in the Configuration tab),敵レベル: {0} (設定タブで上書き可能)
+Average enemy evasion: {0},敵の平均回避値: {0}
+Approximate hit chance: {0}%,推定命中率: {0}%
+Accuracy Hit Chance: {0}%,命中力による命中率: {0}%
+Enemy Block Chance: {0}%,敵ブロック率: {0}%
+(chance to hit),(命中率)
+x {0} (ruthless blow effect modifier),x {0} (ルースレスブロー効果補正)
+(fist of war effect modifier),(Fist of War 効果補正)
+(combined ailment warcry effect modifier),(状態異常とウォークライの複合効果補正)
+(DPS multiplier for this skill),(このスキルのDPS倍率)
+(quantity multiplier for this skill),(このスキルの数量倍率)
+NOTE: Calculation uses new Weighted Avg Ailment formula,注: 計算には新しい加重平均状態異常計算式を使用しています
+(BleedDuration / Attack Time),(出血持続時間 / 攻撃時間)
+(active number of totems),(有効トーテム数)
+(max number of stacks),(最大スタック数)
+Dmg Derivation:,ダメージ導出:
+(Bleed DoT Multi),(出血DoT倍率)
+Non-Crit Dmg Derivation:,非クリティカルダメージ導出:
+(Bleed DoT Multi for Non-Crit),(非クリティカル時の出血DoT倍率)
+Crit Dmg Derivation:,クリティカルダメージ導出:
+(Bleed DoT Multi for Crit),(クリティカル時の出血DoT倍率)
+{0} (ailment effect modifier),{0} (状態異常効果補正)
+(damage rate modifier),(ダメージ速度補正)
+(bleed stacks),(出血スタック)
+(bleed chance based on chance to hit each second),(毎秒の命中率に基づく出血確率)
+(effective DPS modifier from enemy debuffs),(敵デバフによる実効DPS補正)
+(Uncapped raw Bleed DPS),(上限適用前の出血DPS)
+(Capped Bleed DPS),(上限適用後の出血DPS)
+(base duration),(基礎持続時間)
+Ailment mode: CRIT,状態異常モード: クリティカル
+Ailment mode: Crits Only,状態異常モード: クリティカルのみ
+Ailment mode: Average Damage,状態異常モード: 平均ダメージ
+(can be changed in the Configuration tab),(設定タブで変更可能)
+(single poison damage per second),(単体毒の毎秒ダメージ)
+(percent as Caustic ground),(腐食地面としての割合)
+(effect mult),(効果倍率)
+(poison deals 30% per second),(毒は毎秒30%を与える)
+(Uncapped raw Poison DPS),(上限適用前の毒DPS)
+(Capped Poison DPS),(上限適用後の毒DPS)
+(damage per second),(毎秒ダメージ)
+(poison duration),(毒持続時間)
+= {0} damage per poison stack,= 毒1スタックあたり {0} ダメージ
+{0} (poison chance),{0} (毒付与確率)
+{0} (hit chance),{0} (命中率)
+(hits per second),(毎秒ヒット数)
+(dps multiplier for this skill),(このスキルのDPS倍率)
+(stack multiplier for this skill),(このスキルのスタック倍率)
+Capped to 1,1に制限
+(IgniteDuration / Cast Time),(イグナイト持続時間 / キャスト時間)
+(Ignite DoT Multi),(イグナイトDoT倍率)
+(Ignite DoT Multi for Non-Crit),(非クリティカル時のイグナイトDoT倍率)
+(Ignite DoT Multi for Crit),(クリティカル時のイグナイトDoT倍率)
+(ignite damage per second),(毎秒イグナイトダメージ)
+(percent as burning ground),(燃焼地面としての割合)
+(ignite deals 90% per second),(イグナイトは毎秒90%を与える)
+(burn rate modifier),(燃焼速度補正)
+(ignite stacks),(イグナイトスタック)
+(Uncapped raw Ignite DPS),(上限適用前のイグナイトDPS)
+(Capped Ignite DPS),(上限適用後のイグナイトDPS)
+(ignite duration),(イグナイト持続時間)
+= {0} damage per ignite stack,= イグナイト1スタックあたり {0} ダメージ
+(capped at 40%),(40%が上限)
+(increased effect of chill),(冷却効果増加)
+(Ailment Threshold is about equal to Life except on bosses where it is about half of their life),(状態異常閾値は通常ライフとほぼ同等ですが、ボスではライフのおよそ半分です)
+Resulting ailment effect:,最終状態異常効果:
+Resulting ailment effect (with a {0}% Shock on the enemy):,最終状態異常効果 (敵に {0}% の感電がある場合):
+"(ailment threshold is about equal to life, except on bosses that have specific ailment thresholds)",(状態異常閾値は通常ライフとほぼ同等ですが、固有の状態異常閾値を持つボスは例外です)
+"(the above table shows that when the enemy has X ailment threshold, you chill for Y)",(上の表は、敵の状態異常閾値がXのとき、冷却がYになることを示しています)
+"(the above table shows that when the enemy has X ailment threshold, you shock for Y)",(上の表は、敵の状態異常閾値がXのとき、感電がYになることを示しています)
+"(the above table shows that when the enemy has X ailment threshold, you brittle for Y)",(上の表は、敵の状態異常閾値がXのとき、脆弱がYになることを示しています)
+"(the above table shows that when the enemy has X ailment threshold, you sap for Y)",(上の表は、敵の状態異常閾値がXのとき、弱体化がYになることを示しています)
+"(the above table shows that when the enemy has X ailment threshold, you scorch for Y)",(上の表は、敵の状態異常閾値がXのとき、焦げ付きがYになることを示しています)
+Ailment Threshold,状態異常閾値
+Chill Effect,冷却効果
+Shock Effect,感電効果
+Brittle Effect,脆弱効果
+Sap Effect,弱体化効果
+Scorch Effect,焦げ付き効果
+(current),(現在)
+(desired),(目標)
+(maximum),(最大)
+(minimum),(最小)
+(increased/reduced duration),(持続時間増加/減少)
+x {0} (more/less duration),x {0} (持続時間上昇/低下)
+(increased/reduced stun duration),(スタン持続時間増加/減少)
+(increased/reduced enemy stun recovery),(敵スタン回復増加/減少)
+(base value),(基礎値)
+(increased effectiveness),(効果増加)
+"(number of stacks, can be overridden in the Configuration tab)",(スタック数。設定タブで上書き可能)
+(stored damage),(蓄積ダメージ)
+(impale chance),(インペイル確率)
+(impale enemy physical damage reduction),(インペイル対象の物理ダメージ軽減)
+(impale damage multiplier),(インペイルダメージ倍率)
+(Damage per Instance),(インスタンスごとのダメージ)
+(skill duration),(スキル持続時間)
+(average physical hit),(平均物理ヒット)
+x {0} (multiplier from {1}% chance to deal triple damage),x {0} ({1}% の確率でトリプルダメージを与える倍率)
+x {0} (multiplier from {1}% chance to deal double damage),x {0} ({1}% の確率でダブルダメージを与える倍率)
+x {0} (effective DPS modifier),x {0} (実効DPS補正)
+Crit confirmation roll:,クリティカル確認ロール:
+{0} - {1} (portion of damage from non-crits),{0} - {1} (非クリティカルによるダメージ割合)
+(portion of damage from crits),(クリティカルによるダメージ割合)
+{0} (average hit),{0} (平均ヒット)
+x {0} (chance to hit),x {0} (命中率)
+{0} (average damage),{0} (平均ダメージ)
+x {0} (hit rate),x {0} (ヒット頻度)
+x {0} (attack rate),x {0} (攻撃速度)
+x {0} (cast rate),x {0} (キャスト速度)
+Attack Speed before increased Attack Speed,攻撃速度増加適用前攻撃速度
+Description,説明
+ES/s,毎秒ES
+Effective Accuracy vs Enemy,敵に対する実効命中力
+Gain frequency:,獲得頻度:
+Inputs,入力
+Placement speed:,設置速度:
+Throwing rate:,投擲レート:
+Throwing time:,投擲時間:
+Trauma per second before increased Attack Speed,攻撃速度増加適用前毎秒トラウマ
+life,ライフ
+life/s,毎秒ライフ
+mana,マナ
+mana/s,毎秒マナ
+rage,レイジ
+soul,ソウル

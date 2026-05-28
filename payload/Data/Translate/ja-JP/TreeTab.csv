@@ -1,0 +1,132 @@
+﻿Class: ,クラス: 
+Ascendancy: ,アセンダンシー: 
+Points used: ,使用ポイント: 
+Jewel sockets: ,ジュエルソケット: 
+Switching to this tree will give you:,このツリーに切り替えると得られるもの:
+Switching to this tree requires {0} refund points.,このツリーへの切り替えには {0} の払い戻しポイントが必要です。
+Game Version: ,ゲームバージョン: 
+Compare:,比較:
+Reset,リセット
+Reset Tree/Tattoos,ツリー/タトゥーをリセット
+Warning: resetting your passive tree or removing all tattoos cannot be undone.,警告: パッシブツリーのリセットや全タトゥー削除は元に戻せません。
+Reset Tree,ツリーをリセット
+Remove All Tattoos,すべてのタトゥーを削除
+Import Tree,ツリーをインポート
+Export Tree,ツリーをエクスポート
+Version:,バージョン:
+Uses Lua pattern matching for complex searches,複雑検索に Lua パターンマッチを使用
+"Prefix your search with ""oil:"" to search by anoint recipe","""oil:"" を付けるとアノイントレシピで検索できます"
+Find Timeless Jewel,タイムレスジュエル検索
+Show Node Power:,ノードパワーを表示:
+Limit of Node distance to search (lower = faster),検索ノード距離制限 (低いほど高速)
+"When enabled, an estimate of the offensive and defensive strength of",有効にすると、攻撃力および防御力の推定値が表示されます
+each unallocated passive is calculated and displayed visually.,各未割り当てパッシブが計算され、視覚的に表示されます。
+"Offensive power shows as red, defensive power as blue.",攻撃力は赤、防御力は青で表示されます。
+Hide Power Report,パワーレポートを隠す
+Show Power Report,パワーレポートを表示
+Show Power Report is disabled until the first time,「パワーレポートを表示」は初回実行まで無効です。
+an evaluation of all nodes and clusters completes.,すべてのノードとクラスターの評価が完了します。
+"This is an older tree version, which may not be fully compatible with the current game version.",これは古いツリーバージョンであり、現在のゲームバージョンと完全互換ではない可能性があります。
+Convert to {0},{0} に変換
+Tree Converted,ツリー変換
+The tree has been converted to {0}.{1}.,ツリーは {0}.{1} に変換されました。
+Note that some or all of the passives may have been de-allocated due to changes in the tree.,ツリー変更により、一部またはすべてのパッシブが割り当て解除されている可能性があります。
+You can switch back to the old tree using the tree selector at the bottom left.,左下のツリーセレクターから古いツリーへ戻せます。
+Manage trees...,ツリーを管理...
+Building table...,テーブル構築中...
+Unknown Passive Tree Version,不明なパッシブツリーバージョン
+The build you are trying to load uses an unrecognised version of the passive skill tree.,読み込もうとしているビルドは、認識されていないバージョンのパッシブスキルツリーを使用しています。
+You may need to update the program before loading this build.,このビルドを読み込む前にプログラム更新が必要な場合があります。
+Manage Passive Trees,パッシブツリーを管理
+Enter name for this passive tree:,このパッシブツリーの名前を入力:
+Enter passive tree link:,パッシブツリーリンクを入力:
+Resolving PoEURL link...,PoEURLリンク解析中...
+Passive tree link:,パッシブツリーリンク:
+Shrink with PoEURL,PoEURLで短縮
+Shrinking...,短縮中...
+Failed to get PoEURL link. Try again later.,PoEURLリンクの取得に失敗しました。後でもう一度お試しください。
+Reset Node,ノードをリセット
+Tattoo Count: {0},タトゥー数: {0}
+Replace Modifier of Node,ノードのModを置換
+Show Legacy Tattoos:,レガシータトゥーを表示:
+Tip: Right click to select a different effect,ヒント: 右クリックで別の効果を選択できます
+A report of node efficacy based on current heat map selection,現在のヒートマップ選択に基づくノード効率レポート
+Show allocated nodes,割り当て済みノードを表示
+Show Unallocated Nodes,未割り当てノードを表示
+Max path:,最大経路:
+Keystone,キーストーン
+Notable,ノータブル
+Any,任意
+Doryani (Corrupted Soul),ドリヤニ (コラプテッドソウル)
+Xibaqua (Divine Flesh),シバクア (ディヴァインフレッシュ)
+Ahuana (Immortal Ambition),アフアナ (イモータルアンビション)
+Kaom (Strength of Blood),カオム (血の力)
+Rakiata (Tempered by War),ラキアタ (テンパード・バイ・ウォー)
+Akoya (Chainbreaker),アコヤ (チェインブレイカー)
+Asenath (Dance with Death),アセナス (死との舞踏)
+Nasima (Second Sight),ナシマ (第二の視界)
+Balbala (The Traitor),バルバラ (裏切り者)
+Avarius (Power of Purpose),アヴァリウス (目的の力)
+Dominus (Inner Conviction),ドミナス (内なる確信)
+Maxarius (Transcendence),マクサリウス (トランセンデンス)
+Cadiro (Supreme Decadence),カディロ (至高の退廃)
+Victario (Supreme Grandstanding),ヴィクトリオ (至高の見栄)
+Caspiro (Supreme Ostentation),カスピロ (至高の虚飾)
+This is a hybrid node containing all additions to {0},これは {0} へのすべての追加要素を含むハイブリッドノードです。
+Jewel Type:,ジュエルタイプ:
+Conqueror:,征服者:
+Jewel Socket:,ジュエルソケット:
+Filter Nodes:,ノード絞り込み:
+Enable this option to exclude nodes that you do not have allocated on your active passive skill tree.,このオプションを有効にすると、現在のパッシブスキルツリーで割り当てていないノードを除外します。
+This can be useful if you're never going to path towards those excluded nodes and don't care what happens to them.,除外ノードへパスを伸ばす予定がなく、結果を気にしない場合に便利です。
+Protect allocated nodes during search.,検索中に割り当て済みノードを保護
+This can be useful if transforming certain notables would break your build.,特定のノータブル変換でビルドが崩れる場合に便利です。
+Node Distance:,ノード距離:
+This controls the maximum amount of points that need to be spent to grab a node before its filtered out,ノード取得に必要な最大ポイント数を設定します。この値を超えるノードは除外されます。
+Primary Node Weight:,主要ノードウェイト:
+For nodes with multiple stats this slider controls the weight of the first stat listed.,複数のステータスを持つノードでは、このスライダーで最初のステータスのウェイトを調整します。
+This slider controls the weight of the following stat:,このスライダーは以下ステータスのウェイトを調整します:
+Secondary Node Weight:,副ノードウェイト:
+For nodes with multiple stats this slider controls the weight of the second stat listed.,複数のステータスを持つノードでは、このスライダーで2番目のステータスのウェイトを調整します。
+Minimum Node Weight:,最低ノードウェイト:
+Seeds that do not meet the minimum weight threshold for a desired node are excluded from the search results.,目的ノードの最低ウェイト条件を満たさないシードは検索結果から除外されます。
+Search for Node:,ノード検索:
+Fallback Weight Mode:,フォールバックウェイトモード:
+"Click this button to generate new fallback node weights, replacing your old ones.",このボタンを押すと、古い設定を置き換えて新しいフォールバックノードウェイトを生成します。
+Desired Nodes,目的ノード
+"This contains a list of your desired nodes along with their primary, secondary, and minimum weights.",ここには、目的ノードとその主要・副次・最低ウェイト一覧が含まれます。
+This list can be updated manually or by selecting the node you want to update via the search dropdown list and then moving the node weight sliders.,このリストは手動更新するか、検索ドロップダウンからノードを選択し、ノードウェイトスライダーを動かして更新できます。
+Fallback Nodes,フォールバックノード
+"This contains a list of your fallback nodes along with their primary, secondary, and minimum weights.",ここには、フォールバックノードとその主要・副次・最低ウェイト一覧が含まれます。
+"Fallback node weights are only used when no matching entry exists in the desired nodes list, allowing you to override or disable specific automatic weights.",フォールバックノードウェイトは、目的ノード一覧に一致する項目が存在しない場合にのみ使用されます。これにより、特定の自動ウェイトを上書きまたは無効化できます。
+Fallback node weights typically contain automatically generated stat weights based on your current build.,フォールバックノードウェイトには、現在のビルドに基づいた自動生成ステータスウェイトが含まれます。
+"Any manual changes made to your fallback nodes are lost when you click the generate button, as it completely replaces them.",生成ボタンを押すとフォールバックノードが完全に置き換えられるため、手動変更は失われます。
+Error fetching league list,リーグ一覧の取得エラー
+Copy Trade URL,トレードURLをコピー
+Copy Next Trade URL,次のトレードURLをコピー
+Click to generate and copy a trade URL for searching for jewels in this list.,クリックすると、このリストのジュエル検索用トレードURLを生成してコピーします。
+Paste the URL in a web browser to search.,URLをブラウザに貼り付けて検索してください。
+You can click to select a row so that search begins from there.,行をクリックして選択すると、その位置から検索を開始できます。
+After selecting a row You can also shift+click on another row to select a range of rows to search.,行を選択後、別の行を Shift+クリックすると検索範囲をまとめて選択できます。
+Search Results:,検索結果:
+Search,検索
+Required,必要
+Find a Timeless Jewel,タイムレスジュエルを検索
+Brand Damage,ブランドダメージ
+Brutal Restraint,残忍な自制心
+Defences from Shield,盾由来防御
+Duration of Curses,カース持続時間
+Effect of non-Damaging Ailments,非ダメージ状態異常効果
+Elegant Hubris,上品な慢心
+"Error fetching league list, default league will be used",リーグリスト取得エラー、デフォルトリーグを使用します
+Glorious Vanity,栄光ある虚栄心
+Lethal Pride,致命的な自尊心
+Militant Faith,戦闘的な信仰心
+Minions Accuracy Rating,ミニオン命中力
+Non-Curse Aura Effect,非カースオーラ効果
+Skill Cost,スキルコスト
+Sort by ,並び替え: 
+Total ,合計 
+Uses Lua pattern matching for complex searches.,複雑な検索には Lua パターンマッチングを使用します。
+"Prefix your search with ""oil:"" to search by anoint recipe.","アノイントレシピ検索には ""oil:"" を先頭へ付けてください。"
+To search for multiple terms: (increased.fire.damage|increased.area.of.effect|etc),複数条件検索例: (increased.fire.damage|increased.area.of.effect|etc)

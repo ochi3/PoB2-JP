@@ -1,0 +1,35 @@
+﻿Failed to Get PoE League List response,PoEリーグ一覧の取得に失敗しました
+PoE Ninja Rate Limit Exceeded: {0},PoE Ninja のレート制限を超過しました: {0}
+Failed to Get PoE Ninja response,PoE Ninja の応答取得に失敗しました
+Get Currency Conversion Rates,通貨換算レートを取得
+Trader,取引相手
+Update Currency Conversion Rates,通貨換算レートを更新
+Currency Rates are not available,通貨レートは利用できません
+Currency Conversion rates are pulled from PoE Ninja,通貨換算レートは PoE Ninja から取得されます
+The data is only available for the PC realm.,このデータはPC版リーグでのみ利用できます。
+Currency Rates are very recent,通貨レートは非常に新しいです
+Currency Rates are recent,通貨レートは新しいです
+Updates are limited to once per hour and not necessary more than once per day,更新は1時間に1回までに制限されており、通常は1日に複数回行う必要はありません
+Conversion Rates are less than an hour old ({0} seconds old),換算レートは1時間以内のものです ({0} 秒前)
+No Matching Results,一致する結果はありません
+"Price sorting is not available, falling back to Stat Value sort.",価格順ソートは利用できないため、ステータス値順ソートへ切り替えます。
+Find best,最適なものを検索
+trade/search,トレード/検索
+Searching...,検索中...
+Price Item,アイテム価格を確認
+Creates a weighted search to find the highest Stat Value items for this slot.,このスロットで最もステータス値の高いアイテムを検索するための重み付き検索を作成します。
+Paste trade URL here...,ここにトレードURLを貼り付け...
+Control + click to open in web-browser,Control + クリックでブラウザで開く
+You must set your POESESSID to use search feature,検索機能を使用するには POESESSID を設定する必要があります
+Enter a valid trade URL,有効なトレードURLを入力してください
+Enter your session ID here,ここにセッションIDを入力
+Sorted by ,並び替え: 
+This includes enchants in sorting that occurs after trade results have been retrieved,トレード結果取得後の並び替えにエンチャントも含めます
+Total Price: ,合計価格: 
+Weighted Sum searches will always sort using descending weighted sum,Weighted Sum 検索は常に重み合計の降順で並び替えられます
+Additional post filtering options can be done these include:,追加の後処理フィルターには以下があります:
+Highest Stat Value - Sort from highest to lowest Stat Value change of equipping item,Highest Stat Value - 装備時ステータス変化量が高い順
+Highest Stat Value / Price - Sorts from highest to lowest Stat Value per currency,Highest Stat Value / Price - 通貨あたりのステータス価値が高い順
+Lowest Price - Sorts from lowest to highest price of retrieved items,Lowest Price - 取得アイテム価格が安い順
+Highest Weight - Displays the order retrieved from trade,Highest Weight - トレード取得順を表示
+You can get this from your web browser's cookies while logged into the Path of Exile website.,Path of Exile 公式サイトへログイン中のブラウザ Cookie から取得できます。

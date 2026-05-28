@@ -1,0 +1,47 @@
+﻿Enemy physical damage reduction: {0}%,敵の物理ダメージ軽減: {0}%
+(physical damage reduction),(物理ダメージ軽減)
+Effective resistance:,実効耐性:
+(resistance),(耐性)
+(penetration),(耐性貫通)
+(resistance ignored),(耐性無視)
+Effective DPS modifier:,実効DPS補正:
+(increased/reduced damage taken),(受けるダメージ増加/減少)
+(more/less damage taken),(受けるダメージ上昇/低下)
+(base damage per second),(基礎毎秒ダメージ)
+x {0} (increased/reduced),x {0} (増加/減少)
+x {0} (more/less),x {0} (上昇/低下)
+(multiplier),(倍率)
+(rate modifier),(速度補正)
+(aura effect modifier),(オーラ効果補正)
+{0} (effective DPS modifier),{0} (実効DPS補正)
+Contribution from Non-crits:,非クリティカルからの寄与:
+(dot multiplier for non-crits),(非クリティカル時のDoT倍率)
+x {0} (portion of instances created by non-crits),x {0} (非クリティカルで生成されたインスタンスの割合)
+Contribution from Crits:,クリティカルからの寄与:
+(dot multiplier for crits),(クリティカル時のDoT倍率)
+x {0} (portion of instances created by crits),x {0} (クリティカルで生成されたインスタンスの割合)
+Effective DoT Multiplier:,実効DoT倍率:
+Instant Leech: {0},即時リーチ: {0}
+Total leeched per instance:,インスタンスごとの総リーチ量:
+{0} (size of leech destination pool),{0} (リーチ先プールサイズ)
+x {0} (base leech rate is {1}% per second),x {0} (基礎リーチ速度は毎秒 {1}%)
+(leech rate modifier),(リーチ速度補正)
+x {0} (instance duration),x {0} (インスタンス持続時間)
+Instant Leech per hit: {0},ヒットごとの即時リーチ: {0}
+Instant Leech per second: {0},毎秒即時リーチ: {0}
+Rate per instance:,インスタンスごとの速度:
+Maximum leech rate against one target:,単一対象に対する最大リーチ速度:
+x {0} (average instances),x {0} (平均インスタンス数)
+Time to reach max: {0},最大到達までの時間: {0}
+Leech rate cap: {0},リーチ速度上限: {0}
+Time to reach cap: {0},上限到達までの時間: {0}
+Condition,条件
+Low Life,低ライフ
+Conversion,変換
+Converted Damage,変換ダメージ
+Efficiency,効率
+Inc/red,増加/減少
+More/less,上昇/低下
+Skill types,スキルタイプ
+Source Name,ソース名
+Stat,ステータス

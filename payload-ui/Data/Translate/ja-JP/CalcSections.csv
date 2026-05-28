@@ -1,0 +1,810 @@
+﻿Player modifiers:,プレイヤー補正:
+Main hand modifiers:,メインハンド補正:
+Off hand modifiers:,オフハンド補正:
+Enemy modifiers:,敵補正:
+Conversions:,変換:
+Tvalue Override (ms):,T値上書き (ms):
+PvP Multiplier:,PvP倍率:
+Enemy Evasion modifiers:,敵回避補正:
+Main Hand:,メインハンド:
+Off Hand:,オフハンド:
+Added Max:,追加最大値:
+Added Min:,追加最小値:
+Total Increased:,合計増加:
+Total More:,合計上昇:
+Effective DPS Mod:,実効DPS補正:
+Skill Hit Damage:,ヒットダメージ:
+Skill Average Hit:,スキル平均ヒット:
+Skill PvP Average Hit:,スキルPvP平均ヒット:
+MH Total Increased:,MH合計増加:
+MH Total More:,MH合計上昇:
+MH Eff. DPS Mod:,MH実効DPS補正:
+MH Hit Damage:,MHヒットダメージ:
+MH Average Hit:,MH平均ヒット:
+MH PvP Average Hit:,MHPvP平均ヒット:
+OH Total Increased:,OH合計増加:
+OH Total More:,OH合計上昇:
+OH Eff. DPS Mod:,OH実効DPS補正:
+OH Hit Damage:,OHヒットダメージ:
+OH Average Hit:,OH平均ヒット:
+OH PvP Average Hit:,OHPvP平均ヒット:
+Average Damage:,平均ダメージ:
+Chance to Hit:,命中率:
+Enemy Block:,敵ブロック:
+Chance to Explode:,爆発確率:
+PvP Average Dmg:,PvP平均ダメージ:
+Skill DPS:,スキルDPS:
+Skill PvP DPS:,スキルPvP DPS:
+Exerting Warcries:,奮起するウォークライ:
+Effective Impact,実効衝撃
+Avg Dmg Effect,平均ダメージ効果
+Uptime,稼働率
+Number of Exerts,エグザート数
+Max 1-Hit Impact,最大1ヒット衝撃
+Seismic Cry:,セイスミッククライ:
+Intimidating Cry:,インティミデーティングクライ:
+Rallying Cry:,ラリーイングクライ:
+Infernal Cry:,インファーナルクライ:
+Ancestral Cry:,アンセストラルクライ:
+Exerted Attacks:,奮起された攻撃:
+Fist of War:,フィスト・オブ・ウォー:
+Skill Damage over Time:,スキル継続ダメージ:
+Total Multiplier:,合計倍率:
+Damage over Time:,継続ダメージ:
+Skill DoT DPS:,スキルDoT DPS:
+Attack/Cast Rate:,攻撃/キャスト速度:
+MH Inc. Att. Speed:,MH攻撃速度増加:
+MH More Att. Speed:,MH攻撃速度上昇:
+MH Att. per second:,MH毎秒攻撃回数:
+OH Inc. Att. Speed:,OH攻撃速度増加:
+OH More Att. Speed:,OH攻撃速度上昇:
+OH Att. per second:,OH毎秒攻撃回数:
+Attacks per second:,毎秒攻撃回数:
+Attack time:,攻撃時間:
+Cast time:,キャスト時間:
+Inc. Cast Speed:,キャスト速度増加:
+More Cast Speed:,キャスト速度上昇:
+Casts per second:,毎秒キャスト回数:
+Trigger Rate Cap:,トリガー速度上限:
+Eff. Source Rate:,実効ソース速度:
+Skill Trigger Rate:,スキルトリガー速度:
+CWDT Threshold:,CWDT閾値:
+Channel time:,チャネリング時間:
+Inc. Warcry Speed:,ウォークライ速度増加:
+More Warcry Speed:,ウォークライ速度上昇:
+Uses per second:,毎秒使用回数:
+Warcry Cast Time:,ウォークライキャスト時間:
+Crits:,クリ:
+Inc. Crit Chance:,クリ率増加:
+Crit Chance:,クリ率:
+Crit Multiplier:,クリ倍率:
+Crit Effect Mod:,クリ効果補正:
+MH Inc. Crit Chance:,MHクリ率増加:
+MH Crit Chance:,MHクリ率:
+MH Crit Multiplier:,MHクリ倍率:
+MH Crit Effect Mod:,MHクリ効果補正:
+OH Inc. Crit Chance:,OHクリ率増加:
+OH Crit Chance:,OHクリ率:
+OH Crit Multiplier:,OHクリ倍率:
+OH Crit Effect Mod:,OHクリ効果補正:
+Impale:,串刺し:
+Max Impale Stacks:,最大串刺しスタック:
+Stacks on Enemy:,敵へのスタック:
+Impale Chance:,串刺し確率:
+Crit Impale Chance:,クリ時串刺し確率:
+Impale Dur. Mod:,串刺し持続時間補正:
+Impale Duration:,串刺し持続時間:
+Stored Damage:,蓄積ダメージ:
+Damage Mod.:,ダメージ補正:
+MH Impale Chance:,MH串刺し確率:
+MH Stored Damage:,MH蓄積ダメージ:
+MH DMG Mod.:,MHダメージ補正:
+OH Impale Chance:,OH串刺し確率:
+OH Stored Damage:,OH蓄積ダメージ:
+OH DMG Mod.:,OHダメージ補正:
+Impale DPS:,串刺しDPS:
+Impale Damage:,串刺しダメージ:
+Skill type-specific Stats:,スキルタイプ固有ステータス:
+Gem Level:,ジェムレベル:
+Gem Quality:,ジェム品質:
+Mana Cost:,マナコスト:
+Mana % Cost:,マナ%コスト:
+Mana per second:,毎秒マナ:
+Mana % per second:,毎秒マナ%:
+Life Cost:,ライフコスト:
+Life % Cost:,ライフ%コスト:
+Life per second:,毎秒ライフ:
+Life % per second:,毎秒ライフ%:
+ES Cost:,ESコスト:
+ES per second:,毎秒ES:
+ES % per second:,毎秒ES%:
+Rage Cost:,憤怒コスト:
+Rage per second:,毎秒憤怒:
+Active Minion Limit:,ミニオン上限:
+Quantity Multiplier:,数量倍率:
+Skill Cooldown:,スキルクールダウン:
+Stored Uses:,蓄積使用回数:
+Duration Mod:,持続時間補正:
+Skill Duration:,スキル持続時間:
+Secondary Duration:,副持続時間:
+Tertiary Duration:,三次持続時間:
+Aura Duration:,オーラ持続時間:
+Reserve Duration:,リザーブ持続時間:
+Soul Gain Prevent.:,ソウル獲得不能状態:
+Uptime:,稼働率:
+Secondary Uptime:,副稼働率:
+Tertiary Uptime:,三次稼働率:
+Aura Uptime:,オーラ稼働率:
+Reserve Uptime:,リザーブ稼働率:
+Sustainable Trauma:,維持可能なトラウマ:
+Repeat Count:,繰り返し回数:
+Projectile Count:,投射物数:
+Pierce Count:,貫通回数:
+Fork Count:,分裂回数:
+Max Chain Count:,最大連鎖回数:
+Split Count:,分裂数:
+Proj. Speed Mod:,投射物速度補正:
+Self hit Damage:,自傷ヒットダメージ:
+Bounces Count:,跳弾回数:
+Aura Effect Mod:,オーラ効果補正:
+Herald Buff Mod:,ヘラルドバフ補正:
+Mana Reserve Mod:,マナリザーブ補正:
+Life Reserve Mod:,ライフリザーブ補正:
+Curse Effect Mod:,呪い効果補正:
+Curse Limit:,呪い上限:
+Warcry Effect Mod:,ウォークライ効果補正:
+Link Effect Mod:,リンク効果補正:
+Area of Effect Mod:,効果範囲補正:
+Radius:,半径:
+Secondary Radius:,副半径:
+Area of Effect modifiers:,効果範囲補正:
+Tertiary Radius:,三次半径:
+Weapon Range:,武器範囲:
+Strike Targets:,ストライク対象:
+Attachment Range:,付着範囲:
+Max Sust. Fuses:,最大維持フューズ数:
+Explosions /s:,毎秒爆発回数:
+Overlap Chance:,重複確率:
+Trap Cooldown:,トラップクールダウン:
+Wave Pulse Rate:,ウェーブパルス速度:
+Pulses Per Trap:,トラップごとのパルス数:
+Small Explosions:,小規模爆発:
+Normal Hits/Cast:,通常ヒット/キャスト:
+Super Hits/Cast:,スーパーHits/キャスト:
+DPS Multiplier:,DPS倍率:
+Avg. Active Traps:,平均アクティブトラップ数:
+Active Trap Limit:,トラップ上限:
+Trap Throw Rate:,トラップ投擲速度:
+Trap Throw Time:,トラップ投擲時間:
+Avg. Traps per Throw:,1回の投擲あたりの平均トラップ数:
+Trap Trigg. Radius:,トラップ起動半径:
+Seal Gain Rate:,シール獲得速度:
+Active Mine Limit:,マイン上限:
+Mine Throw Rate:,マイン投擲速度:
+Mine Throw Time:,マイン投擲時間:
+Avg. Mines per Throw:,1回の投擲あたりの平均マイン数:
+Mine Deton. Radius:,マイン起爆半径:
+Mine Aura Radius:,マインオーラ半径:
+Totem Place Time:,トーテム設置時間:
+Active Totem Limit:,トーテム上限:
+Totem Duration Mod:,トーテム持続時間補正:
+Totem Duration,トーテム持続時間
+Totem Life Mod:,トーテムライフ補正:
+Totem Life:,トーテムライフ:
+Totem ES:,トーテムES:
+Totem Block Chance:,トーテムブロック率:
+Totem Armour:,トーテムアーマー:
+Active Brand Limit:,ブランド上限:
+Totem Fire Res:,トーテム火耐性:
+Totem Cold Res:,トーテム冷気耐性:
+Totem Light. Res:,トーテム雷耐性:
+Totem Chaos Res:,トーテム混沌耐性:
+Corpse Level:,死体レベル:
+Corpse Life:,死体ライフ:
+Burst Damage:,バーストダメージ:
+Accuracy:,命中力:
+MH Accuracy:,MH命中力:
+MH Chance to Hit:,MH命中率:
+OH Accuracy:,OH命中力:
+OH Chance to Hit:,OH命中率:
+Effect of Blind:,盲目効果:
+Bleed:,出血:
+Max Bleed Stacks:,最大出血スタック:
+Stack Potential:,スタック可能性:
+Average Bleed Roll:,平均出血値:
+Chance to Bleed:,出血付与確率:
+MH Eff. DoT Multi:,MH実効DoT倍率:
+OH Eff. DoT Multi:,OH実効DoT倍率:
+MH Source Physical:,MH物理ソース:
+OH Source Physical:,OH物理ソース:
+Bleed DPS:,出血DPS:
+Bleed Duration:,出血持続時間:
+Poison:,毒:
+Chance to Poison:,毒付与確率:
+Poison Stacks:,毒スタック:
+% chance to inflict 1 additional poison:,追加で1つ毒を付与する確率:
+% chance to inflict 1 additional poison (Main Hand):,追加で1つ毒を付与する確率 (メインハンド):
+% chance to inflict 1 additional poison (Off Hand):,追加で1つ毒を付与する確率 (オフハンド):
+inflict # additional poisons:,追加で付与する毒数:
+inflict # additional poisons (Main Hand):,追加で # 個の毒を付与 (メインハンド):
+inflict # additional poisons (Off Hand):,追加で # 個の毒を付与 (オフハンド):
+Poison Stack Limits:,毒スタック上限:
+Eff. DoT Multi:,実効DoT倍率:
+Source Physical:,物理ソース:
+Source Lightning:,雷ソース:
+MH Source Lightning:,MH雷ソース:
+OH Source Lightning:,OH雷ソース:
+Source Cold:,冷気ソース:
+MH Source Cold:,MH冷気ソース:
+OH Source Cold:,OH冷気ソース:
+Source Fire:,火ソース:
+MH Source Fire:,MH火ソース:
+OH Source Fire:,OH火ソース:
+Source Chaos:,混沌ソース:
+MH Source Chaos:,MH混沌ソース:
+OH Source Chaos:,OH混沌ソース:
+Poison DPS:,毒DPS:
+Caustic Ground:,腐食領域:
+Poison Duration:,毒持続時間:
+Dmg. per Poison:,毒ごとのダメージ:
+Total Poison DPS:,合計毒DPS:
+Ignite:,発火:
+Max Ignite Stacks:,最大発火スタック:
+Average Ignite Roll:,平均発火値:
+Chance to Ignite:,発火:
+Ignite DPS:,発火DPS:
+Burning Ground:,燃焼領域:
+Ignite Duration:,発火持続時間:
+Dmg. per Ignite:,発火ごとのダメージ:
+Decay:,ディケイ:
+Decay DPS:,ディケイDPS:
+Decay Duration:,ディケイ持続時間:
+Leech & Gain on Hit:,リーチとヒット時獲得:
+Life Leech Cap:,ライフリーチ上限:
+Life Leech Rate:,ライフリーチ速度:
+Totem modifiers:,トーテム補正:
+Life Leech per Hit:,ヒットごとのライフリーチ:
+Life Gain Rate:,ライフ獲得速度:
+Life Gain per Hit:,ヒットごとのライフ獲得:
+Life Gain on Kill:,キル時ライフ獲得:
+ES Leech Cap:,ESリーチ上限:
+ES Leech Rate:,ESリーチ速度:
+ES Leech per Hit:,ヒットごとのESリーチ:
+ES Gain Rate:,ES獲得速度:
+ES Gain per Hit:,ヒットごとのES獲得:
+ES Gain on Kill:,キル時ES獲得:
+Mana Leech Cap:,マナリーチ上限:
+Mana Leech Rate:,マナリーチ速度:
+Mana Leech per Hit:,ヒットごとのマナリーチ:
+Mana Gain Rate:,マナ獲得速度:
+Mana Gain per Hit:,ヒットごとのマナ獲得:
+Mana Gain on Kill:,キル時マナ獲得:
+Non-Damaging Ailments:,非ダメージ状態異常:
+Scorch Effect Mod:,焦げ効果補正:
+Chance to Scorch:,焦げ付与確率:
+Scorch Duration:,焦げ持続時間:
+Maximum Scorch:,最大焦げ:
+Current Scorch:,現在の焦げ:
+Configured Scorch:,設定された焦げ:
+Guaranteed Scorches:,確定焦げ:
+Total Scorch:,合計焦げ:
+Effect of Chill:,冷却効果:
+Chill Effect Mod:,冷却効果補正:
+Chill Duration:,冷却持続時間:
+Maximum Chill:,最大冷却:
+Current Chill:,現在の冷却:
+Configured Chill:,設定された冷却:
+Guaranteed Chills:,確定冷却:
+Chance to Freeze:,凍結確率:
+Freeze Duration:,凍結持続時間:
+Brittle Effect Mod:,脆弱効果補正:
+Chance to Brittle:,脆弱付与確率:
+Brittle Duration:,脆弱持続時間:
+Maximum Brittle:,最大脆弱:
+Current Brittle:,現在の脆弱:
+Configured Brittle:,設定された脆弱:
+Guaranteed Brittles:,確定脆弱:
+Shock Effect Mod:,感電効果補正:
+Chance to Shock:,感電確率:
+Shock Duration:,感電持続時間:
+Maximum Shock:,最大感電:
+Current Shock:,現在の感電:
+Configured Shock:,設定された感電:
+Guaranteed Shocks:,確定感電:
+Total Shock:,合計感電:
+Sap Effect Mod:,消耗効果補正:
+Chance to Sap:,消耗付与確率:
+Sap Duration:,消耗持続時間:
+Maximum Sap:,最大消耗:
+Current Sap:,現在の消耗:
+Configured Sap:,設定された消耗:
+Guaranteed Saps:,確定消耗:
+Other Effects:,その他の効果:
+Stun Threshold:,スタン閾値:
+Stun Duration:,スタン持続時間:
+MH Stun Threshold:,MHスタン閾値:
+MH Stun Duration:,MHスタン持続時間:
+OH Stun Threshold:,OHスタン閾値:
+OH Stun Duration:,OHスタン持続時間:
+Knockback Chance:,ノックバック率:
+Knockback Dist.:,ノックバック距離:
+MH K.B. Chance:,MHノックバック率:
+MH K.B. Dist.:,MHノックバック距離:
+OH K.B. Chance:,OHノックバック率:
+OH K.B. Dist.:,OHノックバック距離:
+Inc. Item Quantity:,アイテム数量増加:
+IIQ for Normal Mobs:,通常モンスターへのIIQ:
+Inc. Item Rarity:,アイテムレアリティ増加:
+IIR for Magic Mobs:,マジックモンスターへのIIR:
+Culling Strike:,カリングストライク:
+Enemy Life Recovery:,敵ライフ回復:
+Enemy Mana Recovery:,敵マナ回復:
+Enemy ES Recovery:,敵ES回復:
+Attributes:,能力値:
+Strength:,筋力:
+Dexterity:,器用さ:
+Intelligence:,知性:
+Omniscience:,オムニシエンス:
+Str. Required:,必要筋力:
+Dex. Required:,必要器用さ:
+Int. Required:,必要知性:
+Omni. Required:,必要オムニシエンス:
+Life:,ライフ:
+Base from Gear:,装備による基礎値:
+Inc. from Tree:,ツリーによる増加:
+Total Base:,合計基礎値:
+Total:,合計:
+Reserved:,リザーブ済み:
+Unreserved:,未リザーブ:
+Total Recoverable:,合計回復可能量:
+Recharge Rate:,リチャージ速度:
+Recharge Delay:,リチャージ遅延:
+Recovery:,回復:
+Regen:,自動回復:
+Sources:,ソース:
+Increased Life Regeneration Rate:,ライフ自動回復速度増加:
+More Life Regeneration Rate:,ライフ自動回復速度上昇:
+Recovery modifiers:,回復補正:
+Recoup:,Recoup:
+FasterRecoup:,Recoup高速化:
+Phys Recoup:,物理 Recoup:
+Light Recoup:,雷Recoup:
+Cold Recoup:,冷気Recoup:
+Fire Recoup:,火Recoup:
+Chaos Recoup:,混沌Recoup:
+Dmg. Mit. Regen:,ダメージ軽減時自動回復:
+Mana:,マナ:
+Increased Mana Regeneration Rate:,マナ自動回復速度増加:
+More Mana Regeneration Rate:,マナ自動回復速度上昇:
+Energy Shield:,エナジーシールド:
+Base from Armours:,防具による基礎値:
+Global Base:,グローバル基礎:
+Increased Energy Shield Regeneration Rate:,ES自動回復速度増加:
+More Energy Shield Regeneration Rate:,エナジーシールド自動回復速度上昇:
+Ele Recoup:,属性Recoup:
+Ward:,ワード:
+Armour:,アーマー:
+Armour Defense:,アーマー防御:
+Phys. Dmg. Reduct:,物理ダメージ軽減:
+Fire Dmg. Reduct:,火ダメージ軽減:
+Cold Dmg. Reduct:,冷気ダメージ軽減:
+Light. Dmg. Reduct:,雷ダメージ軽減:
+Evasion:,回避力:
+Evade Chance:,回避率:
+Melee Evade Ch.:,近接回避率:
+Proj. Evade Ch.:,投射物回避率:
+Resists:,耐性:
+Fire Resist:,火耐性:
+Cold Resist:,冷気耐性:
+Lightning Resist:,雷耐性:
+Chaos Resist:,混沌耐性:
+Block:,ブロック:
+Block Chance:,ブロック率:
+Spell Block Chance:,スペルブロック率:
+Taken From Block:,ブロックから受けるダメージ:
+Gain on Block:,ブロック時獲得:
+Life on Block:,ブロック時ライフ:
+Mana on Block:,ブロック時マナ:
+ES on Block:,ブロック時ES:
+ES on Spell Block:,スペルブロック時ES:
+Dodge:,ドッジ:
+Dodge Chance:,ドッジ率:
+Spell Ddg. Chance:,スペル回避率:
+Spell Suppression:,スペル抑制:
+Suppression Ch.:,抑制率:
+Suppression Effect:,抑制効果:
+ES on Suppression:,スペル抑制時ES:
+Life on Suppression:,抑制時ライフ:
+Flasks:,フラスコ:
+Inc. Effect:,効果増加:
+Inc. Duration:,持続時間増加:
+Inc. Charges Gain:,チャージ獲得増加:
+Inc. Charges Used:,使用チャージ増加:
+% to not Consume:,消費しない確率:
+Charge on crit %:,クリ時チャージ獲得率:
+Charges/s:,毎秒チャージ:
+Utility Flasks:,ユーティリティフラスコ:
+Inc. Magic Effect:,マジック効果増加:
+Magic Utility Flask Effect:,マジックユーティリティフラスコ効果:
+Generic Flask Effect:,汎用フラスコ効果:
+Utility Flask Charges/s:,ユーティリティフラスコチャージ/秒:
+Generic Flask Charges/s:,汎用フラスコチャージ/秒:
+Life Flasks:,ライフフラスコ:
+Inc. Recovery:,回復量増加:
+More Recovery:,回復量上昇:
+Inc. Recovery Rate:,回復速度増加:
+Life Flask Recovery Rate:,ライフフラスコ回復速度:
+Generic Flask Recovery Rate:,汎用フラスコ回復速度:
+Life Flask Charges/s:,ライフフラスコチャージ/秒:
+Mana Flasks:,マナフラスコ:
+Mana Flask Recovery Rate:,マナフラスコ回復速度:
+Mana Flask Charges/s:,マナフラスコチャージ/秒:
+Tinctures:,チンキ:
+Tincture Limit:,チンキ上限:
+ManaBurn inc Rate:,マナ燃焼速度増加:
+ManaBurn more Rate:,マナ燃焼速度上昇:
+% Not Inflict ManaBurn:,マナ燃焼を付与しない確率:
+Cooldown Recovery:,クールダウン回復速度:
+Rage:,憤怒:
+Rage Effect:,憤怒効果:
+Maximum Rage:,最大憤怒:
+Increased Rage Regeneration Rate:,憤怒自動回復速度増加:
+More Rage Regeneration Rate:,憤怒自動回復速度上昇:
+Rage Loss Delay:,憤怒減少遅延:
+Inherent Rage Loss:,基礎憤怒減少:
+Charges:,チャージ:
+Endurance:,エンデュランス:
+Max:,最大:
+Current:,現在:
+Spendable:,使用可能:
+Duration:,持続時間:
+Frenzy:,フレンジー:
+Power:,パワー:
+Other Defences:,その他の防御:
+Movement Speed:,移動速度:
+Effect of Elusive:,身躱し効果:
+Light Radius Mod:,光半径補正:
+Curse Effect on You:,自身への呪い効果:
+Exposure Effect:,曝露効果:
+Wither Effect:,衰弱効果:
+Debuff Dur. Mult.:,デバフ持続時間倍率:
+Fortification:,堅牢化:
+Maximum Stacks:,最大スタック:
+Minimum Stacks:,最小スタック:
+Less Dmg. Taken:,受けるダメージ低下:
+Stun Avoid Chance:,スタン回避率:
+Stun Chance:,スタン率:
+Interrupt Avoid Ch.:,妨害回避率:
+Block Stun Duration:,ブロックスタン持続時間:
+Damage Avoidance:,ダメージ回避:
+Avoid All Dmg Ch.:,全ダメージ回避率:
+Avoid Physical Ch.:,物理回避率:
+Avoid Lightning Ch.:,雷回避率:
+Avoid Cold Chance:,冷気回避率:
+Avoid Fire Chance:,火回避率:
+Avoid Chaos Chance:,混沌回避率:
+Avoid Proj Ch.:,投射物回避率:
+Other Avoidance:,その他の回避:
+Blind Avoid Ch.:,盲目回避率:
+Shock Avoid Ch.:,感電回避率:
+Freeze Avoid Ch.:,凍結回避率:
+Chill Avoid Ch.:,冷却回避率:
+Ignite Avoid Ch.:,発火回避率:
+Sap Avoid Ch.:,消耗回避率:
+Brittle Avoid Ch.:,脆弱回避率:
+Scorch Avoid Ch.:,焦げ回避率:
+Bleed Avoid Ch.:,出血回避率:
+Poison Avoid Ch.:,毒回避率:
+Impale Avoid Ch.:,串刺し回避率:
+Curse Avoid Ch.:,呪い回避率:
+Silence Avoid Ch.:,サイレンス回避率:
+Crit Reduction:,クリ軽減:
+Corr Blood Immune:,汚染された血無効:
+Maim Immune:,重傷無効:
+Hinder Immune:,妨害無効:
+Knockback Immune:,ノックバック無効:
+Blind Duration:,盲目持続時間:
+Other Ailment Defences:,その他の状態異常防御:
+Freeze Effect:,凍結効果:
+Chill Effect:,冷却効果:
+Shock Effect:,感電効果:
+Ignite Effect:,発火効果:
+Sap Effect:,消耗効果:
+Brittle Effect:,脆弱効果:
+Scorch Effect:,焦げ効果:
+Bleed Effect:,出血効果:
+Poison Effect:,毒効果:
+Damage Taken:,受けるダメージ:
+Enemy Damage:,敵ダメージ:
+Enemy Conversion modifiers:,敵変換補正:
+Taken As:,ダメージ変換:
+Physical Taken as:,物理ダメージ変換:
+Taken as Physical:,物理として受ける:
+Lightning Taken as:,雷ダメージ変換:
+Taken as Lightning:,雷として受ける:
+Cold Taken as:,冷気ダメージ変換:
+Taken as Cold:,冷気として受ける:
+Fire Taken as:,火ダメージ変換:
+Taken as Fire:,火として受ける:
+Chaos Taken as:,混沌ダメージ変換:
+Taken as Chaos:,混沌として受ける:
+Damaging Hits:,ダメージヒット:
+Hit taken Mult.:,受けるヒット倍率:
+Reflect taken:,反射ダメージ被弾:
+Hit taken:,受けるヒット:
+PvP Hit taken:,PvPで受けるヒット:
+Enemy PvP Multiplier:,敵PvP倍率:
+ES Bypass %:,ESバイパス率:
+Prevented Life Loss:,防いだライフ損失:
+Mind over Matter %:,Mind over Matter率:
+Guard:,ガード:
+Aegis:,イージス:
+Frost Shield:,フロストシールド:
+Spectre Ally:,スペクター味方:
+Totem Ally:,トーテム味方:
+Vaal Rejuv. Totem:,ヴァールリジュベネーショントーテム:
+Soul Link:,ソウルリンク:
+Hits before death:,死亡までのヒット数:
+"Effective ""Health"" Pool:","実効""ヘルス""プール:"
+Unmitigated %:,軽減前割合:
+Mitigated hits:,軽減されたヒット:
+Enemy miss chance:,敵のミス率:
+Effective Hit Pool:,実効ヒットプール:
+Time before death:,死亡までの時間:
+Maximum Hit Taken:,最大被ヒット:
+Recoup and Hit Taken Over Time:,Recoupと時間経過による被ヒット:
+Recoup Max.:,Recoup最大:
+Faster Recoup:,Recoup高速化:
+Recoup Avg.:,Recoup平均:
+Hit Over Time Max.:,ヒット継続時間最大:
+Hit Over Time Avg.:,ヒット継続時間平均:
+Net Max.:,正味最大:
+Net Avg.:,正味平均:
+Dots and Build Degens:,DoTおよびビルド継続ダメージ:
+DoT taken:,受けるDoT:
+Total Pool:,合計プール:
+Effective DoT Pool:,実効DoTプール:
+Degens:,継続ダメージ:
+Total Degen:,合計継続ダメージ:
+Total Net Recovery:,合計正味回復:
+Net Life Recovery:,正味ライフ回復:
+Net Mana Recovery:,正味マナ回復:
+Net ES Recovery:,正味ES回復:
+Net Energy Shield Recovery:,正味エナジーシールド回復:
+Enemy Degens:,敵継続ダメージ:
+% of Maximum ailment DPS,% 最大状態異常DPSに対する割合
+% paid for with life,ライフで支払う割合
+100% percent of Armour applies,アーマーの100%が適用
+2 Add. Proj. Chance,追加2投射物確率
+223% percent of Armour applies,アーマーの223%が適用
+Ailment modifiers,状態異常補正
+Approximate deflect chance:,推定Deflect確率:
+Approximate evade chance:,推定回避率:
+Approximate hit chance at:,推定命中率:
+Arm. as Deflection:,アーマーの受け流し力化:
+Armour Break / hit,ヒットごとのアーマー破壊
+Armour contributing to reduction:,軽減へ寄与するアーマー:
+Average DPS for all Ignites:,全発火の平均DPS:
+Average Freeze buildup,平均凍結蓄積
+Average HeavyStun buildup,平均ヘビースタン蓄積
+Average Poison Roll,平均毒ロール
+Average Roll:,平均値:
+Average enemy accuracy:,平均敵命中力:
+Avg:,平均:
+Base Physical Damage Reduction:,基礎物理ダメージ軽減:
+Base Physical Damage Taken:,基礎物理被ダメージ:
+Base Revival Time,基礎復活時間
+Base damage:,基礎ダメージ:
+Battlemage's Cry,バトルメイジズクライ
+Block Chance Reduction,ブロック率減少
+Bolt Count,ボルト数
+Chance on Crit:,クリ時確率:
+Chance on Non-crit:,非クリ時確率:
+Chance to Blind:,盲目付与確率:
+Chance to Daze:,朦朧付与確率:
+Chance to Rearm,再装填確率
+Chance to even be hit,そもそもヒットを受ける確率
+Chaos. Dmg. Reduct:,混沌ダメージ軽減:
+Charm Limit:,Charm 上限:
+Combined chance:,合算確率:
+Crit Freeze buildup,クリティカル時凍結蓄積
+Crit HeavyStun buildup,クリ時ヘビースタン蓄積
+DPS of all stacks,全スタックDPS
+Damage from Crits:,クリによるダメージ:
+Damage from Non-crits:,非クリによるダメージ:
+Deflect Chance:,受け流し確率:
+Deflect Effect:,受け流し効果:
+Detonation Time,起爆時間
+Dmg. of all Bleeds,全出血ダメージ
+Dmg. of all Ignites:,全発火ダメージ:
+Dmg. of all Poisons:,全毒ダメージ:
+DoT Multiplier:,DoT倍率:
+Dot Damage Taken modifier:,DoT被ダメージ補正:
+"Duration / max(Cooldown, Cast Time)","持続時間 / max(クールダウン, キャスト時間)"
+Eff. Bolt Count,実効ボルト数
+Eff. Reload Time,実効リロード時間
+Effective Recharge rate:,実効リチャージ速度:
+Enemy Ail. Thresh.:,敵状態異常閾値:
+Enemy Hit Damage After Resistance:,耐性適用後の敵ヒットダメージ:
+Enemy Hit Damage:,敵ヒットダメージ:
+Enemy Pen,敵耐性貫通
+Enemy evasion:,敵回避力:
+Enemy poise:,敵強靭値:
+Enemy resistance:,敵耐性:
+Energy Shield,エナジーシールド
+Energy Shield Regeneration:,エナジーシールド自動回復:
+Eva. as Deflection:,回避力の受け流し力化:
+Final Chaos Damage taken:,最終混在被ダメージ:
+Final Cold Damage taken:,最終氷被ダメージ:
+Final Fire Damage taken:,最終火被ダメージ:
+Final Lightning Damage taken:,最終雷被ダメージ:
+Final Physical Damage taken:,最終物理被ダメージ:
+Firing Rate,発射レート
+Gem Req Mod,ジェム要求値補正
+Hit damage:,ヒットダメージ:
+Ice Crystal Life,氷の結晶ライフ
+"If hitting constantly, your average strongest ailment currently achieves % of its max damage",継続してヒットしている場合、現在の最強状態異常は平均で最大ダメージの%に達します
+Inc. Quiver Effect:,矢筒効果増加:
+Inc. Reload Speed,リロード速度増加
+Increased Energy Shield Recovery,エナジーシールド回復増加
+Increased Life Recovery,ライフ回復増加
+Increased Mana Recovery,マナ回復増加
+Item Req Mod,アイテム要求値補正
+Leech Conversion,リーチ変換
+Life Regeneration:,ライフ自動回復:
+MH Crit Bifurcates:,MH クリティカル分岐:
+MS While Casting:,キャスト中移動速度:
+Magnitude Effect:,強度効果:
+Mana Regeneration:,マナ自動回復:
+Mana through MoM:,MoM経由マナ:
+Mark Effect Mod,呪印効果補正
+Mark Limit,呪印上限
+Max Poison Stacks,最大毒スタック
+Maximum hit damage breakdown,最大ヒットダメージ内訳
+Maximum hit is calculated in reverse -,最大ヒットは逆算によって計算されます -
+Min:,最小:
+Minimum Movement Speed while using this skill,このスキル使用中の最低移動速度
+Minion Revival Time:,ミニオン復活時間:
+Minion Skill Stat Set:,ミニオンスキルステセット:
+More Energy Shield Recovery,エナジーシールド回復上昇
+More Life Recovery,ライフ回復上昇
+More Mana Recovery,マナ回復上昇
+More Reload Speed,リロード速度上昇
+NOTE: Having any energy shield when the hit occurs grants 50% chance to avoid stun.,注: ヒット時にエナジーシールドが少しでも残っている場合、スタン回避率50%を得ます。
+Next 0.1m breakpoint:,次の0.1mブレークポイント:
+No Ammo Consume,弾薬消費なし
+Non-bypassed Energy Shield:,貫通されないエナジーシールド:
+Number of mitigated hits,軽減可能ヒット数
+OH Crit Bifurcates,OHクリティカル分岐
+Overkill damage,オーバーキルダメージ
+Override,上書き
+POB only applies this modifier when ES > Total incoming damage.,PoBでは ES > 総受けダメージ の場合のみ、この補正を適用します。
+Perfect Timing,完璧なタイミング
+Portion of total damage:,総ダメージ割合:
+Presence Mod,存在下補正
+Previous 0.1m breakpoint:,前の0.1mブレークポイント:
+Recharge rate:,リチャージ速度:
+Reduction from Armour:,アーマーによる軽減:
+Regular Hit Freeze buildup,通常ヒット時凍結蓄積
+Regular Hit HeavyStun buildup,通常ヒット時ヘビースタン蓄積
+Resistance:,耐性:
+Spell Evade Ch.,スペル回避率
+Spell Proj. Evade Ch.,スペル投射物回避率
+Spirit % Cost,スピリット割合コスト
+Spirit Cost,スピリットコスト
+Spirit Reserve Mod:,スピリットリザーブ補正:
+Such a hit would drain the following resources:,このヒットは以下のリソースを消費します:
+Surrounded Mod,囲まれ補正
+Surrounded Radius:,囲まれ判定半径:
+Taken:,被ダメージ:
+Terrain Chain,地形チェイン
+The percentage of your max stacks that are applied on average if you are attacking constantly,継続して攻撃している場合、平均して適用される最大スタック割合
+This is the average roll of an ailment affecting the enemy if you are constantly attacking,継続して攻撃している場合の、敵へ適用される状態異常の平均値です
+"This is the lowest movement speed you will reach while using this skill,",これは、このスキル使用中に到達する最低移動速度です。
+"This is the lowest movement speed you will reach while using this skill, subject to acceleration and deceleration",これは、このスキル使用中に到達する最低移動速度です。加速および減速の影響を受けます
+This part of the hit drains the following resources:,このヒット部分は以下のリソースを消費します:
+Total Effective DoT Pool:,合計実効DoTプール:
+Total Effective Dot Pool:,合計実効DoTプール:
+Total Firing Time,合計発射時間
+Total Physical Damage Reduction:,合計物理ダメージ軽減:
+Total Revival Time,合計復活時間
+Total base DPS per Chill:,冷却ごとの合計基礎DPS:
+Total base DPS per Ignite:,発火ごとの合計基礎DPS:
+Total base DPS per Shock:,感電ごとの合計基礎DPS:
+Total damage from the enemy:,敵から受ける総ダメージ:
+Total damage taken after mitigation:,軽減後の総被ダメージ:
+Total damage taken from the enemy after taken as:,ダメージ変換後の敵から受ける総ダメージ:
+Totem Dur. Mod,トーテム持続時間補正
+Uses a weighted average formula when stack potential is over 100%,スタック可能量が100%を超える場合、加重平均式を使用します
+Weap. Swap Speed:,武器スワップ速度:
+Weapon Req Mod,武器要求値補正
+added damage,追加ダメージ
+additional use,追加使用
+ailment DPS Range,状態異常DPS範囲
+ailment deals 20% per second,状態異常は毎秒20%を与える
+ailment duration,状態異常持続時間
+ailment magnitude effect,状態異常強度効果
+approximate,概算
+average damage,平均ダメージ
+average hit,平均ヒット
+averaging <= 1 applications,1回以下の適用を平均化
+avg ailment stacks,平均状態異常スタック数
+base from Life,ライフによる基礎値
+base from Tree,ツリーによる基礎値
+base from item,アイテムによる基礎値
+base radius,基礎半径
+block effect,ブロック効果
+chance for block to fail,ブロック失敗確率
+chance for evasion to fail,回避失敗確率
+chance from crits,クリによる確率
+chance from non-crits,非クリによる確率
+chance to apply,付与確率
+chance to be hit by an Average hit,平均ヒットを受ける確率
+converted from,変換元
+crit Bifurcates chance,クリティカル分岐確率
+crit chance,クリ率
+current config,現在の設定
+damage from crits,クリによるダメージ
+damage from non-crits,非クリによるダメージ
+damage from skill,スキル由来ダメージ
+damage from weapon,武器によるダメージ
+damage gained from other damage types,他ダメージタイプから獲得したダメージ
+damage mult,ダメージ倍率
+damage taken from an Average hit,平均ヒットから受けるダメージ
+degen,継続減少
+effect modifiers,効果補正
+effective crit chance,実効クリティカル率
+effective enemy stun damage,実効敵スタンダメージ
+effective movement speed modifier,実効移動速度補正
+enemy attack/cast time,敵攻撃/キャスト時間
+enemy crit effect,敵クリ効果
+enemy damage conversion,敵ダメージ変換
+from Default:,デフォルトによる:
+"from health pools, via damage reductions, to the max hit:",ヘルスプールからダメージ軽減を経由して最大ヒット値を算出:
+incoming damage,受けるダメージ
+increased AoE,AoE増加
+increased threshold,閾値増加
+increased/reduced,増減
+increased/reduced cooldown recovery,クールダウン回復速度増減
+increased/reduced detonation time,起爆時間増減
+increased/reduced penalty,ペナルティ増減
+less AoE multiplier,AoE低下倍率
+level from gem,ジェムによるレベル
+level from items,アイテムによるレベル
+level from support,サポートによるレベル
+mana cost conversion,マナコスト変換
+maximum survivable enemy damage,耐えられる敵ダメージ最大値
+min combined sources + (max combined sources - min combined sources) * average roll,最小合算値 + (最大合算値 - 最小合算値) × 平均値
+modifiers to damage taken,受けるダメージへの補正
+modifiers to enemy damage,敵ダメージへの補正
+more AoE multiplier,AoE上昇倍率
+more/less penalty,ペナルティ上昇/低下
+movement speed modifier,移動速度補正
+movement speed penalty,移動速度ペナルティ
+movement speed penalty from using skill,スキル使用時移動速度ペナルティ
+movement speed while casting,キャスト中移動速度
+number of hits,ヒット数
+of damage taken from an Average hit,平均ヒットから受けるダメージ
+per second,毎秒
+portion of damage from non-crits,非クリによるダメージ割合
+recovery rate modifier,回復速度補正
+reduced AoE,AoE減少
+remaining,残り
+rounded up to nearest server tick,最も近いサーバーティックへ切り上げ
+skill use,スキル使用
+source damage from crits,クリによる元ダメージ
+source damage from non-crits,非クリによる元ダメージ
+square root of area of effect modifier,効果範囲補正の平方根
+stun multiplier,スタン倍率
+stun threshold,スタン閾値
+subject to acceleration and deceleration,加速および減速の影響を受けます
+total,合計
+total average number of hits you can take,耐えられる平均ヒット総数
+total burst damage,合計瞬間ダメージ
+total damage,合計ダメージ
+total damage of all stacks,全スタック合計ダメージ
+total damage you can take,耐えられる総ダメージ
+total incoming damage,総受けダメージ
+total time it would take to die,死亡までの合計時間
+total uses,合計使用回数
+used pool,使用プール

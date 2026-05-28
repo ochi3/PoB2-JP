@@ -1,0 +1,1620 @@
+﻿Resistance penalty:,耐性ペナルティ:
+Act {0}{1}%),第{0}章{1}%)
+Bandit quest:,盗賊クエスト:
+Major God:,上級神:
+Kill all,全員倒す
+Grants 1 Passive Skill Point,パッシブスキルポイント +1
+Help Oak,オークを助ける
+Help Kraityn,クレイトンを助ける
+Help Alira,アリーラを助ける
+The Pantheon:,パンテオン:
+Nothing,なし
+Soul of the Brine King,ブラインキングの魂
+Soul of Lunaris,ルナリスの魂
+Soul of Solaris,ソラリスの魂
+Soul of Arakaali,アラカーリの魂
+Minor God:,下級神:
+Soul of Gruthkul,グルースカルの魂
+Soul of Yugul,ユグルの魂
+Soul of Abberath,アベラスの魂
+Soul of Tukohama,トゥコハマの魂
+Soul of Garukhan,ガルカーンの魂
+Soul of Ralakesh,ララケシュの魂
+Soul of Ryslatha,リスラサの魂
+Soul of Shakari,シャカリの魂
+Enemy Corpse Life:,敵の死体ライフ:
+Sets the maximum life of the target corpse for Detonate Dead and similar skills.,デトネートデッドなどのスキル用に、対象死体の最大ライフを設定します。
+"For reference, a level 70 monster has 6937 base life, and a level 80 monster has 12787.",参考: レベル70モンスターの基礎ライフは6937、レベル80モンスターは12787です。
+Time spent stationary,静止時間
+Applies mods that use `while stationary` and `per / every second while stationary`,`静止中` および `静止中1秒ごと` の Mod を適用します
+Are you always moving?,常に移動中ですか?
+Are you insane?,狂気状態ですか?
+Are you always on Full Life?,常にフルライフ状態ですか?
+Are you always on Low Life?,常に低ライフ状態ですか?
+Are you always on Full Mana?,常にフルマナ状態ですか?
+Are you always on Low Mana?,常に低マナ状態ですか?
+Are you always on Full Energy Shield?,常にエナシ最大状態ですか?
+Are you always on Low Energy Shield?,常に低エナシ状態ですか?
+You will automatically be considered to be on Low Life if you have at least {0}% Life reserved,ライフを {0}% 以上リザーブしている場合、自動的に低ライフ状態とみなされます
+You can be considered to be on Full Life if you have at least {0}% Life left.,ライフが少なくとも {0}% 残っている場合、フルライフ状態とみなされます。
+"You will automatically be considered to be on Full Life if you have Chaos Inoculation,",カオスイノキュレーションを持つ場合、自動的にフルライフ状態とみなされます。
+but you can use this option to force it if necessary.,必要であれば、このオプションで強制的に有効化できます。
+"You will automatically be considered to be on Low Mana if you have at least 50% mana reserved,",マナを50%以上リザーブしている場合、自動的に低マナ状態とみなされます。
+"You will automatically be considered to be on Low Energy Shield if you have at least 50% ES reserved,",ES を50%以上リザーブしている場合、自動的に低エナシ状態とみなされます。
+Do you always have Energy Shield?,常にエナシがある?
+Are your Minions always on Full Life?,ミニオンは常にフルライフ状態ですか?
+Are your Minions always on Low Life?,ミニオンは常に低ライフ状態ですか?
+Minion is always on Full Energy Shield?,ミニオンは常にフルエナシですか?
+Have your Minions been created Recently?,直近ミニオンが生成されましたか?
+Ailment calculation mode:,状態異常計算モード:
+Average,平均
+Crits Only,クリティカルのみ
+Minimum,最小
+Maximum,最大
+Burst,バースト
+Controls how the base damage for applying Ailments is calculated:,状態異常付与に使用する基礎ダメージの計算方法を制御します:
+"	Average: damage is based on the average application, including both crits and non-crits",	平均: ダメージはクリティカル・非クリティカルを含めた平均適用値に基づきます
+	Crits Only: damage is based solely on Ailments inflicted with crits,	クリティカルのみ: ダメージはクリティカルによる状態異常のみを基準にします
+Random element mode:,ランダム属性モード:
+Controls how modifiers which choose a random element will function.,ランダムな元素を選択する補正の動作を制御します。
+"	Average: Modifiers will grant one third of their value to Fire, Cold, and Lightning simultaneously",	平均: Modは火・冷気・雷へ同時に1/3ずつ適用されます
+	Fire / Cold / Lightning: Modifiers will grant their full value as the specified element,	火/冷気/雷: Modは指定属性へ全量適用されます
+"If a modifier chooses between just two elements, the full value can only be given as those two elements.",補正が2種類の元素から選択される場合、その完全な値はその2元素に対してのみ適用されます。
+Life regen calculation mode:,ライフ自動回復計算モード:
+Controls how life regeneration is calculated:,ライフ自動回復の計算方法を制御します:
+	Minimum: does not include burst regen,	最小: バースト回復を含みません
+"	Average: includes burst regen, averaged based on uptime",	平均: バースト回復を含み、稼働率ベースで平均化されます
+	Burst: includes full burst regen,	バースト: 最大バースト回復を含みます
+Resource gain calculation mode:,リソース獲得計算モード:
+Controls how resource on hit/kill is calculated:,ヒット時/キル時のリソース獲得計算を制御します:
+	Minimum: does not include chances,	最小: 確率要素を含みません
+"	Average: includes chance gains, averaged based on uptime",	平均: 確率系獲得を含み、稼働率ベースで平均化されます
+	Maximum: treats all chances as certain,	最大: すべての確率を確定として扱います
+EHP calc unlucky:,EHP計算 不運設定:
+Sets the EHP calc to pretend its unlucky and reduce the effects of random events such as,EHP計算で不運状態を想定し、ランダム要素の効果を減少させます
+	Block/Spell Block Chance,	ブロック/スペルブロック率
+	Dodge/Spell Dodge Chance,	ドッジ/スペルドッジ率
+	Spell Suppression Chance,	スペル抑制率
+	Avoidance Chance,	回避確率
+Unlucky,不運
+Very Unlucky,非常に不運
+Disable EHP gain when hit:,被ヒット時のEHP増加を無効化:
+"Sets the EHP calc to not apply gain on block, suppress or Defiance of Destiny effects",EHP計算でブロック時獲得、スペル抑制、運命への反抗の効果を適用しないようにします
+Armour calculation mode:,アーマー計算モード:
+Controls how Defending with Double Armour is calculated:,ダブルアーマー防御の計算方法を制御します:
+	Minimum: never Defend with Double Armour,	最小: ダブルアーマー防御は発生しません
+	Average: Damage Reduction from Defending with Double Armour is proportional to chance,	平均: ダブルアーマー防御によるダメージ軽減は発生確率に比例します
+	Maximum: always Defend with Double Armour,	最大: 常にダブルアーマーで防御します
+This setting has no effect if you have 100% chance to Defend with Double Armour.,Defend with Double Armour が100%の場合、この設定は効果がありません。
+Exerted/Boosted calc mode:,奮起/ブースト 計算モード:
+Max Hit,最大ヒット
+Controls how exerted attacks from Warcries are calculated:,ウォークライによる奮起アタックの計算方法を制御します:
+"Averages out Warcry usage with cast time, attack speed and warcry cooldown.",キャスト時間、アタックスピード、ウォークライのクールダウンを考慮してウォークライ使用率を平均化します。
+Max Hit: Shows maximum hit for lining up all warcries.,最大ヒット: すべてのウォークライを揃えた際の最大ヒットを表示します。
+Disable Emperor's Vigilance Bypass,皇帝の警戒のバイパスを無効化
+Don't disable items,アイテムを無効化しない
+"Ignore the effects of things which disable items, like Bringer of Rain",Bringer of Rain のようなアイテム無効化効果を無視します
+Ignore Jewel Limits,ジュエル制限を無視
+Ignore the limits on jewels,ジュエルの制限を無視します
+# of Empty Red Sockets,空の赤ソケット数
+This option allows you to override the default calculation for the number of Empty Red Sockets.,空の赤ソケット数のデフォルト計算を上書きします。
+The default calculation assumes enabled gems in skill socket groups fill the item in socket order disregarding gem colour.,デフォルト計算では、有効化されたジェムが色を無視してソケット順にアイテムへ配置されると仮定します。
+Leave blank for default calculation.,デフォルト計算を使用する場合は空欄にしてください。
+# of Empty Green Sockets,空の緑ソケット数
+This option allows you to override the default calculation for the number of Empty Green Sockets.,空の緑ソケット数のデフォルト計算を上書きします。
+# of Empty Blue Sockets,空の青ソケット数
+This option allows you to override the default calculation for the number of Empty Blue Sockets.,空の青ソケット数のデフォルト計算を上書きします。
+# of Empty White Sockets,空の白ソケット数
+This option allows you to override the default calculation for the number of Empty White Sockets.,空の白ソケット数のデフォルト計算を上書きします。
+Skill Options,スキルオプション
+Arcane Cloak:,アーケインクローク:
+Include in Mana spent Recently?,直近消費したマナに含めますか?
+"When enabled, the mana spent by Arcane Cloak used at full mana ",有効時、フルマナで使用した アーケインクロークの消費マナ 
+will be added to the value provided in # of Mana spent Recently.,「直近消費したマナ量」に入力された値へ加算されます。
+Aspect of the Avian:,鳥のアスペクト:
+Is Avian's Might active?,鳥の力は有効?
+Is Avian's Flight active?,鳥の飛行は有効?
+Aspect of the Cat:,猫のアスペクト:
+Is Cat's Stealth active?,猫のステルスは有効?
+Is Cat's Agility active?,猫の素早さは有効?
+Aspect of the Crab:,蟹のアスペクト:
+# of Crab Barriers (if not maximum):,クラブバリアの数 (最大でない場合):
+Aspect of the Spider:,蜘蛛のアスペクト:
+# of Spider's Web Stacks:,蜘蛛の巣スタック数:
+Banner Skills:,バナースキル:
+Is Banner Planted?,バナーを設置していますか?
+Banner Valour:,バナー勇猛:
+The amount of valour consumed for the placed banner,設置したバナーで消費される勇猛量
+Barkskin:,バークスキン:
+# of Barkskin Stacks:,バークスキンスタック数:
+Unbound Avatar:,アンバウンドアバター設定:
+Are you Unbound?,アンバウンド状態ですか?
+Bladestorm:,ブレードストーム:
+Are you in a Bloodstorm?,ブラッドストーム内にいますか?
+Are you in a Sandstorm?,サンドストーム内にいますか?
+Blood Sacrament:,ブラッドサークラメント:
+Count Skill Reservation towards eHP?,スキルリザーブを eHP に含めますか?
+Use this option to disable the skill reservation factoring into eHP calculations,eHP 計算へスキルリザーブを含めないようにします
+Brand Skills:,ブランドスキル:
+# of active Brands:,有効なブランド数:
+# of Brands attached to the enemy:,敵に付着しているブランド数:
+Skill is targeting the Branded enemy,スキルはブランドが付与された敵を対象にしている
+Last 25% of attached duration?,付着持続時間の最後25%ですか?
+Last 50% of attached duration?,付着持続時間の最後50%ですか?
+Carrion Golem:,キャリオンゴーレム:
+# of Nearby Non-Golem Minions:,近くの非ゴーレムミニオン数:
+Close Combat:,近距離戦闘:
+Is Combat Rush active?,コンバットラッシュは有効?
+Combat Rush grants 20% more Attack Speed to Travel Skills not Supported by Close Combat.,コンバットラッシュは、近距離戦闘で補助されていない移動スキルにアタックスピード20%上昇を付与します。
+Cold Snap:,コールドスナップ:
+Bypass CD?,クールダウンを無視しますか?
+Consecrated Path of Endurance:,耐久力のコンセクレイテッドパス:
+Corrupting Cry:,コラプティングクライ:
+# of Corrupting Cry stacks on enemy,敵のコラプティングクライスタック数
+Cruelty:,クルーエルティ:
+Damage % (if not maximum):,ダメージ% (最大でない場合):
+Cruelty is a buff provided by Cruelty Support which grants,クルーエルティはクルーエルティサポートによって付与されるバフで、以下を付与します
+up to 40% more damage over time to the skills it supports.,サポート対象スキルに対して、最大40%の継続ダメージ上昇。
+Cyclone:,サイクロン:
+Are you Channelling Cyclone?,サイクロンをチャネリング中ですか?
+Dark Pact:,ダークパクト:
+Skeleton Life:,スケルトンライフ:
+Sets the maximum Life of the Skeleton that is being targeted.,対象となっているスケルトンの最大ライフを設定します。
+Doom Blast:,ドゥームブラスト:
+Doom Blast Trigger Source:,ドゥームブラスト トリガー元:
+Curse overlaps:,呪い重複:
+Elemental Army:,元素の軍勢:
+Exposure Type:,曝露タイプ:
+Embrace Madness:,エンブレースマッドネス:
+Is Embrace Madness active?,エンブレースマッドネスは有効?
+Glorious Madness Stacks,栄光なる狂気スタック
+Glorious Madness Stacks grants:,栄光なる狂気スタックにより付与:
+	Eroding Touch: 6% inc Damage Taken per stack,	浸食の気配: 1スタックごとに受けるダメージが6%増加する
+	Paralysing Touch: 6% reduced Action Speed per stack,	麻痺の気配: 1スタックごとにアクションスピードが6%減少する
+	Diluting Touch: 9% reduced Flask charges gained and 9% reduced Flask Effect per stack,	希釈の気配: 1スタックごとにフラスコチャージ獲得量およびフラスコ効果が9%減少する
+	Wasting Touch: 9% reduced Life and Energy Shield recovery rate per stack,	消耗の気配: 1スタックごとにライフおよびエナジーシールド回復レートが9%減少する
+Feeding Frenzy:,狂乱の餌付け:
+Is Feeding Frenzy active?,狂乱の餌付けは有効?
+Feeding Frenzy grants:,狂乱の餌付けにより付与:
+	10% more Minion Damage,	ミニオンダメージが10%上昇する
+	10% increased Minion Movement Speed,	ミニオンの移動スピードが10%増加する
+	10% increased Minion Attack and Cast Speed,	ミニオンのアタックスピードおよびキャストスピードが10%増加する
+Flame Wall:,フレイムウォール:
+Projectile Travelled through Flame Wall?,投射物はフレイムウォールを通過しましたか?
+Flicker Strike:,フリッカーストライク:
+Fresh Meat:,フレッシュミート:
+Is Fresh Meat active?,フレッシュミートは有効?
+Frost Shield:,フロストシールド:
+Stages:,ステージ:
+Greater Harbinger of Time:,時の大ハービンジャー:
+Is Slipstream active?:,スリップストリームは有効?:
+Greater Harbinger of Time Slipstream buff grants:,時の大ハービンジャーのスリップストリームバフにより付与:
+10% increased Action Speed,アクションスピードが10%増加する
+Buff affects the player and allies,バフはプレイヤーと味方に影響します
+Buff has a base duration of 8s with a 10s Cooldown,バフの基礎持続時間は8秒、クールダウンは10秒です
+Harbinger of Time:,時のハービンジャー:
+Harbinger of Time Slipstream buff grants:,時のハービンジャーのスリップストリームバフにより付与:
+"Buff affects the player, allies and enemies in a small radius",バフは小範囲内のプレイヤー、味方、敵に影響します
+Buff has a base duration of 8s with a 20s Cooldown,バフの基礎持続時間は8秒、クールダウンは20秒です
+Hex:,呪術:
+Doom on Hex:,呪術上のドゥーム:
+Herald of Agony:,ヘラルドオブアゴニー:
+# of Virulence Stacks:,毒性スタック数:
+Herald of Ash:,ヘラルドオブアッシュ:
+Overkill damage:,オーバーキルダメージ:
+Herald of Ash's base Burning damage is equal to 25% of Overkill damage.,ヘラルドオブアッシュの基礎燃焼ダメージは、オーバーキルダメージの25%に等しくなります。
+Ice Nova:,アイスノヴァ:
+Cast on Frostbolt?,フロストボルト上でキャストしますか?
+Infusion:,インフュージョン:
+Is Infusion active?,インフュージョンは有効?
+Innervate:,電気刺激:
+Is Innervation active?,電気刺激は有効?
+Intensify:,インテンシファイ:
+# of Intensity:,猛烈の数:
+Link Skills:,リンクスキル:
+# of linked Targets:,リンク対象数:
+Linked To Minion?,ミニオンにリンクしていますか?
+Manabond:,マナボンド:
+Meat Shield:,肉の壁:
+Is the enemy near you?,敵は近くにいますか?
+Momentum:,モーメンタム:
+# of Momentum (if not average):,モーメンタム数 (平均でない場合):
+Swiftness # of Momentum Removed:,Swiftness により除去された モーメンタム 数:
+Plague Bearer:,プレイグベアラー:
+Perforate:,パーフォレイト:
+Physical Aegis:,物理イージス:
+Predator:,プレデター:
+Is the enemy marked with Signal Prey?,敵はシグナルプレイでマークされていますか?
+Pride:,プライド:
+Pride Aura Effect:,プライドオーラ効果:
+Rage Vortex:,憤怒ヴォーテックス:
+Amount of Rage Sacrificed (if not maximum):,消費した憤怒量 (最大でない場合):
+Raise Spectre:,スペクター蘇生:
+Enable buffs:,バフを有効化:
+Enable any buff skills that your spectres have.,スペクターが持つバフスキルを有効化します。
+Enable curses:,呪いを有効化:
+Enable any curse skills that your spectres have.,スペクターが持つ呪いスキルを有効化します。
+Summoned Spectre in past 8 Seconds?,過去8秒以内にスペクターを召喚しましたか?
+Blade Vortex blade count:,ブレードヴォーテックスの刃数:
+Raise Spiders:,スパイダー召喚:
+# of Spiders:,スパイダー数:
+Raise Zombie:,ゾンビ蘇生:
+Summoned Zombie in past 8 Seconds?,過去8秒以内にゾンビを召喚しましたか?
+Are you animating Lingering Blades?,残存する刃のイシリアルナイフをアニメイトしていますか?
+Shrapnel Ballista:,シュラプネルバリスタ:
+# of Shotgunning Projectiles:,重複ヒットする投射物数:
+Sigil of Power:,シギルオブパワー:
+Siphoning Trap:,サイフォニングトラップ:
+# of Enemies affected:,影響を受けている敵の数:
+Sets the number of enemies affected by Siphoning Trap.,サイフォニングトラップの影響を受ける敵数を設定します。
+Snipe:,スナイプ設定:
+# of Snipe stages:,スナイプステージ数:
+Spectral Wolf:,スペクトラルウルフ:
+# of Active Spectral Wolves:,有効なスペクトラルウルフ数:
+Stance Skills:,スタンススキル:
+Stance:,スタンス:
+Changed Stance recently?,直近スタンスを変更しましたか?
+Steel Skills:,Steel スキル:
+Steel Shards consumed:,消費したスティールシャード:
+Steel Wards:,スティールワード:
+Storm Rain:,ストームレイン:
+# of Overlapping Beams:,重なっているビーム数:
+Storm Rain of the Conduit:,電導管のストームレイン:
+# of Active Arrows:,有効な矢の数:
+Summon Elemental Relic:,エレメンタルレリック召喚:
+Enable Anger Aura:,アンガーオーラを有効化:
+Enable Hatred Aura:,ヘイトレッドオーラを有効化:
+Enable Wrath Aura:,ラースオーラを有効化:
+Summon Holy Relic:,ホーリーレリック召喚:
+Summon Lightning Golem:,ライトニングゴーレム召喚:
+Summon Reaper:,リーパー召喚:
+Reaper Consumed recently?,直近 Reaper が消費しましたか?
+Thirst for Blood:,血への渇望:
+# of Nearby Bleeding Enemies:,近くの出血中の敵数:
+Tornado Shot:,トルネードショット設定:
+% chance for second proj to hit:,2発目の投射物がヒットする確率 (%):
+"Override to the percent chance for the secondary projectiles to hit, default of 60% or 80% with helm enchant. (20% per secondary projectile)",副投射物の命中確率を上書きします。デフォルトは60%、ヘルムエンチャント時は80%です。(副投射物1つにつき20%)
+Toxic Rain:,トキシックレイン設定:
+# of Overlapping Pods:,重なっているポッド数:
+Maximum is limited by the number of Projectiles.,最大値は投射物数によって制限されます。
+Trauma:,トラウマ設定:
+# of Trauma Stacks:,トラウマスタック数:
+Trinity Support:,トリニティサポート設定:
+Lowest Resonance Count:,最低レゾナンス数:
+Unhinge:,錯乱設定:
+Are you Insane?,狂気状態ですか?
+Vigilant Strike:,ヴィジラントストライク設定:
+Voltaxic Burst:,ボルタキシックバースト設定:
+# of Casts currently waiting:,現在待機中のキャスト数:
+Vortex:,ヴォーテックス設定:
+Warcry Skills:,ウォークライスキル:
+Warcry Power:,ウォークライパワー:
+Wave of Conviction:,ウェーブオブコンヴィクション設定:
+Molten Shell:,モルテンシェル:
+Damage mitigated:,軽減ダメージ:
+Vaal Molten Shell:,ヴァールモルテンシェル:
+Multi-part area skills:,複数段階エリアスキル:
+Enemy size preset:,敵サイズプリセット:
+Enemy radius:,敵の半径:
+Configure the radius of an enemy hitbox to calculate some area overlapping (shotgunning) effects.,範囲重複 (ショットガン) 効果を計算するため、敵ヒットボックスの半径を設定します。
+Total Spectre Life:,スペクター合計ライフ:
+The total life of your Spectres that can be taken before yours (used by jinxed juju),あなたの代わりに受けられるスペクターの合計ライフ (呪われた呪物用)
+Total Totem Life:,トーテム合計ライフ:
+The total life of your Totems (excluding Vaal Rejuvenation Totem) that can be taken before yours (used by totem mastery),あなたの代わりに受けられるトーテムの合計ライフ (ヴァールリジュヴェネーショントーテム を除く、トーテムマスタリー 用)
+Total life pool of Sentinel of Radiance,光輝のセンチネルの合計ライフ
+Total Vaal Rejuvenation Totem Life:,ヴァールリジュヴェネーショントーテム合計ライフ:
+The total life of your Vaal Rejuvenation Totems that can be taken before yours,あなたの代わりに受けられる ヴァールリジュヴェネーショントーテム の合計ライフ
+Map Modifiers and Player Debuffs,マップ補正とプレイヤーデバフ
+# of Sextants affecting the area,エリアに影響しているセクスタント数
+% increased effect of map mods,マップMod効果が%増加
+Map Tier,マップティア
+Red,赤
+Yellow,黄
+White,白
+Map Prefix Modifiers:,マップ接頭辞補正:
+Map Suffix Modifiers:,マップ接尾辞補正:
+Unique Map Modifiers:,ユニークマップ補正:
+PvP damage scaling in effect,PvP ダメージスケーリング適用中
+'Hall of Grandmasters',『グランドマスターの館』
+Player is cursed by:,プレイヤーが受けている呪い:
+Assassin's Mark:,アサシンの呪印:
+Sets the level of Assassin's Mark to apply to the player.,プレイヤーに適用されるアサシンの呪印のレベルを設定します。
+Conductivity:,コンダクティビティ:
+Sets the level of Conductivity to apply to the player.,プレイヤーに適用されるコンダクティビティのレベルを設定します。
+Despair:,ディスペア:
+Sets the level of Despair to apply to the player.,プレイヤーに適用されるディスペアのレベルを設定します。
+Elemental Weakness:,エレメンタルウィークネス:
+Sets the level of Elemental Weakness to apply to the player.,プレイヤーに適用されるエレメンタルウィークネスのレベルを設定します。
+"In mid tier maps, 'of Elemental Weakness' applies level 10.",中Tierマップでは、「エレメンタルウィークネス」がレベル10で適用されます。
+"In high tier maps, 'of Elemental Weakness' applies level 15.",高Tierマップでは、「エレメンタルウィークネス」がレベル15で適用されます。
+Enfeeble:,エンフィーブル:
+Sets the level of Enfeeble to apply to the player.,プレイヤーに適用される Enfeeble のレベルを設定します。
+"In mid tier maps, 'of Enfeeblement' applies level 10.",中Tierマップでは、「エンフィーブル」がレベル10で適用されます。
+"In high tier maps, 'of Enfeeblement' applies level 15.",高Tierマップでは、「エンフィーブル」がレベル15で適用されます。
+Flammability:,フラマビリティ:
+Sets the level of Flammability to apply to the player.,プレイヤーに適用されるフラマビリティのレベルを設定します。
+Frostbite:,フロストバイト:
+Sets the level of Frostbite to apply to the player.,プレイヤーに適用されるフロストバイトのレベルを設定します。
+Poacher's Mark:,ポーチャーの呪印:
+Sets the level of Poacher's Mark to apply to the player.,プレイヤーに適用されるポーチャーの呪印のレベルを設定します。
+Projectile Weakness:,Projectile Weakness:
+Sets the level of Projectile Weakness to apply to the player.,プレイヤーに適用される Projectile Weakness のレベルを設定します。
+Punishment:,パニッシュメント:
+Sets the level of Punishment to apply to the player.,プレイヤーに適用されるパニッシュメントのレベルを設定します。
+Temporal Chains:,テンポラルチェーン:
+Sets the level of Temporal Chains to apply to the player.,プレイヤーに適用されるテンポラルチェーンのレベルを設定します。
+"In mid tier maps, 'of Temporal Chains' applies level 10.",中Tierマップでは、「テンポラルチェーン」がレベル10で適用されます。
+"In high tier maps, 'of Temporal Chains' applies level 15.",高Tierマップでは、「テンポラルチェーン」がレベル15で適用されます。
+Vulnerability:,ヴァルネラビリティ設定:
+Sets the level of Vulnerability to apply to the player.,プレイヤーに適用されるヴァルネラビリティのレベルを設定します。
+"In mid tier maps, 'of Vulnerability' applies level 10.",中Tierマップでは、「ヴァルネラビリティ」がレベル10で適用されます。
+"In high tier maps, 'of Vulnerability' applies level 15.",高Tierマップでは、「ヴァルネラビリティ」がレベル15で適用されます。
+Warlord's Mark:,ウォーロードの呪印設定:
+Sets the level of Warlord's Mark to apply to the player.,プレイヤーに適用されるウォーロードの呪印のレベルを設定します。
+When In Combat,戦闘中
+Do you use Power Charges?,パワーチャージを使用する?
+# of Power Charges (if not maximum):,パワーチャージ数 (最大でない場合):
+Do you use Frenzy Charges?,フレンジーチャージを使用する?
+# of Frenzy Charges (if not maximum):,フレンジーチャージ数 (最大でない場合):
+Do you use Endurance Charges?,エンデュランスチャージを使用する?
+# of Endurance Charges (if not maximum):,エンデュランスチャージ数 (最大でない場合):
+Do you use Siphoning Charges?,サイフォニングチャージを使用する?
+# of Siphoning Charges (if not maximum):,サイフォニングチャージ数 (最大でない場合):
+Do you use Challenger Charges?,Challenger チャージを使用する?
+# of Challenger Charges (if not maximum):,Challengerチャージ数 (最大でない場合):
+Do you use Blitz Charges?,Blitz チャージを使用する?
+# of Blitz Charges (if not maximum):,Blitzチャージ数 (最大でない場合):
+# of Gale Force:,強風数:
+Base maximum Gale Force is 10.,基礎最大 強風は10です。
+# of Inspiration Charges (if not maximum):,インスピレーションチャージ数 (最大でない場合):
+Do you use Ghost Shrouds?,ゴーストシュラウドを使用する?
+# of Ghost Shrouds (if not maximum):,ゴーストシュラウド数 (最大でない場合):
+Do you wait for Max Unleash Seals?,最大アンリーシュシールまで待機しますか?
+Repeat Mode:,リピートモード:
+Final only,最終段のみ
+Final (all hits use final),最終段 (すべてのヒットが最終段を使用)
+Ruthless Support Mode:,ルースレスサポートモード:
+Controls how the hit/ailment effect of Ruthless Support is calculated:,ルースレスサポートのヒット/状態異常効果の計算方法を制御します:
+	Average: damage is based on the average application,	平均: ダメージは平均的な適用値に基づきます
+	Max Effect: damage is based on maximum effect,	最大効果: ダメージは最大効果に基づきます
+Max Effect,最大効果
+Chance To Ignore PDR Mode:,物理ダメージ軽減無視モード:
+Controls how the chance on hit to ignore enemy physical damage reduction is calculated:,ヒット時に敵の物理ダメージ軽減を無視する確率の計算方法を制御します:
+	Minimum: never ignores unless chance is at least 100%,	最小: 確率が100%以上でない限り無視しません
+	Max Effect: always ignores if you have any chance,	最大効果: 少しでも確率があれば常に無視します
+# of Blood Charges (if not maximum):,Bloodチャージ数 (最大でない場合):
+# of Spirit Charges:,スピリットチャージ数:
+Do your Minions use Power Charges?,ミニオンはパワーチャージを使用する?
+Do your Minions use Frenzy Charges?,ミニオンはフレンジーチャージを使用する?
+Do your Minions use Endur. Charges?,ミニオンはエンデュランスチャージを使用する?
+# of Rampage Kills:,ランページキル数:
+"Rampage grants the following, up to 1000 stacks:",ランページは最大1000スタックまで以下を付与します:
+	1% increased Movement Speed per 20 Rampage,	ランページ20ごとに移動スピードが1%増加する
+	2% increased Damage per 20 Rampage,	ランページ20ごとにダメージが2%増加する
+You lose Rampage if you do not get a Kill within 5 seconds.,5秒以内にキルできないとランページを失います。
+# of Soul Eater Stacks:,ソウルイータースタック数:
+"Soul Eater grants the following, up to a base of 45 stacks:",ソウルイーターは基礎45スタックまで以下を付与します:
+	5% increased attack speed,	アタックスピードが5%増加する
+	5% increased cast speed,	キャストスピードが5%増加する
+	1% increased character size per stack.,	1スタックごとにキャラクターサイズが1%増加する
+# of Minion Soul Eater Stacks:,ミニオンのソウルイータースタック数:
+Are you Focused?,集中状態ですか?
+Do you have Lifetap?,ライフタップがある?
+Do you have Onslaught?,猛攻がある?
+"In addition to allowing any 'while you have Onslaught' modifiers to apply,",'猛攻中' の補正を適用できるようになることに加えて、
+"this will enable the Onslaught buff itself. (Grants 20% increased Attack, Cast, and Movement Speed)",猛攻バフ自体を有効化します。(攻撃速度・キャスト速度・移動速度20%増加 PoE2は移動10％) 
+Do you have Arcane Surge?,アーケーンサージがある?
+"In addition to allowing any 'while you have Arcane Surge' modifiers to apply,",'アーケインサージ中' の補正を適用できるようになることに加えて、
+this will enable the Arcane Surge buff itself. (Grants 20% increased cast speed and 30% increased Mana Regeneration rate),アーケインサージバフ自体を有効化します。(キャスト速度20%増加、マナ自動回復レート30%増加)
+Do your minions have Onslaught?,ミニオンは猛攻を持っていますか?
+"In addition to allowing any 'while your minions have Onslaught' modifiers to apply,",'ミニオンが猛攻中' の補正を適用できるようになることに加えて、
+Do you have Unholy Might?,不浄な力がある?
+This will enable the Unholy Might buff.,不浄な力バフを有効化します。
+(Grants 100% of Physical Damage converted to Chaos Damage),(物理ダメージの100%を混沌ダメージに変換)
+(25% chance to apply Wither on Hit),(ヒット時25%の確率で衰弱を付与)
+Do your minions have Unholy Might?,ミニオンは不浄な力を持っていますか?
+This will enable the Unholy Might buff on your minions.,ミニオンへの不浄な力バフを有効化します。
+Do you have Chaotic Might?,混沌の力がある?
+This will enable the Chaotic Might buff.,混沌の力 バフを有効化します。
+(Grants 30% of Physical Damage as Extra Chaos Damage),（物理ダメージの30%を追加混沌ダメージとして付与）
+Do you have Sacrificial Zeal?,犠牲的熱意がある?
+This will enable the Sacrificial Zeal buff.,犠牲的熱意バフを有効化します。
+(Grants 25% of the skill's mana cost as Physical Damage and causes you to take physical damage over time equal to a percentage of the skill's mana cost.),(スキルのマナコストの25%を物理ダメージとして付与し、さらにスキルのマナコストに応じた物理継続ダメージを受けます)
+Do your minions have Chaotic Might?,ミニオンは 混沌の力を持っていますか?
+This will enable the Chaotic Might buff on your minions.,ミニオンへの 混沌の力 バフを有効化します。
+Do you have Phasing?,透明化がある?
+Are you Fortified?,堅牢化状態ですか?
+# of Fortification Stacks (if not maximum):,堅牢化スタック数 (最大でない場合):
+You have 1% less damage taken from hits per stack of fortification:,堅牢化1スタックごとに、ヒットから受けるダメージが1%減少:
+Has a default cap of 20 stacks.,デフォルト上限は20スタックです。
+Do you have Tailwind?,追い風がある?
+"In addition to allowing any 'while you have Tailwind' modifiers to apply,",'追い風中' の補正を適用できるようになることに加えて、
+this will enable the Tailwind buff itself. (Grants 8% increased Action Speed),追い風バフ自体を有効化します。(アクションスピード8%増加)
+Do you have Adrenaline?,アドレナリンがある?
+"This will enable the Adrenaline buff, which grants:",以下を付与する アドレナリンバフを有効化します:
+	100% increased Damage,	ダメージが100%増加する
+"	25% increased Attack, Cast and Movement Speed",	アタックスピード、キャストスピード、移動スピードが25%増加する
+	10% additional Physical Damage Reduction,	追加物理ダメージ軽減 +10%
+Do you have Alchemist's Genius?,錬金術師の天才がある?
+This will enable the Alchemist's Genius buff:,錬金術師の天才バフを有効化します:
+20% increased Flask Charges gained,獲得するフラスコチャージが20%増加する
+10% increased effect of Flasks,フラスコ効果が10%増加する
+Do you have Vaal Arc's Lucky Buff?,ヴァールアークの幸運バフがある?
+"Causes Damage with Arc Hits to be rolled twice, and the maximum roll used.",Arc のヒットダメージを2回ロールし、高い方を使用します。
+Are you Elusive?,身躱し状態ですか?
+"In addition to allowing any 'while Elusive' modifiers to apply,",'エルーシブ中' の補正を適用できるようになることに加えて、
+this will enable the Elusive buff itself:,身躱しバフ自体を有効化します:
+	15% Chance to Avoid all Damage from Hits,	ヒットによるすべてのダメージを15%の確率で回避する
+	30% increased Movement Speed,	移動スピードが30%増加する
+The effect of Elusive decays over time.,身躱しの効果は時間経過で減衰します。
+Effect of Elusive (if not average):,身躱しの効果 (平均でない場合):
+"If you have a guaranteed source of Elusive, the strongest one will apply. ",身躱しを確定付与する手段が複数ある場合、最も強いものが適用されます。
+You can change this to see various buff values,変更すると各種バフ効果値を確認できます
+Do you have Divinity?,神性がある?
+"This will enable the Divinity buff, which grants:",以下を付与する 神性 バフを有効化します:
+Defiance:,反抗:
+"Base Maximum Rage is 30, and inherently grants 1% More Attack Damage per 1 Rage",基礎最大憤怒は30で、憤怒1ごとにアタックダメージが1%上昇します
+You lose 10 Rage every second if you have not been Hit or gained Rage in the last 2 seconds.,過去2秒以内にヒットを受けるか憤怒を獲得していない場合、毎秒10憤怒を失います。
+Do you have Wild Savagery?,野生の獰猛さがある?
+"From Oshabi's Bloodline, grants:",オシャビの血脈により付与:
+	100% increased Physical Damage,	物理ダメージが100%増加する
+	10% increased Action Speed,	アクションスピードが10%増加する
+	Hits ignore Enemy Physical Damage Reduction,	ヒットが敵の物理ダメージ軽減を無視する
+	Cannot be Stunned,	スタンしない
+Are you Leeching?,リーチ中ですか?
+"You will automatically be considered to be Leeching if you have 'Life Leech effects are not removed at Full Life',",「フルライフ時でもライフリーチ効果が除去されない」を持つ場合、自動的にリーチ中とみなされます。
+Are you Leeching Life?,ライフをリーチ中ですか?
+Are you Leeching Energy Shield?,エナジーシールドをリーチ中ですか?
+Are you Leeching Mana?,マナをリーチ中ですか?
+Minion is Leeching Energy Shield?,ミニオンはエナジーシールドをリーチしていますか?
+Do you have a Flask active?,フラスコが有効?
+"This is automatically enabled if you have a flask active,",フラスコが有効な場合、自動的に有効になります。
+Used an Amethyst Flask recently?,直近アメジストフラスコを使用しましたか?
+Used a Ruby Flask recently?,直近ルビーフラスコを使用しましたか?
+Used a Sapphire Flask recently?,直近サファイアフラスコを使用しましたか?
+Used a Topaz Flask recently?,直近トパーズフラスコを使用しましたか?
+Do you have a Tincture active?,チンキが有効?
+"This is automatically enabled if you have a tincture active,",チンキが有効な場合、自動的に有効になります。
+Mana Burn Stacks:,マナ燃焼スタック:
+Mana Burn Applies a 1% of mana degen per stack,マナ燃焼は1スタックごとにマナの1%の継続ダメージを与えます
+This also applies Weeping Wounds if the Keystone is Allocated,キーストーンが割り当て済みの場合、滲み出す傷も適用されます
+Do you have a Totem summoned?,トーテムを召喚していますか?
+"You will automatically be considered to have a Totem if your main skill is a Totem,",メインスキルがトーテムの場合、自動的にトーテムを所持しているとみなされます。
+Have you Summoned a Totem Recently?,直近トーテムを召喚しましたか?
+"You will automatically be considered to have Summoned a Totem Recently if your main skill is a Totem,",メインスキルがトーテムの場合、自動的に「直近トーテムを召喚した」とみなされます。
+# of Summoned Totems (if not maximum):,召喚中のトーテム数 (最大でない場合):
+This also implies that you have a Totem summoned.,これはあなたがトーテムを召喚していることも意味します。
+"This will affect all 'per Summoned Totem' modifiers, even for non-Totem skills.",非トーテムスキルも含め、すべての「召喚中トーテムごと」補正へ影響します。
+Summoned Golem in past 8 Seconds?,過去8秒以内にゴーレムを召喚しましたか?
+Summoned Golem in past 10 Seconds?,過去10秒以内にゴーレムを召喚しましたか?
+# of Nearby Allies:,近くの味方数:
+# of Nearby Corpses:,近くの死体数:
+# of Summoned Minions:,召喚中のミニオン数:
+# of non-vaal skill Summoned Minions:,通常スキルで召喚したミニオン数:
+Are you on Consecrated Ground?,神聖領域上にいますか?
+"In addition to allowing any 'while on Consecrated Ground' modifiers to apply,",'神聖領域上にいる時' の補正を適用できるようになることに加えて、
+Consecrated Ground grants 5% Life Regeneration to players and allies.,神聖領域はプレイヤーと味方にライフ自動回復5%を付与します。
+Are you on Profane Ground?,不浄領域上にいますか?
+Minion on Profane Ground?,ミニオンは不浄領域上にいますか?
+Are you on Caustic Ground?,腐食領域上にいますか?
+Are you on Fungal Ground?,真菌領域上にいますか?
+Allies on your Fungal Ground gain +25% Chaos Resistance.,あなたの真菌領域上の味方は混沌耐性 +25% を得る。
+Are you on Burning Ground?,燃焼領域上にいますか?
+This also implies that you are Burning.,これはあなたが燃焼状態であることも意味します。
+Are you on Chilled Ground?,冷却領域上にいますか?
+This also implies that you are Chilled.,これはあなたが冷却状態であることも意味します。
+Are you on Shocked Ground?,感電領域上にいますか?
+This also implies that you are Shocked.,これはあなたが感電状態であることも意味します。
+Are you Blinded?,盲目状態ですか?
+Are you Burning?,燃焼状態ですか?
+Are you Ignited?,発火状態ですか?
+Are you Scorched?,焦げ状態ですか?
+Are you Chilled?,冷却状態ですか?
+Are you Frozen?,凍結状態ですか?
+Are you Brittle?,脆弱状態ですか?
+Are you Shocked?,感電状態ですか?
+Are you Sapped?,消耗状態ですか?
+Are you Bleeding?,出血状態ですか?
+Are you Poisoned?,毒状態ですか?
+Are you Immune to Curses?,呪い無効状態ですか?
+# of Poison on You:,自身に付与されている毒数:
+This also implies that you are Poisoned.,これはあなたが毒状態であることも意味します。
+# of Withered Stacks on you:,自身に付与されている衰弱スタック数:
+"Withered applies 6% increased Chaos Damage Taken to the self, up to 15 stacks.",衰弱は自身へ「受ける混沌ダメージ 6%増加」を付与します。(最大15スタック)
+# of nearby Enemies:,近くの敵数:
+# of nearby Rare or Unique Enemies:,近くのレアまたはユニーク敵数:
+Have you Hit Recently?,直近ヒットしましたか?
+"You will automatically be considered to have Hit Recently if your main skill Hits and is self-cast,",メインスキルが自力発動かつヒットする場合、自動的に「直近ヒットした」とみなされます。
+Have you Hit with a Spell Recently?,直近スペルでヒットしましたか?
+Have you Crit Recently?,直近クリティカルしましたか?
+This also implies that your Skills have Crit Recently.,これはあなたのスキルが直近クリティカルしたことも意味します。
+Have your Skills Crit Recently?,直近スキルがクリティカルしましたか?
+Have your Herald Skills Crit Recently?,直近Heraldスキルがクリティカルしましたか?
+# of times your Attacks have Crit Recently:,直近アタックがクリティカルした回数:
+Lost a Non-Vaal Guard Skill buff recently?,直近 Non-Vaal ガードスキルのバフを失いましたか?
+Have you dealt a Non-Crit Recently?,直近非クリティカルヒットを与えましたか?
+Are you Channelling?,チャネリング中ですか?
+"You will automatically be considered to be Channeling if your main skill is a channelled skill,",メインスキルがチャネリングスキルの場合、自動的にチャネリング中とみなされます。
+Channeling for # seconds:,チャネリング時間:
+This also implies that you are channelling,これはあなたがチャネリング中であることも意味します
+Have you Hit Recently with Your Weapon?,直近武器でヒットしましたか?
+This also implies that you have Hit Recently.,これはあなたが直近ヒットしたことも意味します。
+Have you Killed Recently?,直近敵を倒しましたか?
+# of Enemies Killed Recently:,直近倒した敵の数:
+This also implies that you have Killed Recently.,これはあなたが直近敵を倒したことも意味します。
+Have you Killed in the last 3 Seconds?,直近3秒以内に敵を倒しましたか?
+Killed a poisoned enemy in the last 2 Seconds?,過去2秒以内に毒状態の敵を倒しましたか?
+No summoned Totems in the past 2 seconds?,過去2秒以内にトーテムを召喚していませんか?
+Have your Totems Killed Recently?,直近トーテムが敵を倒しましたか?
+This also implies that your Totems have Killed Recently.,これはあなたのトーテムが直近敵を倒したことも意味します。
+Have your Totems Hit Recently?,直近トーテムがヒットしましたか?
+Have your Totems Hit with a Spell Recently?,直近トーテムがスペルでヒットしましたか?
+This also implies that you Totems have Hit Recently.,これはあなたのトーテムが直近ヒットしたことも意味します。
+Have you used a Brand Skill recently?,直近ブランドスキルを使用しましたか?
+# of Enemies Killed by Totems Recently:,直近トーテムが倒した敵の数:
+Have your Minions Killed Recently?,直近ミニオンが敵を倒しましたか?
+Has a Minion Died Recently?,直近ミニオンが死亡しましたか?
+# of Enemies Killed by Minions Recently:,直近ミニオンが倒した敵の数:
+This also implies that your Minions have Killed Recently.,これはあなたのミニオンが直近敵を倒したことも意味します。
+Killed enemy affected by your DoT Recently?,直近あなたのDoTの影響を受けた敵を倒しましたか?
+# of Shocked Enemies Killed Recently:,直近倒した感電中の敵数:
+Have you Frozen an enemy Recently?,直近敵を凍結しましたか?
+Have you Chilled an enemy Recently?,直近敵を冷却しましたか?
+Have you Shattered an enemy Recently?,直近敵を粉砕しましたか?
+Have you Ignited an enemy Recently?,直近敵を発火させましたか?
+Have you Shocked an enemy Recently?,直近敵を感電させましたか?
+Have you Stunned an enemy Recently?,直近敵をスタンさせましたか?
+Have you been Stunned Recently?,直近スタンしましたか?
+Have you Poisoned an enemy Recently?,直近敵に毒を付与しましたか?
+# of Poisons applied Recently:,直近付与した毒数:
+# of Life spent Recently:,直近消費したライフ量:
+# of Mana spent Recently:,直近消費したマナ量:
+Have you been Hit Recently?,直近ヒットを受けましたか?
+# of times you have been Hit Recently:,直近ヒットを受けた回数:
+Have you been Hit by an Attack Recently?,直近アタックによるヒットを受けましたか?
+Have you been Crit Recently?,直近クリティカルを受けましたか?
+Consumed 12 Steel Shards Recently?,直近スティールシャードを12個消費しましたか?
+Gained a Power Charge Recently?,直近パワーチャージを獲得しましたか?
+Gained a Frenzy Charge Recently?,直近フレンジーチャージを獲得しましたか?
+Have you taken a Savage Hit Recently?,直近Savage Hitを受けましたか?
+This also implies that you have been Hit Recently.,これはあなたが直近ヒットを受けたことも意味します。
+Have you been hit by Fire Recently?,直近火ダメージを受けましたか?
+Have you been hit by Cold Recently?,直近冷気ダメージを受けましたか?
+Have you been hit by Light. Recently?,直近雷ダメージを受けましたか?
+Have you taken Spell Damage Recently?,直近スペルダメージを受けましたか?
+Taken Fire Damage from enemy Hit Recently?,直近敵のヒットから火ダメージを受けましたか?
+Have you Blocked Recently?,直近ブロックしましたか?
+Have you Blocked an Attack Recently?,直近アタックをブロックしましたか?
+This also implies that you have Blocked Recently.,これはあなたが直近ブロックしたことも意味します。
+Have you Blocked a Spell Recently?,直近スペルをブロックしましたか?
+Energy Shield Recharge started Recently?,直近エナジーシールドリチャージが開始しましたか?
+ES Recharge started past 2 seconds?,過去2秒以内にESリチャージが開始しましたか?
+Have you stopped taking DoT recently?,直近継続ダメージを受けなくなりましたか?
+Do you have Convergence?,コンバージェンスがある?
+Is Pendulum of Destruction active?,Pendulum of Destruction は有効?
+Conflux Buff:,コンフラックスバフ:
+Chilling,冷却中
+Shocking,感電中
+Igniting,発火中
+Chill + Shock + Ignite,冷却 + 感電 + 発火
+Highest damage type Override:,最高ダメージタイプ上書き:
+Determines whether modifiers that depend on the highest damage type apply.,最も高いダメージタイプに依存する補正を適用するか決定します。
+Heartstopper Mode:,ハートストッパーモード:
+Hit,ヒット
+Damage over Time,継続ダメージ
+Is Bastion of Hope active?,希望の要塞は有効?
+Is Magmatic Strikes active?,マグマストライクは有効?
+Are you in Her Embrace?,彼女の抱擁状態ですか?
+This option is specific to Oni-Goroshi.,このオプションはオニゴロシ専用です。
+Is Champion's Intimidate active?,Champion's Intimidate は有効?
+Have you used a Skill Recently?,直近スキルを使用しましたか?
+# of Skills Used Recently:,直近使用したスキル数:
+This also implies that you have used a Skill Recently.,これはあなたが直近スキルを使用したことも意味します。
+Have you Attacked Recently?,直近アタックしましたか?
+"You will automatically be considered to have Attacked Recently if your main skill is an attack,",メインスキルがアタックスキルの場合、自動的に「直近攻撃した」とみなされます。
+Have you Cast a Spell Recently?,直近スペルをキャストしましたか?
+"You will automatically be considered to have Cast a Spell Recently if your main skill is a spell,",メインスキルがスペルの場合、自動的に「直近スペルを使用した」とみなされます。
+# of Non-Instant Spells Cast Recently:,直近使用した非インスタントスペル数:
+Only the number of different spells you cast count,異なるスペルの種類数のみカウントされます
+# of Recently Applied Ailments:,直近付与した状態異常数:
+Number of recently applied ailments,直近付与した状態異常数
+Have you Linked recently?,直近リンクしましたか?
+Stunned while Casting Recently?,直近キャスト中にスタンしましたか?
+Have you Cast a Spell in the last second?,直近1秒以内にスペルをキャストしましたか?
+How many spells cast in the last 8 seconds?,過去8秒間に何回スペルをキャストしましたか?
+Only non-instant spells you cast count,自分でキャストした非インスタントスペルのみカウントされます
+Have you Suppressed Recently?,直近スペル抑制しましたか?
+# of Hits Suppressed Recently:,直近抑制したヒット数:
+Have you used a Fire Skill Recently?,直近火スキルを使用しましたか?
+Have you used a Cold Skill Recently?,直近冷気スキルを使用しましたか?
+Have you used a Minion Skill Recently?,直近ミニオンスキルを使用しましたか?
+"You will automatically be considered to have used a Minion skill Recently if your main skill is a minion skill,",メインスキルがミニオンスキルの場合、自動的に「直近ミニオンスキルを使用した」とみなされます。
+Have you used a Travel Skill Recently?,直近Travelスキルを使用しましたか?
+Have you cast Dash Recently?,直近Dashをキャストしましたか?
+Have you used a Movement Skill Recently?,直近移動スキルを使用しましたか?
+This also implies that you have used a Skill Recently..,これはあなたが直近スキルを使用したことも意味します。
+"You will automatically be considered to have used a Movement skill Recently if your main skill is a movement skill,",メインスキルが移動スキルの場合、自動的に「直近移動スキルを使用した」とみなされます。
+Have you used a Vaal Skill Recently?,直近Vaalスキルを使用しましたか?
+"You will automatically be considered to have used a Vaal skill Recently if your main skill is a Vaal skill,",メインスキルがヴァールスキルの場合、自動的に「直近ヴァールスキルを使用した」とみなされます。
+# of Vaal Skills used in the past 8 Seconds:,過去8秒間に使用したVaalスキル数:
+Do you have Soul Gain Prevention?,ソウル獲得不能状態ですか?
+Sacrifice Minion on Attack,アタック時にミニオンを生贄
+Each Attack is sacrificing a damage minion to grant you extra projectiles.,各アタックでダメージミニオンを犠牲にし、追加投射物を獲得します。
+Have you used a Warcry Recently?,直近ウォークライを使用しましたか?
+Used a Warcry in the past 8 seconds?,過去8秒以内にウォークライを使用しましたか?
+# of seconds Affected by a Warcry Buff:,ウォークライバフの影響を受けている秒数:
+# of Mines Detonated Recently:,直近起爆したマイン数:
+# of Mines per throw:,1回で投げるマイン数:
+This will override the number of Mines per throw,1回の投擲で設置されるマイン数を上書きします
+# of Traps Triggered Recently:,直近発動したトラップ数:
+Have you thrown a Trap or Mine Recently?,直近トラップまたはマインを投げましたか?
+# of Traps per throw:,1回で投げるトラップ数:
+This will override the number of Traps per throw,1回の投擲で設置されるトラップ数を上書きします
+Have you Cursed an enemy Recently?,直近敵に呪いを付与しましたか?
+Have you cast a Mark Spell Recently?,直近Markスペルをキャストしましたか?
+Spawned a corpse Recently?,直近死体を生成しましたか?
+Consumed a corpse Recently?,直近死体を消費しましたか?
+Consumed a corpse in the past 2s?,過去2秒以内に死体を消費しましたか?
+This also implies you have 'Consumed a corpse Recently',これは「直近死体を消費した」ことも意味します
+# of Corpses Consumed Recently:,直近消費した死体数:
+Has Ravenous consumed a corpse?,Ravenous は死体を消費しましたか?
+Corpse must be the same type as the monster you're fighting.,死体は戦闘中のモンスターと同じタイプである必要があります。
+# of Warcries Used Recently:,直近使用したウォークライ数:
+"This also implies you have 'Used a Warcry Recently', 'Used a Warcry in the past 8 seconds', and 'Used a Skill Recently'",これは「直近ウォークライを使用した」「過去8秒以内にウォークライを使用した」「直近スキルを使用した」ことも意味します
+Taunted an enemy Recently?,直近敵を挑発しましたか?
+Lost an Endurance Charge in the past 8s?,過去8秒以内にエンデュランスチャージを失いましたか?
+# of Endurance Charges lost Recently:,直近失ったエンデュランスチャージ数:
+Blocked a Hit from a Unique enemy in the past 10s?,過去10秒以内にユニーク敵のヒットをブロックしましたか?
+Number of times you've Blocked in the past 10s,過去10秒間のブロック回数
+Impaled an enemy recently?,直近敵を串刺ししましたか?
+# of Impales on enemy (if not maximum):,敵に付与されている串刺し数 (最大でない場合):
+Have you caused Bleeding Recently?,直近出血を付与しましたか?
+# of Bleeds on enemy (if not maximum):,敵に付与されている出血数 (最大でない場合):
+Sets current number of Bleeds on the enemy if using the Crimson Dance keystone.,クリムゾンダンスキーストーン使用時、敵に付与されている現在の出血数を設定します。
+This also implies that the enemy is Bleeding.,これは敵が出血状態であることも意味します。
+# of Fragile Regrowth Stacks:,儚い再生スタック数:
+Killed a Rare or Unique enemy Recently?,直近レアまたはユニーク敵を倒しましたか?
+Do you have Iron Reflexes?,アイアンリフレックスがある?
+This option is specific to Arborix.,このオプションはアーボリクス専用です。
+Augyre rotating buff:,アージャイア回転バフ:
+This option is specific to Augyre.,このオプションはアージャイア専用です。
+Do you have Avatar Of Fire?,アバターオブファイヤーがある?
+This option is specific to Vulconus.,このオプションはボルコナス専用です。
+Do you have Manastorm's Buff?,マナストームのバフがある?
+This option enables Manastorm's Lightning Damage Buff.,マナストームの雷ダメージバフを有効化します。
+"(When you cast a Spell, Sacrifice all Mana to gain Added Maximum Lightning Damage",(スペルをキャスト時、すべてのマナを犠牲にして追加最大雷ダメージを獲得)
+equal to 50% of Sacrificed Mana for 4 seconds),4秒間、犠牲にしたマナの50%に相当)
+Gamblesprint Movement Speed,ギャンブルスプリント移動速度
+This option sets the Movement Speed from Gamblesprint boots.,ギャンブルスプリントブーツによる移動速度を設定します。
+Do you have Everlasting Sacrifice?,エバーラスティングサクリファイスがある?
+This option enables the Everlasting Sacrifice buff that grants +5% to all maximum resists.,全最大耐性 +5% を付与する エバーラスティングサクリファイス バフを有効化します。
+Do you have Fanaticism?,熱狂がある?
+"This will enable the Fanaticism buff itself. (Grants 75% more cast speed, reduced skill cost, and increased area of effect)",熱狂バフ自体を有効化します。(キャスト速度75%上昇、スキルコスト減少、効果範囲増加)
+Do your hits always stun?,ヒットは常にスタンしますか?
+This enables the conditional culling strike from the mace mastery.,メイスマスタリーによる条件付きカリングストライクを有効化します。
+PvP Tvalue override (ms):,PvP T値上書き (ms):
+"Tvalue in milliseconds. This overrides the Tvalue of a given skill, for instance any with fixed Tvalues, or modified Tvalues",ミリ秒単位の Tvalue。固定 Tvalue や変更済み Tvalue を持つスキルの Tvalue を上書きします。
+Custom PvP Damage multiplier percent:,カスタムPvPダメージ倍率 (%):
+"This multiplies the damage of a given skill in pvp, for instance any with damage multiplier specific to pvp (from skill or support or item like sire of shards)",指定したスキルの PvP ダメージ倍率を補正します。例: スキル・サポート・Sire of Shards などのアイテムによる PvP 専用ダメージ倍率。
+Have Acceleration Shrine?,Acceleration Shrine がある?
+This will enable the Acceleration Shrine buff.,Acceleration Shrine バフを有効化します。
+	50% increased Action Speed,	アクションスピードが50%増加する
+	80% increased Projectile Speed,	投射物スピードが80%増加する
+Have Brutal Shrine?,Brutal Shrine がある?
+This will enable the Brutal Shrine buff.,Brutal Shrine バフを有効化します。
+	50% increased Damage,	ダメージが50%増加する
+	Knocks Enemies Back on Hit,	ヒット時に敵をノックバックする
+	30% increased Stun Duration on Enemies,	敵へのスタン持続時間が30%増加する
+Have Diamond Shrine?,Diamond Shrine がある?
+This will enable the Diamond Shrine buff.,Diamond Shrine バフを有効化します。
+	All hits are Critical Strikes,	すべてのヒットがクリティカルになる
+Have Divine Shrine?,Divine Shrine がある?
+This will enable the Divine Shrine buff.,Divine Shrine バフを有効化します。
+	Cannot be Damaged,	ダメージを受けない
+Have Echoing Shrine?,Echoing Shrine がある?
+This will enable the Echoing Shrine buff.,Echoing Shrine バフを有効化します。
+	100% more Attack Speed,	アタックスピードが100%上昇する
+	100% more Cast Speed,	キャストスピードが100%上昇する
+	Skills Repeat an additional Time,	スキルが追加でもう1回繰り返される
+Have Gloom Shrine?,Gloom Shrine がある?
+This will enable the Gloom Shrine buff.,Gloom Shrine バフを有効化します。
+	Gain 10% of Non-Chaos Damage as extra Chaos Damage,	非混沌ダメージの10%を追加混沌ダメージとして獲得する
+"	Enemies you Kill have a 40% chance to Explode, dealing a quarter of their maximum Life as Chaos Damage",	倒した敵は40%の確率で爆発し、最大ライフの25%を混沌ダメージとして与える
+Have Greater Freezing Shrine?,Greater Freezing Shrine がある?
+This will enable the Greater Freezing Shrine buff.,Greater Freezing Shrine バフを有効化します。
+	Gain 30% of Physical Damage as Extra Cold Damage,	物理ダメージの30%を追加冷気ダメージとして獲得する
+	Ice Novas happen around you,	周囲でアイスノヴァが発生する
+Have Greater Shocking Shrine?,Greater Shocking Shrine がある?
+This will enable the Greater Shocking Shrine buff.,Greater Shocking Shrine バフを有効化します。
+	Gain 30% of Physical Damage as Extra Lightning Damage,	物理ダメージの30%を追加雷ダメージとして獲得する
+	Shock Novas happen around you,	周囲でショックノヴァが発生する
+Have Greater Skeletal Shrine?,Greater Skeletal Shrine がある?
+This will enable the Greater Skeletal Shrine buff.,Greater Skeletal Shrine バフを有効化します。
+	Gain 30% of Physical Damage as Extra Chaos Damage,	物理ダメージの30%を追加混沌ダメージとして獲得する
+	Skeletons are summoned to you,	スケルトンがあなたの元へ召喚される
+Have Impenetrable Shrine?,Impenetrable Shrine がある?
+This will enable the Impenetrable Shrine buff.,Impenetrable Shrine バフを有効化します。
+	100% increased Armour,	アーマーが100%増加する
+	100% increased Evasion Rating,	回避力が100%増加する
+	100% increased maximum Energy Shield,	最大エナジーシールドが100%増加する
+Have Massive Shrine?,Massive Shrine がある?
+This will enable the Massive Shrine buff.,Massive Shrine バフを有効化します。
+	30% increased Character Size,	キャラクターサイズが30%増加する
+	40% increased Area of Effect,	効果範囲が40%増加する
+	40% increased maximum Life,	最大ライフが40%増加する
+Have Replenishing Shrine?,Replenishing Shrine がある?
+This will enable the Replenishing Shrine buff.,Replenishing Shrine バフを有効化します。
+	200% increased Mana Regeneration Rate,	マナ自動回復レートが200%増加する
+	6.7% of Life Regenerated per second,	毎秒ライフの6.7%を自動回復する
+Have Resistance Shrine?,Resistance Shrine がある?
+This will enable the Resistance Shrine buff.,Resistance Shrine バフを有効化します。
+Have Resonating Shrine?,Resonating Shrine がある?
+This will enable the Resonating Shrine buff.,Resonating Shrine バフを有効化します。
+Have Lesser Acceleration Shrine?,Lesser Acceleration Shrine がある?
+This will enable the Lesser Acceleration Shrine buff.,Lesser Acceleration Shrine バフを有効化します。
+	30% increased Projectile Speed,	投射物スピードが30%増加する
+Have Lesser Brutal Shrine?,Lesser Brutal Shrine がある?
+This will enable the Lesser Brutal Shrine buff.,Lesser Brutal Shrine バフを有効化します。
+	20% increased Damage,	ダメージが20%増加する
+	20% increased Stun Duration on Enemies,	敵へのスタン持続時間が20%増加する
+Have Lesser Impenetrable Shrine?,Lesser Impenetrable Shrine がある?
+This will enable the Lesser Impenetrable Shrine buff.,Lesser Impenetrable Shrine バフを有効化します。
+	50% increased Armour,	アーマーが50%増加する
+	50% increased Evasion Rating,	回避力が50%増加する
+	50% increased maximum Energy Shield,	最大エナジーシールドが50%増加する
+Have Lesser Massive Shrine?,Lesser Massive Shrine がある?
+This will enable the Lesser Massive Shrine buff.,Lesser Massive Shrine バフを有効化します。
+	10% increased Character Size,	キャラクターサイズが10%増加する
+	20% increased Area of Effect,	効果範囲が20%増加する
+	20% increased maximum Life,	最大ライフが20%増加する
+Have Lesser Replenishing Shrine?,Lesser Replenishing Shrine がある?
+This will enable the Lesser Replenishing Shrine buff.,Lesser Replenishing Shrine バフを有効化します。
+	100% increased Mana Regeneration Rate,	マナ自動回復レートが100%増加する
+	3.3% of Life Regenerated per second,	毎秒ライフの3.3%を自動回復する
+Have Lesser Resistance Shrine?,Lesser Resistance Shrine がある?
+This will enable the Lesser Resistance Shrine buff.,Lesser Resistance Shrine バフを有効化します。
+For Effective DPS,実効DPS用
+Is your Crit Chance Lucky?,クリティカル率は幸運状態ですか?
+# of times Skill has Forked:,スキルが分岐した回数:
+# of times Skill has Chained:,スキルが連鎖した回数:
+# of times Skill has Pierced:,スキルが貫通した回数:
+Projectile travel distance:,投射物の移動距離:
+Melee distance to enemy:,敵との近接距離:
+10 units equals 1 metre,10ユニット = 1メートル
+Is the enemy at Close Range?,敵は近距離にいますか?
+Enemy in Your Presence Duration,Enemy in Your Presence の持続時間
+Number of seconds the enemy has been in your presence.,敵があなたの近くにいた秒数。
+Is the enemy Moving?,敵は移動中ですか?
+Is the enemy on Full Life?,敵はフルライフですか?
+Is the enemy on Low Life?,敵は低ライフ状態ですか?
+Is the enemy Cursed?,敵は呪われていますか?
+"The enemy will automatically be considered to be Cursed if you have at least one curse enabled,",少なくとも1つの呪いが有効なら、敵は自動的に呪われているとみなされます。
+Is the enemy Stunned?,敵はスタン状態ですか?
+Is the enemy Bleeding?,敵は出血状態ですか?
+Bleed Stack Potential override:,出血スタックポテンシャル上書き:
+Allows you to manually set the Stack Potential value for a skill.,スキルのスタックポテンシャル値を手動で設定できます。
+Stack Potential equates to the number of times you are able to inflict a Bleed on an enemy before the duration of your first Bleed expires,スタックポテンシャルは、最初の出血が切れるまでに敵へ出血を付与できる回数を表します
+Cap to Single Bleed on enemy?,敵への出血を単一に制限しますか?
+"This is for Blood Sap Tincture, but will limit you to only applying a single Bleed on the enemy",これは血の樹液のチンキ用ですが、敵へ付与できる出血を1つに制限します
+# of Rupture stacks?,裂傷スタック数?
+"Rupture applies 25% more bleed damage and 25% faster bleeds for 3 seconds, up to 3 stacks",裂傷は3秒間、最大3スタックまで、出血ダメージを25%上昇させ、出血速度を25%速めます
+Is the enemy Poisoned?,敵は毒状態ですか?
+# of Poison on enemy:,敵に付与されている毒数:
+Is the enemy non-Poisoned?,敵は毒状態ではありませんか?
+"This is for low tolerance, but will limit you to only applying poison a single time",これは低耐性用ですが、敵へ付与できる毒を1回に制限します
+(Note that you can still apply multiple stacks via 'inflict additional poison' mods),(「追加で毒を付与する」Modにより複数スタックを付与可能です)
+#% of Curse Expired on enemy:,敵の呪い経過割合 (%):
+Curse Duration Expired on enemy:,敵の呪い持続時間経過:
+# of Withered Stacks:,衰弱スタック数:
+"Withered applies 6% increased Chaos Damage Taken to the enemy, up to 15 stacks.",衰弱は敵へ「受ける混沌ダメージ 6%増加」を付与します。(最大15スタック)
+# of Corrosion Stacks:,腐食スタック数:
+Each stack of Corrosion applies -5000 to total Armour and -1000 to total Evasion Rating to the enemy.,腐食1スタックごとに、敵の合計アーマー -5000、合計回避力 -1000 を適用します。
+Corrosion lasts 4 seconds and refreshes the duration of existing Corrosion stacks,腐食は4秒持続し、既存の腐食スタックの持続時間を更新します
+Corrosion has no stack limit,腐食にはスタック上限がありません
+# of Ensnare Stacks:,Ensnareスタック数:
+"While ensnared, enemies take increased Projectile Damage from Attack Hits",エンスネア状態の敵は、攻撃ヒットから受ける投射物ダメージが増加します
+"Ensnared enemies always count as moving, and have less movement speed while trying to break the snare.",エンスネア状態の敵は常に移動中として扱われ、拘束を解除しようとしている間は移動速度が低下します。
+Is the enemy Maimed?,敵は重傷状態ですか?
+Is the enemy Hindered?,敵は妨害状態ですか?
+Is the enemy Excommunicated?,敵は破門状態ですか?
+Excommunicated Enemies cannot deal Chaos Damage.,破門状態の敵は混沌ダメージを与えられません。
+Is the enemy Blinded?,敵は盲目状態ですか?
+"In addition to allowing 'against Blinded Enemies' modifiers to apply,",'盲目状態の敵に対して' の補正を適用できるようになることに加えて、
+ Blind applies the following effects., 盲目は以下の効果を適用します。
+ -20% Accuracy , -20% 命中力 
+ -20% Evasion, -20% 回避力
+Effect of Blind (if not maximum):,盲目の効果 (最大でない場合):
+"If you have a guaranteed source of Blind, the strongest one will apply.",盲目を確定付与する手段が複数ある場合、最も強いものが適用されます。
+Is the enemy Taunted?,敵は挑発されていますか?
+Is the enemy Debilitated?,敵は弱体化状態ですか?
+Is the enemy Pacified?,敵は鎮静状態ですか?
+Enemies are Pacified after 60% of Pacify's duration has expired,鎮静の持続時間が60%経過すると敵は鎮静状態になります
+Debilitated enemies deal 10% less damage.,弱体化状態の敵は与えるダメージが10%低下します。
+Is the enemy Burning?,敵は燃焼状態ですか?
+Is the enemy Ignited?,敵は発火状態ですか?
+This also implies that the enemy is Burning.,これは敵が燃焼状態であることも意味します。
+Ignite Stack Potential override:,発火スタックポテンシャル上書き:
+Stack Potential equates to the number of times you are able to inflict an Ignite on an enemy before the duration of your first Ignite expires,スタックポテンシャルは、最初の発火が切れるまでに敵へ発火を付与できる回数を表します
+Is the enemy Scorched?,敵は焦げ状態ですか?
+"Scorched enemies have lowered elemental resistances, up to -30%.",焦げ状態の敵は元素耐性が最大 -30% 低下します。
+This option will also allow you to input the effect of Scorched.,焦げの効果量も入力できるようになります。
+Effect of Scorched:,焦げの効果:
+This effect will only be applied while you can inflict Scorched.,この効果は焦げを付与可能な場合のみ適用されます。
+Scorch Stacks,焦げスタック
+Amount of stacks of Scorch applied to the enemy.,敵に付与されている焦げスタック数。
+Is the enemy on Scorched Ground?,敵は焦げ領域上にいますか?
+This also implies that the enemy is Scorched.,これは敵が焦げ状態であることも意味します。
+Is the enemy Chilled?,敵は冷却状態ですか?
+Seconds of chill on enemy?,敵が冷却状態の秒数?
+Is the enemy Chilled by your Hits?,敵はあなたのヒットで冷却されていますか?
+Hoarfrost Stacks,白霜スタック
+Amount of stacks of ^x3F6DB3Hoarfrost ^7applied to the enemy.,敵に付与されている ^x3F6DB3白霜 ^7スタック数。
+Is the enemy Frozen?,敵は凍結状態ですか?
+Seconds of freeze on enemy?,敵が凍結状態の秒数?
+Is the enemy Brittle?,敵は脆弱状態ですか?
+Hits against Brittle enemies have up to +6% Critical Strike Chance.,脆弱状態の敵へのヒットは、最大 +6% のクリティカル率を得ます。
+This option will also allow you to input the effect of Brittle.,脆弱の効果量も入力できるようになります。
+Effect of Brittle:,脆弱の効果:
+This effect will only be applied while you can inflict Brittle.,この効果は脆弱を付与可能な場合のみ適用されます。
+Is the enemy on Brittle Ground?,敵は脆弱領域上にいますか?
+This also implies that the enemy is Brittle.,これは敵が脆弱状態であることも意味します。
+Is the enemy Shocked?,敵は感電状態ですか?
+"In addition to allowing any 'against Shocked Enemies' modifiers to apply,",'感電状態の敵に対して' の補正を適用できるようになることに加えて、
+this will allow you to input the effect of the Shock applied to the enemy.,敵へ適用される感電の効果量を入力できます。
+Effect of Shock:,感電の効果:
+"If you have a guaranteed source of Shock,",感電を確定付与する手段がある場合、
+the strongest one will apply instead unless this option would apply a stronger Shock.,このオプションでより強い感電を適用しない限り、最も強いものが適用されます。
+Shock Stacks,感電スタック
+Amount of stacks of Shock applied to the enemy.,敵に付与されている感電スタック数。
+Is the enemy on Shocked Ground?,敵は感電領域上にいますか?
+This also implies that the enemy is Shocked.,これは敵が感電状態であることも意味します。
+Is the enemy Sapped?,敵は消耗状態ですか?
+"Sapped enemies deal less damage, up to 20%.",消耗状態の敵は与えるダメージが最大20%低下します。
+Effect of Sap:,消耗の効果:
+"If you have a guaranteed source of Sap,",消耗を確定付与する手段がある場合、
+the strongest one will apply instead unless this option would apply a stronger Sap.,このオプションでより強い消耗を適用しない限り、最も強いものが適用されます。
+Is the enemy on Sapped Ground?,敵は消耗領域上にいますか?
+This also implies that the enemy is Sapped.,これは敵が消耗状態であることも意味します。
+# of Freeze / Shock / Ignite on enemy:,敵に付与された凍結/感電/発火数:
+Is the enemy Exposed to Fire?,敵は火曝露を受けてる?
+This applies -10% Fire Resistance to the enemy.,敵へ火耐性 -10% を適用します。
+Is the enemy Exposed to Cold?,敵は冷気曝露を受けてる?
+This applies -10% Cold Resistance to the enemy.,敵へ冷気耐性 -10% を適用します。
+Is the enemy Exposed to Lightning?,敵は雷曝露を受けてる?
+This applies -10% Lightning Resistance to the enemy.,敵へ雷耐性 -10% を適用します。
+Is the enemy Intimidated?,敵は威嚇状態ですか?
+Intimidated enemies take 10% increased Attack Damage.,威嚇状態の敵は受けるアタックダメージが10%増加します。
+Is the enemy Crushed?,敵は破砕状態ですか?
+Crushed enemies have 15% reduced Physical Damage Reduction.,破砕状態の敵は物理ダメージ軽減が15%減少します。
+Is enemy affected by Hallowing Flame?,敵は聖別の炎の影響を受けてる?
+Hallowing Flame stacks,聖別の炎スタック
+Amount of Hallowing Flame stacks applied to the enemy.,敵に付与されている聖別の炎スタック数。
+Hallowing Flames removed by an ally recently,直近味方により除去された聖別の炎
+Amount of Hallowing Flame stacks removed from enemies by allies recently.,直近、味方が敵から除去した聖別の炎スタック数。
+Inc. magnitude of Hallowing Flame stacks,聖別の炎スタック効果増加
+The magnitude of Hallowing Flame stacks applied to the enemy,敵に適用された聖別の炎スタックの強度
+Is the enemy near you Linked target?,敵はリンク対象の近くにいますか?
+Is the enemy Unnerved?,敵は狼狽状態ですか?
+Unnerved enemies take 10% increased Spell Damage.,狼狽状態の敵はスペルダメージを10%増加して受けます。
+Is the enemy covered in Ash?,敵は灰まみれ状態ですか?
+Covered in Ash applies the following to the enemy:,灰まみれは敵に以下を適用します:
+	20% increased Fire Damage taken,	受ける火ダメージが20%増加する
+	20% less Movement Speed,	移動スピードが20%低下する
+Is the enemy covered in Frost?,敵は霜まみれ状態ですか?
+Covered in Frost applies the following to the enemy:,霜まみれは敵に以下を適用します:
+	20% increased Cold Damage taken,	受ける冷気ダメージが20%増加する
+	50% less Critical Strike Chance,	クリティカル率が50%低下する
+Is the enemy on Consecrated Ground?,敵は神聖領域上にいますか?
+Does the enemy have Energy Shield?,敵はエナジーシールドを持っていますか?
+Is the enemy on Profane Ground?,敵は不浄領域上にいますか?
+Enemies on Profane Ground receive the following modifiers:,不浄領域上の敵は以下の補正を受けます:
+	10% increased Effect of Curses,	呪いの効果が10%増加する
+	100% increased chance to be Critically Hit,	クリティカルヒットを受ける確率が100%増加する
+# of Grasping Vines affecting enemy:,敵に付与されている束縛する蔓の数:
+Is the enemy on Fungal Ground?,敵は真菌領域上にいますか?
+Enemies on your Fungal Ground have -10% to all Resistances.,あなたの真菌領域上の敵は全耐性 -10% を受けます。
+Is the enemy in a Chilling area?,敵は冷却エリア内にいますか?
+Is the enemy in the Frost Shield area?,敵はフロストシールドの範囲内にいますか?
+Is the enemy Life% higher than yours?,敵のライフ割合はあなたより高いですか?
+Enemy was Hit by Fire Damage?,敵は火ダメージを受けましたか?
+Enemy was Hit by Cold Damage?,敵は冷気ダメージを受けましたか?
+Enemy was Hit by Light. Damage?,敵は雷ダメージを受けましたか?
+Is the enemy in RF or Scorching Ray:,敵はRFまたはスコーチングレイの範囲内ですか:
+Ignore Skill Hit Damage?,スキルのヒットダメージを無視しますか?
+This option prevents EE from being reset by the hit damage of your main skill.,メインスキルのヒットダメージで EE がリセットされるのを防ぎます。
+Is the enemy in your Link beams?,敵はあなたのリンクビーム内にいますか?
+This option sets whether an enemy is between you and your linked target.,敵があなたとリンク対象の間にいるかどうかを設定します。
+Enemy hit you with Fire Damage?,敵から火ダメージを受けましたか?
+This option sets whether or not the enemy has hit you with Fire Damage in the last 4 seconds.,過去4秒以内に敵から火ダメージを受けたかどうかを設定します。
+Enemy hit you with Cold Damage?,敵から冷気ダメージを受けましたか?
+This option sets whether or not the enemy has hit you with Cold Damage in the last 4 seconds.,過去4秒以内に敵から冷気ダメージを受けたかどうかを設定します。
+Enemy hit you with Light. Damage?,敵から雷ダメージを受けましたか?
+This option sets whether or not the enemy has hit you with Lightning Damage in the last 4 seconds.,過去4秒以内に敵から雷ダメージを受けたかどうかを設定します。
+# of Mania Stacks,躁病スタック数
+Mania Stacks apply:,躁病スタック適用:
+	4% inc Damage Taken per stack,	1スタックごとに受けるダメージが4%増加する
+	2% reduced Action Speed per stack,	1スタックごとにアクションスピードが2%減少する
+	10% reduced Life ^7and ^x88FFFFEnergy Shield ^7Recovery Rate per stack,	1スタックごとにライフおよびエナジーシールド回復レートが10%減少する
+Enemy Stats,敵ステータス
+Enemy Level:,敵レベル:
+This overrides the default enemy level used to estimate your hit and evade chance.,命中率と回避率の推定に使われるデフォルト敵レベルを上書きします。
+The default level for normal enemies and standard bosses is 83.,通常敵と通常ボスのデフォルトレベルは83です。
+Their default level is capped by your character level.,デフォルトレベルはキャラクターレベルで上限が適用されます。
+"The default level for pinnacle bosses is 84, and the default level for uber pinnacle bosses is 85.",Pinnacle Boss のデフォルトレベルは84、Uber Pinnacle Boss のデフォルトレベルは85です。
+Their default level is not capped by your character level.,デフォルトレベルはキャラクターレベルで制限されません。
+Is the enemy Rare or Unique?,敵はレアまたはユニークですか?
+"The enemy will automatically be considered to be Unique if they are a Boss,",敵がボスの場合、自動的にユニーク敵とみなされます。
+Is the enemy a Boss?,敵はボスですか?
+Bosses' damage is monster damage scaled to an average damage of their attacks,ボスダメージは、モンスターの平均攻撃ダメージを基準にスケーリングされます
+This is divided by 4.40 to represent 4 damage types + some (40% as much) chaos,4種類のダメージタイプ + 一部混沌 (40%) を表現するため 4.40 で割られます
+Fill in the exact damage numbers if more precision is needed,より正確な計算が必要な場合は、正確なダメージ数値を入力してください
+Bosses' armour and evasion multiplier are calculated using the average of the boss type,ボスのアーマーおよび回避力倍率は、ボスタイプの平均値を用いて計算されます
+Standard Boss adds the following modifiers:,通常ボスは以下の補正を追加します:
+{0}% to enemy Elemental Resistances,敵の元素耐性 {0}%
+{0}% to enemy Chaos Resistance,敵の混沌耐性 {0}%
+{0}% of monster Damage of each type,各タイプのモンスターダメージの {0}%
+{0}% of monster Damage total,モンスターダメージ合計の {0}%
+Guardian / Pinnacle Boss adds the following modifiers:,Guardian / Pinnacle Boss は以下の補正を追加します:
+{0}% of monster Armour,モンスターアーマーの {0}%
+{0}% of monster Evasion,モンスター回避力の {0}%
+{0}% penetration,{0}% 貫通
+Uber Pinnacle Boss adds the following modifiers:,Uber Pinnacle Boss は以下の補正を追加します:
+{0}% less to enemy Damage taken,敵の受けるダメージ {0}% 減少
+Standard Boss,通常ボス
+Guardian/Pinnacle Boss,ガーディアン / Pinnacle Boss
+Uber Pinnacle Boss,ウーバーピナクルボス
+Delirious Effect:,デリリウム効果:
+{0}% Delirious,{0}% デリリウム
+Delirium scales enemy 'less Damage Taken' as well as enemy 'increased Damage dealt',デリリウムは敵の「受けるダメージ低下」と「与えるダメージ増加」をスケールさせます
+At 100% effect:,効果100%時:
+Enemies Deal 30% Increased Damage,敵の与えるダメージが30%増加
+Enemies take 80% Less Damage,敵が受けるダメージが80%低下
+Enemy Phys. Damage Reduction:,敵の物理ダメージ軽減:
+Enemy Lightning Resistance:,敵の雷耐性:
+Enemy Cold Resistance:,敵の冷気耐性:
+Enemy Fire Resistance:,敵の火耐性:
+Enemy Chaos Resistance:,敵の混沌耐性:
+Enemy Max Resistance is always 75%,敵の最大耐性は常に75%
+Enemy Maximum resistance is increased by the resistance configurations ,敵の最大耐性は耐性設定により増加します
+This locks it at the default value,これをデフォルト値に固定します
+Enemy Block Chance:,敵のブロック率:
+Enemy Base Evasion:,敵の基礎回避力:
+Enemy Base Armour:,敵の基礎アーマー:
+Boss Skill Preset,ボススキルプリセット
+Used to fill in defaults for specific boss skills if the boss config is not set,ボス設定が未設定の場合、特定ボススキルのデフォルト値として使用されます
+"Bosses' damage is modified by roll range configuration, defaulted at a 70% roll, at the normal monster level for your character level (capped at 85)",ボスダメージはロール範囲設定の影響を受け、デフォルトでは70%ロールとして計算されます。モンスターレベルはキャラクターレベル基準 (最大85) です
+Atziri Flameblast,アツィリ・フレイムブラスト
+The Uber variant has 10 Fire penetration (Applied on Pinnacle And Uber),Uber版は火耐性貫通10を持ちます (Pinnacle および Uber に適用)
+Shaper Ball,シェイパーボール
+Allocating Cosmic Wounds increases the penetration to 40% (Applied on Uber) and adds 2 projectiles,宇宙の傷を割り当てると、貫通が40%に増加し (Uber時適用)、投射物が2個追加されます
+Shaper Slam,シェイパースラム
+Cannot be Evaded.  Allocating Cosmic Wounds increases Damage by a further 100% (Applied on Uber) and cannot be blocked or dodged,回避されません。宇宙の傷を割り当てると、ダメージがさらに100%増加し (Uber時適用)、ブロックおよびドッジ不可になります
+Shaper Beam,シェイパービーム
+Damage Over Time skill,継続ダメージスキル
+Sirus Meteor,シラスメテオ
+Earlier ones with less walls do less damage. Allocating The Perfect Storm increases Damage by a further 50% (Applied on Uber),前半の壁ほどダメージが低くなります。完璧な嵐を割り当てると、さらにダメージが50%増加します (Uber時適用)
+Cortex Ground Degen,コーテクス領域 継続ダメージ
+Exarch Ball,Exarch Ball
+"Spawns 8-18 waves of balls depending on which fight and which ball phase, Cannot be Blocked, Dodged, or Suppressed",戦闘内容と弾フェーズに応じて8〜18波の弾を生成します。ブロック・ドッジ・スペル抑制不可。
+Eater Beam,Eater Beam
+Allocating Insatiable Appetite causes the beam to always shock for at least 30%,飽くことなき食欲を割り当てると、ビームが最低でも30%の感電を与えます
+Maven Fireball,メイヴェン・ファイアボール
+Allocating Throw the Gauntlet increases Damage by a further 100% (Applied on Uber) and causes the fireball to have 30 Fire penetration (Applied on Uber),挑戦を割り当てると、ダメージがさらに100%増加し (Uber時適用)、ファイアボールに火耐性貫通30が追加されます (Uber時適用)
+Maven Memory Game,メイヴェン・記憶ゲーム
+"Cannot be Blocked, Dodged, or Suppressed. ",ブロック、ドッジ、抑制されません。
+"	It is three separate hits, and has a large DoT effect.  Neither is taken into account here.  ",	これは3回の別個ヒットであり、大きなDoT効果も持っています。ここではどちらも考慮されません。
+		i.e. Hits before death should be more than 3 to survive,		例: 生存するには死亡前ヒット数が3以上必要です
+Enemy Skill Roll Range %:,敵スキルのロール範囲 (%):
+The percentage of the roll range the enemy hits for ,敵ヒットのロール範囲割合 
+ eg at 100% the enemy deals its maximum damage, 例: 100%時、敵は最大ダメージを与えます
+Enemy Damage Type:,敵のダメージタイプ:
+Controls which types of damage the EHP calculation uses:,EHP計算に使用するダメージタイプを制御します:
+	Average: uses the Average of all typed damage types (except Damage Over Time and Untyped),	平均: すべての属性付きダメージタイプの平均値を使用します (DoT と無属性を除く)
+"If a specific damage type is selected, that will be the only type used.",特定のダメージタイプを選択すると、そのタイプのみが使用されます。
+Untyped,未分類
+Enemy attack / cast time in ms:,敵のアタック/キャスト時間 (ms):
+Enemy critical strike chance:,敵のクリティカル率:
+Enemy critical strike multiplier:,敵のクリティカル倍率:
+Enemy Skill Physical Damage:,敵スキルの物理ダメージ:
+This overrides the default damage amount used to estimate your damage reduction from armour.,アーマーによるダメージ軽減推定に使われるデフォルトダメージ量を上書きします。
+"The default is 1.5 times the enemy's base damage, which is the same value",デフォルトは敵の基礎ダメージの1.5倍で、同じ値です
+used in-game to calculate the estimate shown on the character sheet.,ゲーム内キャラクターシートに表示される推定値の計算に使用されます。
+Enemy Skill Physical Overwhelm:,敵スキルの物理軽減無効:
+Enemy Skill Lightning Damage:,敵スキルの雷ダメージ:
+Enemy Skill Lightning Pen:,敵スキルの雷耐性貫通:
+Enemy Skill Cold Damage:,敵スキルの冷気ダメージ:
+Enemy Skill Cold Pen:,敵スキルの冷気耐性貫通:
+Enemy Skill Fire Damage:,敵スキルの火ダメージ:
+Enemy Skill Fire Pen:,敵スキルの火耐性貫通:
+Enemy Skill Chaos Damage:,敵スキルの混沌ダメージ:
+Custom Modifiers,カスタム補正
+# Carrion Golem = # Chaos Golem,キャリオンゴーレム数 = カオスゴーレム数
+# Chaos Golem = # Stone Golem,カオスゴーレム数 = ストーンゴーレム数
+# Stone Golem = # Carrion Golem,ストーンゴーレム数 = キャリオンゴーレム数
+# bolts reloaded past 6 seconds,過去6秒間にリロードしたボルト数
+# bolts reloaded past 8 seconds,過去8秒間にリロードしたボルト数
+# different Ammo Types Shot past 10s,過去10秒間に撃った異なる弾薬タイプ数
+# different Grenade Types Shot past 10s,過去10秒間に使用した異なるグレネードタイプ数
+# of Active Arrows,有効な矢の数
+# of Active Spectral Wolves,有効なスペクトラルウルフ数
+# of Barkskin Stacks,バークスキンスタック数
+# of Bleeds on enemy (if not average),敵に付与されている出血数 (平均化しない場合)
+# of Bleeds on enemy (if not maximum),敵に付与されている出血数 (最大でない場合)
+# of Blitz Charges (if not maximum),Blitzチャージ数 (最大でない場合)
+# of Blood Charges (if not maximum),Bloodチャージ数 (最大でない場合)
+# of Brands attached to the enemy,敵に付着しているブランド数
+# of Broken Armour (if not maximum),アーマー破壊数 (最大でない場合)
+# of Casts currently waiting,現在待機中のキャスト数
+# of Challenger Charges (if not maximum),Challengerチャージ数 (最大でない場合)
+# of Corpses Consumed Recently,直近消費した死体数
+# of Corrosion Stacks,腐食スタック数
+# of Crab Barriers (if not maximum),クラブバリアの数 (最大でない場合)
+# of Endurance Charges (if not maximum),エンデュランスチャージ数 (最大でない場合)
+# of Endurance Charges lost Recently,直近失ったエンデュランスチャージ数
+# of Enemies Killed Recently,直近倒した敵の数
+# of Enemies Killed by Minions Recently,直近ミニオンが倒した敵の数
+# of Enemies Killed by Totems Recently,直近トーテムが倒した敵の数
+# of Enemies affected,影響を受けている敵の数
+# of Ensnare Stacks,Ensnareスタック数
+# of Fortification Stacks (if not maximum),堅牢化スタック数 (最大でない場合)
+# of Fragile Regrowth Stacks,儚い再生スタック数
+# of Freeze / Shock / Ignite on enemy,敵に付与された凍結/感電/発火数
+# of Frenzy Charges (if not maximum),フレンジーチャージ数 (最大でない場合)
+# of Gale Force,強風数
+# of Ghost Shrouds (if not maximum),ゴーストシュラウド数 (最大でない場合)
+# of Grasping Vines affecting enemy,敵に付与されている束縛する蔓の数
+# of Hazards triggered recently,最近発動した Hazard 数
+# of Hits Suppressed Recently,直近抑制したヒット数
+# of Ignites applied Recently,最近付与した発火数
+# of Ignites on enemy (if not average),敵に付与されている発火数 (平均化しない場合)
+# of Impales on enemy (if not maximum),敵に付与されている串刺し数 (最大でない場合)
+# of Incision Stacks,切開スタック数
+# of Incisions consumed recently,最近消費した 切開数
+# of Inspiration Charges (if not maximum),インスピレーションチャージ数 (最大でない場合)
+# of Intensity,猛烈の数
+# of Life spent Recently,直近消費したライフ量
+# of Life spent in past 8s,過去8秒間に消費したライフ
+# of Mana spent Recently,直近消費したマナ量
+# of Mines Detonated Recently,直近起爆したマイン数
+# of Mines per throw,1回で投げるマイン数
+# of Minion Soul Eater Stacks,ミニオンのソウルイータースタック数
+# of Minions in your Presence,あなたの存在下のミニオン数
+# of Momentum (if not average),モーメンタム数 (平均でない場合)
+# of Nearby Allies,近くの味方数
+# of Nearby Bleeding Enemies,近くの出血中の敵数
+# of Nearby Corpses,近くの死体数
+# of Nearby Non-Golem Minions,近くの非ゴーレムミニオン数
+# of Non-Instant Spells Cast Recently,直近使用した非インスタントスペル数
+# of Non-Shocked Enemies Shocked  Recently,最近感電させた非感電状態の敵数
+# of Overlapping Beams,重なっているビーム数
+# of Overlapping Pods,重なっているポッド数
+# of Overlapping Spikes,重複スパイク数
+# of Poison on You,自身に付与されている毒数
+# of Poison on enemy,敵に付与されている毒数
+# of Poisons applied Recently,直近付与した毒数
+# of Poisons on enemy (if not average),敵に付与されている毒数 (平均化しない場合)
+# of Power Charges (if not maximum),パワーチャージ数 (最大でない場合)
+# of Rampage Kills,ランページキル数
+# of Recently Applied Ailments,直近付与した状態異常数
+# of Scavenged Plating Stacks,スカベンジドプレーティングスタック数
+# of Shocked Enemies Killed Recently,直近倒した感電中の敵数
+# of Shotgunning Projectiles,重複ヒットする投射物数
+# of Siphoning Charges (if not maximum),サイフォニングチャージ数 (最大でない場合)
+# of Skills Used Recently,直近使用したスキル数
+# of Snipe stages,スナイプステージ数
+# of Soul Eater Stacks,ソウルイータースタック数
+# of Spider's Web Stacks,蜘蛛の巣スタック数
+# of Spiders,スパイダー数
+# of Spirit Charges,スピリットチャージ数
+# of Summoned Minions,召喚中のミニオン数
+# of Summoned Totems (if not maximum),召喚中のトーテム数 (最大でない場合)
+# of Tailwind Stacks,追い風スタック数
+# of Traps Triggered Recently,直近発動したトラップ数
+# of Traps per throw,1回で投げるトラップ数
+# of Trauma Stacks,トラウマスタック数
+# of Vaal Skills used in the past 8 Seconds,過去8秒間に使用したVaalスキル数
+# of Virulence Stacks,毒性スタック数
+# of Warcries Used Recently,直近使用したウォークライ数
+# of Whirlwind Stages,ワールウィンドステージ数
+# of Wind Dancer Stacks,ウィンドダンサースタック数
+# of Withered Stacks,衰弱スタック数
+# of Withered Stacks on you,自身に付与されている衰弱スタック数
+# of active Brands,有効なブランド数
+# of linked Targets,リンク対象数
+# of nearby Enemies,近くの敵数
+# of nearby Rare or Unique Enemies,近くのレアまたはユニーク敵数
+# of non-vaal skill Summoned Minions,通常スキルで召喚したミニオン数
+# of seconds Affected by a Warcry Buff,ウォークライバフの影響を受けている秒数
+# of seconds since Inevitable crit,インエビタブルクリティカルからの経過秒数
+# of times Skill has Chained,スキルが連鎖した回数
+# of times Skill has Forked,スキルが分岐した回数
+# of times Skill has Pierced,スキルが貫通した回数
+# of times Stunned Recently,最近スタンした回数
+# of times you have been Hit Recently,直近ヒットを受けた回数
+# of times your Attacks have Crit Recently,直近アタックがクリティカルした回数
+#% of Curse Expired on enemy,敵の呪い経過割合 (%)
+% Wave of Conviction duration expired,ウェーブオブコンヴィクションの持続時間経過率
+% chance for second proj to hit,2発目の投射物がヒットする確率 (%)
+(14 to 17)% increased Monster Damage,モンスターダメージ (14〜17)% 増加
+(18 to 21)% increased Monster Damage,モンスターダメージ (18〜21)% 増加
+(22 to 25)% increased Monster Damage,モンスターダメージ (22〜25)% 増加
+(Grants 30% of All Damage as extra Chaos Damage),（全ダメージの30%を追加混沌ダメージとして付与）
++15% Monster Chaos Resistance,+15% モンスター混沌耐性
++20% Monster Chaos Resistance,+20% モンスター混沌耐性
++20% Monster Elemental Resistances,+20% モンスター元素耐性
++20% Monster Physical Damage Reduction,+20% モンスター物理ダメージ軽減
++25% Monster Chaos Resistance,+25% モンスター混沌耐性
++30% Monster Elemental Resistances,+30% モンスター元素耐性
++30% Monster Physical Damage Reduction,+30% モンスター物理ダメージ軽減
++30% to enemy Elemental Resistances,敵の元素耐性 +30%
++40% Monster Elemental Resistances,+40% モンスター元素耐性
++40% Monster Physical Damage Reduction,+40% モンスター物理ダメージ軽減
++50% to enemy Elemental Resistances,敵の元素耐性 +50%
+-15% Reduced Evasion,-15% 回避力
+-20% less Accuracy , -20% 命中力 
+-20% less Evasion, -20% 回避力
+-30% Reduced Movement Speed,-30% 移動速度
+-x% maximum Res,-x% 最大耐性
+1% increased movement speed,移動速度1%増加
+100% Delirious,100% デリリウム
+1000% of monster Damage total,モンスターダメージ合計の1000%
+116% of monster Evasion,モンスター回避力の116%
+124% of monster Evasion,モンスター回避力の124%
+125% of monster Armour,モンスターアーマーの125%
+150% of monster Armour,モンスターアーマーの150%
+181% of monster Damage of each type,各タイプのモンスターダメージの181%
+20% Delirious,20% デリリウム
+20% less Elemental Damage taken,受ける元素ダメージ20%減少
+235% of monster Damage of each type,各タイプのモンスターダメージの235%
+3% increased Skill Speed,スキルスピード3%増加
+3% penetration,3% 貫通
+40% Delirious,40% デリリウム
+400% of monster Damage total,モンスターダメージ合計の400%
+50% more Elemental Damage,元素ダメージ50%上昇
+60% Delirious,60% デリリウム
+70% less to enemy Damage taken,敵の受けるダメージ70%減少
+8% penetration,8% 貫通
+80% Delirious,80% デリリウム
+800% of monster Damage total,モンスターダメージ合計の800%
+90% of monster Damage of each type,各タイプのモンスターダメージの90%
+"A target is immobilised if it cannot move, for example due to being Frozen, Pinned, Heavy Stunned, or Electrocuted.",対象は、凍結・足止め・ヘビースタン・麻痺状態などで移動できない場合、移動不能状態とみなされます。
+Absolution: Count skill damage once,アブソリューション: スキルダメージを1回として計算
+Act 1: Clearfell,Act 1: クリアフェル
+Act 1: Freythorn,Act 1: フレイソーン
+Act 1: Ogham Manor,Act 1: オガムの邸宅
+Act 2: Spires of Deshar,Act 2: デシャールの尖塔
+Act 2: Valley of the Titans,Act 2: タイタンの谷
+Act 3: Azak Bog,Act 3: アザク湿原
+Act 3: Jiquani's Machinarium,Act 3: ジクアニのマシナリウム
+Act 3: Venom Crypts,Act 3: 毒の地下聖堂
+Act 4: Abandoned Prison,Act 4: 放棄された監獄
+Act 4: Eye of Hinekora,Act 4: ヒネコラの目
+Act 4: Halls Of The Dead,Act 4: 死者の殿堂
+Ailment calculation mode,状態異常計算モード
+Amount of Rage Sacrificed (if not maximum),消費した憤怒量 (最大でない場合)
+Arcane Cloak,アーケインクローク
+Are you Sprinting?,スプリント中ですか?
+Are you in Demon Form?,悪魔形態ですか?
+Are you in dodge roll?,回避ロール中ですか?
+Are you on Ignited Ground?,発火領域上にいますか?
+Are you out of Life Flask uses?,ライフフラスコの使用回数が尽きていますか?
+Are you surrounded?,敵に囲まれていますか?
+Armour calculation mode,アーマー計算モード
+Aspect of the Avian,鳥のアスペクト
+Aspect of the Cat,猫のアスペクト
+Aspect of the Crab,蟹のアスペクト
+Aspect of the Spider,蜘蛛のアスペクト
+Assassin's Mark,アサシンの呪印
+At 100% effect,効果100%時
+Augyre rotating buff,アージャイア回転バフ
+"Average: The cooldown is adjusted to reflect the average time between uses, factoring in effects such as a chance to not consume a cooldown.",平均: クールダウンを消費しない確率などを考慮し、使用間隔の平均時間を反映するように調整します。
+Balance of Terror Curse Disable,恐怖のバランスカース無効
+Bandit quest,盗賊クエスト
+Banner Skills,バナースキル
+Banner Valour,バナー勇猛
+Barkskin,バークスキン
+Base,ベース
+Base: The cooldown is calculated with normal behavior.,基本: 通常の挙動でクールダウンを計算します。
+Blade Vortex blade count,ブレードヴォーテックスの刃数
+Bladestorm,ブレードストーム
+Bleed Stack Potential override,出血スタックポテンシャル上書き
+"Bleeding deals an extra 100% damage while the target is moving, or if the Bleeding is Aggravated",対象が移動中、または出血が出血悪化状態の場合、出血ダメージがさらに100%増加します。
+Blood Sacrament,ブラッドサークラメント
+Blood Stance,ブラッドスタンス
+Boss Inc Damage / Speed,ボスダメージ/速度増加
+Brand Skills,ブランドスキル
+Cannot Leech,リーチ不可
+Cannot Regen,自動回復不可
+Carrion Golem,キャリオンゴーレム
+Chance To Ignore PDR Mode,物理ダメージ軽減無視モード
+Changed Stance in the last 1s?,直近1秒以内にスタンス変更しましたか?
+Channeling for # seconds,チャネリング時間
+Chaos,混沌
+Chayula Breach Flames,チャユラブリーチ炎
+Chill Stacks,冷却スタック
+Clash Support,死闘サポート
+Close Combat,近距離戦闘
+Cold Skill used Recently,最近冷気スキルを使用しましたか
+Cold Snap,コールドスナップ
+Conductivity,コンダクティビティ
+Conflux Buff,コンフラックスバフ
+Consecrated Path of Endurance,耐久力のコンセクレイテッドパス
+Consumed Freeze,凍結を消費
+Consumed Ignite,発火を消費
+Consumed Shock,感電を消費
+Consumed an Ailment?,状態異常を消費しましたか?
+Controls how Defending with Double Armour is calculated,ダブルアーマー防御の計算方法を制御します
+Controls how exerted attacks from Warcries are calculated,ウォークライによる奮起アタックの計算方法を制御します
+Controls how life regeneration is calculated,ライフ自動回復の計算方法を制御します
+Controls how resource on hit/kill is calculated,ヒット時/キル時のリソース獲得計算を制御します
+Controls how the base damage for applying Ailments is calculated,状態異常付与に使用する基礎ダメージの計算方法を制御します
+Controls how the chance on hit to ignore enemy physical damage reduction is calculated,ヒット時に敵の物理ダメージ軽減を無視する確率の計算方法を制御します
+Controls how the cooldown for skills is calculated,スキルのクールダウン計算方法を設定します
+Controls how the hit/ailment effect of Ruthless Support is calculated,ルースレスサポートのヒット/状態異常効果の計算方法を制御します
+Controls which types of damage the EHP calculation uses,EHP計算に使用するダメージタイプを制御します
+Cooldown calculation mode,クールダウン計算モード
+Corrupting Cry,コラプティングクライ
+Covered in Ash applies the following to the enemy,灰まみれは敵に以下を適用します
+Covered in Frost applies the following to the enemy,霜まみれは敵に以下を適用します
+Critical weakness stacks,クリティカルウィークネススタック
+Cruelty,クルーエルティ
+Current Mana %,現在のマナ割合
+Curse Duration Expired on enemy,敵の呪い持続時間経過
+Curse Expiration,呪い終了
+Curse Replacement,呪い置換
+Curse overlaps,呪い重複
+Custom PvP Damage multiplier percent,カスタムPvPダメージ倍率 (%)
+Cyclone,サイクロン
+Damage % (if not maximum),ダメージ% (最大でない場合)
+Damage Over Time,継続ダメージ
+Damage mitigated,軽減ダメージ
+Damageable Minion Life,ダメージを受けられるミニオンのライフ
+Dark Pact,ダークパクト
+Dazed enemies take 50% more stun buildup for 8 seconds.,朦朧状態の敵は、8秒間スタン蓄積を50%多く受けます。
+Defiance,反抗
+Delirious Effect,デリリウム効果
+Demon Form,悪魔形態
+Demonflame Stacks,デーモンフレイムスタック
+Despair,ディスペア
+Did you Chill yourself?,自身を冷却しましたか?
+Disable EHP gain on block/suppress,ブロック/抑制時のEHP増加を無効化
+Disable EHP gain when hit,被ヒット時のEHP増加を無効化
+Disable Slashing Horror's Enrage,切り裂きの恐怖の激怒を無効化
+Distance to enemy,敵までの距離
+Do you have Quicksand Hourglass?,流砂の砂時計を持っていますか?
+Do you have a Charm active?,チャームが有効ですか?
+Do your hits always Heavy Stun?,ヒットは常にヘビースタンしますか?
+Do your hits always Stun?,ヒットは常にスタンしますか?
+Does enemy have Open Weakness?,敵はオープンウィークネス状態ですか?
+Doom Blast,ドゥームブラスト
+Doom Blast Trigger Source,ドゥームブラスト トリガー元
+Doom on Hex,呪術上のドゥーム
+Drain Ailments,状態異常吸収
+EHP calc unlucky,EHP計算 不運設定
+Each Magic enemy grants 2 Power,マジック敵1体ごとにパワー +2
+Each Normal enemy grants 1 Power,通常敵1体ごとにパワー +1
+Each Rare enemy grants 10 Power,レア敵1体ごとにパワー +10
+Each Unique enemy grants 20 Power,ユニーク敵1体ごとにパワー +20
+Effect of Blind (if not maximum),盲目の効果 (最大でない場合)
+Effect of Brittle,脆弱の効果
+Effect of Elusive (if not average),身躱しの効果 (平均でない場合)
+Effect of Sap,消耗の効果
+Effect of Scorched,焦げの効果
+Effect of Shock,感電の効果
+Effect of Shock (if not maximum),感電の効果 (最大でない場合)
+Elemental Ailments on,元素状態異常中
+Elemental Army,元素の軍勢
+Elemental Discharge,エレメンタルディチャージ
+Elemental Resistance penalty,元素耐性ペナルティ
+Elemental Weakness,エレメンタルウィークネス
+Embrace Madness,エンブレースマッドネス
+Enable Anger Aura,アンガーオーラを有効化
+Enable Hatred Aura,ヘイトレッドオーラを有効化
+Enable Holy Relic's Boon Aura,ホーリーレリックの恩恵を有効化
+Enable Summoned Ursa's Rallying Cry,召喚したウルサのラリイングクライを有効化
+Enable Wrath Aura,ラースオーラを有効化
+Enable buffs,バフを有効化
+Enable curses,呪いを有効化
+Endgame (-60%),エンドゲーム (-60%)
+Enemies on Profane Ground receive the following modifiers,不浄領域上の敵は以下の補正を受けます
+Enemy Base Armour,敵の基礎アーマー
+Enemy Base Evasion,敵の基礎回避力
+Enemy Base ^x33FF77Evasion,敵基礎^x33FF77回避^7
+Enemy Block Chance,敵のブロック率
+Enemy Cannot Be Slowed,敵は減速無効
+Enemy Chaos Resistance,敵の混沌耐性
+Enemy Cold Resistance,敵の冷気耐性
+Enemy Corpse Life,敵の死体ライフ
+Enemy Damage Type,敵のダメージタイプ
+Enemy Fire Resistance,敵の火耐性
+Enemy Impale,敵インペイル
+Enemy Inc Damage,敵被ダメージ増加
+Enemy Inc Speed,敵速度増加
+Enemy Level,敵レベル
+Enemy Life % higher than Player?,敵ライフ割合はプレイヤーより高いですか?
+Enemy Lightning Resistance,敵の雷耐性
+Enemy Open Weakness Presence?,敵にオープンウィークネスが存在しますか?
+Enemy Phys As Chaos,敵物理→混沌
+Enemy Phys As Cold,敵物理→冷気
+Enemy Phys As Fire,敵物理→火
+Enemy Phys As Lightning,敵物理→雷
+Enemy Phys D R,敵物理ダメージ軽減
+Enemy Phys. Damage Reduction,敵の物理ダメージ軽減
+Enemy Resist,敵耐性
+Enemy Skill Chaos Damage,敵スキルの混沌ダメージ
+Enemy Skill Cold Damage,敵スキルの冷気ダメージ
+Enemy Skill Cold Pen,敵スキルの冷気耐性貫通
+Enemy Skill Fire Damage,敵スキルの火ダメージ
+Enemy Skill Fire Pen,敵スキルの火耐性貫通
+Enemy Skill Lightning Damage,敵スキルの雷ダメージ
+Enemy Skill Lightning Pen,敵スキルの雷耐性貫通
+Enemy Skill Physical Damage,敵スキルの物理ダメージ
+Enemy Skill Physical Overwhelm,敵スキルの物理軽減無効
+Enemy Skill Roll Range %,敵スキルのロール範囲 (%)
+Enemy Skill ^x3F6DB3Cold Damage,敵^x3F6DB3冷気ダメ^7
+Enemy Skill ^x3F6DB3Cold Pen,敵^x3F6DB3冷気貫通^7
+Enemy Skill ^xADAA47Lightning Damage,敵^xADAA47雷ダメ^7
+Enemy Skill ^xADAA47Lightning Pen,敵^xADAA47雷貫通^7
+Enemy Skill ^xB97123Fire Damage,敵^xB97123火ダメ^7
+Enemy Skill ^xB97123Fire Pen,敵^xB97123火貫通^7
+Enemy Skill ^xD02090Chaos Damage,敵^xD02090混沌ダメ^7
+Enemy ^x3F6DB3Cold Resistance,敵^x3F6DB3冷気耐性^7
+Enemy ^xADAA47Lightning Resistance,敵^xADAA47雷耐性^7
+Enemy ^xB97123Fire Resistance,敵^xB97123火耐性^7
+Enemy affected by Hazard recently?,最近敵はハザードの影響を受けましたか?
+Enemy attack / cast time in ms,敵のアタック/キャスト時間 (ms)
+Enemy critical strike chance,敵のクリティカル率
+Enemy critical strike multiplier,敵のクリティカル倍率
+Enemy entered Presence Recently?,最近敵が存在下へ入りましたか?
+Enemy exited Presence Recently?,最近敵が存在下へ出ましたか?
+Enemy has Parry Debuff,敵にパリィデバフあり
+Enemy has inc. Accuracy,敵命中力増加
+Enemy is Hexproof,敵は呪い無効
+Enemy radius,敵の半径
+Enemy size preset,敵サイズプリセット
+Enemy takes reduced Extra,敵が受ける追加ダメージ減少
+Enfeeble,エンフィーブル
+Exerted/Boosted calc mode,奮起/ブースト 計算モード
+Exposure Type,曝露タイプ
+Feeding Frenzy,狂乱の餌付け
+Feeding Frenzy grants,狂乱の餌付けにより付与
+Fire Skill used Recently,最近火スキルを使用しましたか
+Flame Wall,フレイムウォール
+Flame of Chayula Breaches,チャユラの炎ブリーチ
+Flammability,フラマビリティ
+Flicker Strike,フリッカーストライク
+Fresh Meat,フレッシュミート
+"From Oshabi's Bloodline, grants",オシャビの血脈により付与
+Frost Shield,フロストシールド
+Frostbite,フロストバイト
+Glorious Madness Stacks grants,栄光なる狂気スタックにより付与
+Greater Harbinger of Time,時の大ハービンジャー
+Greater Harbinger of Time Slipstream buff grants,時の大ハービンジャーのスリップストリームバフにより付与
+Guardian / Pinnacle Boss adds the following modifiers,Guardian / Pinnacle Boss は以下の補正を追加します
+Harbinger of Time,時のハービンジャー
+Harbinger of Time Slipstream buff grants,時のハービンジャーのスリップストリームバフにより付与
+Have you Active Blocked Recently?,最近ブロックしましたか?
+Have you Crit in the past 8s?,過去8秒以内にクリティカルしましたか?
+Have you Detonated a Mine Recently,最近マインを起爆しましたか
+Have you Dodge Rolled Recently?,最近回避ロールしましたか?
+Have you Hit with a Proj. Att. Recently?,最近投射物アタックでヒットしましたか?
+Have you Melee Hit Recently?,最近近接ヒットしましたか?
+Have you Parried Recently?,最近パリィしましたか?
+Have you Pinned an enemy Recently?,最近敵を足止め状態にしましたか?
+Have you Reloaded Recently?,最近リロードしましたか?
+Have you Triggered a Trap Recently?,最近トラップを発動しましたか?
+Have you Triggered a skill Recently?,最近スキルをトリガーしましたか?
+Have you used a Mark Recently?,最近呪印を使用しましたか?
+Heartstopper Mode,ハートストッパーモード
+Herald of Agony,ヘラルドオブアゴニー
+Herald of Ash,ヘラルドオブアッシュ
+Hex,呪術
+Hexblast Replacement,ヘックスブラスト置換
+Highest damage type Override,最高ダメージタイプ上書き
+Hits against Critically Weak enemies have up to +10% Critical Strike Chance.,クリティカル弱体状態の敵に対するヒットは、最大 +10% のクリティカル率を持ちます。
+Hits always Ignite,ヒット時常に発火
+Huge,巨大
+Ice Nova,アイスノヴァ
+"If this brings the target's Armour value to 0, their Armour is Fully Broken for 12 seconds.",これによって対象のアーマー値が0になると、12秒間アーマー完全破壊状態になります。
+Ignite Stack Potential override,発火スタックポテンシャル上書き
+"In addition to allowing 'against Maimed Enemies' modifiers to apply,",「重傷状態の敵に対して」の補正を適用できることに加えて、
+Incision Support,切開サポート
+"Incision applies 10% chance to Bleed the enemy, up to 10 stacks.",切開は、敵に出血を付与する確率10%を与えます。最大10スタック。
+Inevitable Critical Support,クリティカル蓄積サポート
+Infusion,インフュージョン
+Infusion consumed recently?,直近インフュージョンを消費した
+Initial effect,初期効果
+Innervate,電気刺激
+Intensify,インテンシファイ
+Interlude 2: Khari Crossing,幕間 2: カーリの渡り路
+Interlude 2: Qimah,幕間 2: キーマ
+Interlude 3: Kriar Village,幕間 3: クリアール村
+Intimidate is a Debuff that inflicts 10% increased damage taken and 10% reduced damage dealt.,威嚇状態は、受けるダメージを10%増加させ、与えるダメージを10%減少させるデバフです。
+Is Physical Aegis depleted?,物理のイージスは枯渇していますか?
+Is Slipstream active?,スリップストリームは有効?
+Is a Companion in your Presence?,コンパニオンがあなたの存在下にいますか?
+Is enemy Armour Broken?,敵のアーマーは破壊されていますか?
+Is the Bleed Aggravated?,出血は出血悪化状態ですか?
+Is the enemy Critically Weak,敵はクリティカル弱体状態ですか?
+Is the enemy Dazed?,敵は眩暈状態ですか?
+Is the enemy Electrocuted?,敵は麻痺状態ですか?
+Is the enemy Heavy Stunned?,敵はヘビースタン状態ですか?
+Is the enemy Immobilised?,敵は移動不能状態ですか?
+Is the enemy Pinned?,敵は足止め状態ですか?
+Is the enemy in RF or Scorching Ray,敵はRFまたはスコーチングレイの範囲内ですか
+Is the enemy on Chilled Ground?,敵は冷却領域上にいますか?
+Is the skill Empowered?,スキルはEmpowered状態ですか?
+Killed a Shocked enemy in the last 3 Seconds?,過去3秒以内に感電状態の敵を倒しましたか?
+Killed a taunted enemy recently?,最近挑発された敵を倒しましたか?
+Less Accuracy,命中力低下
+Less Area of Effect,効果範囲低下
+Less Cooldown Recovery,クールダウン回復速度低下
+Less Curse effect,カース効果低下
+Less Recovery Rate of,回復速度低下
+Life regen calculation mode,ライフ自動回復計算モード
+Lightning Skill used Recently,最近雷スキルを使用しましたか
+Link Skills,リンクスキル
+Lowest Resonance Count,最低レゾナンス数
+Maim applies the following effects,重傷は以下の効果を適用します
+"Maim applies the following effects,",重傷は以下の効果を適用します
+Major God,上級神
+Mana Burn Stacks,マナ燃焼スタック
+Manabond,マナボンド
+Mania Stacks apply,躁病スタック適用
+Map Prefix Modifiers,マップ接頭辞補正
+Map Suffix Modifiers,マップ接尾辞補正
+Maximum effect,最大効果
+Meat Shield,肉の壁
+Melee distance to enemy,敵との近接距離
+Minor God,下級神
+Missing Unreserved Mana %,不足している未リザーブマナ割合
+Molten Shell,モルテンシェル
+Momentum,モーメンタム
+Monsters' Action Speed cannot be modified to below Base Value,モンスターの行動速度は基礎値未満に変更できません
+Monsters' Movement Speed cannot be modified to below Base Value,モンスターの移動速度は基礎値未満に変更できません
+Moved 2m during Skill use?,スキル使用中に2m移動しましたか?
+Multi-part area skills,複数段階エリアスキル
+Number of different Ammunition types used in the past 10s,過去10秒間に使用した異なる弾薬タイプ数
+Number of different Grenade types used in the past 10s,過去10秒間に使用した異なるグレネードタイプ数
+Overkill damage,オーバーキルダメージ
+Parry,パリィ
+Perforate,パーフォレイト
+Physical Aegis,物理イージス
+Pinned enemies cannot move and cannot evade 4 seconds.,足止め状態の敵は4秒間移動できず、回避もできません。
+Plague Bearer,プレイグベアラー
+"Player and Minion Attacks incur an Accuracy penalty based on distance from the origin of the damage to the target,",プレイヤーおよびミニオンのアタックは、ダメージ発生地点から対象までの距離に応じて命中力ペナルティを受けます。
+Player is cursed by,プレイヤーが受けている呪い
+Poacher's Mark,ポーチャーの呪印
+Poison On Hit,ヒット時毒付与
+"Power determines how strong your Warcry buffs will be, and is based on the total strength of nearby enemies.",パワーはウォークライバフの強さを決定し、近くの敵の合計強度に基づきます。
+"Power is assumed to be 20 if your target is a Boss, but you can override it here if necessary.",対象がボスの場合、パワーは20として扱われますが、必要に応じてここで上書きできます。
+Predator,プレデター
+Pride,プライド
+Pride Aura Effect,プライドオーラ効果
+Projectile,投射物
+Projectile Spell,投射物スペル
+Projectile travel distance,投射物の移動距離
+Punishment,パニッシュメント
+PvP Tvalue override (ms),PvP T値上書き (ms)
+Quest Rewards,クエスト報酬
+Rage Vortex,憤怒ヴォーテックス
+Raise Spectre,スペクター蘇生
+Raise Spiders,スパイダー召喚
+Raise Zombie,ゾンビ蘇生
+"Rampage grants the following, up to 1000 stacks",ランページは最大1000スタックまで以下を付与します
+Random element mode,ランダム属性モード
+Reduced Aura Effect,オーラ効果低下
+Reduced Block Chance,ブロック率低下
+Reduced Critical Strike,クリティカル率低下
+Repeat Mode,リピートモード
+Reserved Darkness,リザーブされた闇
+Resistance penalty,耐性ペナルティ
+Resource gain calculation mode,リソース獲得計算モード
+Rising Tempest,嵐の連鎖
+"Rupture applies more bleed damage and faster bleeds for 3 seconds, up to 3 stacks",裂傷は、出血ダメージ増加と出血速度上昇を3秒間付与します。最大3スタック。
+"Rupture applies more bleed damage and faster bleeds for 3 seconds, up to 4 stacks",Rupture は、出血ダメージ増加と出血速度上昇を3秒間付与します。最大4スタック。
+Ruthless Support Mode,ルースレスサポートモード
+Sand Stance,サンドスタンス
+Sanguimancer Demon not on Low Life,サングイマンサーの悪魔は低ライフ状態ではない
+Scavenged Plating,スカベンジドプレーティング
+Scorching Ray Totem stage count,スコーチングレイトーテムステージ数
+Seconds building Stoicism,不動の覚悟蓄積秒数
+Sets the EHP calc to not apply gain on block and suppress effects,EHP計算でブロック時および抑制時の回復効果を適用しないようにします
+Sets the maximum life of the target minion for Minion Pact,ミニオンパクト 用の対象ミニオン最大ライフを設定します
+Shapeshifted to animal recently?,最近動物形態へ変身しましたか?
+Shapeshifted to human recently?,最近人間形態へ変身しましたか?
+Shrapnel Ballista,シュラプネルバリスタ
+Sigil of Power,シギルオブパワー
+Siphoning Trap,サイフォニングトラップ
+Skeleton Life,スケルトンライフ
+Skills can be temporarily Empowered by certain buff skills.,一部のバフスキルにより、スキルは一時的に Empowered 状態になります。
+Snipe,スナイプ設定
+"Some Skills, Items, Support Gems and other effects can Break Armour, which lowers a target's Armour by a specified amount.",一部のスキル、アイテム、サポートジェム、およびその他の効果はアーマー破壊を発生させ、対象のアーマーを指定量減少させます。
+"Soul Eater grants the following, up to a base of 45 stacks",ソウルイーターは基礎45スタックまで以下を付与します
+Source rate for Intuitive Link,インテュイティブリンクのソースレート
+Spear older than 0.5s?,スピアは0.5秒以上経過していますか?
+Spearfield,スピアフィールド
+Spectral Wolf,スペクトラルウルフ
+Stages,ステージ
+Stance,スタンス
+Stance Skills,スタンススキル
+Standard Boss adds the following modifiers,通常ボスは以下の補正を追加します
+Steel Shards consumed,消費したスティールシャード
+Steel Skills,Steel スキル
+Steel Wards,スティールワード
+Stoicism,不動の覚悟
+Storm Rain,ストームレイン
+Storm Rain of the Conduit,電導管のストームレイン
+Summon Companion,コンパニオン召喚
+Summon Elemental Relic,エレメンタルレリック召喚
+Summon Holy Relic,ホーリーレリック召喚
+Summon Lightning Golem,ライトニングゴーレム召喚
+Summon Reaper,リーパー召喚
+Swiftness # of Momentum Removed,Swiftness により除去された モーメンタム 数
+"Tailwind grants the following, up to a base of 10 stacks",追い風は、基本最大10スタックまで以下の効果を付与します
+Temporal Chains,テンポラルチェーン
+The Pantheon,パンテオン
+The default and minimum level for pinnacle bosses and uber pinnacle bosses is 82.,Pinnacle Boss および Uber Pinnacle Boss のデフォルト/最低レベルは82です。
+The default level of normal enemies and bosses scales with player level unless manually set.,通常敵とボスのデフォルトレベルは、手動設定しない限りプレイヤーレベルに応じて変動します。
+The maximum level for normal enemies and all bosses is 85.,通常敵および全ボスの最大レベルは85です。
+They are also Light Stunned when they become pinned.,足止め状態になった時、さらに軽スタンします。
+Thirst for Blood,血への渇望
+This also implies that the enemy is Chilled.,これは、敵が冷却状態であることも意味します。
+This also implies that you are Ignited.,これは、あなたが発火状態であることも意味します。
+This applies -20% Cold Resistance to the enemy.,敵に冷気耐性 -20% を適用します。
+This applies -20% Fire Resistance to the enemy.,敵に火耐性 -20% を適用します。
+This applies -20% Lightning Resistance to the enemy.,敵に雷耐性 -20% を適用します。
+"This is automatically enabled if you have a charm active,",チャームが有効な場合、自動的に有効化されます。
+This option will also allow you to input the effect of Critical Weakness.,このオプションでは、クリティカルウィークネスの効果量も入力できます。
+"This overrides the default enemy level used to estimate your hit, evade chance, and damage reduction.",命中率・回避率・ダメージ軽減率の推定に使用されるデフォルト敵レベルを上書きします。
+"This will enable the Adrenaline buff, which grants",以下を付与する アドレナリンバフを有効化します
+This will enable the Alchemist's Genius buff,錬金術師の天才バフを有効化します
+"This will enable the Divinity buff, which grants",以下を付与する 神性 バフを有効化します
+Tornado Shot,トルネードショット設定
+Total Resonance Count,合計レゾナンス数
+Total Spectre Life,スペクター合計ライフ
+Total Totem Life,トーテム合計ライフ
+Total Vaal Rejuvenation Totem Life,ヴァールリジュヴェネーショントーテム合計ライフ
+Total life pool of Void Spawn,ヴォイドスポーンの総ライフプール
+Toxic Rain,トキシックレイン設定
+Trauma,トラウマ設定
+Trinity,トリニティ
+Trinity Support,トリニティサポート設定
+Twister,ツイスター
+Twister gained Cold Element,ツイスターが冷気属性を獲得
+Twister gained Fire Element,ツイスターが火属性を獲得
+Twister gained Lightning Element,ツイスターが雷属性を獲得
+Uber Pinnacle Boss adds the following modifiers,Uber Pinnacle Boss は以下の補正を追加します
+Unbound Avatar,アンバウンドアバター設定
+Unhinge,錯乱設定
+Unique Map Modifiers,ユニークマップ補正
+Vaal Molten Shell,ヴァールモルテンシェル
+Vigilant Strike,ヴィジラントストライク設定
+Voltaxic Burst,ボルタキシックバースト設定
+Vortex,ヴォーテックス設定
+Vulnerability,ヴァルネラビリティ設定
+Warcry Power,ウォークライパワー
+Warcry Skills,ウォークライスキル
+Warlord's Mark,ウォーロードの呪印設定
+Wave of Conviction,ウェーブオブコンヴィクション設定
+Whirlwind Buffs,ワールウィンドバフ
+Whirlwind Stages,ワールウィンドステージ
+Whirlwind gained Cold Element,ワールウィンドが冷気属性を獲得
+Whirlwind gained Fire Element,ワールウィンドが火属性を獲得
+Whirlwind gained Lightning Element,ワールウィンドが雷属性を獲得
+Wind Dancer,ウィンドダンサー
+"Withered applies 5% increased Chaos Damage Taken to the self, up to 10 stacks.",衰弱は自身が受ける混沌ダメージを5%増加させます。最大10スタックまで累積します。
+"Withered applies {0}% increased Chaos Damage Taken to the enemy, up to {1} stacks.",衰弱は敵が受ける混沌ダメージを{0}%増加させます。最大{1}スタックまで累積します。
+"Withered applies {0}% increased Chaos Damage Taken to the self, up to {1} stacks.",衰弱は自身が受ける混沌ダメージを{0}%増加させます。最大{1}スタックまで累積します。
+You are surrounded if there are at least 5 Enemies within 3 metres of you,3m以内に5体以上の敵がいる場合、囲まれている状態とみなされます
+You can be considered to be on Full Life if you have at least 100% Life left.,ライフが100%以上残っている場合、フルライフ状態とみなされます。
+You have 1% less damage taken from hits per stack of fortification,堅牢化1スタックごとに、ヒットから受けるダメージが1%減少
+You will automatically be considered to be on Low Life if you have at least 65% Life reserved,ライフを65%以上リザーブしている場合、自動的に低ライフ状態とみなされます。
+avoid Elemental Ailments,元素状態異常回避
+avoid Poison and Bleed,毒・出血回避
+reduced Flask Charges,フラスコチャージ減少
+this will enable the Arcane Surge buff itself. (Grants 15% increased Cast Speed and 20% more Mana Regeneration rate),アーケインサージのバフを有効化します。（キャスト速度15%増加、マナ自動回復レート20%上昇を付与）
+this will enable the Elusive buff itself,身躱しバフ自体を有効化します
+this will enable the Quicksand Hourglass buff itself.,流砂の砂時計バフ自体を有効化します。
+with no penalty for targets within 2 metres and up to 90% less Accuracy for targets further than 12 metres away,2m以内の対象にはペナルティはなく、12m以上離れた対象には最大90%の命中力低下が適用されます。
+with no penalty for targets within 2 metres and up to 90% less Accuracy for targets further than 12 metres away-,2m以内の対象にはペナルティはなく、12m以上離れた対象には最大90%の命中力低下が適用されます。

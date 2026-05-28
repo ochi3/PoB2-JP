@@ -1,0 +1,250 @@
+﻿All,すべて
+Set Name,セット名
+Add,追加
+Copy,コピー
+Dismiss,閉じる
+Default,デフォルト
+Delete,削除
+Delete All,すべて削除
+Enable,有効
+Check for Update,更新を確認
+Checking...,確認中...
+Update check failed!,更新確認失敗!
+Couldn't download version manifest.,バージョン情報をダウンロードできませんでした。
+Reason: Timeout was reached,理由: タイムアウトしました
+Check your internet connectivity.,インターネット接続を確認してください。
+"If you are using a proxy, specify it in Options.",プロキシを使用している場合は、オプションで指定してください。
+Experience multiplier:,経験値倍率:
+General,一般
+Generate,生成
+Import,インポート
+New,新規
+New Folder,新規フォルダ
+No,いいえ
+None,なし
+Open,開く
+Options,オプション
+Rename,名前変更
+Save,保存
+Sort,並び替え
+Sort by Name,名前順
+Sort by name,名前で並べ替え
+Sort by DPS,DPS順
+Level:,レベル:
+Quality:,品質:
+Start,開始
+All Types:,全タイプ:
+Label:,ラベル:
+Player:,プレイヤー:
+Search:,検索:
+Socket Groups:,ソケットグループs:
+Weapon 1:,武器 1:
+Weapon 2:,武器 2:
+Witch,ウィッチ
+Templar,テンプラー
+Scion,サイオン
+Shadow,シャドウ
+Marauder,マローダー
+Ranger,レンジャー
+Duelist,デュエリスト
+Normal,ノーマル
+Magic,マジック
+Rare,レア
+Unique,ユニーク
+Relic,レリック
+Unique (Relic),ユニーク (レリック)
+Weapon 1,武器1
+Weapon 2,武器2
+Boots,靴
+Gloves,手袋
+Helmet,頭
+Body Armour,鎧
+Quiver,矢筒
+Amulet,アミュレット
+Belt,ベルト
+Gem,ジェム
+Abyss Jewel,アビスジュエル
+Jewel,ジュエル
+Flask,フラスコ
+Rarity:,レアリティ:
+Name:,名称:
+Type:,タイプ:
+Base:,ベース:
+Create,作成
+Cancel,キャンセル
+Done,完了
+Close,閉じる
+Bandit:,山賊:
+{0} Passive Points,{0} パッシブポイント
+Shaper Item,シェイパーアイテム
+Elder Item,エルダーアイテム
+Corrupted,コラプト
+Craft,クラフト
+Crafted,クラフト済み
+Crafted:,クラフト:
+Enchant,エンチャント
+Enchanted,エンチャント済み
+Mirrored,ミラー
+Source:,ソース:
+Modifier:,Mod:
+Crafting Bench,クラフトベンチ
+Essence,エッセンス
+Prefix,プレフィックス
+Suffix,サフィックス
+Custom,カスタム
+explicit,明示
+implicit,暗黙
+Names,名称
+Modifiers,Mod
+Jewellery,装飾品
+One Handed Melee,片手近接
+Two Handed Melee,両手近接
+Claw,爪
+Dagger,ダガー
+Two Handed Axe,両手斧
+Two Handed Mace,両手メイス
+Two Handed Sword,両手剣
+One Handed Axe,片手斧
+One Handed Mace,片手メイス
+One Handed Sword,片手剣
+Sceptre,セプター
+Staff,スタッフ
+Thrusting One Handed Sword,刺突片手剣
+Wand,ワンド
+No league,リーグなし
+Abyss,アビス
+Bestiary,ベスティアリー
+Betrayal,ビトレイアル
+Beyond,ビヨンド
+Bloodlines,ブラッドライン
+Breach,ブリーチ
+Delve,デルブ
+Harbinger,ハービンジャー
+Incursion,インカージョン
+Legion,リージョン
+Perandus,ペランダス
+Synthesis,シンセシス
+Talisman,タリスマン
+Talisman Hardcore,タリスマン ハードコア
+Talisman Standard,タリスマン スタンダード
+Warbands,ウォーバンド
+Current,現在
+Pre {0},{0} 以前
+Enchantment:,エンチャント:
+Eternal,エターナル
+Merciless,マーシレス
+Labyrinth:,ラビリンス:
+Corrupt Item,アイテムをコラプト
+Implicit {0},暗黙 {0}
+Corrupt,コラプト
+Remove,削除
+Ring 1,リング 1
+Ring 2,リング 2
+Weapon 1 (Swap),武器 1 (入替)
+Weapon 2 (Swap),武器 2 (入替)
+Standard,スタンダード
+Requires Level {0},必要レベル {0}
+Helmet:,頭:
+Body Armour:,鎧:
+Gloves:,手袋:
+Boots:,靴:
+Amulet:,アミュレット:
+Belt:,ベルト:
+Ring {0},リング {0}
+Flask {0},フラスコ {0}
+Socket {0},ソケット {0}
+{0} Dex,{0} 敏捷
+{0} Int,{0} 知恵
+{0} Str,{0} 筋力
+Active Skill {0},アクティブスキル {0}
+Active Skill {0} Main Minion Skill:,アクティブスキル {0} メインミニオンスキル:
+<No spectres in build>,<ビルドにスペクターなし>
+Resistance:,耐性:
+<No skills added yet>:,<スキル未追加>
+{0} points to node,ノードまで {0} ポイント
+Activate this flask.,このフラスコを有効化
+Lasts {0} Seconds,{0} 秒間持続
+Consumes {0} of {1} Charges on use,使用時に {1} チャージ中 {0} 消費
+Recovers {0} Life over {1} Seconds,{1} 秒かけて {0} ライフ回復
+Recovers {0} Mana over {1} Seconds,{1} 秒かけて {0} マナ回復
+Remove this gem.,このジェムを削除
+Selecting this gem will give you:,このジェムを選択すると:
+Are you sure you want to delete all socket groups in this build?,このビルドのソケットグループをすべて削除しますか？
+Can support Strength threshold jewels,筋力閾値ジュエルをサポート可能
+Can support Intelligence threshold jewels,知性閾値ジュエルをサポート可能
+Can support Dexterity threshold jewels,器用さ閾値ジュエルをサポート可能
+Armour Boots,アーマー靴
+Armour Chest,アーマー鎧
+Armour Gloves,アーマー手袋
+Armour Helmet,アーマー頭
+Armour Shield,アーマー盾
+Evasion Boots,回避 靴
+Evasion Chest,回避 鎧
+Evasion Gloves,回避 手袋
+Evasion Helmet,回避 兜
+Evasion Shield,回避 シールド
+Energy Shield Boots,エナジーシールド 靴
+Energy Shield Chest,エナジーシールド 鎧
+Energy Shield Gloves,エナジーシールド 手袋
+Energy Shield Helmet,エナジーシールド 兜
+Energy Shield Shield,エナジーシールド 盾
+Elemental 1H Axe,エレメンタル片手斧
+Elemental 1H Mace,エレメンタル片手メイス
+Elemental 1H Sword,エレメンタル片手剣
+Elemental 2H Axe,エレメンタル両手斧
+Elemental 2H Mace,エレメンタル両手メイス
+Elemental 2H Sword,エレメンタル両手剣
+Elemental Bow,エレメンタル弓
+Elemental Claw,エレメンタルクロー
+Elemental Dagger,エレメンタルダガー
+Elemental Sceptre,エレメンタルセプター
+Elemental Staff,エレメンタルスタッフ
+Elemental Wand,エレメンタルワンド
+Physical 1H Axe,物理片手斧
+Physical 1H Mace,物理片手メイス
+Physical 1H Sword,物理片手剣
+Physical 2H Axe,物理両手斧
+Physical 2H Mace,物理両手メイス
+Physical 2H Sword,物理両手剣
+Physical Bow,物理弓
+Physical Claw,物理クロー
+Physical Dagger,物理ダガー
+Physical Sceptre,物理セプター
+Physical Staff,物理スタッフ
+Physical Wand,物理ワンド
+Spell Dagger,スペルダガー
+Spell Sceptre,スペルセプター
+Spell Staff,スペルスタッフ
+Spell Wand,スペルワンド
+Armour/Energy Shield,アーマー/エナジーシールド
+Armour/Evasion,アーマー/回避
+Armour/Evasion/Energy Shield,アーマー/回避/エナジーシールド
+Evasion/Energy Shield,回避/Energy シールド
+Hybrid,ハイブリッド
+Utility,ユーティリティ
+<No skills added yet>,<スキル未追加>
+Variant: Current {0} variants),Variant: 現在 {0} variants)
+(Disabled),(無効)
+Inactive Gems:,無効ジェム:
+(Cannot apply to any of the active skills),(アクティブスキルに適用不可)
+(Unsupported),(未サポート)
+Note: this group is disabled because it is socketed in the inactive weapon set.,注: このグループは非アクティブな武器セットにソケットされているため無効です。
+Equipping this item in Abyssal {0} will give you:,このアイテムをアビサル {0} に装備すると、以下を得ます:
+Removing this item from Abyssal {0} will give you:,「アビサル {0}」からこのアイテムを取り外すと:
+Abyssal {0},アビサル {0}
+{0}% to Elemental Resistances,{0}% to 属性 耐性s
+Prefix:,プレフィックス:
+Suffix:,サフィックス:
+{0} Defualt,{0} デフォルト
+Enter folder name:,フォルダ名を入力:
+No update available,利用可能な更新はありません
+You are running the latest version.,最新バージョンです。
+Anomalous,変異
+Divergent,乖離
+Phantasmal,幻影
+At {0}% Quality:,{0}% 品質:
+Show gem quality variants:,ジェム品質バリアントを表示:
+"Puruna, the Challenger",挑戦者プルナ
+Corruptor Eedaiak,コラプター・イーダイアク
+Sumter the Twisted,ねじれしサムター
+Ancient Architect,古代の建築家

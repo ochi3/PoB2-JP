@@ -1,0 +1,429 @@
+﻿Average Hit:,平均ヒットダメージ:
+Average Damage:,平均ダメージ:
+Average Burst Damage:,平均バーストダメージ:
+PvP Average Damage:,PvP平均ダメージ:
+Attack Rate:,攻撃速度:
+Cast Rate:,キャスト速度:
+Effective Trigger Rate:,実効トリガー発動率:
+Hit Rate:,ヒット頻度:
+Trap Throwing Time:,トラップ投擲時間:
+Trap Cooldown:,トラップクールダウン:
+Mine Throwing Time:,マイン投擲時間:
+Totem Placement Time:,トーテム設置時間:
+Crit Chance:,クリティカル率:
+Effective Crit Chance:,実効クリティカル率:
+Effective Crit Chance,実効クリティカル率
+Crit Multiplier:,クリティカル倍率:
+Hit Chance:,命中率:
+Hit DPS:,ヒットDPS:
+PvP Hit DPS:,PvPヒットDPS:
+DoT DPS:,持続ダメージDPS:
+Total DPS inc. DoT:,DoT込み総DPS:
+Bleed DPS:,出血DPS:
+Bleed DPS exceeds in game limit,出血DPSがゲーム内上限を超えています
+Corrupting Blood DPS:,汚染された血DPS:
+Corrupting Blood DPS exceeds in game limit,汚染された血DPSがゲーム内上限を超えています
+Total Damage per Bleed:,出血1回総ダメージ:
+Total DPS inc. Bleed:,出血込み総DPS:
+Ignite DPS exceeds in game limit,発火DPSがゲーム内上限を超えています
+Total Damage per Ignite:,発火1回総ダメージ:
+Burning Ground DPS:,燃焼地面DPS:
+Burning Ground DPS exceeds in game limit,燃焼地面DPSがゲーム内上限を超えています
+Mirage Burning Ground DPS:,ミラージュ燃焼地面DPS:
+Mirage Burning Ground DPS exceeds in game limit,ミラージュ燃焼地面DPSがゲーム内上限を超えています
+Total DPS inc. Ignite:,発火込み総DPS:
+Average Dmg. inc. Ignite:,発火込み平均ダメージ:
+Single Poison DPS:,単体毒DPS:
+Poison DPS:,毒DPS:
+Poison DPS exceeds in game limit,毒DPSがゲーム内上限を超えています
+Caustic Ground DPS:,腐食地面DPS:
+Caustic Ground DPS exceeds in game limit,腐食地面DPSがゲーム内上限を超えています
+Mirage Caustic Ground DPS:,ミラージュ腐食地面DPS:
+Mirage Caustic Ground DPS exceeds in game limit,ミラージュ腐食地面DPSがゲーム内上限を超えています
+Total Damage per Poison:,毒1回あたりの総ダメージ:
+Total DPS inc. Poison:,毒込み総DPS:
+Total DoT DPS:,総DoT DPS:
+DoT DPS exceeds in game limit,DoT DPSがゲーム内上限を超えています
+Impale Damage:,インペイルダメージ:
+Damage inc. Impale:,インペイル込みダメージ:
+Impale DPS:,インペイルDPS:
+Total DPS inc. Impale:,インペイル込み総DPS:
+Total Mirage DPS:,総ミラージュDPS:
+Total Wisp DPS:,総ウィスプDPS:
+Culling DPS:,カリングDPS:
+Reservation DPS:,リザーブDPS:
+Combined DPS:,合計DPS:
+Combined Total Damage:,合計総ダメージ:
+Total Explode Chance:,総爆発確率:
+Enemy Life Equivalent:,敵ライフ換算値:
+Skill Cooldown:,スキルクールダウン:
+Seal Gain Frequency:,シール獲得頻度:
+Max Number of Seals:,最大シール数:
+Time to Gain Max Seals:,最大シール獲得時間:
+AoE Radius:,AoE半径:
+Activations per Brand:,ブランド毎の発動回数:
+Mana Cost:,マナコスト:
+Mana Cost per second:,秒間マナコスト:
+Life Cost:,ライフコスト:
+Life Cost per second:,秒間ライフコスト:
+Energy Shield Cost:,エナジーシールドコスト:
+ES Cost per second:,秒間ESコスト:
+Rage Cost:,レイジコスト:
+Rage Cost per second:,秒間レイジコスト:
+Soul Cost:,ソウルコスト:
+Strength:,筋力:
+Strength Required:,必要筋力:
+You do not meet the Strength requirement,筋力条件を満たしていません
+Dexterity:,器用さ:
+Dexterity Required:,必要器用さ:
+You do not meet the Dexterity requirement,器用さ条件を満たしていません
+Intelligence:,知性:
+Intelligence Required:,必要知性:
+You do not meet the Intelligence requirement,知性条件を満たしていません
+Omniscience:,全能:
+Omniscience Required:,必要全能:
+You do not meet the Omniscience requirement,全能条件を満たしていません
+Devotion:,信心:
+Phys Max Hit:,物理最大ヒット:
+Elemental Max Hit:,属性最大ヒット:
+Fire Max Hit:,火最大ヒット:
+Cold Max Hit:,冷気最大ヒット:
+Lightning Max Hit:,雷最大ヒット:
+Chaos Max Hit:,混沌最大ヒット:
+You do not have enough Accuracy for Precise Technique,精密技巧に必要な命中力が不足しています
+Total Life:,総ライフ:
+%Inc Life:,ライフ増加率:
+%Inc Life from Tree:,ツリーのライフ増加率:
+Unreserved Life:,未リザーブライフ:
+Your unreserved Life is below 1,未リザーブライフが1未満です
+Life Recoverable:,回復可能ライフ:
+Life Regen:,ライフ自動回復:
+Life Recovery:,ライフ回復量:
+Life Leech/On Hit Rate:,ライフリーチ/ヒットレート:
+Life Leech/Gain per Hit:,ライフリーチ/ヒットの獲得:
+Total Mana:,総マナ:
+%Inc Mana from Tree:,ツリーのマナ増加率:
+Unreserved Mana:,未リザーブマナ:
+Your unreserved Mana is negative,未リザーブマナが負の値です
+Mana Regen:,マナ自動回復:
+Mana Recovery:,マナ回復量:
+Mana Leech/On Hit Rate:,マナリーチ/ヒットレート:
+Mana Leech/Gain per Hit:,マナリーチ/ヒットの獲得:
+Energy Shield:,エナジーシールド:
+Recoverable ES:,回復可能ES:
+%Inc ES from Tree:,ツリーのES増加率:
+ES Regen:,ES自動回復:
+ES Recovery:,ES回復量:
+ES Leech/On Hit Rate:,ESリーチ/ヒットレート:
+ES Leech/Gain per Hit:,ESリーチ/ヒットの獲得:
+Rage Regen:,レイジ自動回復:
+Total Spirit:,総スピリット:
+Unreserved Spirit:,未リザーブスピリット:
+Evasion rating:,回避値:
+%Inc Evasion from Tree:,ツリーの回避増加率:
+Evade Chance:,回避率:
+Melee Evade Chance:,近接回避率:
+Projectile Evade Chance:,投射物回避率:
+Armour:,アーマー:
+%Inc Armour from Tree:,ツリーのアーマー増加率:
+Phys. Damage Reduction:,物理ダメージ軽減:
+Block Chance:,ブロック率:
+Spell Block Chance:,スペルブロック率:
+Attack Dodge Chance:,攻撃回避率:
+Spell Dodge Chance:,スペル回避率:
+Spell Suppression Chance:,スペル抑制率:
+Fire Resistance:,火耐性:
+Fire Res. Over Max:,最大超過の火耐性:
+Cold Resistance:,冷気耐性:
+Cold Res. Over Max:,最大超過の冷気耐性:
+Lightning Resistance:,雷耐性:
+Lightning Res. Over Max:,最大超過の雷耐性:
+Chaos Resistance:,混沌耐性:
+Chaos Res. Over Max:,最大超過の混沌耐性:
+Movement Speed Modifier:,移動速度補正:
+Full DPS:,総DPS:
+Full Dot DPS:,総DoT DPS:
+Full Dot DPS exceeds in game limit,フル DoT DPSがゲーム内上限を超えています
+Minion Bleed DPS exceeds in game limit,ミニオン 出血 DPSがゲーム内上限を超えています
+Minion Ignite DPS exceeds in game limit,ミニオン 発火 DPSがゲーム内上限を超えています
+Minion Poison dps exceeds in game limit,ミニオン 毒 dpsがゲーム内上限を超えています
+Minion DoT DPS exceeds in game limit,ミニオン DoT DPSがゲーム内上限を超えています
+Presence Radius:,プレゼンス半径:
+ Custom:, カスタム:
+ Error , エラー 
+%Inc Armour from Tree,ツリーのアーマー増加率
+%Inc ES from Tree,ツリーのES増加率
+%Inc Evasion from Tree,ツリーの回避増加率
+%Inc Life,ライフ増加率
+%Inc Life from Tree,ツリーのライフ増加率
+%Inc Mana from Tree,ツリーのマナ増加率
+2 Add. Proj. Chance,追加2投射物確率
+Activating this charm will give you:,このCharmを有効化すると得られるもの:
+Activations per Brand,ブランド毎の発動回数
+Ailment modifiers,状態異常補正
+AoE Radius,AoE半径
+Armour,アーマー
+Armour Break / hit,ヒットごとのArmour Break
+Attack Dodge Chance,攻撃回避率
+Attack Rate,攻撃速度
+Attack Speed before increased Attack Speed,攻撃速度増加適用前攻撃速度
+Attack/Cast Speed,攻撃/キャスト速度
+Average Burst Damage,平均バーストダメージ
+Average Damage,平均ダメージ
+Average Dmg. inc. Ignite,発火込み平均ダメージ
+Average Hit,平均ヒットダメージ
+Average Poison Roll,平均毒ロール
+Beast Library,ビーストライブラリ
+Best Ignite DPS,最高発火DPS
+Bleed DPS,出血DPS
+Block Chance,ブロック率
+Block Chance Reduction,ブロック率減少
+Bolt Count,Bolt数
+Brand Damage,Brand ダメージ
+Burning Ground DPS,燃焼地面DPS
+Cast Rate,キャスト速度
+Caustic Ground DPS,腐食地面DPS
+Chance to Rearm,再装填確率
+Channel Time,チャネリング時間
+Chaos Max Hit,混沌最大ヒット
+Chaos Res. Over Max,最大超過の混沌耐性
+Chaos Resistance,混沌耐性
+Cold Max Hit,冷気最大ヒット
+Cold Res. Over Max,最大超過の冷気耐性
+Cold Resistance,冷気耐性
+Combined DPS,合計DPS
+Combined Total Damage,合計総ダメージ
+Conversion,変換
+Converted Damage,変換ダメージ
+Corrupting Blood DPS,汚染された血DPS
+Crit,クリティカル
+Crit Bifurcate Chance,クリティカル分岐確率
+Crit Chance,クリティカル率
+Crit Multiplier,クリティカル倍率
+Culling DPS,カリングDPS
+Damage inc. Impale,インペイル込みダメージ
+Deactivating this charm will give you:,このCharmを無効化すると得られるもの:
+Default scroll direction is:,デフォルトのスクロール方向:
+Scroll Up = Move right,上スクロール = 右移動
+Scroll Down = Move left,下スクロール = 左移動
+Defences from Shield,盾由来防御
+Degen,継続減少
+Description,説明
+Destination for Import/clear,インポート/クリア先
+Currently Links Skills do not export,現在 Link スキルはエクスポートされません
+Detonation Time,起爆時間
+Devotion,信心
+Dexterity,器用さ
+Dexterity Required,必要器用さ
+Dmg. of all Bleeds,全出血ダメージ
+Do not Autosave builds while on Dev branch,Dev ブランチではビルドを自動保存しない
+DoT DPS,持続ダメージDPS
+Duration of Curses,カース持続時間
+ES Cost per second,秒間ESコスト
+ES Leech/Gain per Hit,ESリーチ/ヒットの獲得
+ES Leech/On Hit Rate,ESリーチ/ヒットレート
+ES Recovery,ES回復量
+ES Regen,ES自動回復
+ES/s,毎秒ES
+Eff. Bolt Count,実効Bolt数
+Eff. Reload Time,実効リロード時間
+Effect of non-Damaging Ailments,非ダメージ状態異常効果
+Effective Accuracy vs Enemy,敵に対する実効命中力
+Effective Trigger Rate,実効トリガー発動率
+Efficiency,効率
+Elemental Max Hit,属性最大ヒット
+Enemy Life Equivalent,敵ライフ換算値
+Energy Shield,エナジーシールド
+Energy Shield Cost,エナジーシールドコスト
+Enter your session ID here,ここにセッションIDを入力
+"Error fetching league list, default league will be used",リーグリスト取得エラー、デフォルトリーグを使用します
+Evade Chance,回避率
+Evasion rating,回避値
+Final,最終
+Final Type,最終タイプ
+Fire Max Hit,火最大ヒット
+Fire Res. Over Max,最大超過の火耐性
+Fire Resistance,火耐性
+Firing Rate,発射レート
+Freeze Chance,凍結確率
+Full DPS,総DPS
+Full Dot DPS,総DoT DPS
+Gain frequency:,獲得頻度:
+Gem Req Mod,ジェム要求値補正
+Hit Chance,命中率
+Hit DPS,ヒットDPS
+Hit Rate,ヒット頻度
+Ice Crystal Life,Ice Crystal ライフ
+Ignite Chance,発火確率
+Impale DPS,インペイルDPS
+Impale Damage,インペイルダメージ
+Inc. Reload Speed,リロード速度増加
+Inc/red,増加/減少
+Incoming,受ける
+Increased Energy Shield Recovery,エナジーシールド回復増加
+Increased Life Recovery,ライフ回復増加
+Increased Mana Recovery,マナ回復増加
+Inputs,入力
+Intelligence,知性
+Intelligence Required,必要知性
+Item Req Mod,アイテム要求値補正
+Leech Conversion,リーチ変換
+Life Cost,ライフコスト
+Life Cost per second,秒間ライフコスト
+Life Leech/Gain per Hit,ライフリーチ/ヒットの獲得
+Life Leech/On Hit Rate,ライフリーチ/ヒットレート
+Life Recoverable,回復可能ライフ
+Life Recovery,ライフ回復量
+Life Regen,ライフ自動回復
+Lightning Max Hit,雷最大ヒット
+Lightning Res. Over Max,最大超過の雷耐性
+Lightning Resistance,雷耐性
+Mana Cost,マナコスト
+Mana Cost per second,秒間マナコスト
+Mana Leech/Gain per Hit,マナリーチ/ヒットの獲得
+Mana Leech/On Hit Rate,マナリーチ/ヒットレート
+Mana Recovery,マナ回復量
+Mana Regen,マナ自動回復
+Mark Effect Mod,Mark効果補正
+Mark Limit,Mark上限
+Max Number of Seals,最大シール数
+Max Poison Stacks,最大毒スタック
+Melee Evade Chance,近接回避率
+Mine Throwing Time,マイン投擲時間
+Minions Accuracy Rating,ミニオン命中力
+Mirage Burning Ground DPS,ミラージュ燃焼地面DPS
+Mirage Caustic Ground DPS,ミラージュ腐食地面DPS
+More Energy Shield Recovery,エナジーシールド回復上昇
+More Life Recovery,ライフ回復上昇
+More Mana Recovery,マナ回復上昇
+More Reload Speed,リロード速度上昇
+More/less,上昇/低下
+Movement Speed Modifier,移動速度補正
+Mult,倍率
+Multi,複数
+Multiplier,倍率
+No Ammo Consume,弾薬消費なし
+Non-Curse Aura Effect,非カースオーラ効果
+OH Crit Bifurcates,OHクリティカル分岐
+Omniscience,全能
+Omniscience Required,必要全能
+On Kill Monster Explosion,敵撃破時爆発
+Override,上書き
+Overrides Windows DPI scaling inside Path of Building.,Path of Building 内の Windows DPI スケーリングを上書きします。
+Choose a percentage between 100% and 250% or revert to the system default.,100%〜250% の範囲で指定するか、システム既定値へ戻せます。
+Overrides the default hex colour for highlighting nodes in passive tree search. ,パッシブツリー検索でノードを強調表示する際のデフォルト16進カラーコードを上書きします。
+Expected format is 0x000000. ,形式は 0x000000 です。
+Overrides the default hex colour for negative values in breakdowns. ,内訳表示における負の値のデフォルト16進カラーコードを上書きします。
+Overrides the default hex colour for positive values in breakdowns. ,内訳表示における正の値のデフォルト16進カラーコードを上書きします。
+Overrides the default save location for builds.,ビルドの既定保存場所を上書きします。
+The default location is: ',既定の場所: '
+Phys Max Hit,物理最大ヒット
+Phys. Damage Reduction,物理ダメージ軽減
+Placement speed:,設置速度:
+Poison DPS,毒DPS
+Pool,プール
+Presence Mod,Presence補正
+Presence Radius,プレゼンス半径
+"Proj, Split Count",投射物・分裂数
+Projectile Evade Chance,投射物回避率
+PvP Average Damage,PvP平均ダメージ
+PvP Average Hit,PvP平均ヒット
+PvP Hit DPS,PvPヒットDPS
+PvP Hit Taken,PvP被ヒット
+Rage Cost,レイジコスト
+Rage Cost per second,秒間レイジコスト
+Rage Regen,レイジ自動回復
+Rarity of Items found,アイテムレアリティ
+Recoverable ES,回復可能ES
+"Removes the effects of the supports, without removing the data",データを残したままサポート効果のみ除去します
+"Use ""rebuild all"" to apply the effects again",効果を再適用するには「すべて再構築」を使用してください
+Removing this item from ,このアイテムを外す: 
+Reservation DPS,リザーブDPS
+Ring 3,リング 3
+Seal Gain Frequency,シール獲得頻度
+Set the default quality that will be applied to newly created or pasted items.,新規作成または貼り付けされたアイテムへ適用するデフォルト品質を設定します。
+Show (Not supported in PoB yet) next to unsupported mods,未対応Modの横に「PoBではまだ未対応」と表示します
+Requires PoB to restart for it to take effect,適用には PoB の再起動が必要です
+Single Poison DPS,単体毒DPS
+Skill Cooldown,スキルクールダウン
+Skill Cost,スキルコスト
+Skill Movement Speed,スキル移動速度
+Skill types,スキルタイプ
+Socket #,ソケット #
+Sort by ,並び替え: 
+Sorted by ,並び替え: 
+Soul Cost,ソウルコスト
+Source Name,ソース名
+Spell Block Chance,スペルブロック率
+Spell Dodge Chance,スペル回避率
+Spell Evade Ch.,スペル回避率
+Spell Evade Chance,スペル回避率
+Spell Proj. Evade Ch.,スペル投射物回避率
+Spell Proj. Evade Chance,スペル投射物回避率
+Spell Suppression Chance,スペル抑制率
+Spirit % Cost,スピリット割合コスト
+Spirit Cost,スピリットコスト
+Stat,ステータス
+Stat Set,ステータスセット
+Strength,筋力
+Strength Required,必要筋力
+Surrounded Mod,囲まれ補正
+Taken As Percent,Taken As 割合
+Terrain Chain,地形チェイン
+This includes enchants in sorting that occurs after trade results have been retrieved,トレード結果取得後の並び替えにエンチャントも含めます
+This is a special group created for the ',これは ' 用に作成された特別なグループです
+"This is a special group created for the enemy explosion effect,",これは敵爆発効果用に作成された特別なグループです。
+which comes from the following sources:,以下のソースから発生します:
+Throwing rate:,投擲レート:
+Throwing time:,投擲時間:
+Time to Gain Max Seals,最大シール獲得時間
+Total ,合計 
+Total DPS inc. Bleed,出血込み総DPS
+Total DPS inc. DoT,DoT込み総DPS
+Total DPS inc. Ignite,発火込み総DPS
+Total DPS inc. Impale,インペイル込み総DPS
+Total DPS inc. Poison,毒込み総DPS
+Total Damage per Bleed,出血1回総ダメージ
+Total Damage per Ignite,発火1回総ダメージ
+Total Damage per Poison,毒1回あたりの総ダメージ
+Total Darkness,合計闇
+Total DoT DPS,総DoT DPS
+Total Energy Shield Degen,合計エナジーシールド継続減少
+Total Explode Chance,総爆発確率
+Total Firing Time,合計発射時間
+Total Life,総ライフ
+Total Life Degen,合計ライフ継続減少
+Total Mana,総マナ
+Total Mana Degen,合計マナ継続減少
+Total Mirage DPS,総ミラージュDPS
+Total Price: ,合計価格: 
+Total Spirit,総スピリット
+Total Wisp DPS,総ウィスプDPS
+Totem Dur. Mod,トーテム持続時間補正
+Totem Placement Time,トーテム設置時間
+Trap Cooldown,トラップクールダウン
+Trap Throwing Time,トラップ投擲時間
+Trauma per second before increased Attack Speed,攻撃速度増加適用前毎秒Trauma
+Uncap. Hit Chance,上限なし命中率
+Unreserved Life,未リザーブライフ
+Unreserved Mana,未リザーブマナ
+Unreserved Spirit,未リザーブスピリット
+Use system default,システム既定値を使用
+Uses Lua pattern matching for complex searches.,複雑な検索には Lua パターンマッチングを使用します。
+"Prefix your search with ""oil:"" to search by anoint recipe.","アノイントレシピ検索には ""oil:"" を先頭へ付けてください。"
+To search for multiple terms: (increased.fire.damage|increased.area.of.effect|etc),複数条件検索例: (increased.fire.damage|increased.area.of.effect|etc)
+Weapon Req Mod,武器要求値補正
+Weighted Sum searches will always sort using descending weighted sum,Weighted Sum 検索は常に重み合計の降順で並び替えられます
+Additional post filtering options can be done these include:,追加の後処理フィルターには以下があります:
+Highest Stat Value - Sort from highest to lowest Stat Value change of equipping item,Highest Stat Value - 装備時ステータス変化量が高い順
+Highest Stat Value / Price - Sorts from highest to lowest Stat Value per currency,Highest Stat Value / Price - 通貨あたりのステータス価値が高い順
+Lowest Price - Sorts from lowest to highest price of retrieved items,Lowest Price - 取得アイテム価格が安い順
+Highest Weight - Displays the order retrieved from trade,Highest Weight - トレード取得順を表示
+You can get this from your web browser's cookies while logged into the Path of Exile website.,Path of Exile 公式サイトへログイン中のブラウザ Cookie から取得できます。
+from Lightning Warp,Lightning Warpによる
+life,ライフ
+life/s,毎秒ライフ
+mana,マナ
+mana/s,毎秒マナ
+rage,Rage
+soul,Soul

@@ -1,0 +1,9 @@
+﻿Node Name,ノード名
+Points,ポイント
+Per Point,1ポイントあたり
+Building Tree...,ツリー構築中...
+Show Unallocated,未割り当てを表示
+Show Unallocated & Clusters,未割り当てとクラスターを表示
+Show Allocated,割り当て済みを表示
+Click to focus node on tree,クリックでツリー上のノードへ移動
+"""Offence/Defence"" not supported. Select a specific stat from the dropdown.",「攻撃/防御」は未対応です。ドロップダウンから特定のステータスを選択してください。

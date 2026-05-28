@@ -1,0 +1,12 @@
+﻿Enter the new name for this folder:,このフォルダの新しい名前を入力:
+Enter the new name for this build:,このビルドの新しい名前を入力:
+Copy Folder,フォルダをコピー
+Copy Build,ビルドをコピー
+Rename Folder,フォルダ名を変更
+Rename Build,ビルド名を変更
+Confirm Folder Delete,フォルダ削除の確認
+The folder is not empty.,このフォルダは空ではありません。
+Are you sure you want to delete folder::,このフォルダを削除しますか:
+Confirm Delete,削除の確認
+Are you sure you want to delete build:,このビルドを削除しますか:
+This cannot be undone.,この操作は元に戻せません。

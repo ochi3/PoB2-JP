@@ -1,0 +1,56 @@
+﻿Normal Maximum,通常最大
+All gems default to their highest valid non-corrupted gem level.,すべてのジェムは、有効な最高未コラプトレベルがデフォルトになります。
+Corrupted Maximum,コラプト最大
+Normal gems default to their highest valid corrupted gem level.,通常ジェムは、有効な最高コラプトレベルがデフォルトになります。
+Awakened gems default to their highest valid non-corrupted gem level.,覚醒ジェムは、有効な最高未コラプトレベルがデフォルトになります。
+Awakened Maximum,覚醒最大
+All gems default to their highest valid corrupted gem level.,すべてのジェムは、有効な最高コラプトレベルがデフォルトになります。
+Match Character Level,キャラクターレベルに合わせる
+All gems default to their highest valid non-corrupted gem level that your character meets the level requirement for.,すべてのジェムは、キャラクターがレベル要件を満たす未コラプト状態での最高レベルがデフォルトになります。
+"This hides gems with a minimum level requirement above your character level, preventing them from showing up in the dropdown list.",キャラクターレベルを超える必要レベルのジェムを非表示にし、ドロップダウンリストに表示されないようにします。
+Non-Awakened,非覚醒
+Awakened,覚醒
+Full DPS,総合DPS
+Combined DPS,合算DPS
+Hit DPS,ヒットDPS
+Average Hit,平均ヒット
+Effective Hit Pool,実効HPプール
+Skill set:,スキルセット:
+Usage Tips:,使用ヒント:
+You can copy/paste socket groups using Ctrl+C and Ctrl+V.,Ctrl+C / Ctrl+V でソケットグループをコピー＆ペーストできます。
+Ctrl + Click to enable/disable socket groups.,Ctrl+クリックでソケットグループを有効/無効化します。
+Ctrl + Right click to include/exclude in FullDPS calculations.,Ctrl+右クリックで Full DPS 計算への含める/除外を切り替えます。
+Right click to set as the Main skill group.,右クリックでメインスキルグループに設定します。
+Gem Options,ジェム設定
+Sort gems by DPS:,DPS順にジェムを並び替え:
+Default gem level:,デフォルトジェムレベル:
+Default gem quality:,デフォルトジェム品質:
+Show support gems:,サポートジェムを表示:
+Show quality variants:,品質バリエーションを表示:
+Socketed in:,ソケット先:
+Select the item in which this skill is socketed.,このスキルがソケットされているアイテムを選択します。
+This will allow the skill to benefit from modifiers on the item that affect socketed gems.,ソケットされたジェムに影響するアイテムModを、このスキルにも適用します。
+No item is equipped in this slot.,このスロットにはアイテムが装備されていません。
+Enabled:,有効:
+Include in Full DPS:,総合DPSに含める:
+Imbued Support:,注入済みサポート:
+Remove this imbued support.,この注入済みサポートを削除します。
+Count:,カウント:
+"You cannot delete this group, but it will disappear if you un-allocate the node.",このグループは削除できませんが、ノードの割り当てを解除すると消えます。
+"You cannot delete this group, but it will disappear if you un-equip the item.",このグループは削除できませんが、アイテムを外すと消えます。
+"You cannot add support gems to this group, but support gems in",このグループにはサポートジェムを追加できませんが、内のサポートジェムは
+will automatically apply to the skill.,スキルへ自動的に適用されます。
+Gem name:,ジェム名:
+Variant:,バリアント:
+Note: `count` integer value scales the DPS of associated skill by a scalar.,注: `count` の整数値は、関連するスキルの DPS を倍率でスケールします。
+"To be used with totems, minions, shot-gunning of projectiles (e.g., VD, magma-orbs),",トーテム、ミニオン、複数ヒットする飛翔体（例: VD、マグマオーブ）などで使用します。
+"multi-hit projectiles (e.g. ball-lightning), traps, mines.",複数ヒットする飛翔体（例: ボールライトニング）、トラップ、マイン。
+Manage Skill Sets,スキルセット管理
+- Ctrl + Click to enable/disable socket groups.,- Ctrl+クリックでソケットグループを有効/無効化します。
+- Ctrl + Right click to include/exclude in FullDPS calculations.,- Ctrl+右クリックで Full DPS 計算への含める/除外を切り替えます。
+- Right click to set as the Main skill group.,- 右クリックでメインスキルグループに設定します。
+- You can copy/paste socket groups using Ctrl+C and Ctrl+V.,- Ctrl+C / Ctrl+V でソケットグループをコピー＆ペーストできます。
+Ring 3,指輪 3
+This is a special group created for the ',これは ' 用に作成された特別なグループです
+"This is a special group created for the enemy explosion effect,",これは敵爆発効果用に作成された特別なグループです。
+which comes from the following sources:,以下のソースから発生します:
